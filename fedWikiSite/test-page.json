@@ -1,0 +1,387 @@
+{
+  "title": "Test Page",
+  "story": [
+    {
+      "type": "bytebeat",
+      "id": "c77ef3237a0dbd29",
+      "text": "t*(42&t>>10)"
+    },
+    {
+      "type": "paragraph",
+      "id": "830584d598d5632d",
+      "text": "Note to self to read See also [[Algorithmic Music]] "
+    },
+    {
+      "type": "html",
+      "id": "f8c80a65ce779751",
+      "text": "Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3994f58c406c8b00",
+      "text": "testing all the plugins here"
+    },
+    {
+      "type": "audio",
+      "id": "72faeffa2c6df591",
+      "text": "audio test"
+    },
+    {
+      "type": "audio",
+      "id": "f8d8046440b86dea",
+      "text": "I do not get the audio plugin.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "773ce9d84b7e8a6a",
+      "text": "Can't figure out audio plugin from instructions."
+    },
+    {
+      "type": "bytebeat",
+      "id": "9d9ae86c1d4995c7",
+      "text": "t*(42&t>>10)"
+    },
+    {
+      "type": "html",
+      "id": "f7fad92950e810b9",
+      "text": "Reminder to check out: Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>. See also [[Algorithmic Music]]"
+    },
+    {
+      "type": "factory",
+      "id": "ebbced63a220e394"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Test Page",
+        "story": []
+      },
+      "date": 1488062113131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3994f58c406c8b00"
+      },
+      "id": "3994f58c406c8b00",
+      "type": "add",
+      "date": 1488062115849
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72faeffa2c6df591"
+      },
+      "id": "72faeffa2c6df591",
+      "type": "add",
+      "after": "3994f58c406c8b00",
+      "date": 1488062122896
+    },
+    {
+      "type": "edit",
+      "id": "3994f58c406c8b00",
+      "item": {
+        "type": "paragraph",
+        "id": "3994f58c406c8b00",
+        "text": "testing all the plugins here"
+      },
+      "date": 1488062124345
+    },
+    {
+      "type": "edit",
+      "id": "72faeffa2c6df591",
+      "item": {
+        "type": "audio",
+        "id": "72faeffa2c6df591",
+        "text": "audio test"
+      },
+      "date": 1488062129845
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07a29ed83f3874f0"
+      },
+      "id": "07a29ed83f3874f0",
+      "type": "add",
+      "after": "72faeffa2c6df591",
+      "date": 1488062137411
+    },
+    {
+      "type": "remove",
+      "id": "07a29ed83f3874f0",
+      "date": 1488062195965
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8d8046440b86dea"
+      },
+      "id": "f8d8046440b86dea",
+      "type": "add",
+      "after": "72faeffa2c6df591",
+      "date": 1488062197304
+    },
+    {
+      "type": "edit",
+      "id": "f8d8046440b86dea",
+      "item": {
+        "type": "audio",
+        "id": "f8d8046440b86dea",
+        "text": "I do not get the audio plugin.\n"
+      },
+      "date": 1488062270362
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "773ce9d84b7e8a6a"
+      },
+      "id": "773ce9d84b7e8a6a",
+      "type": "add",
+      "after": "f8d8046440b86dea",
+      "date": 1488062291425
+    },
+    {
+      "type": "edit",
+      "id": "773ce9d84b7e8a6a",
+      "item": {
+        "type": "paragraph",
+        "id": "773ce9d84b7e8a6a",
+        "text": "Can't figure out audio plugin from instructions."
+      },
+      "date": 1488062305117
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c77ef3237a0dbd29"
+      },
+      "id": "c77ef3237a0dbd29",
+      "type": "add",
+      "after": "4093de27a94edf14",
+      "date": 1488062307044
+    },
+    {
+      "type": "edit",
+      "id": "c77ef3237a0dbd29",
+      "item": {
+        "type": "bytebeat",
+        "id": "c77ef3237a0dbd29",
+        "text": "t*(42&t>>10)"
+      },
+      "date": 1488062379881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "830584d598d5632d"
+      },
+      "id": "830584d598d5632d",
+      "type": "add",
+      "after": "c77ef3237a0dbd29",
+      "date": 1488062404292
+    },
+    {
+      "type": "edit",
+      "id": "830584d598d5632d",
+      "item": {
+        "type": "paragraph",
+        "id": "830584d598d5632d",
+        "text": "Note to self to read"
+      },
+      "date": 1488062410578
+    },
+    {
+      "type": "edit",
+      "id": "830584d598d5632d",
+      "item": {
+        "type": "paragraph",
+        "id": "830584d598d5632d",
+        "text": "Note to self to read See also [[Algorithmic Music]]"
+      },
+      "date": 1488062419445
+    },
+    {
+      "type": "edit",
+      "id": "830584d598d5632d",
+      "item": {
+        "type": "paragraph",
+        "id": "830584d598d5632d",
+        "text": "Note to self to read See also [[Algorithmic Music]] Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>."
+      },
+      "date": 1488062434448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e64b6de9d55e7cee"
+      },
+      "id": "e64b6de9d55e7cee",
+      "type": "add",
+      "after": "50527b884212cf99",
+      "date": 1488062463249
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f701579b9b016a82"
+      },
+      "id": "f701579b9b016a82",
+      "type": "add",
+      "after": "e64b6de9d55e7cee",
+      "date": 1488062486668
+    },
+    {
+      "type": "remove",
+      "id": "e64b6de9d55e7cee",
+      "date": 1488062489461
+    },
+    {
+      "type": "remove",
+      "id": "f701579b9b016a82",
+      "date": 1488062495455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8c80a65ce779751"
+      },
+      "id": "f8c80a65ce779751",
+      "type": "add",
+      "after": "830584d598d5632d",
+      "date": 1488062500826
+    },
+    {
+      "type": "edit",
+      "id": "830584d598d5632d",
+      "item": {
+        "type": "paragraph",
+        "id": "830584d598d5632d",
+        "text": "Note to self to read See also [[Algorithmic Music]] "
+      },
+      "date": 1488062502244
+    },
+    {
+      "type": "edit",
+      "id": "f8c80a65ce779751",
+      "item": {
+        "type": "html",
+        "id": "f8c80a65ce779751",
+        "text": "Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>.\n"
+      },
+      "date": 1488062512927
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d9ae86c1d4995c7"
+      },
+      "id": "9d9ae86c1d4995c7",
+      "type": "add",
+      "after": "773ce9d84b7e8a6a",
+      "date": 1488062558833
+    },
+    {
+      "type": "edit",
+      "id": "9d9ae86c1d4995c7",
+      "item": {
+        "type": "bytebeat",
+        "id": "9d9ae86c1d4995c7",
+        "text": "t*(42&t>>10)"
+      },
+      "date": 1488062599842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7fad92950e810b9"
+      },
+      "id": "f7fad92950e810b9",
+      "type": "add",
+      "after": "9d9ae86c1d4995c7",
+      "date": 1488062604141
+    },
+    {
+      "type": "edit",
+      "id": "f7fad92950e810b9",
+      "item": {
+        "type": "html",
+        "id": "f7fad92950e810b9",
+        "text": "Reminder to check out:"
+      },
+      "date": 1488062616243
+    },
+    {
+      "type": "edit",
+      "id": "f7fad92950e810b9",
+      "item": {
+        "type": "html",
+        "id": "f7fad92950e810b9",
+        "text": "Reminder to check out: Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>."
+      },
+      "date": 1488062623917
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67358617a80d15bc"
+      },
+      "id": "67358617a80d15bc",
+      "type": "add",
+      "after": "f7fad92950e810b9",
+      "date": 1488062631603
+    },
+    {
+      "type": "edit",
+      "id": "f7fad92950e810b9",
+      "item": {
+        "type": "html",
+        "id": "f7fad92950e810b9",
+        "text": "Reminder to check out: Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>. See also [[Algorithmic Music]]"
+      },
+      "date": 1488062634316
+    },
+    {
+      "type": "remove",
+      "id": "67358617a80d15bc",
+      "date": 1488062663824
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8b05e81e759bc5d8"
+      },
+      "id": "8b05e81e759bc5d8",
+      "type": "add",
+      "after": "f7fad92950e810b9",
+      "date": 1488076649815,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488307213641
+    },
+    {
+      "type": "remove",
+      "id": "8b05e81e759bc5d8",
+      "date": 1488903733713
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebbced63a220e394"
+      },
+      "id": "ebbced63a220e394",
+      "type": "add",
+      "after": "f7fad92950e810b9",
+      "date": 1488903779228
+    }
+  ]
+}
