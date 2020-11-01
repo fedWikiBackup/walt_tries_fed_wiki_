@@ -1,0 +1,360 @@
+{
+  "title": "Exploring the Past",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5ac685b51f9acd36",
+      "text": "[https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days A Book]"
+    },
+    {
+      "type": "paragraph",
+      "id": "33f3463802237000",
+      "text": "[https://slatestarcodex.com/2016/04/27/book-review-albions-seed/ A Scary Book]"
+    },
+    {
+      "type": "paragraph",
+      "id": "157dd88773b67b2f",
+      "text": "[http://www.clanmacnaughton.net/genealogy.htm Genealogy Wheel]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c3b81ab861ebb22",
+      "text": "[https://en.wikipedia.org/wiki/Dunderave_Castle Ancient Home]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f5f6569608a1ee2",
+      "text": "London"
+    },
+    {
+      "type": "paragraph",
+      "id": "4065eb048be3f2e0",
+      "text": "Cairo"
+    },
+    {
+      "type": "paragraph",
+      "id": "027451bdbd5340f2",
+      "text": "Warsaw"
+    },
+    {
+      "type": "paragraph",
+      "id": "9410f701565b76f1",
+      "text": "Berlin"
+    },
+    {
+      "type": "paragraph",
+      "id": "24803eccfc1ebec8",
+      "text": "Istanbul"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a718a3213c7794b",
+      "text": "Athens"
+    },
+    {
+      "type": "paragraph",
+      "id": "1222b8822ae84526",
+      "text": "Rome"
+    },
+    {
+      "type": "paragraph",
+      "id": "f9b16c6e2a226f04",
+      "text": "Bangcock"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Exploring the Past",
+        "story": []
+      },
+      "date": 1488182251655,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5ac685b51f9acd36"
+      },
+      "id": "5ac685b51f9acd36",
+      "type": "add",
+      "date": 1488182253301,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5ac685b51f9acd36",
+      "item": {
+        "type": "paragraph",
+        "id": "5ac685b51f9acd36",
+        "text": "[https://en.wikipedia.org/wiki/Dunderave_Castle Ancient Home]"
+      },
+      "date": 1488182268656,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "0f5f6569608a1ee2",
+      "item": {
+        "type": "paragraph",
+        "id": "0f5f6569608a1ee2",
+        "text": "London"
+      },
+      "after": "5ac685b51f9acd36",
+      "date": 1488182276151,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "4065eb048be3f2e0",
+      "item": {
+        "type": "paragraph",
+        "id": "4065eb048be3f2e0",
+        "text": "Cairo"
+      },
+      "after": "0f5f6569608a1ee2",
+      "date": 1488182285818,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "027451bdbd5340f2",
+      "item": {
+        "type": "paragraph",
+        "id": "027451bdbd5340f2",
+        "text": "Warsaw"
+      },
+      "after": "4065eb048be3f2e0",
+      "date": 1488182295367,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "9410f701565b76f1",
+      "item": {
+        "type": "paragraph",
+        "id": "9410f701565b76f1",
+        "text": "Berlin"
+      },
+      "after": "027451bdbd5340f2",
+      "date": 1488182297427,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "24803eccfc1ebec8",
+      "item": {
+        "type": "paragraph",
+        "id": "24803eccfc1ebec8",
+        "text": "Istanbul"
+      },
+      "after": "9410f701565b76f1",
+      "date": 1488182309095,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "4a718a3213c7794b",
+      "item": {
+        "type": "paragraph",
+        "id": "4a718a3213c7794b",
+        "text": "Athens"
+      },
+      "after": "24803eccfc1ebec8",
+      "date": 1488182310998,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "1222b8822ae84526",
+      "item": {
+        "type": "paragraph",
+        "id": "1222b8822ae84526",
+        "text": "Rome"
+      },
+      "after": "4a718a3213c7794b",
+      "date": 1488182315879,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "f9b16c6e2a226f04",
+      "item": {
+        "type": "paragraph",
+        "id": "f9b16c6e2a226f04",
+        "text": "Bangcock"
+      },
+      "after": "1222b8822ae84526",
+      "date": 1488182326063,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "d1873c0bfdcb6196",
+      "item": {
+        "type": "paragraph",
+        "id": "d1873c0bfdcb6196",
+        "text": "Tokyo"
+      },
+      "after": "f9b16c6e2a226f04",
+      "date": 1488182340187,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "d1873c0bfdcb6196",
+      "date": 1488182354082,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5ac685b51f9acd36",
+      "item": {
+        "type": "paragraph",
+        "id": "5ac685b51f9acd36",
+        "text": "[https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days A Book]"
+      },
+      "date": 1488182532820,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "3c3b81ab861ebb22",
+      "item": {
+        "type": "paragraph",
+        "id": "3c3b81ab861ebb22",
+        "text": "[https://en.wikipedia.org/wiki/Dunderave_Castle Ancient Home]"
+      },
+      "after": "5ac685b51f9acd36",
+      "date": 1488182536609,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "33f3463802237000",
+      "item": {
+        "type": "paragraph",
+        "id": "33f3463802237000",
+        "text": "[https://www.census.gov/prod/2004pubs/c2kbr-35.pdf "
+      },
+      "after": "5ac685b51f9acd36",
+      "date": 1488182555561,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "33f3463802237000",
+      "item": {
+        "type": "paragraph",
+        "id": "33f3463802237000",
+        "text": "[https://slatestarcodex.com/2016/04/27/book-review-albions-seed/ A Scary Book] ["
+      },
+      "date": 1488182591155,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "33f3463802237000",
+      "item": {
+        "type": "paragraph",
+        "id": "33f3463802237000",
+        "text": "[https://slatestarcodex.com/2016/04/27/book-review-albions-seed/ A Scary Book]"
+      },
+      "date": 1488182603786,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "157dd88773b67b2f",
+      "item": {
+        "type": "paragraph",
+        "id": "157dd88773b67b2f",
+        "text": "[http://www.clanmacnaughton.net/genealogy.htm Genealogy Wheel]"
+      },
+      "after": "33f3463802237000",
+      "date": 1488182933246,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489269180148
+    }
+  ]
+}
