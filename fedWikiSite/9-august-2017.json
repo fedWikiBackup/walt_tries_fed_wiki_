@@ -1,0 +1,81 @@
+{
+  "title": "9 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5902f249403ae200",
+      "text": "Drove to Missoula last night. Another good drive. Talked to many friends a family. Had a great breakfast with Kerr this morning. Really enjoyable."
+    },
+    {
+      "type": "paragraph",
+      "id": "01f4e1693558ee1f",
+      "text": "Now meeting with the Western Director of the Land Trust Alliance. Very excited to see where this relationship might lead. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e980d9d1dc6ab710",
+      "text": "Meeting with Ward soon, also really excited to see where his tug boat takes us."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 August 2017",
+        "story": []
+      },
+      "date": 1502296503682
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5902f249403ae200"
+      },
+      "id": "5902f249403ae200",
+      "type": "add",
+      "date": 1502296504551
+    },
+    {
+      "type": "edit",
+      "id": "5902f249403ae200",
+      "item": {
+        "type": "paragraph",
+        "id": "5902f249403ae200",
+        "text": "Drove to Missoula last night. Another good drive. Talked to many friends a family. Had a great breakfast with Kerr this morning. Really enjoyable."
+      },
+      "date": 1502296544711
+    },
+    {
+      "type": "add",
+      "id": "01f4e1693558ee1f",
+      "item": {
+        "type": "paragraph",
+        "id": "01f4e1693558ee1f",
+        "text": "Now meeting with the "
+      },
+      "after": "5902f249403ae200",
+      "date": 1502296559495
+    },
+    {
+      "type": "edit",
+      "id": "01f4e1693558ee1f",
+      "item": {
+        "type": "paragraph",
+        "id": "01f4e1693558ee1f",
+        "text": "Now meeting with the Western Director of the Land Trust Alliance. Very excited to see where this relationship might lead. "
+      },
+      "date": 1502296794056
+    },
+    {
+      "type": "add",
+      "id": "e980d9d1dc6ab710",
+      "item": {
+        "type": "paragraph",
+        "id": "e980d9d1dc6ab710",
+        "text": "Meeting with Ward soon, also really excited to see where his tug boat takes us."
+      },
+      "after": "01f4e1693558ee1f",
+      "date": 1502296816503
+    }
+  ]
+}
