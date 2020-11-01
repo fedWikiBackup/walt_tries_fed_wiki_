@@ -1,0 +1,39 @@
+{
+  "title": "9 May 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2b7a6a5ea6463206",
+      "text": "This spring has been difficult. Nigel has died, people have abandoned me, my personal dedication and ability to continue jogging are decreasing. Work has been rough this week so far. Poor Sam is sick. Tom is still gone. Life remains strange. I hope it will be better in the end. I hope no catastrophe will greet us in my lifetime. I hope. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 May 2018",
+        "story": []
+      },
+      "date": 1525897397075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b7a6a5ea6463206"
+      },
+      "id": "2b7a6a5ea6463206",
+      "type": "add",
+      "date": 1525897397910
+    },
+    {
+      "type": "edit",
+      "id": "2b7a6a5ea6463206",
+      "item": {
+        "type": "paragraph",
+        "id": "2b7a6a5ea6463206",
+        "text": "This spring has been difficult. Nigel has died, people have abandoned me, my personal dedication and ability to continue jogging are decreasing. Work has been rough this week so far. Poor Sam is sick. Tom is still gone. Life remains strange. I hope it will be better in the end. I hope no catastrophe will greet us in my lifetime. I hope. "
+      },
+      "date": 1525897495549
+    }
+  ]
+}
