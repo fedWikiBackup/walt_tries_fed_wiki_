@@ -1,0 +1,39 @@
+{
+  "title": "11 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "80ce9ac0a50a80dc",
+      "text": "Getting closer to having a proper schedule. Tesla should be getting shipped soon. All very very exciting. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11 October 2017",
+        "story": []
+      },
+      "date": 1507846412425
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80ce9ac0a50a80dc"
+      },
+      "id": "80ce9ac0a50a80dc",
+      "type": "add",
+      "date": 1507846413536
+    },
+    {
+      "type": "edit",
+      "id": "80ce9ac0a50a80dc",
+      "item": {
+        "type": "paragraph",
+        "id": "80ce9ac0a50a80dc",
+        "text": "Getting closer to having a proper schedule. Tesla should be getting shipped soon. All very very exciting. "
+      },
+      "date": 1507846441507
+    }
+  ]
+}
