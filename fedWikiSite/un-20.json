@@ -1,0 +1,39 @@
+{
+  "title": "U.N. 2.0",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "04e3c97d48f58867",
+      "text": "A new world government currently under development. Its power is provided for by cession of power from current sovereigns to a new quasi sovereign. Or, it is provided power from the individual as sovereign."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "U.N. 2.0",
+        "story": []
+      },
+      "date": 1488061616264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04e3c97d48f58867"
+      },
+      "id": "04e3c97d48f58867",
+      "type": "add",
+      "date": 1488061618838
+    },
+    {
+      "type": "edit",
+      "id": "04e3c97d48f58867",
+      "item": {
+        "type": "paragraph",
+        "id": "04e3c97d48f58867",
+        "text": "A new world government currently under development. Its power is provided for by cession of power from current sovereigns to a new quasi sovereign. Or, it is provided power from the individual as sovereign."
+      },
+      "date": 1488061625614
+    }
+  ]
+}
