@@ -1,0 +1,39 @@
+{
+  "title": "17 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d6fb528d285fff51",
+      "text": "Went for a hunt this morning. Saw nothing. But enjoyed the walk in the woods. Nigel came. He is an adept stalker. I wish I had taken him hunting many more times before. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 November 2017",
+        "story": []
+      },
+      "date": 1510936361145
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6fb528d285fff51"
+      },
+      "id": "d6fb528d285fff51",
+      "type": "add",
+      "date": 1510936362202
+    },
+    {
+      "type": "edit",
+      "id": "d6fb528d285fff51",
+      "item": {
+        "type": "paragraph",
+        "id": "d6fb528d285fff51",
+        "text": "Went for a hunt this morning. Saw nothing. But enjoyed the walk in the woods. Nigel came. He is an adept stalker. I wish I had taken him hunting many more times before. "
+      },
+      "date": 1510936419385
+    }
+  ]
+}
