@@ -1,0 +1,55 @@
+{
+  "title": "22 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "87a32b51496ad694",
+      "text": "Wow. Yesterday was amazing. I had a 2yr old whitetail buck come directly up to me and start sniffing me. No food on my part. Then we just hung out for 2 hours until he calmly walked away. He seemed to really love the fresh greenery that surrounds the house. I like to think I am not bad company either. He let me scratch his budding horns, covered in velvet as they were. "
+    },
+    {
+      "type": "paragraph",
+      "id": "db40d672ccf0971e",
+      "text": "Looking forward to seeing him again. Feeling so blessed - like I was touched by god."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 June 2017",
+        "story": []
+      },
+      "date": 1498156442088
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "87a32b51496ad694"
+      },
+      "id": "87a32b51496ad694",
+      "type": "add",
+      "date": 1498156443139
+    },
+    {
+      "type": "edit",
+      "id": "87a32b51496ad694",
+      "item": {
+        "type": "paragraph",
+        "id": "87a32b51496ad694",
+        "text": "Wow. Yesterday was amazing. I had a 2yr old whitetail buck come directly up to me and start sniffing me. No food on my part. Then we just hung out for 2 hours until he calmly walked away. He seemed to really love the fresh greenery that surrounds the house. I like to think I am not bad company either. He let me scratch his budding horns, covered in velvet as they were. "
+      },
+      "date": 1498156558567
+    },
+    {
+      "type": "add",
+      "id": "db40d672ccf0971e",
+      "item": {
+        "type": "paragraph",
+        "id": "db40d672ccf0971e",
+        "text": "Looking forward to seeing him again. Feeling so blessed - like I was touched by god."
+      },
+      "after": "87a32b51496ad694",
+      "date": 1498156589055
+    }
+  ]
+}
