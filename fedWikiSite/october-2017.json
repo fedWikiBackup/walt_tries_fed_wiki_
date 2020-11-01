@@ -1,0 +1,240 @@
+{
+  "title": "October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c62ca9b3dfd13888",
+      "text": "[[5 October 2017]] is a Thursday at the office."
+    },
+    {
+      "type": "paragraph",
+      "id": "a53d7a372c13e35d",
+      "text": "[[9 October 2017]] is Monday in Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "ddc7049c75a53b3d",
+      "text": "[[10 October 2017]] is Tuesday in Billings. "
+    },
+    {
+      "type": "paragraph",
+      "id": "dbfd20f993b04083",
+      "text": "[[11 October 2017]] is Thursday getting into the swing."
+    },
+    {
+      "type": "paragraph",
+      "id": "e9232b9a716947fa",
+      "text": "[[13 October 2017]] is a Friday. The above entry is wrong. I wrote that on the 12th. Oops."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee0ee257512308c8",
+      "text": "[[16 October 2017]] was Monday. "
+    },
+    {
+      "type": "paragraph",
+      "id": "22ca833bbe061108",
+      "text": "[[18 October 2017]] is Wednesday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "30ef537a6e16f591",
+      "text": "[[19 October 2017]] is Thursday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "0515a6495f94f46a",
+      "text": "[[23 October 2017]] is Monday back in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "3642be5d7e104d49",
+      "text": "[[24 October 2017]] is Tuesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "e11167150bdb912d",
+      "text": "[[26 October 2017]] is Thursday waiting for a Tesla."
+    },
+    {
+      "type": "paragraph",
+      "id": "9ddfae10d0ed6f17",
+      "text": "[[30 October 2017]] is Monday in Paris."
+    },
+    {
+      "type": "paragraph",
+      "id": "dab93dc17a562724",
+      "text": "[[31 October 2017]] is Tuesday in Warsaw."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "October 2017",
+        "story": []
+      },
+      "date": 1507245612182
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c62ca9b3dfd13888"
+      },
+      "id": "c62ca9b3dfd13888",
+      "type": "add",
+      "date": 1507245613392
+    },
+    {
+      "type": "edit",
+      "id": "c62ca9b3dfd13888",
+      "item": {
+        "type": "paragraph",
+        "id": "c62ca9b3dfd13888",
+        "text": "[[5 October 2017]] is a Thursday at the office."
+      },
+      "date": 1507245638108
+    },
+    {
+      "type": "add",
+      "id": "a53d7a372c13e35d",
+      "item": {
+        "type": "paragraph",
+        "id": "a53d7a372c13e35d",
+        "text": "[[9 October 2017]] is Monday in Nye."
+      },
+      "after": "c62ca9b3dfd13888",
+      "date": 1507575650543
+    },
+    {
+      "type": "add",
+      "id": "ddc7049c75a53b3d",
+      "item": {
+        "type": "paragraph",
+        "id": "ddc7049c75a53b3d",
+        "text": "[[10 October 2017]] is Tuesday in Billings. "
+      },
+      "after": "a53d7a372c13e35d",
+      "date": 1507654935941
+    },
+    {
+      "type": "add",
+      "id": "dbfd20f993b04083",
+      "item": {
+        "type": "paragraph",
+        "id": "dbfd20f993b04083",
+        "text": "[[11 October 2017]] is Thursday getting into the swing."
+      },
+      "after": "ddc7049c75a53b3d",
+      "date": 1507846409838
+    },
+    {
+      "type": "add",
+      "id": "e9232b9a716947fa",
+      "item": {
+        "type": "paragraph",
+        "id": "e9232b9a716947fa",
+        "text": "[[13 October 2017]] is a Friday. The above entry is wrong. I wrote that on the 12th. Oops."
+      },
+      "after": "dbfd20f993b04083",
+      "date": 1507918656489
+    },
+    {
+      "type": "add",
+      "id": "ee0ee257512308c8",
+      "item": {
+        "type": "paragraph",
+        "id": "ee0ee257512308c8",
+        "text": "[[16 October 2017]] was Monday. "
+      },
+      "after": "e9232b9a716947fa",
+      "date": 1508194605650,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1508341539834
+    },
+    {
+      "type": "add",
+      "id": "22ca833bbe061108",
+      "item": {
+        "type": "paragraph",
+        "id": "22ca833bbe061108",
+        "text": "[[18 October 2017]] is Wednesday in RL."
+      },
+      "after": "ee0ee257512308c8",
+      "date": 1508341558659
+    },
+    {
+      "type": "add",
+      "id": "30ef537a6e16f591",
+      "item": {
+        "type": "paragraph",
+        "id": "30ef537a6e16f591",
+        "text": "[[19 October 2017]] is Thursday in Billings."
+      },
+      "after": "22ca833bbe061108",
+      "date": 1508453121405
+    },
+    {
+      "type": "add",
+      "id": "0515a6495f94f46a",
+      "item": {
+        "type": "paragraph",
+        "id": "0515a6495f94f46a",
+        "text": "[[23 October 2017]] is Monday back in Billings."
+      },
+      "after": "30ef537a6e16f591",
+      "date": 1508772491858
+    },
+    {
+      "type": "add",
+      "id": "3642be5d7e104d49",
+      "item": {
+        "type": "paragraph",
+        "id": "3642be5d7e104d49",
+        "text": "[[24 October 2017]] is Tuesday in Billings."
+      },
+      "after": "0515a6495f94f46a",
+      "date": 1508879097527
+    },
+    {
+      "type": "add",
+      "id": "e11167150bdb912d",
+      "item": {
+        "type": "paragraph",
+        "id": "e11167150bdb912d",
+        "text": "[[26 October 2017]] is Thursday waiting for a Tesla."
+      },
+      "after": "3642be5d7e104d49",
+      "date": 1509048356483
+    },
+    {
+      "type": "add",
+      "id": "9ddfae10d0ed6f17",
+      "item": {
+        "type": "paragraph",
+        "id": "9ddfae10d0ed6f17",
+        "text": "[[30 October 2017]] is Monday in Paris."
+      },
+      "after": "e11167150bdb912d",
+      "date": 1509361096067
+    },
+    {
+      "type": "add",
+      "id": "dab93dc17a562724",
+      "item": {
+        "type": "paragraph",
+        "id": "dab93dc17a562724",
+        "text": "[[31 October 2017]] is Tuesday in Warsaw."
+      },
+      "after": "9ddfae10d0ed6f17",
+      "date": 1509452118373
+    }
+  ]
+}
