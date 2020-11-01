@@ -1,0 +1,165 @@
+{
+  "title": "April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "77e0ffd08c0ebe31",
+      "text": "[[15 April 2017]] recaps day one of my European exploration in Paris"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a46b1e5e6878a4b",
+      "text": "[[16 April 2017]] recaps the day of the Paris club."
+    },
+    {
+      "type": "paragraph",
+      "id": "13247e73dc81eddf",
+      "text": "[[17 April 2017]] recaps my time in Naples."
+    },
+    {
+      "type": "paragraph",
+      "id": "807c6737a3d88540",
+      "text": "[[19 April 2017]] recaps day 1 and 2 in Rome."
+    },
+    {
+      "type": "paragraph",
+      "id": "70fcfb15109d4e52",
+      "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+    },
+    {
+      "type": "paragraph",
+      "id": "e24dcb260f0ea59a",
+      "text": "[[22 April 2017]] recaps day 2 in Florence."
+    },
+    {
+      "type": "paragraph",
+      "id": "a69ce5481d70c9c1",
+      "text": "[[25 April 2017]] recaps the end of Florence, 2 nights in Venice, and day 1 in Budapest"
+    },
+    {
+      "type": "paragraph",
+      "id": "a8d415888d067177",
+      "text": "[[26 April 2017]] recaps day 1 in Skopje, Macedonia."
+    },
+    {
+      "type": "paragraph",
+      "id": "52d21d234a1b63b6",
+      "text": "[[27 April 2017]] recaps day 2 in Skopje."
+    },
+    {
+      "type": "paragraph",
+      "id": "9d8690e052ba97e9",
+      "text": "[[30 April 2017]] recaps day 3 and 4 in Skopje and return to Budapest."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "April 2017",
+        "story": []
+      },
+      "date": 1497021830307
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8690e052ba97e9",
+        "text": "[[30 April 2017]] recaps day 3 and 4 in Skopje and return to Budapest."
+      },
+      "id": "9d8690e052ba97e9",
+      "date": 1497021833316
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "52d21d234a1b63b6",
+        "text": "[[27 April 2017]] recaps day 2 in Skopje."
+      },
+      "id": "52d21d234a1b63b6",
+      "date": 1497021835283
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a8d415888d067177",
+        "text": "[[26 April 2017]] recaps day 1 in Skopje, Macedonia."
+      },
+      "id": "a8d415888d067177",
+      "date": 1497021837435
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a69ce5481d70c9c1",
+        "text": "[[25 April 2017]] recaps the end of Florence, 2 nights in Venice, and day 1 in Budapest"
+      },
+      "id": "a69ce5481d70c9c1",
+      "date": 1497021839208
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e24dcb260f0ea59a",
+        "text": "[[22 April 2017]] recaps day 2 in Florence."
+      },
+      "id": "e24dcb260f0ea59a",
+      "date": 1497021840918
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "id": "70fcfb15109d4e52",
+      "date": 1497021842330
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "807c6737a3d88540",
+        "text": "[[19 April 2017]] recaps day 1 and 2 in Rome."
+      },
+      "id": "807c6737a3d88540",
+      "date": 1497021844779
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "13247e73dc81eddf",
+        "text": "[[17 April 2017]] recaps my time in Naples."
+      },
+      "id": "13247e73dc81eddf",
+      "date": 1497021855927
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2a46b1e5e6878a4b",
+        "text": "[[16 April 2017]] recaps the day of the Paris club."
+      },
+      "id": "2a46b1e5e6878a4b",
+      "date": 1497021863680
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[[15 April 2017]] recaps day one of my European exploration in Paris"
+      },
+      "id": "77e0ffd08c0ebe31",
+      "date": 1497021867252
+    }
+  ]
+}
