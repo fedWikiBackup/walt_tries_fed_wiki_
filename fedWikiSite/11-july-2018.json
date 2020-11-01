@@ -1,0 +1,39 @@
+{
+  "title": "11 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e49d09805357f004",
+      "text": "Summer is the manic madness of finding ourselves with 16 hour days of nearly endless light. Summer is sadness, for knowing that it will end. Summer is seductive, in the sweat that rolls off the supple skin. Summer is here."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11 July 2018",
+        "story": []
+      },
+      "date": 1531417351571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e49d09805357f004"
+      },
+      "id": "e49d09805357f004",
+      "type": "add",
+      "date": 1531417353129
+    },
+    {
+      "type": "edit",
+      "id": "e49d09805357f004",
+      "item": {
+        "type": "paragraph",
+        "id": "e49d09805357f004",
+        "text": "Summer is the manic madness of finding ourselves with 16 hour days of nearly endless light. Summer is sadness, for knowing that it will end. Summer is seductive, in the sweat that rolls off the supple skin. Summer is here."
+      },
+      "date": 1531417356417
+    }
+  ]
+}
