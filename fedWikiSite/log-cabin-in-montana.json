@@ -1,0 +1,39 @@
+{
+  "title": "log cabin in Montana",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2cf2c00ee562c5f0",
+      "text": "This is a structure that Walter helped build from 2010-2013. It is located in a [[small town in Montana]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "log cabin in Montana",
+        "story": []
+      },
+      "date": 1502093979382
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2cf2c00ee562c5f0"
+      },
+      "id": "2cf2c00ee562c5f0",
+      "type": "add",
+      "date": 1502093980675
+    },
+    {
+      "type": "edit",
+      "id": "2cf2c00ee562c5f0",
+      "item": {
+        "type": "paragraph",
+        "id": "2cf2c00ee562c5f0",
+        "text": "This is a structure that Walter helped build from 2010-2013. It is located in a [[small town in Montana]]."
+      },
+      "date": 1502094020273
+    }
+  ]
+}
