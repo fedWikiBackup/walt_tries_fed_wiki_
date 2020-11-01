@@ -1,0 +1,39 @@
+{
+  "title": "13 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "685198b1578fc710",
+      "text": "Kip is gone, but I am still recovering. Tired. And in need of 3 more heads and at least that many hands and feet. Not to mention eyes."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 September 2017",
+        "story": []
+      },
+      "date": 1505342943398
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "685198b1578fc710"
+      },
+      "id": "685198b1578fc710",
+      "type": "add",
+      "date": 1505342944337
+    },
+    {
+      "type": "edit",
+      "id": "685198b1578fc710",
+      "item": {
+        "type": "paragraph",
+        "id": "685198b1578fc710",
+        "text": "Kip is gone, but I am still recovering. Tired. And in need of 3 more heads and at least that many hands and feet. Not to mention eyes."
+      },
+      "date": 1505342977130
+    }
+  ]
+}
