@@ -1,0 +1,110 @@
+{
+  "title": "Dunbar's number",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Dunbar's number"
+      },
+      "date": 1502089352761,
+      "source": {
+        "pageTitle": "Dunbar's number",
+        "pageSlug": "Dunbar's_number",
+        "url": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+        "date": 1502089352761,
+        "link_dictionary": {
+          "wiki_links": {
+            "Research background": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "References": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "External links": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Popularization": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "See also": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Further reading": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Alternative numbers": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Criticism": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 793694067,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502089359027
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ddffb8ed2aab12e9",
+        "text": "Stands for the proposition that any decision making body should be smaller than 150."
+      },
+      "id": "ddffb8ed2aab12e9",
+      "date": 1502089366894
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ddffb8ed2aab12e9",
+      "text": "Stands for the proposition that any decision making body should be smaller than 150."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ea478f1-c402-474c-8efa-4c464c1520df",
+      "text": "Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person. This number was first proposed in the 1990s by British anthropologist Robin Dunbar, who found a correlation between primate brain size and average social group size. By using the average human brain size and extrapolating from the results of primates, he proposed that humans can comfortably maintain only 150 stable relationships. Dunbar explained it informally as \"the number of people you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar\" - [https://en.wikipedia.org/wiki/Dunbar%27s_number wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "36e74673-8949-4219-9b08-01bf8562b7f6",
+      "text": "Proponents assert that numbers larger than this generally require more restrictive rules, laws, and enforced norms to maintain a stable, cohesive group. It has been proposed to lie between 100 and 250, with a commonly used value of 150. Dunbar's number states the number of people one knows and keeps social contact with, and it does not include the number of people known personally with a ceased social relationship, nor people just generally known with a lack of persistent social relationship, a number which might be much higher and likely depends on long-term memory size."
+    },
+    {
+      "type": "paragraph",
+      "id": "8303fc1b-ff6a-4006-ab74-8060007c4d8f",
+      "text": "Dunbar theorized that \"this limit is a direct function of relative neocortex size, and that this in turn limits group size [...] the limit imposed by neocortical processing capacity is simply on the number of individuals with whom a stable inter-personal relationship can be maintained\". On the periphery, the number also includes past colleagues, such as high school friends, with whom a person would want to reacquaint himself or herself if they met again."
+    },
+    {
+      "type": "markdown",
+      "id": "3be7987c-983d-4c62-9f29-879f07ae8d17",
+      "text": "# See also\n* [[Research background]]\n* [[Alternative numbers]]\n* [[Criticism]]\n* [[Popularization]]\n* [[See also]]\n* [[References]]\n* [[Further reading]]\n* [[External links]]"
+    }
+  ]
+}
