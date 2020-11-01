@@ -1,0 +1,39 @@
+{
+  "title": "22 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2ef410056e61aa9d",
+      "text": "Definitely feeling the pressure, but not functioning 100%. Need to exercise every freaking day. Every day. Keep the blood flowing and keep of the need for anything else."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 August 2017",
+        "story": []
+      },
+      "date": 1503413019218
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ef410056e61aa9d"
+      },
+      "id": "2ef410056e61aa9d",
+      "type": "add",
+      "date": 1503413020458
+    },
+    {
+      "type": "edit",
+      "id": "2ef410056e61aa9d",
+      "item": {
+        "type": "paragraph",
+        "id": "2ef410056e61aa9d",
+        "text": "Definitely feeling the pressure, but not functioning 100%. Need to exercise every freaking day. Every day. Keep the blood flowing and keep of the need for anything else."
+      },
+      "date": 1503413076807
+    }
+  ]
+}
