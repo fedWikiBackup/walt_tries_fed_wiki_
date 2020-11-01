@@ -1,0 +1,65 @@
+{
+  "title": "13 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1abf40899b2b276f",
+      "text": "MY subordinates have been here longer than I have. That makes my being here somewhat difficult. I think they would like to see me gone. But I am not going anywhere!!!!!"
+    },
+    {
+      "type": "paragraph",
+      "id": "949e97b13ea26914",
+      "text": "Had to wake up super early to drive a friend of a friend to the airport - super tired. Today will be a long one."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 June 2017",
+        "story": []
+      },
+      "date": 1497367941139
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1abf40899b2b276f"
+      },
+      "id": "1abf40899b2b276f",
+      "type": "add",
+      "date": 1497367942325
+    },
+    {
+      "type": "edit",
+      "id": "1abf40899b2b276f",
+      "item": {
+        "type": "paragraph",
+        "id": "1abf40899b2b276f",
+        "text": "MY subordinates have been here longer than I have. That makes my being here somewhat difficult. I think they would like to see me gone."
+      },
+      "date": 1497367991897
+    },
+    {
+      "type": "edit",
+      "id": "1abf40899b2b276f",
+      "item": {
+        "type": "paragraph",
+        "id": "1abf40899b2b276f",
+        "text": "MY subordinates have been here longer than I have. That makes my being here somewhat difficult. I think they would like to see me gone. But I am not going anywhere!!!!!"
+      },
+      "date": 1497368005017
+    },
+    {
+      "type": "add",
+      "id": "949e97b13ea26914",
+      "item": {
+        "type": "paragraph",
+        "id": "949e97b13ea26914",
+        "text": "Had to wake up super early to drive a friend of a friend to the airport - super tired. Today will be a long one."
+      },
+      "after": "1abf40899b2b276f",
+      "date": 1497368044081
+    }
+  ]
+}
