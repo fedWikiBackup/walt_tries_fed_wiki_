@@ -1,0 +1,95 @@
+{
+  "title": "Human",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5a9c520729c49721",
+      "text": "A [[node]], and a [[module]] of [[metabolic processes]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "b7d83eb96b692f1f",
+      "text": "Human population = 1. The loneliest number."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Human",
+        "story": []
+      },
+      "date": 1502091582869
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a9c520729c49721"
+      },
+      "id": "5a9c520729c49721",
+      "type": "add",
+      "date": 1502091584201
+    },
+    {
+      "type": "edit",
+      "id": "5a9c520729c49721",
+      "item": {
+        "type": "paragraph",
+        "id": "5a9c520729c49721",
+        "text": "A node, and a group of metabolic processes."
+      },
+      "date": 1502091601039
+    },
+    {
+      "type": "edit",
+      "id": "5a9c520729c49721",
+      "item": {
+        "type": "paragraph",
+        "id": "5a9c520729c49721",
+        "text": "A node, and a group of [[metabolic processes]]."
+      },
+      "date": 1502091624862
+    },
+    {
+      "type": "edit",
+      "id": "5a9c520729c49721",
+      "item": {
+        "type": "paragraph",
+        "id": "5a9c520729c49721",
+        "text": "A [[node]], and a [[module]] of [[metabolic processes]]."
+      },
+      "date": 1502091910070
+    },
+    {
+      "type": "add",
+      "id": "b7d83eb96b692f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d83eb96b692f1f",
+        "text": "Human population = 1."
+      },
+      "after": "5a9c520729c49721",
+      "date": 1502091931541
+    },
+    {
+      "type": "edit",
+      "id": "b7d83eb96b692f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d83eb96b692f1f",
+        "text": "Human population = 1. The lonliest number."
+      },
+      "date": 1502091940221
+    },
+    {
+      "type": "edit",
+      "id": "b7d83eb96b692f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d83eb96b692f1f",
+        "text": "Human population = 1. The loneliest number."
+      },
+      "date": 1502091943116
+    }
+  ]
+}
