@@ -1,0 +1,55 @@
+{
+  "title": "Emotion",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "adaf8e479b666789",
+      "text": "Unknown. Something to do with testosterone and estrogen. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cc40d63c03a17c25",
+      "text": "See also, [[Theory of Constructed Emotion]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Emotion",
+        "story": []
+      },
+      "date": 1502092741065
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "adaf8e479b666789"
+      },
+      "id": "adaf8e479b666789",
+      "type": "add",
+      "date": 1502092742371
+    },
+    {
+      "type": "edit",
+      "id": "adaf8e479b666789",
+      "item": {
+        "type": "paragraph",
+        "id": "adaf8e479b666789",
+        "text": "Unknown. Something to do with testosterone and estrogen. "
+      },
+      "date": 1502092758568
+    },
+    {
+      "type": "add",
+      "id": "cc40d63c03a17c25",
+      "item": {
+        "type": "paragraph",
+        "id": "cc40d63c03a17c25",
+        "text": "See also, [[Theory of Constructed Emotion]]."
+      },
+      "after": "adaf8e479b666789",
+      "date": 1502092777264
+    }
+  ]
+}
