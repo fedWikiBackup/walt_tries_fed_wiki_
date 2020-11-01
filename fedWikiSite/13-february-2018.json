@@ -1,0 +1,55 @@
+{
+  "title": "13 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "589b223f50eb6132",
+      "text": "It is time to begin lucid dreaming. It is time to stop consuming alcohol, caffeine, and cannabis. It is time to begin building CA, LLP."
+    },
+    {
+      "type": "paragraph",
+      "id": "d633be5da438d7ae",
+      "text": "Pitch: You may not be interested, but I can also offer one of 150 spots in the partnership I am building (Dunbar's number) that will be the family that builds the future I am talking about. I value these partnership spots around $8,000. About 1/3 of the funds is going into purchase of a headquarters, 1/3 into development of micro grid and block chain, and 1/3 for unknowns. \n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 February 2018",
+        "story": []
+      },
+      "date": 1518540836357
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "589b223f50eb6132"
+      },
+      "id": "589b223f50eb6132",
+      "type": "add",
+      "date": 1518540837218
+    },
+    {
+      "type": "edit",
+      "id": "589b223f50eb6132",
+      "item": {
+        "type": "paragraph",
+        "id": "589b223f50eb6132",
+        "text": "It is time to begin lucid dreaming. It is time to stop consuming alcohol, caffeine, and cannabis. It is time to begin building CA, LLP."
+      },
+      "date": 1518540873796
+    },
+    {
+      "type": "add",
+      "id": "d633be5da438d7ae",
+      "item": {
+        "type": "paragraph",
+        "id": "d633be5da438d7ae",
+        "text": "Pitch: You may not be interested, but I can also offer one of 150 spots in the partnership I am building (Dunbar's number) that will be the family that builds the future I am talking about. I value these partnership spots around $8,000. About 1/3 of the funds is going into purchase of a headquarters, 1/3 into development of micro grid and block chain, and 1/3 for unknowns. \n"
+      },
+      "after": "589b223f50eb6132",
+      "date": 1518540882416
+    }
+  ]
+}
