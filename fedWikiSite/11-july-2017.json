@@ -1,0 +1,87 @@
+{
+  "title": "11 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "92167f6e524b0f80",
+      "text": "Love the deer here. Love the mountains. Love our hill. Love this house."
+    },
+    {
+      "type": "paragraph",
+      "id": "f19116f6112097f1",
+      "text": "Want to check air quality - so hard to breathe sometimes - I guess that is 5,000 feet for you."
+    },
+    {
+      "type": "paragraph",
+      "id": "7216549a1d0826b5",
+      "text": "Working from home today - loving my Great Falls matter, but it sucks that Tom is away for so long - need to get things moving."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ff69d7dac45b540",
+      "text": "Need to get someone to help me clean and moving on the deck."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11 July 2017",
+        "story": []
+      },
+      "date": 1499795324064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92167f6e524b0f80"
+      },
+      "id": "92167f6e524b0f80",
+      "type": "add",
+      "date": 1499795325143
+    },
+    {
+      "type": "edit",
+      "id": "92167f6e524b0f80",
+      "item": {
+        "type": "paragraph",
+        "id": "92167f6e524b0f80",
+        "text": "Love the deer here. Love the mountains. Love our hill. Love this house."
+      },
+      "date": 1499795349291
+    },
+    {
+      "type": "add",
+      "id": "f19116f6112097f1",
+      "item": {
+        "type": "paragraph",
+        "id": "f19116f6112097f1",
+        "text": "Want to check air quality - so hard to breathe sometimes - I guess that is 5,000 feet for you."
+      },
+      "after": "92167f6e524b0f80",
+      "date": 1499795374419
+    },
+    {
+      "type": "add",
+      "id": "7216549a1d0826b5",
+      "item": {
+        "type": "paragraph",
+        "id": "7216549a1d0826b5",
+        "text": "Working from home today - loving my Great Falls matter, but it sucks that Tom is away for so long - need to get things moving."
+      },
+      "after": "f19116f6112097f1",
+      "date": 1499795410611
+    },
+    {
+      "type": "add",
+      "id": "0ff69d7dac45b540",
+      "item": {
+        "type": "paragraph",
+        "id": "0ff69d7dac45b540",
+        "text": "Need to get someone to help me clean and moving on the deck."
+      },
+      "after": "7216549a1d0826b5",
+      "date": 1499795435812
+    }
+  ]
+}
