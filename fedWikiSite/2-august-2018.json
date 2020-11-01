@@ -1,0 +1,97 @@
+{
+  "title": "2 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9940cb48fb91fb2a",
+      "text": "Dad and Melba were here this past week and seemed to have had a great time."
+    },
+    {
+      "type": "paragraph",
+      "id": "5c6721b1fdf9ad4c",
+      "text": "Melba was a discerning drinker. She would drink anything, but she would not stand for a foul smelling kitchen. Her partner, Randy, was Walter's father. Randy was the Judge. Melba was the wife of a judge. Her neuroticism was of a specific variety - and it exhilarated Walter. Her careful care for her many plants would send shivers down Walter's spine. Deep into his sensing body he would feel her care and love grasping onto life. Her mother abandoned her. Her father raised her as a farm hand tomboy. She quickly discovered she was not a tomboy - instead a delicate germanic princess of the very blonde haired blue-eyed variety. Again, she was a discerning drinker. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9f9d54ec192bf712",
+      "text": "Randy was just a genius drinker. Slovenly but a repository for processing power unrivaled in similar creatures.  When he and Melba would diet, he often first lost weight in his neck. But his weight was not his fault - is was the fault of Coca-Cola. But that is another story entirely. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1eed068de4fc5b6c",
+      "text": "The reason the reader finds themselves face to face with the Judge and his resplendently permissive wife is that they were the key.  And really, it was Melba that held the golden key and slowly inserted it into the lock of Walter's heart - his plan."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 August 2018",
+        "story": []
+      },
+      "date": 1533239257727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9940cb48fb91fb2a"
+      },
+      "id": "9940cb48fb91fb2a",
+      "type": "add",
+      "date": 1533239258738
+    },
+    {
+      "type": "edit",
+      "id": "9940cb48fb91fb2a",
+      "item": {
+        "type": "paragraph",
+        "id": "9940cb48fb91fb2a",
+        "text": "Dad and Melba were here this past week and seemed to have had a great time."
+      },
+      "date": 1533239283455
+    },
+    {
+      "type": "add",
+      "id": "5c6721b1fdf9ad4c",
+      "item": {
+        "type": "paragraph",
+        "id": "5c6721b1fdf9ad4c",
+        "text": "Melba was a discerning drinker. She would drink anything, but she would not stand for a foul smelling kitchen. Her partner, Randy, was Walter's father. Randy was the Judge. Melba was the wife of a judge. Her neuroticism was of a specific variety - and it exhilarated Walter. Her careful care for her many plants would send shivers down Walter's spine. Deep into his sensing body he would feel her care and love grasping onto life. Her mother abandoned her. Her father raised her as a farm hand tomboy. She quickly discovered she was not a tomboy - instead a delicate germanic princess of the very blonde haired blue-eyed variety. Again, she was a discerning drinker. "
+      },
+      "after": "9940cb48fb91fb2a",
+      "date": 1533241012747
+    },
+    {
+      "type": "add",
+      "id": "9f9d54ec192bf712",
+      "item": {
+        "type": "paragraph",
+        "id": "9f9d54ec192bf712",
+        "text": "Randy was just a genius drinker. Slovenly but a repository for processing power unrivaled in similar creatures.  When he and Melba would diet, he often first lost weight in his neck. But his weight was not his fault - is was the fault of Coca-Cola. But that is another story entirely. "
+      },
+      "after": "5c6721b1fdf9ad4c",
+      "date": 1533241111906
+    },
+    {
+      "type": "add",
+      "id": "1eed068de4fc5b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "1eed068de4fc5b6c",
+        "text": "The reason the reader finds themselves face to face with the Judge and his resplendently permissive wife is that they were the key.  "
+      },
+      "after": "9f9d54ec192bf712",
+      "date": 1533241248712
+    },
+    {
+      "type": "edit",
+      "id": "1eed068de4fc5b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "1eed068de4fc5b6c",
+        "text": "The reason the reader finds themselves face to face with the Judge and his resplendently permissive wife is that they were the key.  And really, it was Melba that held the golden key and slowly inserted it into the lock of Walter's heart - his plan."
+      },
+      "date": 1533241281115
+    }
+  ]
+}
