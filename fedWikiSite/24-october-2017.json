@@ -1,0 +1,39 @@
+{
+  "title": "24 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9795fc4a194dde40",
+      "text": "Working in Billings again today. Met another player in the Billings community. Making some headway on podcast and fleet of cars. Will see what happens next. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "24 October 2017",
+        "story": []
+      },
+      "date": 1508879100626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9795fc4a194dde40"
+      },
+      "id": "9795fc4a194dde40",
+      "type": "add",
+      "date": 1508879101615
+    },
+    {
+      "type": "edit",
+      "id": "9795fc4a194dde40",
+      "item": {
+        "type": "paragraph",
+        "id": "9795fc4a194dde40",
+        "text": "Working in Billings again today. Met another player in the Billings community. Making some headway on podcast and fleet of cars. Will see what happens next. "
+      },
+      "date": 1508879137828
+    }
+  ]
+}
