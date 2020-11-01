@@ -1,0 +1,341 @@
+{
+  "title": "Polis",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Polis"
+      },
+      "date": 1502090351383,
+      "source": {
+        "pageTitle": "Polis",
+        "pageSlug": "Polis",
+        "url": "https://en.wikipedia.org/wiki/Polis",
+        "date": 1502090351383,
+        "link_dictionary": {
+          "wiki_links": {
+            "Notes": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Archaic and classical <i>poleis</i>": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "References": {
+              "section_number": 10,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "External links": {
+              "section_number": 12,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Derived words": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Hellenistic and Roman": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "The <i>polis</i> in Ancient Greek philosophy": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Further reading": {
+              "section_number": 11,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "See also": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 5
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 787518799,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502090356376
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65ba9edb3b62b7e2"
+      },
+      "id": "65ba9edb3b62b7e2",
+      "type": "add",
+      "after": "1b95ea2a-5064-4b69-908e-2af2e33558e2",
+      "date": 1502090600030
+    },
+    {
+      "type": "edit",
+      "id": "65ba9edb3b62b7e2",
+      "item": {
+        "type": "pagefold",
+        "id": "65ba9edb3b62b7e2",
+        "text": "Wikipedia Definition"
+      },
+      "date": 1502090608246
+    },
+    {
+      "type": "move",
+      "order": [
+        "65ba9edb3b62b7e2",
+        "a4c466c0-5903-4f65-88fe-da2b2a666a91",
+        "8830a1e7-0fed-4758-99fc-6178f7bb9820",
+        "8f804166-7662-4615-b74d-d044898b64cd",
+        "1b95ea2a-5064-4b69-908e-2af2e33558e2"
+      ],
+      "id": "65ba9edb3b62b7e2",
+      "date": 1502090619951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "716738906701d8db"
+      },
+      "id": "716738906701d8db",
+      "type": "add",
+      "after": "1b95ea2a-5064-4b69-908e-2af2e33558e2",
+      "date": 1502090622310
+    },
+    {
+      "type": "move",
+      "order": [
+        "65ba9edb3b62b7e2",
+        "716738906701d8db",
+        "a4c466c0-5903-4f65-88fe-da2b2a666a91",
+        "8830a1e7-0fed-4758-99fc-6178f7bb9820",
+        "8f804166-7662-4615-b74d-d044898b64cd",
+        "1b95ea2a-5064-4b69-908e-2af2e33558e2"
+      ],
+      "id": "716738906701d8db",
+      "date": 1502090627788
+    },
+    {
+      "type": "move",
+      "order": [
+        "716738906701d8db",
+        "65ba9edb3b62b7e2",
+        "a4c466c0-5903-4f65-88fe-da2b2a666a91",
+        "8830a1e7-0fed-4758-99fc-6178f7bb9820",
+        "8f804166-7662-4615-b74d-d044898b64cd",
+        "1b95ea2a-5064-4b69-908e-2af2e33558e2"
+      ],
+      "id": "716738906701d8db",
+      "date": 1502090629662
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^4"
+      },
+      "date": 1502090652436
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^(5/4) = "
+      },
+      "date": 1502090735888
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^(5/4) = 346,000 ="
+      },
+      "date": 1502090904863
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^(5/4) = 346,000 = 13 TinyCities"
+      },
+      "date": 1502090921474
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^(5/4) = 346,000 = 12 TinyCities"
+      },
+      "date": 1502090926835
+    },
+    {
+      "type": "edit",
+      "id": "716738906701d8db",
+      "item": {
+        "type": "paragraph",
+        "id": "716738906701d8db",
+        "text": "Polis Population = TincyCity^(5/4) "
+      },
+      "date": 1502090952364
+    },
+    {
+      "type": "add",
+      "id": "374d57c39233989a",
+      "item": {
+        "type": "paragraph",
+        "id": "374d57c39233989a",
+        "text": "346,000 = "
+      },
+      "after": "716738906701d8db",
+      "date": 1502090957923
+    },
+    {
+      "type": "add",
+      "id": "33edd6a949f57853",
+      "item": {
+        "type": "paragraph",
+        "id": "33edd6a949f57853",
+        "text": "12 TinyCities"
+      },
+      "after": "374d57c39233989a",
+      "date": 1502090961274
+    },
+    {
+      "type": "edit",
+      "id": "374d57c39233989a",
+      "item": {
+        "type": "paragraph",
+        "id": "374d57c39233989a",
+        "text": "346,000 = 27,000(1.25)"
+      },
+      "date": 1502090971210
+    },
+    {
+      "type": "edit",
+      "id": "33edd6a949f57853",
+      "item": {
+        "type": "paragraph",
+        "id": "33edd6a949f57853",
+        "text": "12 Networked TinyCities"
+      },
+      "date": 1502091192922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9adecb9fe1d1f6b5"
+      },
+      "id": "9adecb9fe1d1f6b5",
+      "type": "add",
+      "after": "1b95ea2a-5064-4b69-908e-2af2e33558e2",
+      "date": 1502091403068
+    },
+    {
+      "type": "move",
+      "order": [
+        "9adecb9fe1d1f6b5",
+        "716738906701d8db",
+        "374d57c39233989a",
+        "33edd6a949f57853",
+        "65ba9edb3b62b7e2",
+        "a4c466c0-5903-4f65-88fe-da2b2a666a91",
+        "8830a1e7-0fed-4758-99fc-6178f7bb9820",
+        "8f804166-7662-4615-b74d-d044898b64cd",
+        "1b95ea2a-5064-4b69-908e-2af2e33558e2"
+      ],
+      "id": "9adecb9fe1d1f6b5",
+      "date": 1502091408012
+    },
+    {
+      "type": "edit",
+      "id": "9adecb9fe1d1f6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "9adecb9fe1d1f6b5",
+        "text": "A [[node]], and also a module of [[TinyCities]]"
+      },
+      "date": 1502091435008
+    },
+    {
+      "type": "edit",
+      "id": "9adecb9fe1d1f6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "9adecb9fe1d1f6b5",
+        "text": "A [[node]], and also a [[module]] of [[TinyCities]]"
+      },
+      "date": 1502091797422
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9adecb9fe1d1f6b5",
+      "text": "A [[node]], and also a [[module]] of [[TinyCities]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "716738906701d8db",
+      "text": "Polis Population = TincyCity^(5/4) "
+    },
+    {
+      "type": "paragraph",
+      "id": "374d57c39233989a",
+      "text": "346,000 = 27,000(1.25)"
+    },
+    {
+      "type": "paragraph",
+      "id": "33edd6a949f57853",
+      "text": "12 Networked TinyCities"
+    },
+    {
+      "type": "pagefold",
+      "id": "65ba9edb3b62b7e2",
+      "text": "Wikipedia Definition"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4c466c0-5903-4f65-88fe-da2b2a666a91",
+      "text": "Polis (; Greek: πόλις pronounced [pólis]), plural poleis (, πόλεις [póleːs]), literally means city in Greek. It can also mean a body of citizens. In modern historiography, polis is normally used to indicate the ancient Greek city-states, like Classical Athens and its contemporaries, and thus is often translated as \"city-state\" - [https://en.wikipedia.org/wiki/Polis wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8830a1e7-0fed-4758-99fc-6178f7bb9820",
+      "text": "The Ancient Greek city-state developed during the Archaic period as the ancestor of city, state, and citizenship and persisted (though with decreasing influence) well into Roman times, when the equivalent Latin word was civitas, also meaning \"citizenhood\", while municipium applied to a non-sovereign local entity. The term \"city-state\", which originated in English (alongside the German Stadtstaat), does not fully translate the Greek term. The poleis were not like other primordial ancient city-states like Tyre or Sidon, which were ruled by a king or a small oligarchy, but rather political entities ruled by their bodies of citizens. The traditional view of archaeologists—that the appearance of urbanization at excavation sites could be read as a sufficient index for the development of a polis—was criticised by François Polignac in 1984 and has not been taken for granted in recent decades: the polis of Sparta, for example, was established in a network of villages. The term polis, which in archaic Greece meant \"city\", changed with the development of the governance center in the city to signify \"state\" (which included its surrounding villages). Finally, with the emergence of a notion of citizenship among landowners, it came to describe the entire body of citizens. The ancient Greeks did not always refer to Athens, Sparta, Thebes, and other poleis as such; they often spoke instead of the Athenians, Lacedaemonians, Thebans and so on. The body of citizens came to be the most important meaning of the term polis in ancient Greece."
+    },
+    {
+      "type": "paragraph",
+      "id": "8f804166-7662-4615-b74d-d044898b64cd",
+      "text": "The Greek term that specifically meant the totality of urban buildings and spaces is ἄστυ (pronounced [ásty])."
+    },
+    {
+      "type": "markdown",
+      "id": "1b95ea2a-5064-4b69-908e-2af2e33558e2",
+      "text": "# See also\n* [[The <i>polis</i> in Ancient Greek philosophy]]\n* [[Archaic and classical <i>poleis</i>]]\n* [[Hellenistic and Roman]]\n* [[Derived words]]\n* [[See also]]\n* [[Notes]]\n* [[References]]\n* [[Further reading]]\n* [[External links]]"
+    }
+  ]
+}
