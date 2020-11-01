@@ -1,0 +1,39 @@
+{
+  "title": "18 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ee8c745376645d1f",
+      "text": "EMS classes take me to RL for the substance of the week. Looking forward to the class being over. Tesla should be arriving soon. All very exciting."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 October 2017",
+        "story": []
+      },
+      "date": 1508341564389
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee8c745376645d1f"
+      },
+      "id": "ee8c745376645d1f",
+      "type": "add",
+      "date": 1508341565719
+    },
+    {
+      "type": "edit",
+      "id": "ee8c745376645d1f",
+      "item": {
+        "type": "paragraph",
+        "id": "ee8c745376645d1f",
+        "text": "EMS classes take me to RL for the substance of the week. Looking forward to the class being over. Tesla should be arriving soon. All very exciting."
+      },
+      "date": 1508341601170
+    }
+  ]
+}
