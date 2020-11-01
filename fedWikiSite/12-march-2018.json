@@ -1,0 +1,39 @@
+{
+  "title": "12 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b676fc380643d471",
+      "text": "We are gonna buy a house. Holy moly. It is the perfect house. Absolutely perfect. God, I cannot wait. Sweet baby Jesus. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 March 2018",
+        "story": []
+      },
+      "date": 1520871219247
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b676fc380643d471"
+      },
+      "id": "b676fc380643d471",
+      "type": "add",
+      "date": 1520871220012
+    },
+    {
+      "type": "edit",
+      "id": "b676fc380643d471",
+      "item": {
+        "type": "paragraph",
+        "id": "b676fc380643d471",
+        "text": "We are gonna buy a house. Holy moly. It is the perfect house. Absolutely perfect. God, I cannot wait. Sweet baby Jesus. "
+      },
+      "date": 1520871273154
+    }
+  ]
+}
