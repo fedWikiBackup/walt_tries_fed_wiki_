@@ -1,0 +1,49 @@
+{
+  "title": "global voting-age population",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9add9fdeed55ef87",
+      "text": "Prohibition on civic participation shall extinguish once the brain has stopped growing, at roughly 25 years old."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "global voting-age population",
+        "story": []
+      },
+      "date": 1502086691315
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9add9fdeed55ef87"
+      },
+      "id": "9add9fdeed55ef87",
+      "type": "add",
+      "date": 1502086692476
+    },
+    {
+      "type": "edit",
+      "id": "9add9fdeed55ef87",
+      "item": {
+        "type": "paragraph",
+        "id": "9add9fdeed55ef87",
+        "text": "[[voting age]]"
+      },
+      "date": 1502086703733
+    },
+    {
+      "type": "edit",
+      "id": "9add9fdeed55ef87",
+      "item": {
+        "type": "paragraph",
+        "id": "9add9fdeed55ef87",
+        "text": "Prohibition on civic participation shall extinguish once the brain has stopped growing, at roughly 25 years old."
+      },
+      "date": 1502086791274
+    }
+  ]
+}
