@@ -1,0 +1,39 @@
+{
+  "title": "17 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3aa917b4c64a92e0",
+      "text": "Red Lodge is covered in a small blanket of snow this morning. A dusting of gentle crystals raised up out of droplets via nothing but cold. Lighter than water - the frozen stuff is nothing short of magical."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 April 2018",
+        "story": []
+      },
+      "date": 1523975357729
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3aa917b4c64a92e0"
+      },
+      "id": "3aa917b4c64a92e0",
+      "type": "add",
+      "date": 1523975358973
+    },
+    {
+      "type": "edit",
+      "id": "3aa917b4c64a92e0",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa917b4c64a92e0",
+        "text": "Red Lodge is covered in a small blanket of snow this morning. A dusting of gentle crystals raised up out of droplets via nothing but cold. Lighter than water - the frozen stuff is nothing short of magical."
+      },
+      "date": 1523975452157
+    }
+  ]
+}
