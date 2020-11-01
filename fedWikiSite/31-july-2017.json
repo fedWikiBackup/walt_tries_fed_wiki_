@@ -1,0 +1,138 @@
+{
+  "title": "31 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "80df2df8ee9bd28f",
+      "text": "It was a good day at work. Made progress on things that matter. Tensions are low. Kamila bought a ticket today and is officially coming."
+    },
+    {
+      "type": "paragraph",
+      "id": "b3ecd7a7aa153b95",
+      "text": "We also made lots of progress on the social contract front - very difficult, but important stuff."
+    },
+    {
+      "type": "paragraph",
+      "id": "42705e83ce117431",
+      "text": "Also, made new friends at Tippet on Saturday that I think I forgot to mention."
+    },
+    {
+      "type": "paragraph",
+      "id": "81b096f061b19780",
+      "text": "Still listening to Geoffrey West's Scale. Fascinating book. One nugget - we must innovate infinitely faster as our growth continues. Also, most systems scale sub-linearly, except Cities - we need to change that."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a2deeb25f83a15b",
+      "text": "Great evening with Kerr. Love her. And rhyming. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d415f2c685297e79",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "31 July 2017",
+        "story": []
+      },
+      "date": 1501556891004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80df2df8ee9bd28f"
+      },
+      "id": "80df2df8ee9bd28f",
+      "type": "add",
+      "date": 1501556892262
+    },
+    {
+      "type": "edit",
+      "id": "80df2df8ee9bd28f",
+      "item": {
+        "type": "paragraph",
+        "id": "80df2df8ee9bd28f",
+        "text": "It was a good day at work. Made progress on things that matter. Tensions are low. Kamila bought a ticket today and is officially comming."
+      },
+      "date": 1501556930680
+    },
+    {
+      "type": "edit",
+      "id": "80df2df8ee9bd28f",
+      "item": {
+        "type": "paragraph",
+        "id": "80df2df8ee9bd28f",
+        "text": "It was a good day at work. Made progress on things that matter. Tensions are low. Kamila bought a ticket today and is officially coming."
+      },
+      "date": 1501556936248
+    },
+    {
+      "type": "add",
+      "id": "b3ecd7a7aa153b95",
+      "item": {
+        "type": "paragraph",
+        "id": "b3ecd7a7aa153b95",
+        "text": "We also made lots of progress on the social contract front - very difficult, but important stuff."
+      },
+      "after": "80df2df8ee9bd28f",
+      "date": 1501556958648
+    },
+    {
+      "type": "add",
+      "id": "42705e83ce117431",
+      "item": {
+        "type": "paragraph",
+        "id": "42705e83ce117431",
+        "text": "Also, made new friends at Tippet on Saturday that I think I forgot to mention."
+      },
+      "after": "b3ecd7a7aa153b95",
+      "date": 1501556993136
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81b096f061b19780"
+      },
+      "id": "81b096f061b19780",
+      "type": "add",
+      "after": "42705e83ce117431",
+      "date": 1501556995920
+    },
+    {
+      "type": "edit",
+      "id": "81b096f061b19780",
+      "item": {
+        "type": "paragraph",
+        "id": "81b096f061b19780",
+        "text": "Still listening to Geoffrey West's Scale. Fascinating book. One nugget - we must innovate infinitely faster as our growth continues. Also, most systems scale sub-linearly, except Cities - we need to change that."
+      },
+      "date": 1501557078042
+    },
+    {
+      "type": "add",
+      "id": "5a2deeb25f83a15b",
+      "item": {
+        "type": "paragraph",
+        "id": "5a2deeb25f83a15b",
+        "text": "Great evening with Kerr. Love her. And rhyming. "
+      },
+      "after": "81b096f061b19780",
+      "date": 1501557092602
+    },
+    {
+      "type": "add",
+      "id": "d415f2c685297e79",
+      "item": {
+        "type": "paragraph",
+        "id": "d415f2c685297e79",
+        "text": " "
+      },
+      "after": "5a2deeb25f83a15b",
+      "date": 1501557094350
+    }
+  ]
+}
