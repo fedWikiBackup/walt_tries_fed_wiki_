@@ -1,0 +1,39 @@
+{
+  "title": "25 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3c99e60fdf661680",
+      "text": "Had a mediation yesterday - it did not go that well. Another mediation today. I am hopeful that it will proceed to some sort of resolution. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "25 January 2018",
+        "story": []
+      },
+      "date": 1516897020703
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c99e60fdf661680"
+      },
+      "id": "3c99e60fdf661680",
+      "type": "add",
+      "date": 1516897021900
+    },
+    {
+      "type": "edit",
+      "id": "3c99e60fdf661680",
+      "item": {
+        "type": "paragraph",
+        "id": "3c99e60fdf661680",
+        "text": "Had a mediation yesterday - it did not go that well. Another mediation today. I am hopeful that it will proceed to some sort of resolution. "
+      },
+      "date": 1516897049432
+    }
+  ]
+}
