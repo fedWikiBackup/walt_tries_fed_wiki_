@@ -1,0 +1,39 @@
+{
+  "title": "22 January 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1f0db1f24c5f87a2",
+      "text": "Upping the game to writing something more cohesive. In one spot. This is, perhaps, too fragmented a journal? At the least, I should begin adding 100 words a day to the book. No. This is a place to quickly reflect. Record my emotion felt that day. The gist of the day."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 January 2017",
+        "story": []
+      },
+      "date": 1516657408355
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f0db1f24c5f87a2"
+      },
+      "id": "1f0db1f24c5f87a2",
+      "type": "add",
+      "date": 1516657409227
+    },
+    {
+      "type": "edit",
+      "id": "1f0db1f24c5f87a2",
+      "item": {
+        "type": "paragraph",
+        "id": "1f0db1f24c5f87a2",
+        "text": "Upping the game to writing something more cohesive. In one spot. This is, perhaps, too fragmented a journal? At the least, I should begin adding 100 words a day to the book. No. This is a place to quickly reflect. Record my emotion felt that day. The gist of the day."
+      },
+      "date": 1516657511999
+    }
+  ]
+}
