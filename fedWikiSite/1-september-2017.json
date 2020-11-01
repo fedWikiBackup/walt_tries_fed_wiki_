@@ -1,0 +1,79 @@
+{
+  "title": "1 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "79a9d52b3650f47c",
+      "text": "My first oral argument int he great state of Montana."
+    },
+    {
+      "type": "paragraph",
+      "id": "5777f537c2a50d09",
+      "text": "The smoke has cleared and my path forward is being lit by the universal forces that be."
+    },
+    {
+      "type": "paragraph",
+      "id": "48f1676a9e6f97fc",
+      "text": "I found out today that I am an excellent orator. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 September 2017",
+        "story": []
+      },
+      "date": 1504277698054
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79a9d52b3650f47c",
+        "text": "My first oral argument int he great state of Montana."
+      },
+      "id": "79a9d52b3650f47c",
+      "type": "add",
+      "date": 1504277699123
+    },
+    {
+      "type": "add",
+      "id": "5777f537c2a50d09",
+      "item": {
+        "type": "paragraph",
+        "id": "5777f537c2a50d09",
+        "text": "The smoke has cleared and my path forward is being lit by the universal forces that be."
+      },
+      "after": "79a9d52b3650f47c",
+      "date": 1504277766950,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1504277943470
+    },
+    {
+      "type": "add",
+      "id": "48f1676a9e6f97fc",
+      "item": {
+        "type": "paragraph",
+        "id": "48f1676a9e6f97fc",
+        "text": "I found out today that I am an excellent orator. "
+      },
+      "after": "5777f537c2a50d09",
+      "date": 1504335674837,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1504335729655
+    }
+  ]
+}
