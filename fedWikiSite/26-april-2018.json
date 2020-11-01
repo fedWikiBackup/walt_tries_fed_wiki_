@@ -1,0 +1,49 @@
+{
+  "title": "26-april-2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "88b313e66ca7f5c4",
+      "text": "Life after your dog dies is different than before your dig died. It is not better. In fact, it is worse. Yet every dog we \"own\" will almost certainly die before us. The good times before death make the bad times after worth it. Right?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26-april-2018",
+        "story": []
+      },
+      "date": 1524780579209
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "88b313e66ca7f5c4"
+      },
+      "id": "88b313e66ca7f5c4",
+      "type": "add",
+      "date": 1524780580246
+    },
+    {
+      "type": "edit",
+      "id": "88b313e66ca7f5c4",
+      "item": {
+        "type": "paragraph",
+        "id": "88b313e66ca7f5c4",
+        "text": "Life after your dog dies is different than before your dig died. It is not better. In fact, it is worse. Yet every dog we \"own\" will almost certainly die before us. The good times before death make the bad times worth it. "
+      },
+      "date": 1524780818693
+    },
+    {
+      "type": "edit",
+      "id": "88b313e66ca7f5c4",
+      "item": {
+        "type": "paragraph",
+        "id": "88b313e66ca7f5c4",
+        "text": "Life after your dog dies is different than before your dig died. It is not better. In fact, it is worse. Yet every dog we \"own\" will almost certainly die before us. The good times before death make the bad times after worth it. Right?"
+      },
+      "date": 1524781261930
+    }
+  ]
+}
