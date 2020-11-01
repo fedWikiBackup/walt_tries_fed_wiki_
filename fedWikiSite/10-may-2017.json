@@ -1,0 +1,55 @@
+{
+  "title": "10 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a0e459964c57ea62",
+      "text": "He was dissapointing. Reflecting whether the hereditary life is good or bad for society. Buffett hates it. I don't benefit from it. Leads to inbreeding. Why was I so insistent to come visit these hereditary aristocracy? Its quite dumb isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "id": "6ef9446198ca2cc9",
+      "text": "Scotland is so rural and lovely. A range between relaxing and boring. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "10 May 2017",
+        "story": []
+      },
+      "date": 1494444621898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0e459964c57ea62"
+      },
+      "id": "a0e459964c57ea62",
+      "type": "add",
+      "date": 1494444623494
+    },
+    {
+      "type": "edit",
+      "id": "a0e459964c57ea62",
+      "item": {
+        "type": "paragraph",
+        "id": "a0e459964c57ea62",
+        "text": "He was dissapointing. Reflecting whether the hereditary life is good or bad for society. Buffett hates it. I don't benefit from it. Leads to inbreeding. Why was I so insistent to come visit these hereditary aristocracy? Its quite dumb isn't it?"
+      },
+      "date": 1494444717121
+    },
+    {
+      "type": "add",
+      "id": "6ef9446198ca2cc9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ef9446198ca2cc9",
+        "text": "Scotland is so rural and lovely. A range between relaxing and boring. "
+      },
+      "after": "a0e459964c57ea62",
+      "date": 1494444761920
+    }
+  ]
+}
