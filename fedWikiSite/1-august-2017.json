@@ -1,0 +1,55 @@
+{
+  "title": "1 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1c9d5f3abd4bcfa7",
+      "text": "Details for deck not great. Kerr still sad. Brittany got fired. Brief edits did not go over well. Today was not a good day. Luckily, tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "id": "cae99c923c650c41",
+      "text": "Need to spend this weekend on New Shape. Also need to finish my desk!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 August 2017",
+        "story": []
+      },
+      "date": 1501645114181
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c9d5f3abd4bcfa7"
+      },
+      "id": "1c9d5f3abd4bcfa7",
+      "type": "add",
+      "date": 1501645115121
+    },
+    {
+      "type": "edit",
+      "id": "1c9d5f3abd4bcfa7",
+      "item": {
+        "type": "paragraph",
+        "id": "1c9d5f3abd4bcfa7",
+        "text": "Details for deck not great. Kerr still sad. Brittany got fired. Brief edits did not go over well. Today was not a good day. Luckily, tomorrow."
+      },
+      "date": 1501645169579
+    },
+    {
+      "type": "add",
+      "id": "cae99c923c650c41",
+      "item": {
+        "type": "paragraph",
+        "id": "cae99c923c650c41",
+        "text": "Need to spend this weekend on New Shape. Also need to finish my desk!"
+      },
+      "after": "1c9d5f3abd4bcfa7",
+      "date": 1501645185825
+    }
+  ]
+}
