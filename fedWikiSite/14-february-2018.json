@@ -1,0 +1,39 @@
+{
+  "title": "14 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "96e0aaae87713235",
+      "text": "Today is \"Valentine's Day\" - whatever that means. A day of consumerism cloaked in a veil of love. Tis not love but lust. My participation in this day sickens me. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 February 2018",
+        "story": []
+      },
+      "date": 1518622459015
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96e0aaae87713235"
+      },
+      "id": "96e0aaae87713235",
+      "type": "add",
+      "date": 1518640436926
+    },
+    {
+      "type": "edit",
+      "id": "96e0aaae87713235",
+      "item": {
+        "type": "paragraph",
+        "id": "96e0aaae87713235",
+        "text": "Today is \"Valentine's Day\" - whatever that means. A day of consumerism cloaked in a veil of love. Tis not love but lust. My participation in this day sickens me. "
+      },
+      "date": 1518640507000
+    }
+  ]
+}
