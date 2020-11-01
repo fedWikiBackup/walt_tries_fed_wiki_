@@ -1,0 +1,39 @@
+{
+  "title": "14 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6397c1515ba22fa5",
+      "text": "RL, Nye, Billings. RL, Nye, Billings. I think it is time to sell out of Nye."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 August 2018",
+        "story": []
+      },
+      "date": 1534258943632
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6397c1515ba22fa5"
+      },
+      "id": "6397c1515ba22fa5",
+      "type": "add",
+      "date": 1534258945322
+    },
+    {
+      "type": "edit",
+      "id": "6397c1515ba22fa5",
+      "item": {
+        "type": "paragraph",
+        "id": "6397c1515ba22fa5",
+        "text": "RL, Nye, Billings. RL, Nye, Billings. I think it is time to sell out of Nye."
+      },
+      "date": 1534258967859
+    }
+  ]
+}
