@@ -1,0 +1,39 @@
+{
+  "title": "21 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1a115d5e050b5928",
+      "text": "Definitely spoke too soon about recovery. Ended up with a fever yesterday and at the doctor's office. Ended up with an infection and a prescription for antibiotics. Not feeling 100%, but hopefully will be soon!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 November 2017",
+        "story": []
+      },
+      "date": 1511285566162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a115d5e050b5928"
+      },
+      "id": "1a115d5e050b5928",
+      "type": "add",
+      "date": 1511285567183
+    },
+    {
+      "type": "edit",
+      "id": "1a115d5e050b5928",
+      "item": {
+        "type": "paragraph",
+        "id": "1a115d5e050b5928",
+        "text": "Definitely spoke too soon about recovery. Ended up with a fever yesterday and at the doctor's office. Ended up with an infection and a prescription for antibiotics. Not feeling 100%, but hopefully will be soon!"
+      },
+      "date": 1511285641283
+    }
+  ]
+}
