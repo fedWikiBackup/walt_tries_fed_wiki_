@@ -1,0 +1,39 @@
+{
+  "title": "6 June 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ca7515061364e4f5",
+      "text": "Today I head to Glendive for interviews. This will be my first time in glorious Glendive. I do not have high hopes for the town. We will see."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 June 2018",
+        "story": []
+      },
+      "date": 1528300875514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca7515061364e4f5"
+      },
+      "id": "ca7515061364e4f5",
+      "type": "add",
+      "date": 1528300877054
+    },
+    {
+      "type": "edit",
+      "id": "ca7515061364e4f5",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7515061364e4f5",
+        "text": "Today I head to Glendive for interviews. This will be my first time in glorious Glendive. I do not have high hopes for the town. We will see."
+      },
+      "date": 1528300929016
+    }
+  ]
+}
