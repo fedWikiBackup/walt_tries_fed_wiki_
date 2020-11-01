@@ -1,0 +1,75 @@
+{
+  "title": "Allogamy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "978fdd0b41feeb62",
+      "text": "The opposite of Antogamy, a system of relationship structures Walter is developing to replace Monogamy."
+    },
+    {
+      "type": "paragraph",
+      "id": "94a1ac1661acee0e",
+      "text": "See also [[Autopoiesis]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Allogamy",
+        "story": []
+      },
+      "date": 1488061518350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "978fdd0b41feeb62"
+      },
+      "id": "978fdd0b41feeb62",
+      "type": "add",
+      "date": 1488061520633
+    },
+    {
+      "type": "edit",
+      "id": "978fdd0b41feeb62",
+      "item": {
+        "type": "paragraph",
+        "id": "978fdd0b41feeb62",
+        "text": "The opposite of Antogamy, a system of relationship structures"
+      },
+      "date": 1488061535843
+    },
+    {
+      "type": "edit",
+      "id": "978fdd0b41feeb62",
+      "item": {
+        "type": "paragraph",
+        "id": "978fdd0b41feeb62",
+        "text": "The opposite of Antogamy, a system of relationship structures Walter is developing to replace Monogamy."
+      },
+      "date": 1488061538291
+    },
+    {
+      "type": "add",
+      "id": "94a1ac1661acee0e",
+      "item": {
+        "type": "paragraph",
+        "id": "94a1ac1661acee0e",
+        "text": "See also [https://en.wikipedia.org/wiki/Autopoiesis Autopoiesis]"
+      },
+      "after": "978fdd0b41feeb62",
+      "date": 1488931212040
+    },
+    {
+      "type": "edit",
+      "id": "94a1ac1661acee0e",
+      "item": {
+        "type": "paragraph",
+        "id": "94a1ac1661acee0e",
+        "text": "See also [[Autopoiesis]]"
+      },
+      "date": 1502089325059
+    }
+  ]
+}
