@@ -1,0 +1,39 @@
+{
+  "title": "Education",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a8a1fe973c52736a",
+      "text": "[[https://en.wikipedia.org/wiki/History_of_education_in_the_United_States#History Education in America]] is in need of great reform. Where should we start?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Education",
+        "story": []
+      },
+      "date": 1489009003338
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8a1fe973c52736a"
+      },
+      "id": "a8a1fe973c52736a",
+      "type": "add",
+      "date": 1489009004991
+    },
+    {
+      "type": "edit",
+      "id": "a8a1fe973c52736a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8a1fe973c52736a",
+        "text": "[[https://en.wikipedia.org/wiki/History_of_education_in_the_United_States#History Education in America]] is in need of great reform. Where should we start?"
+      },
+      "date": 1489009032228
+    }
+  ]
+}
