@@ -1,0 +1,75 @@
+{
+  "title": "Existential Risk",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b974ae868611a4a5",
+      "text": "[http://www.existential-risk.org/ The Future of Humanity Institute] indicates that the expected cost of low frequency, high impact risks are far higher than our current level of investment in understanding and mitigating such risks."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f7c51be0daffea1",
+      "text": "Another good article on the subject [https://aeon.co/essays/will-humans-be-around-in-a-billion-years-or-a-trillion here]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Existential Risk",
+        "story": []
+      },
+      "date": 1489007894431
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b974ae868611a4a5"
+      },
+      "id": "b974ae868611a4a5",
+      "type": "add",
+      "date": 1489007896262
+    },
+    {
+      "type": "edit",
+      "id": "b974ae868611a4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b974ae868611a4a5",
+        "text": "http://www.existential-risk.org/"
+      },
+      "date": 1489007903941
+    },
+    {
+      "type": "edit",
+      "id": "b974ae868611a4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b974ae868611a4a5",
+        "text": "[http://www.existential-risk.org/ The Future of Humanity Institute] indicates that the expected cost of low frequency, high impact risks are far higher than our current level of investment in understanding and mitigating such risks."
+      },
+      "date": 1489008023264
+    },
+    {
+      "type": "add",
+      "id": "5f7c51be0daffea1",
+      "item": {
+        "type": "paragraph",
+        "id": "5f7c51be0daffea1",
+        "text": "Another good article on the subject[https://aeon.co/essays/will-humans-be-around-in-a-billion-years-or-a-trillion here]"
+      },
+      "after": "b974ae868611a4a5",
+      "date": 1489008738328
+    },
+    {
+      "type": "edit",
+      "id": "5f7c51be0daffea1",
+      "item": {
+        "type": "paragraph",
+        "id": "5f7c51be0daffea1",
+        "text": "Another good article on the subject [https://aeon.co/essays/will-humans-be-around-in-a-billion-years-or-a-trillion here]"
+      },
+      "date": 1489008744599
+    }
+  ]
+}
