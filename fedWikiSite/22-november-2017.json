@@ -1,0 +1,39 @@
+{
+  "title": "22 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b5dd179db791ea87",
+      "text": "Were it not for pure sadness, I would not know joy. Were it not for pain, I would not know comfort. I relish in knowing that the beginning will end, and that this too shall pass. Breathe. Again. And again. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 November 2017",
+        "story": []
+      },
+      "date": 1511385724077
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5dd179db791ea87"
+      },
+      "id": "b5dd179db791ea87",
+      "type": "add",
+      "date": 1511385725143
+    },
+    {
+      "type": "edit",
+      "id": "b5dd179db791ea87",
+      "item": {
+        "type": "paragraph",
+        "id": "b5dd179db791ea87",
+        "text": "Were it not for pure sadness, I would not know joy. Were it not for pain, I would not know comfort. I relish in knowing that the beginning will end, and that this too shall pass. Breathe. Again. And again. "
+      },
+      "date": 1511385787516
+    }
+  ]
+}
