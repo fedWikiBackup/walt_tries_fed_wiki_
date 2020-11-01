@@ -1,0 +1,39 @@
+{
+  "title": "26 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "418b553fdb944740",
+      "text": "Back in the saddle again. Settled the matter in Great Falls. Bitter sweet for sure. But it is done. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 February 2018",
+        "story": []
+      },
+      "date": 1519665404767
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "418b553fdb944740"
+      },
+      "id": "418b553fdb944740",
+      "type": "add",
+      "date": 1519665405952
+    },
+    {
+      "type": "edit",
+      "id": "418b553fdb944740",
+      "item": {
+        "type": "paragraph",
+        "id": "418b553fdb944740",
+        "text": "Back in the saddle again. Settled the matter in Great Falls. Bitter sweet for sure. But it is done. "
+      },
+      "date": 1519665438178
+    }
+  ]
+}
