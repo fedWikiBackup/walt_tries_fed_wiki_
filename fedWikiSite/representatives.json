@@ -1,0 +1,49 @@
+{
+  "title": "Representatives",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "577752d09ac402a1",
+      "text": "The member of the [[House]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Representatives",
+        "story": []
+      },
+      "date": 1502087119109
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "577752d09ac402a1"
+      },
+      "id": "577752d09ac402a1",
+      "type": "add",
+      "date": 1502087120249
+    },
+    {
+      "type": "edit",
+      "id": "577752d09ac402a1",
+      "item": {
+        "type": "paragraph",
+        "id": "577752d09ac402a1",
+        "text": "The member of the House."
+      },
+      "date": 1502087128280
+    },
+    {
+      "type": "edit",
+      "id": "577752d09ac402a1",
+      "item": {
+        "type": "paragraph",
+        "id": "577752d09ac402a1",
+        "text": "The member of the [[House]]."
+      },
+      "date": 1502087149279
+    }
+  ]
+}
