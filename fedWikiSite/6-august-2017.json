@@ -1,0 +1,356 @@
+{
+  "title": "6 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e651022f65df0455",
+      "text": "A scaling law of the fractal dimension is a \"Self-similar fractal pattern that repeats itself across all time scales following a power law that can be quantified by its exponent\""
+    },
+    {
+      "type": "paragraph",
+      "id": "2511f4dcfb52477e",
+      "text": "A [[city]] is a self sustaining unit of humans."
+    },
+    {
+      "type": "paragraph",
+      "id": "d5ac9b00d234fd34",
+      "text": "Systems benefit from a larger fractal dimension. It is healthier for a heart, or pulse (in EKG) to have more variation in beat strength. This allows flexibility for shocks and perturbations in the system. 6:13:00 in audio book. Also see 6:39:00."
+    },
+    {
+      "type": "paragraph",
+      "id": "377321637d37ed10",
+      "text": "All animals have roughly 15 branching levels of non-pulsatile DC. W have 7-8, whale 16-17, and shrew has 1 pulsatile  levels. Most blood pressure goes into pressure in DC level. Proportion of network that expends most of its total energy systematically decreases as size of the animal increases. Smallest possible animal limited by inefficiency in loss of impedance matching. Without AC/DC split, there would be no evolutionary advantage to increasing size. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ff372c0991a5e275",
+      "text": "Weight of animal increases quicker than strength of limbs."
+    },
+    {
+      "type": "paragraph",
+      "id": "f66136f712f57a8a",
+      "text": "Greatest stress happens in times of transition and movement - like running for life. This is limit of size of biological systems. What is \"running for life\" in city? It is independence from global economic supply chain at moments of dire need."
+    },
+    {
+      "type": "paragraph",
+      "id": "7a5b23af8d117caa",
+      "text": "Ontogenetic growth."
+    },
+    {
+      "type": "paragraph",
+      "id": "93e49fd718f04411",
+      "text": "Determinate  v. indeterminate growth. Tress and fish never stop growing. Humans do. He hypothesizes that indeterminate growers never reach their stable size? Much of trees is dead. "
+    },
+    {
+      "type": "paragraph",
+      "id": "56d4664dd33cbbd2",
+      "text": "Because metabolic energy is apportioned between creation of new cells and maintenance of existing cells. Maintenance needs increases linearly with size of animals and number of cells, but metabolic rate scales sub-linearly at 1/4 power exponent. This difference plays large role in growth. As need for maintenance grows, availability of energy for new cells decreases to zero. This is why we grow quickly and then less quickly (it is exponential decay of speed)."
+    },
+    {
+      "type": "paragraph",
+      "id": "2102611258cfa2c5",
+      "text": "Entire flow goes through entire network. Capillaries must thus service all individual cells, and eventually the capillaries (which scale sub-linearly) cannot keep up with number of cells (due to hypoxia). "
+    },
+    {
+      "type": "paragraph",
+      "id": "450e8a5d755cfa5f",
+      "text": "Ch. 8-9 are cities. And comparison to ants and bee colonies."
+    },
+    {
+      "type": "paragraph",
+      "id": "9f368ad91f722a5e",
+      "text": ".065 ev is production of energy by molecule of ATP."
+    },
+    {
+      "type": "paragraph",
+      "id": "cf1a281b26f744b0",
+      "text": "I genuinely think than [https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582 Geoffrey West's Scale] will as important to our advancement as Darwin's on the origin of the species. "
+    },
+    {
+      "type": "html",
+      "id": "868ee6a4ea43c1ef",
+      "text": "I remember what it felt like to be Brandon's Stark, but I remember so much else now. "
+    },
+    {
+      "type": "factory",
+      "id": "76b875fd6534fa9b"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 August 2017",
+        "story": []
+      },
+      "date": 1502043315720
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e651022f65df0455"
+      },
+      "id": "e651022f65df0455",
+      "type": "add",
+      "date": 1502043317007
+    },
+    {
+      "type": "edit",
+      "id": "e651022f65df0455",
+      "item": {
+        "type": "paragraph",
+        "id": "e651022f65df0455",
+        "text": "A scaling law of the fractal dimension is a \"Self-similar fractal pattern that repeats itself across all time scales following a power law that can be quantified by its exponent\""
+      },
+      "date": 1502045335229
+    },
+    {
+      "type": "add",
+      "id": "d5ac9b00d234fd34",
+      "item": {
+        "type": "paragraph",
+        "id": "d5ac9b00d234fd34",
+        "text": "Systems benefit from a larger "
+      },
+      "after": "e651022f65df0455",
+      "date": 1502045349015
+    },
+    {
+      "type": "edit",
+      "id": "d5ac9b00d234fd34",
+      "item": {
+        "type": "paragraph",
+        "id": "d5ac9b00d234fd34",
+        "text": "Systems benefit from a larger fractal dimension. It is healthier for a heart, or pulse (in EKG) to have more variation in beat strength. This allows flexibility for shocks and perturbations in the system."
+      },
+      "date": 1502045498882
+    },
+    {
+      "type": "add",
+      "id": "cf1a281b26f744b0",
+      "item": {
+        "type": "paragraph",
+        "id": "cf1a281b26f744b0",
+        "text": "I genuinely think than [https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582 Geoffrey West's Scale] will as important to our advancement as Darwin's on the origin of the species. "
+      },
+      "after": "d5ac9b00d234fd34",
+      "date": 1502045564590
+    },
+    {
+      "type": "edit",
+      "id": "d5ac9b00d234fd34",
+      "item": {
+        "type": "paragraph",
+        "id": "d5ac9b00d234fd34",
+        "text": "Systems benefit from a larger fractal dimension. It is healthier for a heart, or pulse (in EKG) to have more variation in beat strength. This allows flexibility for shocks and perturbations in the system. 6:13:00 in audio book. Also see 6:39:00."
+      },
+      "date": 1502046453206
+    },
+    {
+      "type": "add",
+      "id": "377321637d37ed10",
+      "item": {
+        "type": "paragraph",
+        "id": "377321637d37ed10",
+        "text": "All animals have roughly 15 branching levels of non-pulsatile DC. W have 7-8, whale 16-17, and shrew has 1 pulsatile  levels. Most blood pressure goes into pressure in DC level. Proportion of network that expends most of its total energy systematically decreases as size of the animal increases. Smallest possible animal limited by inefficiency in loss of impedance matching. Without AC/DC split, there would be no evolutionary advantage to increasing size. "
+      },
+      "after": "d5ac9b00d234fd34",
+      "date": 1502046909631
+    },
+    {
+      "type": "add",
+      "id": "ff372c0991a5e275",
+      "item": {
+        "type": "paragraph",
+        "id": "ff372c0991a5e275",
+        "text": "Weight of animal increases quicker than strength of limbs."
+      },
+      "after": "377321637d37ed10",
+      "date": 1502046944534
+    },
+    {
+      "type": "add",
+      "id": "f66136f712f57a8a",
+      "item": {
+        "type": "paragraph",
+        "id": "f66136f712f57a8a",
+        "text": "Greatest stress happens in times of transition and movement - like running for life. This is limit of size of biological systems. What is \"running for life\" in city? It is independence from global economic supply chain at moments of dire need."
+      },
+      "after": "ff372c0991a5e275",
+      "date": 1502048042454
+    },
+    {
+      "type": "add",
+      "id": "7a5b23af8d117caa",
+      "item": {
+        "type": "paragraph",
+        "id": "7a5b23af8d117caa",
+        "text": "Auto-genetic gro  v. indeterminate growth. Tress never stop growing. "
+      },
+      "after": "f66136f712f57a8a",
+      "date": 1502048369965
+    },
+    {
+      "type": "edit",
+      "id": "7a5b23af8d117caa",
+      "item": {
+        "type": "paragraph",
+        "id": "7a5b23af8d117caa",
+        "text": "Ontogenetic growth."
+      },
+      "date": 1502048400550
+    },
+    {
+      "type": "add",
+      "id": "93e49fd718f04411",
+      "item": {
+        "type": "paragraph",
+        "id": "93e49fd718f04411",
+        "text": "Determinate  v. indeterminate growth. Tress and fish never stop growing. Humans do. He hypothesizes that indeterminate growers never reach their stable size?"
+      },
+      "after": "7a5b23af8d117caa",
+      "date": 1502048452366
+    },
+    {
+      "type": "add",
+      "id": "56d4664dd33cbbd2",
+      "item": {
+        "type": "paragraph",
+        "id": "56d4664dd33cbbd2",
+        "text": "Because metabolic energy is apportioned between creation of new cells and maintenance of existing cells. Maintenance needs increases linearly with size of animals and number of cells, but metabolic rate scales sublinearly at 1/4 power exponent. This difference plays large role in growth. As need for maintenance grows, availability of energy for new cells decreases to zero."
+      },
+      "after": "93e49fd718f04411",
+      "date": 1502048704096
+    },
+    {
+      "type": "add",
+      "id": "2102611258cfa2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "2102611258cfa2c5",
+        "text": "Entire flow goes through entire network. Capillaries must thus service all individual cells, and eventually the capillaries (which scale sub-linearly) cannot keep up with number of cells (due to hypoxia). "
+      },
+      "after": "56d4664dd33cbbd2",
+      "date": 1502048800691
+    },
+    {
+      "type": "edit",
+      "id": "56d4664dd33cbbd2",
+      "item": {
+        "type": "paragraph",
+        "id": "56d4664dd33cbbd2",
+        "text": "Because metabolic energy is apportioned between creation of new cells and maintenance of existing cells. Maintenance needs increases linearly with size of animals and number of cells, but metabolic rate scales sub-linearly at 1/4 power exponent. This difference plays large role in growth. As need for maintenance grows, availability of energy for new cells decreases to zero. This is why we grow quickly and then less quickly (it is exponential decay of speed)."
+      },
+      "date": 1502048979991
+    },
+    {
+      "type": "add",
+      "id": "450e8a5d755cfa5f",
+      "item": {
+        "type": "paragraph",
+        "id": "450e8a5d755cfa5f",
+        "text": "Ch. 8-9 are cities. And comparison to ants and bee colonies."
+      },
+      "after": "2102611258cfa2c5",
+      "date": 1502049018671
+    },
+    {
+      "type": "edit",
+      "id": "93e49fd718f04411",
+      "item": {
+        "type": "paragraph",
+        "id": "93e49fd718f04411",
+        "text": "Determinate  v. indeterminate growth. Tress and fish never stop growing. Humans do. He hypothesizes that indeterminate growers never reach their stable size? Much of trees is dead. "
+      },
+      "date": 1502049458526
+    },
+    {
+      "type": "add",
+      "id": "9f368ad91f722a5e",
+      "item": {
+        "type": "paragraph",
+        "id": "9f368ad91f722a5e",
+        "text": ".065 ev is production of energy by molecule of ATP."
+      },
+      "after": "450e8a5d755cfa5f",
+      "date": 1502051863661
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "868ee6a4ea43c1ef"
+      },
+      "id": "868ee6a4ea43c1ef",
+      "type": "add",
+      "after": "cf1a281b26f744b0",
+      "date": 1502073617128
+    },
+    {
+      "type": "edit",
+      "id": "868ee6a4ea43c1ef",
+      "item": {
+        "type": "html",
+        "id": "868ee6a4ea43c1ef",
+        "text": "I remember what it felt like to be Brandon's Stark, but I remember so much else now. "
+      },
+      "date": 1502073656004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "86199e823ce18437"
+      },
+      "id": "86199e823ce18437",
+      "type": "add",
+      "after": "868ee6a4ea43c1ef",
+      "date": 1502077344007
+    },
+    {
+      "type": "move",
+      "order": [
+        "e651022f65df0455",
+        "d5ac9b00d234fd34",
+        "377321637d37ed10",
+        "ff372c0991a5e275",
+        "f66136f712f57a8a",
+        "7a5b23af8d117caa",
+        "93e49fd718f04411",
+        "56d4664dd33cbbd2",
+        "2102611258cfa2c5",
+        "450e8a5d755cfa5f",
+        "9f368ad91f722a5e",
+        "cf1a281b26f744b0",
+        "86199e823ce18437",
+        "868ee6a4ea43c1ef"
+      ],
+      "id": "86199e823ce18437",
+      "date": 1502077345807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76b875fd6534fa9b"
+      },
+      "id": "76b875fd6534fa9b",
+      "type": "add",
+      "after": "868ee6a4ea43c1ef",
+      "date": 1502077389592
+    },
+    {
+      "type": "remove",
+      "id": "86199e823ce18437",
+      "date": 1502077567826
+    },
+    {
+      "type": "add",
+      "id": "2511f4dcfb52477e",
+      "item": {
+        "type": "paragraph",
+        "id": "2511f4dcfb52477e",
+        "text": "A [[city]] is a self sustaining unit of humans."
+      },
+      "after": "e651022f65df0455",
+      "date": 1502077894430
+    }
+  ]
+}
