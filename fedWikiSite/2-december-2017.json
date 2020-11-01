@@ -1,0 +1,55 @@
+{
+  "title": "2 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f69185892a61f4d0",
+      "text": "Soooo much snow. Terrible driving conditions. Didn't make it into Billings, even though I intended to. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7ff583921d53df1f",
+      "text": "I used to love Christmas. Now I am a bit of a Grinch. I hope to find myself somewhere in the middle. Neither loving nor hating Christmas - just observing the spirit and energy of the season without judgement."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 December 2017",
+        "story": []
+      },
+      "date": 1512403773669
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f69185892a61f4d0"
+      },
+      "id": "f69185892a61f4d0",
+      "type": "add",
+      "date": 1512403775035
+    },
+    {
+      "type": "edit",
+      "id": "f69185892a61f4d0",
+      "item": {
+        "type": "paragraph",
+        "id": "f69185892a61f4d0",
+        "text": "Soooo much snow. Terrible driving conditions. Didn't make it into Billings, even though I intended to. "
+      },
+      "date": 1512403801600
+    },
+    {
+      "type": "add",
+      "id": "7ff583921d53df1f",
+      "item": {
+        "type": "paragraph",
+        "id": "7ff583921d53df1f",
+        "text": "I used to love Christmas. Now I am a bit of a Grinch. I hope to find myself somewhere in the middle. Neither loving nor hating Christmas - just observing the spirit and energy of the season without judgement."
+      },
+      "after": "f69185892a61f4d0",
+      "date": 1512403865150
+    }
+  ]
+}
