@@ -1,0 +1,49 @@
+{
+  "title": "18 January 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "59de773e1ffe26e9",
+      "text": "Today was better than yesterday. Tomorrow will be even better. Kamila is sick and has a bum knee. That is sad. I am thankful for her. I wish I had more strength to always keep my back straight."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 January 2017",
+        "story": []
+      },
+      "date": 1516294861163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59de773e1ffe26e9"
+      },
+      "id": "59de773e1ffe26e9",
+      "type": "add",
+      "date": 1516294862298
+    },
+    {
+      "type": "edit",
+      "id": "59de773e1ffe26e9",
+      "item": {
+        "type": "paragraph",
+        "id": "59de773e1ffe26e9",
+        "text": "Today was better than yesterday. Tomorrow will be even better. Kamila is sick and has a bum knee. That is sad. I wish I had more strength to always keep my back straight."
+      },
+      "date": 1516294910572
+    },
+    {
+      "type": "edit",
+      "id": "59de773e1ffe26e9",
+      "item": {
+        "type": "paragraph",
+        "id": "59de773e1ffe26e9",
+        "text": "Today was better than yesterday. Tomorrow will be even better. Kamila is sick and has a bum knee. That is sad. I am thankful for her. I wish I had more strength to always keep my back straight."
+      },
+      "date": 1516294919984
+    }
+  ]
+}
