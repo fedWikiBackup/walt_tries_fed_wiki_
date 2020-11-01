@@ -1,0 +1,71 @@
+{
+  "title": "2 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d47ff9a1a2124023",
+      "text": "Met with local businessmen for breakfast and coffee. Very fruitful. Then made progress on the brief and joined the federated wiki weekly meeting."
+    },
+    {
+      "type": "paragraph",
+      "id": "6256753ec783309b",
+      "text": "Much of what they say is over my head, but nuggets of it are not - which is very exciting. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4b94d2c57ba6cf2e",
+      "text": "Need to work on New Shape and get a version to Ward et. al. for review."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 August 2017",
+        "story": []
+      },
+      "date": 1501695548064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d47ff9a1a2124023"
+      },
+      "id": "d47ff9a1a2124023",
+      "type": "add",
+      "date": 1501695549087
+    },
+    {
+      "type": "edit",
+      "id": "d47ff9a1a2124023",
+      "item": {
+        "type": "paragraph",
+        "id": "d47ff9a1a2124023",
+        "text": "Met with local businessmen for breakfast and coffee. Very fruitful. Then made progress on the brief and joined the federated wiki weekly meeting."
+      },
+      "date": 1501695754861
+    },
+    {
+      "type": "add",
+      "id": "6256753ec783309b",
+      "item": {
+        "type": "paragraph",
+        "id": "6256753ec783309b",
+        "text": "Much of what they say is over my head, but nuggets of it are not - which is very exciting. "
+      },
+      "after": "d47ff9a1a2124023",
+      "date": 1501695825848
+    },
+    {
+      "type": "add",
+      "id": "4b94d2c57ba6cf2e",
+      "item": {
+        "type": "paragraph",
+        "id": "4b94d2c57ba6cf2e",
+        "text": "Need to work on New Shape and get a version to Ward et. al. for review."
+      },
+      "after": "6256753ec783309b",
+      "date": 1501695846030
+    }
+  ]
+}
