@@ -1,0 +1,158 @@
+{
+  "title": "Walter's Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "83ff99344d6135bf",
+      "text": "Read my [[2017 Comments]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "cfd6be66c8bc1dc9",
+      "text": "Read my [[2017 Free Writing]] or [[2018 Free Writing]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bfea0853f8e0b7f",
+      "text": "[[Dear America]] is a short read."
+    },
+    {
+      "type": "paragraph",
+      "id": "7e042ef1867b5bde",
+      "text": "[[This]] is a longer read."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter's Journal",
+        "story": []
+      },
+      "date": 1489004684501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83ff99344d6135bf"
+      },
+      "id": "83ff99344d6135bf",
+      "type": "add",
+      "date": 1489004686138
+    },
+    {
+      "type": "edit",
+      "id": "83ff99344d6135bf",
+      "item": {
+        "type": "paragraph",
+        "id": "83ff99344d6135bf",
+        "text": "Read my [[2017 Comments]]."
+      },
+      "date": 1489004716923
+    },
+    {
+      "type": "add",
+      "id": "a35aa9cab3886a16",
+      "item": {
+        "type": "paragraph",
+        "id": "a35aa9cab3886a16",
+        "text": "We intend to replace the comment section of blogs here."
+      },
+      "after": "83ff99344d6135bf",
+      "date": 1489004741790
+    },
+    {
+      "type": "move",
+      "order": [
+        "a35aa9cab3886a16",
+        "83ff99344d6135bf"
+      ],
+      "id": "a35aa9cab3886a16",
+      "date": 1489004743388
+    },
+    {
+      "type": "add",
+      "id": "cfd6be66c8bc1dc9",
+      "item": {
+        "type": "paragraph",
+        "id": "cfd6be66c8bc1dc9",
+        "text": "Read my [[2017 Free Writing]]."
+      },
+      "after": "83ff99344d6135bf",
+      "date": 1489004761856
+    },
+    {
+      "type": "remove",
+      "id": "a35aa9cab3886a16",
+      "date": 1489004769025
+    },
+    {
+      "type": "add",
+      "id": "6bfea0853f8e0b7f",
+      "item": {
+        "type": "paragraph",
+        "id": "6bfea0853f8e0b7f",
+        "text": "[[Dear America]] is a short read."
+      },
+      "after": "cfd6be66c8bc1dc9",
+      "date": 1502070190402
+    },
+    {
+      "type": "add",
+      "id": "7e042ef1867b5bde",
+      "item": {
+        "type": "paragraph",
+        "id": "7e042ef1867b5bde",
+        "text": "[This] is a longer read."
+      },
+      "after": "6bfea0853f8e0b7f",
+      "date": 1502077911077
+    },
+    {
+      "type": "add",
+      "id": "67d97d0f68e29168",
+      "item": {
+        "type": "paragraph",
+        "id": "67d97d0f68e29168",
+        "text": "A city is a self sustaining unit of humans."
+      },
+      "after": "7e042ef1867b5bde",
+      "date": 1502077916847
+    },
+    {
+      "type": "edit",
+      "id": "7e042ef1867b5bde",
+      "item": {
+        "type": "paragraph",
+        "id": "7e042ef1867b5bde",
+        "text": "[[This]] is a longer read."
+      },
+      "date": 1502077920894
+    },
+    {
+      "type": "edit",
+      "id": "67d97d0f68e29168",
+      "item": {
+        "type": "paragraph",
+        "id": "67d97d0f68e29168",
+        "text": "A [[city]] is a self sustaining unit of humans."
+      },
+      "date": 1502080442505
+    },
+    {
+      "type": "remove",
+      "id": "67d97d0f68e29168",
+      "date": 1502147412931
+    },
+    {
+      "type": "edit",
+      "id": "cfd6be66c8bc1dc9",
+      "item": {
+        "type": "paragraph",
+        "id": "cfd6be66c8bc1dc9",
+        "text": "Read my [[2017 Free Writing]] or [[2018 Free Writing]]."
+      },
+      "date": 1514914764316
+    }
+  ]
+}
