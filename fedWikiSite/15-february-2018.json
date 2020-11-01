@@ -1,0 +1,39 @@
+{
+  "title": "15 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fd6f5de9451fd155",
+      "text": "Roads were bad this morning. Meeting at 12 cut short. Time is marching towards March. Skiing flowing towards my near future. Yay!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 February 2018",
+        "story": []
+      },
+      "date": 1518716106644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd6f5de9451fd155"
+      },
+      "id": "fd6f5de9451fd155",
+      "type": "add",
+      "date": 1518716107678
+    },
+    {
+      "type": "edit",
+      "id": "fd6f5de9451fd155",
+      "item": {
+        "type": "paragraph",
+        "id": "fd6f5de9451fd155",
+        "text": "Roads were bad this morning. Meeting at 12 cut short. Time is marching towards March. Skiing flowing towards my near future. Yay!"
+      },
+      "date": 1518716149602
+    }
+  ]
+}
