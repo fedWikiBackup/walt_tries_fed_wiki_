@@ -1,0 +1,55 @@
+{
+  "title": "31 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "691d64defcf60fa9",
+      "text": "Reading the Da Vinci Code and wound up down a wiki rabbit hole that led me to https://www.rosicrucian.org/"
+    },
+    {
+      "type": "paragraph",
+      "id": "eaea9a424e21edf7",
+      "text": "Ancient wisdom and all that. But if there is some truth in the teachings - then I should try to import some here. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "31 January 2018",
+        "story": []
+      },
+      "date": 1517421276146
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "691d64defcf60fa9"
+      },
+      "id": "691d64defcf60fa9",
+      "type": "add",
+      "date": 1517421277111
+    },
+    {
+      "type": "edit",
+      "id": "691d64defcf60fa9",
+      "item": {
+        "type": "paragraph",
+        "id": "691d64defcf60fa9",
+        "text": "Reading the Da Vinci Code and wound up down a wiki rabbit hole that led me to https://www.rosicrucian.org/"
+      },
+      "date": 1517421306219
+    },
+    {
+      "type": "add",
+      "id": "eaea9a424e21edf7",
+      "item": {
+        "type": "paragraph",
+        "id": "eaea9a424e21edf7",
+        "text": "Ancient wisdom and all that. But if there is some truth in the teachings - then I should try to import some here. "
+      },
+      "after": "691d64defcf60fa9",
+      "date": 1517421340742
+    }
+  ]
+}
