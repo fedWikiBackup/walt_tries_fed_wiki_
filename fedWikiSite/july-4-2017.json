@@ -1,0 +1,38 @@
+{
+  "title": "July 4 2017",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "July 4 2017",
+        "story": []
+      },
+      "date": 1499207131766
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c8b0435051a17e3"
+      },
+      "id": "6c8b0435051a17e3",
+      "type": "add",
+      "date": 1499207133379
+    },
+    {
+      "type": "edit",
+      "id": "6c8b0435051a17e3",
+      "item": {
+        "type": "markdown",
+        "id": "6c8b0435051a17e3",
+        "text": "Well. America the beautiful is in the midst of a struggle. \n\nWent to the MoMA today and saw frank Lloyd Wright exhibition. It made me think about three things. \n\n1.  Ornament and it's place in construction and the ornamental quality of nature. \n2. Taproot skyscrapers and tiny farms. \n3. The idea of. Natural, naturalized, and invasive species. \n\n\nI also saw a Rothko I love, reminded me of the emotional qualities of color. \n\nThinking back on StormKing, I wonder what color I will paint the steel for the deck. "
+      },
+      "date": 1499207415870
+    },
+    {
+      "type": "remove",
+      "id": "6c8b0435051a17e3",
+      "date": 1499269869422
+    }
+  ]
+}
