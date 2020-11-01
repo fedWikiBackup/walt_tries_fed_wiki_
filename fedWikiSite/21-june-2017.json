@@ -1,0 +1,55 @@
+{
+  "title": "21 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f1b072065a22b5cc",
+      "text": "My throat feels like I am going to get strep again? So odd. Totally gone yesterday. Today, back in full force. Perhaps an allergic reaction to one of the new supplements?"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef6de4154d230c0e",
+      "text": "Lots of things happening today - about to depart for the next two weeks on Sunday - so much to do before them. Leaving for NY bar swearing in ceremony, then John and Kelsey Wedding. Very exciting stuff."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 June 2017",
+        "story": []
+      },
+      "date": 1498062544746
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1b072065a22b5cc"
+      },
+      "id": "f1b072065a22b5cc",
+      "type": "add",
+      "date": 1498062556473
+    },
+    {
+      "type": "edit",
+      "id": "f1b072065a22b5cc",
+      "item": {
+        "type": "paragraph",
+        "id": "f1b072065a22b5cc",
+        "text": "My throat feels like I am going to get strep again? So odd. Totally gone yesterday. Today, back in full force. Perhaps an allergic reaction to one of the new supplements?"
+      },
+      "date": 1498062591826
+    },
+    {
+      "type": "add",
+      "id": "ef6de4154d230c0e",
+      "item": {
+        "type": "paragraph",
+        "id": "ef6de4154d230c0e",
+        "text": "Lots of things happening today - about to depart for the next two weeks on Sunday - so much to do before them. Leaving for NY bar swearing in ceremony, then John and Kelsey Wedding. Very exciting stuff."
+      },
+      "after": "f1b072065a22b5cc",
+      "date": 1498062645677
+    }
+  ]
+}
