@@ -1,0 +1,91 @@
+{
+  "title": "10 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bc02369a436a6a30",
+      "text": "Had so much fun in Maine/ Danced my face off. Really a beautiful wedding filled with love. Really respect John and Kelsey. I am hopeful for their future. Very hopeful they do not end up in Maine and consider eastern shore of Michigan."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b9d14805cfb705c",
+      "text": "I do miss the Ocean, but hope that eastern shore can replace that part of me."
+    },
+    {
+      "type": "paragraph",
+      "id": "0fa786d865b6c961",
+      "text": "Sounds like Kamila will be moving to Montana at the end of the summer - which is so damn exciting. Very hopeful. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "10 July 2017",
+        "story": []
+      },
+      "date": 1499703320642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc02369a436a6a30"
+      },
+      "id": "bc02369a436a6a30",
+      "type": "add",
+      "date": 1499703321632
+    },
+    {
+      "type": "edit",
+      "id": "bc02369a436a6a30",
+      "item": {
+        "type": "paragraph",
+        "id": "bc02369a436a6a30",
+        "text": "Had so much fun in Maine/ Danced my face off. Really a beautiful wedding filled with love. Really respect John and Kelsey. I am hopeful for their future. VEry hopeful they do not end up in Maine and consider eastern shore of Michigan."
+      },
+      "date": 1499703387978
+    },
+    {
+      "type": "add",
+      "id": "2b9d14805cfb705c",
+      "item": {
+        "type": "paragraph",
+        "id": "2b9d14805cfb705c",
+        "text": "I do miss the Ocea, but hope that eastern shore can replace that part of me."
+      },
+      "after": "bc02369a436a6a30",
+      "date": 1499703417837
+    },
+    {
+      "type": "edit",
+      "id": "2b9d14805cfb705c",
+      "item": {
+        "type": "paragraph",
+        "id": "2b9d14805cfb705c",
+        "text": "I do miss the Ocean, but hope that eastern shore can replace that part of me."
+      },
+      "date": 1499703427291
+    },
+    {
+      "type": "edit",
+      "id": "bc02369a436a6a30",
+      "item": {
+        "type": "paragraph",
+        "id": "bc02369a436a6a30",
+        "text": "Had so much fun in Maine/ Danced my face off. Really a beautiful wedding filled with love. Really respect John and Kelsey. I am hopeful for their future. Very hopeful they do not end up in Maine and consider eastern shore of Michigan."
+      },
+      "date": 1499703436253
+    },
+    {
+      "type": "add",
+      "id": "0fa786d865b6c961",
+      "item": {
+        "type": "paragraph",
+        "id": "0fa786d865b6c961",
+        "text": "Sounds like Kamila will be moving to Montana at the end of the summer - which is so damn exciting. Very hopeful. "
+      },
+      "after": "2b9d14805cfb705c",
+      "date": 1499703461781
+    }
+  ]
+}
