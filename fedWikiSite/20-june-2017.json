@@ -1,0 +1,81 @@
+{
+  "title": "20 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0eb03ad2668dd397",
+      "text": "Woke up with zero sickness today. All throat frog is totally gone - amazing."
+    },
+    {
+      "type": "paragraph",
+      "id": "9165627df1c15723",
+      "text": "Also had a really productive day working on the New Shape application. Read their historical pieces and nothing was similar to what I am proposing. Yay. I think I will submit pseudonymously."
+    },
+    {
+      "type": "paragraph",
+      "id": "fac9546ca4e20d1e",
+      "text": "Meeting Ben, Brittany, and the girls for lunch, Yay!!!!  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 June 2017",
+        "story": []
+      },
+      "date": 1497979771719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0eb03ad2668dd397"
+      },
+      "id": "0eb03ad2668dd397",
+      "type": "add",
+      "date": 1497979772816
+    },
+    {
+      "type": "edit",
+      "id": "0eb03ad2668dd397",
+      "item": {
+        "type": "paragraph",
+        "id": "0eb03ad2668dd397",
+        "text": "Woke up with zero sickness today. "
+      },
+      "date": 1497979789152
+    },
+    {
+      "type": "edit",
+      "id": "0eb03ad2668dd397",
+      "item": {
+        "type": "paragraph",
+        "id": "0eb03ad2668dd397",
+        "text": "Woke up with zero sickness today. All throat frog is totally gone - amazing."
+      },
+      "date": 1497979824162
+    },
+    {
+      "type": "add",
+      "id": "9165627df1c15723",
+      "item": {
+        "type": "paragraph",
+        "id": "9165627df1c15723",
+        "text": "Also had a really productive day working on the New Shape application. Read their historical pieces and nothing was similar to what I am proposing. Yay. I think I will submit pseudonymously."
+      },
+      "after": "0eb03ad2668dd397",
+      "date": 1497979883460
+    },
+    {
+      "type": "add",
+      "id": "fac9546ca4e20d1e",
+      "item": {
+        "type": "paragraph",
+        "id": "fac9546ca4e20d1e",
+        "text": "Meeting Ben, Brittany, and the girls for lunch, Yay!!!!  "
+      },
+      "after": "9165627df1c15723",
+      "date": 1497979900508
+    }
+  ]
+}
