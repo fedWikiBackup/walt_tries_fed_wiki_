@@ -1,0 +1,38 @@
+{
+  "title": "Nodes",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Nodes",
+        "story": []
+      },
+      "date": 1502081243608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f91cbf744e9b482"
+      },
+      "id": "1f91cbf744e9b482",
+      "type": "add",
+      "date": 1502081244514
+    },
+    {
+      "type": "edit",
+      "id": "1f91cbf744e9b482",
+      "item": {
+        "type": "paragraph",
+        "id": "1f91cbf744e9b482",
+        "text": "Self-sufficient human created organism of the network that can be joined together into exponentially (1/4 power)more efficient self-sufficient organism, called module."
+      },
+      "date": 1502081354874
+    },
+    {
+      "type": "remove",
+      "id": "1f91cbf744e9b482",
+      "date": 1502090109779
+    }
+  ]
+}
