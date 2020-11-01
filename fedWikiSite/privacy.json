@@ -1,0 +1,127 @@
+{
+  "title": "Privacy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fa774558c13d2aa1",
+      "text": "A level of privacy is foundational to any society. Determining that level should be decided by the [[general assembly]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "e398f61f22ba9a78",
+      "text": "[https://theintercept.com/2017/03/13/rand-paul-is-right-nsa-routinely-monitors-americans-communications-without-warrants/ The NSA monitors communications], what does that mean for our privacy. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2a7b5392c35bb33a",
+      "text": "What if Google is collecting all of your data, would the people trust Google more or less?"
+    },
+    {
+      "type": "paragraph",
+      "id": "d866d59c78c607eb",
+      "text": "What if Google was governed by different laws?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Privacy",
+        "story": []
+      },
+      "date": 1489685789177
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa774558c13d2aa1"
+      },
+      "id": "fa774558c13d2aa1",
+      "type": "add",
+      "date": 1489685790693
+    },
+    {
+      "type": "edit",
+      "id": "fa774558c13d2aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa774558c13d2aa1",
+        "text": "[https://theintercept.com/2017/03/13/rand-paul-is-right-nsa-routinely-monitors-americans-communications-without-warrants/ The NSA monitors communications], what does that mean for our privacy. "
+      },
+      "date": 1489685829734
+    },
+    {
+      "type": "add",
+      "id": "2a7b5392c35bb33a",
+      "item": {
+        "type": "paragraph",
+        "id": "2a7b5392c35bb33a",
+        "text": "What if Google is collecting all of your data, would the people trust Google more or less?"
+      },
+      "after": "fa774558c13d2aa1",
+      "date": 1489685852172
+    },
+    {
+      "type": "add",
+      "id": "d866d59c78c607eb",
+      "item": {
+        "type": "paragraph",
+        "id": "d866d59c78c607eb",
+        "text": "What if Google was governed by different laws?"
+      },
+      "after": "2a7b5392c35bb33a",
+      "date": 1489685872004
+    },
+    {
+      "type": "edit",
+      "id": "fa774558c13d2aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa774558c13d2aa1",
+        "text": "A level of privacy is foundational to any society."
+      },
+      "date": 1502084968182
+    },
+    {
+      "type": "edit",
+      "id": "fa774558c13d2aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa774558c13d2aa1",
+        "text": "A level of privacy is foundational to any society.W"
+      },
+      "date": 1502084977468
+    },
+    {
+      "type": "add",
+      "id": "e398f61f22ba9a78",
+      "item": {
+        "type": "paragraph",
+        "id": "e398f61f22ba9a78",
+        "text": "[https://theintercept.com/2017/03/13/rand-paul-is-right-nsa-routinely-monitors-americans-communications-without-warrants/ The NSA monitors communications], what does that mean for our privacy. "
+      },
+      "after": "fa774558c13d2aa1",
+      "date": 1502084979519
+    },
+    {
+      "type": "edit",
+      "id": "fa774558c13d2aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa774558c13d2aa1",
+        "text": "A level of privacy is foundational to any society. Determining that level should be decided by the lowest level of government."
+      },
+      "date": 1502085008053
+    },
+    {
+      "type": "edit",
+      "id": "fa774558c13d2aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa774558c13d2aa1",
+        "text": "A level of privacy is foundational to any society. Determining that level should be decided by the [[general assembly]]."
+      },
+      "date": 1502085036148
+    }
+  ]
+}
