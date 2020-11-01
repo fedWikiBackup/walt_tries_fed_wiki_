@@ -1,0 +1,79 @@
+{
+  "title": "4 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f76c8f3435ee605d",
+      "text": "Well. America, the beautiful, is in the midst of a struggle. Today we celebrate that struggle. \n\nWent to the MoMA today and saw Frank Lloyd Wright exhibition. It made me think about three things. \n\n1.  Ornament and it's place in construction and the ornamental quality of nature. \n2. Taproot skyscrapers and tiny farms. \n3. The idea of natural, naturalized, and invasive species of plants in landscaping - and the analogy this plays in human immigration to new landscapes.\n\nI also saw a Rothko I love, reminded me of the emotional qualities of color. \n\nThinking back on Storm King, I wonder what color I will paint the steel for the deck. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "4 July 2017",
+        "story": []
+      },
+      "date": 1499269857580
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ea7e69a55bb7568"
+      },
+      "id": "8ea7e69a55bb7568",
+      "type": "add",
+      "date": 1499269858497
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "6c8b0435051a17e3",
+        "text": "Well. America the beautiful is in the midst of a struggle. \n\nWent to the MoMA today and saw frank Lloyd Wright exhibition. It made me think about three things. \n\n1.  Ornament and it's place in construction and the ornamental quality of nature. \n2. Taproot skyscrapers and tiny farms. \n3. The idea of. Natural, naturalized, and invasive species. \n\n\nI also saw a Rothko I love, reminded me of the emotional qualities of color. \n\nThinking back on StormKing, I wonder what color I will paint the steel for the deck. "
+      },
+      "id": "6c8b0435051a17e3",
+      "date": 1499269869424
+    },
+    {
+      "type": "edit",
+      "id": "6c8b0435051a17e3",
+      "item": {
+        "type": "markdown",
+        "id": "6c8b0435051a17e3",
+        "text": "Well. America, the beautiful, is in the midst of a struggle. Today we celebrate that struggle. \n\nWent to the MoMA today and saw Frank Lloyd Wright exhibition. It made me think about three things. \n\n1.  Ornament and it's place in construction and the ornamental quality of nature. \n2. Taproot skyscrapers and tiny farms. \n3. The idea of natural, naturalized, and invasive species of plants in landscaping - and the analogy this plays in human immigration to new landscapes.\n\nI also saw a Rothko I love, reminded me of the emotional qualities of color. \n\nThinking back on Storm King, I wonder what color I will paint the steel for the deck. "
+      },
+      "date": 1499269947053
+    },
+    {
+      "type": "remove",
+      "id": "8ea7e69a55bb7568",
+      "date": 1499269957345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f76c8f3435ee605d"
+      },
+      "id": "f76c8f3435ee605d",
+      "type": "add",
+      "after": "6c8b0435051a17e3",
+      "date": 1499269961697
+    },
+    {
+      "type": "remove",
+      "id": "6c8b0435051a17e3",
+      "date": 1499269962426
+    },
+    {
+      "type": "edit",
+      "id": "f76c8f3435ee605d",
+      "item": {
+        "type": "paragraph",
+        "id": "f76c8f3435ee605d",
+        "text": "Well. America, the beautiful, is in the midst of a struggle. Today we celebrate that struggle. \n\nWent to the MoMA today and saw Frank Lloyd Wright exhibition. It made me think about three things. \n\n1.  Ornament and it's place in construction and the ornamental quality of nature. \n2. Taproot skyscrapers and tiny farms. \n3. The idea of natural, naturalized, and invasive species of plants in landscaping - and the analogy this plays in human immigration to new landscapes.\n\nI also saw a Rothko I love, reminded me of the emotional qualities of color. \n\nThinking back on Storm King, I wonder what color I will paint the steel for the deck. "
+      },
+      "date": 1499269965134
+    }
+  ]
+}
