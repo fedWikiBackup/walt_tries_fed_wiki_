@@ -1,0 +1,39 @@
+{
+  "title": "13 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7536a9b09b15a1e8",
+      "text": "This week is make or break for Walter. He will sweat and toil under the knowledge that his mind is being tested by the great gods of wisdom. He will either triumph and succeed in creating his future energy company, or he will fail and live the humble troubled life of a warrior of words. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 August 2018",
+        "story": []
+      },
+      "date": 1534178403558
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7536a9b09b15a1e8"
+      },
+      "id": "7536a9b09b15a1e8",
+      "type": "add",
+      "date": 1534178404648
+    },
+    {
+      "type": "edit",
+      "id": "7536a9b09b15a1e8",
+      "item": {
+        "type": "paragraph",
+        "id": "7536a9b09b15a1e8",
+        "text": "This week is make or break for Walter. He will sweat and toil under the knowledge that his mind is being tested by the great gods of wisdom. He will either triumph and succeed in creating his future energy company, or he will fail and live the humble troubled life of a warrior of words. "
+      },
+      "date": 1534178476700
+    }
+  ]
+}
