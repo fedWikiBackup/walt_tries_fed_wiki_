@@ -1,0 +1,71 @@
+{
+  "title": "16 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d1f06893bbea2da0",
+      "text": "Kamila leaves today. Sad day. Will miss her. But, headed to NYC shortly for swearing in ceremony and then to Maine for John and Kelsey's wedding. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e12beea38e44ae34",
+      "text": "Eddie stopped by last night to discuss the deck. Thing is taking shape and really starting to feel real. He reaffirmed much of what I thought should happen. Really exciting times. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f4e28caeccc191c3",
+      "text": "Tom and Kelly are getting married next week and I need to write a poem for the occasion."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 June 2017",
+        "story": []
+      },
+      "date": 1497643679076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1f06893bbea2da0"
+      },
+      "id": "d1f06893bbea2da0",
+      "type": "add",
+      "date": 1497643680159
+    },
+    {
+      "type": "edit",
+      "id": "d1f06893bbea2da0",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f06893bbea2da0",
+        "text": "Kamila leaves today. Sad day. Will miss her. But, headed to NYC shortly for swearing in ceremony and then to Maine for John and Kelsey's wedding. "
+      },
+      "date": 1497643719933
+    },
+    {
+      "type": "add",
+      "id": "e12beea38e44ae34",
+      "item": {
+        "type": "paragraph",
+        "id": "e12beea38e44ae34",
+        "text": "Eddie stopped by last night to discuss the deck. Thing is taking shape and really starting to feel real. He reaffirmed much of what I thought should happen. Really exciting times. "
+      },
+      "after": "d1f06893bbea2da0",
+      "date": 1497643764795
+    },
+    {
+      "type": "add",
+      "id": "f4e28caeccc191c3",
+      "item": {
+        "type": "paragraph",
+        "id": "f4e28caeccc191c3",
+        "text": "Tom and Kelly are getting married next week and I need to write a poem for the occasion."
+      },
+      "after": "e12beea38e44ae34",
+      "date": 1497643792405
+    }
+  ]
+}
