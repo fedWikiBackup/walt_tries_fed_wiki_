@@ -1,0 +1,91 @@
+{
+  "title": "The Senate",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "908a1f3b138e4516",
+      "text": "Senate Size = House Size^(.25)"
+    },
+    {
+      "type": "paragraph",
+      "id": "aebb56c7b5b8b23f",
+      "text": "There will be four senators. The senate will be elected by the bodies of each of the three houses, plus one elected by the the houses collectively. The term will be 9 years, with 1 week campaign season limit."
+    }
+  ],
+  "journal": [
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "There will be four senators. The senate will be elected by the bodies of each of the three houses, plus one elected by the the houses collectively. The term will be 9 years, with 1 week campaign season limit."
+      },
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088215891,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "f41206abf6f3b87c",
+      "date": 1502088238695
+    },
+    {
+      "type": "remove",
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088242117
+    },
+    {
+      "type": "fork",
+      "date": 1502088247649
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "There will be four senators. The senate will be elected by the bodies of each of the three houses, plus one elected by the the houses collectively. The term will be 9 years, with 1 week campaign season limit."
+      },
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088249744
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "f41206abf6f3b87c",
+        "type": "future",
+        "text": "We could not find this page.",
+        "title": "The Senate",
+        "create": {
+          "type": "create",
+          "item": {
+            "title": "Article I",
+            "story": []
+          },
+          "date": 1502085292149
+        }
+      },
+      "after": "aebb56c7b5b8b23f",
+      "id": "f41206abf6f3b87c",
+      "date": 1502088254321
+    },
+    {
+      "type": "remove",
+      "id": "f41206abf6f3b87c",
+      "date": 1502088266422
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "908a1f3b138e4516",
+        "text": "Senate Size = House Size^(.25)"
+      },
+      "id": "908a1f3b138e4516",
+      "date": 1502088337540
+    }
+  ]
+}
