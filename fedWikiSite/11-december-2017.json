@@ -1,0 +1,55 @@
+{
+  "title": "11 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7fa74cd13cbb4446",
+      "text": "It is hard to overstate the amount of disappointment I feel towards my El Campo family. They refuse to forgive - yet pretend to be christian. They refuse to include - yet build buildings of inclusiveness. I hope they find solace before it is too late. I need to meditate."
+    },
+    {
+      "type": "paragraph",
+      "id": "a23ebbb13e4fc8c3",
+      "text": "]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11 December 2017",
+        "story": []
+      },
+      "date": 1513014945660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7fa74cd13cbb4446"
+      },
+      "id": "7fa74cd13cbb4446",
+      "type": "add",
+      "date": 1513014946863
+    },
+    {
+      "type": "edit",
+      "id": "7fa74cd13cbb4446",
+      "item": {
+        "type": "paragraph",
+        "id": "7fa74cd13cbb4446",
+        "text": "It is hard to overstate the amount of disappointment I feel towards my El Campo family. They refuse to forgive - yet pretend to be christian. They refuse to include - yet build buildings of inclusiveness. I hope they find solace before it is too late. I need to meditate."
+      },
+      "date": 1513015034290
+    },
+    {
+      "type": "add",
+      "id": "a23ebbb13e4fc8c3",
+      "item": {
+        "type": "paragraph",
+        "id": "a23ebbb13e4fc8c3",
+        "text": "]"
+      },
+      "after": "7fa74cd13cbb4446",
+      "date": 1513015035509
+    }
+  ]
+}
