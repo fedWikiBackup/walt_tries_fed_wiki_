@@ -1,0 +1,81 @@
+{
+  "title": "June 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0a812e06848b9d07",
+      "text": "[[4 June 2018]] is a Monday in Red Lodge recovering from infection."
+    },
+    {
+      "type": "paragraph",
+      "id": "2304cd327e6588d2",
+      "text": "[[5 June 2018]] is Tuesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "756176e645e02a33",
+      "text": "[[6 June 2018]] is Wednesday in Billings and Glendive."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "June 2018",
+        "story": []
+      },
+      "date": 1528130921200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a812e06848b9d07"
+      },
+      "id": "0a812e06848b9d07",
+      "type": "add",
+      "date": 1528130922324
+    },
+    {
+      "type": "edit",
+      "id": "0a812e06848b9d07",
+      "item": {
+        "type": "paragraph",
+        "id": "0a812e06848b9d07",
+        "text": "[[4 June 2018]] is a Monday in Red Lodge recovering from infection."
+      },
+      "date": 1528130954306
+    },
+    {
+      "type": "add",
+      "id": "2304cd327e6588d2",
+      "item": {
+        "type": "paragraph",
+        "id": "2304cd327e6588d2",
+        "text": "[[5 June 2018]] is Tuesday in Billings."
+      },
+      "after": "0a812e06848b9d07",
+      "date": 1528238790529
+    },
+    {
+      "type": "add",
+      "id": "756176e645e02a33",
+      "item": {
+        "type": "paragraph",
+        "id": "756176e645e02a33",
+        "text": "[[6 June 2018]] is Wednesday and Billings. "
+      },
+      "after": "2304cd327e6588d2",
+      "date": 1528300870244
+    },
+    {
+      "type": "edit",
+      "id": "756176e645e02a33",
+      "item": {
+        "type": "paragraph",
+        "id": "756176e645e02a33",
+        "text": "[[6 June 2018]] is Wednesday in Billings and Glendive."
+      },
+      "date": 1528300940239
+    }
+  ]
+}
