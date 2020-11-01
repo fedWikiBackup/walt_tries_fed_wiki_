@@ -1,0 +1,81 @@
+{
+  "title": "25 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "12de71720545161c",
+      "text": "The thing about Florence is that it is, in my opinion, a little too perfect. Like a woman with botox. I like a scar or two. I like authentic. Florence covers their scaffolding with paper that looks like a building without scaffolding. As if we cannot stand to damage our eyes with the sight of scaffolding for a few days. Maybe plain paper would be okay. But paper with print outlining a the architecture of the underlying structure? Too much for me."
+    },
+    {
+      "type": "paragraph",
+      "id": "479ac86dc0fad7c9",
+      "text": "Venice has a similar venere, but slightly less so. It is a sinking city that has not entirely reckoned with this fact. The population is shrinking. But, I understand. It is the most stunning place I have ever been. Sooooo soooooo quiet. I am in love with Venice and will be going back to visit my new friends there. To walk the quiet canals will be something I remember until my dying days. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7f02cc65b7f2a3a1",
+      "text": "Budapest is striking. We walked around the St. Stephen's Basilica, Parliament, and Margaret Island. We also saw the Michael Jackson shrine. The fall of an ancient empire, like Rome, but with a bit more striking landscape. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "25 April 2017",
+        "story": []
+      },
+      "date": 1493140038320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12de71720545161c"
+      },
+      "id": "12de71720545161c",
+      "type": "add",
+      "date": 1493140039833
+    },
+    {
+      "type": "edit",
+      "id": "12de71720545161c",
+      "item": {
+        "type": "paragraph",
+        "id": "12de71720545161c",
+        "text": "The thing about Florence is that it is, in my opinion, a little too perfect. Like a woman with botox. I like a scar or two. I like authentic. Florence covers their scaffolding with paper that looks like a building without scaffolding. As if we cannot stand to damage our eyes with the sight of scaffolding for a few days. Maybe plain paper would be okay. But paper with print outlining a the architecture of the underlying structure? Too much for me."
+      },
+      "date": 1493140206345
+    },
+    {
+      "type": "add",
+      "id": "479ac86dc0fad7c9",
+      "item": {
+        "type": "paragraph",
+        "id": "479ac86dc0fad7c9",
+        "text": "Venice has a similar venere, but slightly less so. It is a sinking city that has not entirely reckoned with this fact. The population is shrinking. But, I understand. It is the most stunning place I have ever been. Sooooo soooooo quiet. I am in love with Venice and will be going back to visit my new friends there. "
+      },
+      "after": "12de71720545161c",
+      "date": 1493140469603
+    },
+    {
+      "type": "edit",
+      "id": "479ac86dc0fad7c9",
+      "item": {
+        "type": "paragraph",
+        "id": "479ac86dc0fad7c9",
+        "text": "Venice has a similar venere, but slightly less so. It is a sinking city that has not entirely reckoned with this fact. The population is shrinking. But, I understand. It is the most stunning place I have ever been. Sooooo soooooo quiet. I am in love with Venice and will be going back to visit my new friends there. To walk the quiet canals will be something I remember until my dying days. "
+      },
+      "date": 1493140529318
+    },
+    {
+      "type": "add",
+      "id": "7f02cc65b7f2a3a1",
+      "item": {
+        "type": "paragraph",
+        "id": "7f02cc65b7f2a3a1",
+        "text": "Budapest is striking. We walked around the St. Stephen's Basilica, Parliament, and Margaret Island. We also saw the Michael Jackson shrine. The fall of an ancient empire, like Rome, but with a bit more striking landscape. "
+      },
+      "after": "479ac86dc0fad7c9",
+      "date": 1493140659620
+    }
+  ]
+}
