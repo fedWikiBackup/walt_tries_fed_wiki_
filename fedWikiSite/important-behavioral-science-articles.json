@@ -1,0 +1,110 @@
+{
+  "title": "Important Behavioral Science Articles",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6abfe3c926e6658e",
+      "text": "[http://cocosci.berkeley.edu/tom/papers/ComputationalCognitiveRevolution.pdf Cognitive Revolution] is the manifesto of the man who wrote algorithms to live by. "
+    },
+    {
+      "type": "paragraph",
+      "id": "423501d9ffc9579f",
+      "text": "[https://www.theatlantic.com/science/archive/2017/02/how-brain-scientists-forgot-that-brains-have-owners/517599/ This atlantic article is creating waves in the bahaviorist community]"
+    },
+    {
+      "type": "paragraph",
+      "id": "28f383c147d52e93",
+      "text": "[https://pdfs.semanticscholar.org/a3a9/ac13f2022b98154eb864991e9e6d3d5b39d6.pdf Basics] on the human connectome."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Important Behavioral Science Articles",
+        "story": []
+      },
+      "date": 1489341443108
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6abfe3c926e6658e"
+      },
+      "id": "6abfe3c926e6658e",
+      "type": "add",
+      "date": 1489341444289
+    },
+    {
+      "type": "edit",
+      "id": "6abfe3c926e6658e",
+      "item": {
+        "type": "paragraph",
+        "id": "6abfe3c926e6658e",
+        "text": "[http://cocosci.berkeley.edu/tom/papers/ComputationalCognitiveRevolution.pdf Cognitive Revolution is the manifesto of the man who wrote algorithms to live by. "
+      },
+      "date": 1489341507192
+    },
+    {
+      "type": "edit",
+      "id": "6abfe3c926e6658e",
+      "item": {
+        "type": "paragraph",
+        "id": "6abfe3c926e6658e",
+        "text": "[http://cocosci.berkeley.edu/tom/papers/ComputationalCognitiveRevolution.pdf Cognitive Revolution] is the manifesto of the man who wrote algorithms to live by. "
+      },
+      "date": 1489341513117
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "423501d9ffc9579f"
+      },
+      "id": "423501d9ffc9579f",
+      "type": "add",
+      "after": "6abfe3c926e6658e",
+      "date": 1489341542323
+    },
+    {
+      "type": "edit",
+      "id": "423501d9ffc9579f",
+      "item": {
+        "type": "paragraph",
+        "id": "423501d9ffc9579f",
+        "text": "[https://www.theatlantic.com/science/archive/2017/02/how-brain-scientists-forgot-that-brains-have-owners/517599/ This Article is creating waves in the bahaviorist community]"
+      },
+      "date": 1489341559318
+    },
+    {
+      "type": "edit",
+      "id": "423501d9ffc9579f",
+      "item": {
+        "type": "paragraph",
+        "id": "423501d9ffc9579f",
+        "text": "[https://www.theatlantic.com/science/archive/2017/02/how-brain-scientists-forgot-that-brains-have-owners/517599/ This atlantic article is creating waves in the bahaviorist community]"
+      },
+      "date": 1489341573514
+    },
+    {
+      "type": "add",
+      "id": "28f383c147d52e93",
+      "item": {
+        "type": "paragraph",
+        "id": "28f383c147d52e93",
+        "text": "]"
+      },
+      "after": "423501d9ffc9579f",
+      "date": 1489341613929
+    },
+    {
+      "type": "edit",
+      "id": "28f383c147d52e93",
+      "item": {
+        "type": "paragraph",
+        "id": "28f383c147d52e93",
+        "text": "[https://pdfs.semanticscholar.org/a3a9/ac13f2022b98154eb864991e9e6d3d5b39d6.pdf Basics] on the human connectome."
+      },
+      "date": 1489341641841
+    }
+  ]
+}
