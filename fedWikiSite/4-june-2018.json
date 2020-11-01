@@ -1,0 +1,87 @@
+{
+  "title": "4 June 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "840995799925a639",
+      "text": "Well, it has been a crazy couple weeks. I almost lost my arm to a staph infection. Currently typing with a large splint on my right arm. Two weekends ago was supposed to be a turning point to get things back on track. Now that will be this weekend. I have a busy week ahead. We just bought a house! It is amazing. Things are settling well with Kamila. Got internet installed this morning - guy bent the screen but oh man is fast internet worth every penny. 100 mbps is the cat's meow. "
+    },
+    {
+      "type": "paragraph",
+      "id": "82bd0bb26624990a",
+      "text": "Okay."
+    },
+    {
+      "type": "paragraph",
+      "id": "5e0eed3190becac9",
+      "text": "Back to work."
+    },
+    {
+      "type": "paragraph",
+      "id": "b002e34348213e25",
+      "text": "Gotta save my hand - typing has turned into a bit of a chore."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "4 June 2018",
+        "story": []
+      },
+      "date": 1528130959213
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "840995799925a639"
+      },
+      "id": "840995799925a639",
+      "type": "add",
+      "date": 1528130960355
+    },
+    {
+      "type": "edit",
+      "id": "840995799925a639",
+      "item": {
+        "type": "paragraph",
+        "id": "840995799925a639",
+        "text": "Well, it has been a crazy couple weeks. I almost lost my arm to a staph infection. Currently typing with a large splint on my right arm. Two weekends ago was supposed to be a turning point to get things back on track. Now that will be this weekend. I have a busy week ahead. We just bought a house! It is amazing. Things are settling well with Kamila. Got internet installed this morning - guy bent the screen but oh man is fast internet worth every penny. 100 mbps is the cat's meow. "
+      },
+      "date": 1528131083012
+    },
+    {
+      "type": "add",
+      "id": "82bd0bb26624990a",
+      "item": {
+        "type": "paragraph",
+        "id": "82bd0bb26624990a",
+        "text": "Okay."
+      },
+      "after": "840995799925a639",
+      "date": 1528131084892
+    },
+    {
+      "type": "add",
+      "id": "5e0eed3190becac9",
+      "item": {
+        "type": "paragraph",
+        "id": "5e0eed3190becac9",
+        "text": "Back to work."
+      },
+      "after": "82bd0bb26624990a",
+      "date": 1528131087701
+    },
+    {
+      "type": "add",
+      "id": "b002e34348213e25",
+      "item": {
+        "type": "paragraph",
+        "id": "b002e34348213e25",
+        "text": "Gotta save my hand - typing has turned into a bit of a chore."
+      },
+      "after": "5e0eed3190becac9",
+      "date": 1528131103056
+    }
+  ]
+}
