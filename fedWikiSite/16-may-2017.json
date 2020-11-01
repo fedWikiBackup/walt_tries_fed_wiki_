@@ -1,0 +1,55 @@
+{
+  "title": "16 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7ada17916eaadb7e",
+      "text": "Feeling sore from Yoga still. Stayed with Mitch the last couple days. What a genuinely good dude. Weird, but awesome. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f410ca79ee1b906d",
+      "text": "I get to move back into my place today. Hooray! Going to NYC for 24 hours on Wednesday-Thursday. Thinking of cancelling, I am exhausted and have lots of work I need to do. We will see. Having a party on Thursday. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 May 2017",
+        "story": []
+      },
+      "date": 1494940103380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ada17916eaadb7e"
+      },
+      "id": "7ada17916eaadb7e",
+      "type": "add",
+      "date": 1494940104931
+    },
+    {
+      "type": "edit",
+      "id": "7ada17916eaadb7e",
+      "item": {
+        "type": "paragraph",
+        "id": "7ada17916eaadb7e",
+        "text": "Feeling sore from Yoga still. Stayed with Mitch the last couple days. What a genuinely good dude. Weird, but awesome. "
+      },
+      "date": 1494940135656
+    },
+    {
+      "type": "add",
+      "id": "f410ca79ee1b906d",
+      "item": {
+        "type": "paragraph",
+        "id": "f410ca79ee1b906d",
+        "text": "I get to move back into my place today. Hooray! Going to NYC for 24 hours on Wednesday-Thursday. Thinking of cancelling, I am exhausted and have lots of work I need to do. We will see. Having a party on Thursday. "
+      },
+      "after": "7ada17916eaadb7e",
+      "date": 1494940212004
+    }
+  ]
+}
