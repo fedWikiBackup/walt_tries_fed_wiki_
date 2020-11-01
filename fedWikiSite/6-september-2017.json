@@ -1,0 +1,65 @@
+{
+  "title": "6 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9f8279a228ee806a",
+      "text": "Work is going well. A bit of a breath today. Time to buckle down on New Shape. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7c32f2bf7b45be30",
+      "text": "Grocery stores, gas stations, and gastropubs today."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 September 2017",
+        "story": []
+      },
+      "date": 1504716676471
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f8279a228ee806a"
+      },
+      "id": "9f8279a228ee806a",
+      "type": "add",
+      "date": 1504716677714
+    },
+    {
+      "type": "edit",
+      "id": "9f8279a228ee806a",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8279a228ee806a",
+        "text": "Work is going well. A bit of a breath today. Time to buckle down on New Shape. "
+      },
+      "date": 1504716728975
+    },
+    {
+      "type": "add",
+      "id": "7c32f2bf7b45be30",
+      "item": {
+        "type": "paragraph",
+        "id": "7c32f2bf7b45be30",
+        "text": "Grocery stores and "
+      },
+      "after": "9f8279a228ee806a",
+      "date": 1504716737797
+    },
+    {
+      "type": "edit",
+      "id": "7c32f2bf7b45be30",
+      "item": {
+        "type": "paragraph",
+        "id": "7c32f2bf7b45be30",
+        "text": "Grocery stores, gas stations, and gastropubs today."
+      },
+      "date": 1504716764061
+    }
+  ]
+}
