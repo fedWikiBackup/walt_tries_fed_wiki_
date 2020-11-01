@@ -1,0 +1,81 @@
+{
+  "title": "29 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "488a049ff8302a52",
+      "text": "He liked Fossils, Game of Thrones, and Cities. I think we may have some things in common. Among them are a shared interest in rocks, empires, and cities."
+    },
+    {
+      "type": "paragraph",
+      "id": "480dbbedb2918968",
+      "text": "Also. Yay."
+    },
+    {
+      "type": "paragraph",
+      "id": "7554fe85da8e299a",
+      "text": "Also. I am excited for the future. Got good work done on New Shape today."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 August 2017",
+        "story": []
+      },
+      "date": 1504053711827
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "488a049ff8302a52"
+      },
+      "id": "488a049ff8302a52",
+      "type": "add",
+      "date": 1504053712921
+    },
+    {
+      "type": "edit",
+      "id": "488a049ff8302a52",
+      "item": {
+        "type": "paragraph",
+        "id": "488a049ff8302a52",
+        "text": "He liked Fossils, Game of Thrones, and Cities. I think we may have some things in common. Among them are a shared interest in rocks, empires, and cities."
+      },
+      "date": 1504053756426
+    },
+    {
+      "type": "add",
+      "id": "480dbbedb2918968",
+      "item": {
+        "type": "paragraph",
+        "id": "480dbbedb2918968",
+        "text": "Also. Yay."
+      },
+      "after": "488a049ff8302a52",
+      "date": 1504053759787
+    },
+    {
+      "type": "add",
+      "id": "7554fe85da8e299a",
+      "item": {
+        "type": "paragraph",
+        "id": "7554fe85da8e299a",
+        "text": "Also. I am excited for the future."
+      },
+      "after": "480dbbedb2918968",
+      "date": 1504053776378
+    },
+    {
+      "type": "edit",
+      "id": "7554fe85da8e299a",
+      "item": {
+        "type": "paragraph",
+        "id": "7554fe85da8e299a",
+        "text": "Also. I am excited for the future. Got good work done on New Shape today."
+      },
+      "date": 1504053799143
+    }
+  ]
+}
