@@ -1,0 +1,55 @@
+{
+  "title": "15 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e158a06077f89bba",
+      "text": "Building deck, practicing law, fixing water problems, being social. So many things - sometimes feel a little stretched thin. But, filling my plate to the max is my most efficient mental space."
+    },
+    {
+      "type": "paragraph",
+      "id": "7c0d26800b83e7b7",
+      "text": "It is when I have free time that I get into trouble and lost track of the things that need to be accomplished."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 June 2017",
+        "story": []
+      },
+      "date": 1497553212655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e158a06077f89bba"
+      },
+      "id": "e158a06077f89bba",
+      "type": "add",
+      "date": 1497553213575
+    },
+    {
+      "type": "edit",
+      "id": "e158a06077f89bba",
+      "item": {
+        "type": "paragraph",
+        "id": "e158a06077f89bba",
+        "text": "Building deck, practicing law, fixing water problems, being social. So many things - sometimes feel a little stretched thin. But, filling my plate to the max is my most efficient mental space."
+      },
+      "date": 1497553263343
+    },
+    {
+      "type": "add",
+      "id": "7c0d26800b83e7b7",
+      "item": {
+        "type": "paragraph",
+        "id": "7c0d26800b83e7b7",
+        "text": "It is when I have free time that I get into trouble and lost track of the things that need to be accomplished."
+      },
+      "after": "e158a06077f89bba",
+      "date": 1497553298007
+    }
+  ]
+}
