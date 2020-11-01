@@ -1,0 +1,159 @@
+{
+  "title": "8 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a1131d4e9463a040",
+      "text": "He found the trick The wings of sheets to glide"
+    },
+    {
+      "type": "paragraph",
+      "id": "2b6bc6909bd94a42",
+      "text": "Inside she found a sound wrecked home sheets blown"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d4dabf258ab40f2",
+      "text": "A rip a tear her glare to tears in him."
+    },
+    {
+      "type": "paragraph",
+      "id": "592daa1688a9db33",
+      "text": "Salt thrown he's grown her wish her miss his luck."
+    },
+    {
+      "type": "paragraph",
+      "id": "36ec6f6ec5330901",
+      "text": "Resolved he stomps cuts fat she fades from him."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f3cba0ffe5c0210",
+      "text": "In time this time dogs fetch the sleep anew."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 February 2018",
+        "story": []
+      },
+      "date": 1518124138000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1131d4e9463a040"
+      },
+      "id": "a1131d4e9463a040",
+      "type": "add",
+      "date": 1518124139832
+    },
+    {
+      "type": "edit",
+      "id": "a1131d4e9463a040",
+      "item": {
+        "type": "paragraph",
+        "id": "a1131d4e9463a040",
+        "text": "He found the trick The wings of sheets to glide"
+      },
+      "date": 1518124226339
+    },
+    {
+      "type": "add",
+      "id": "2b6bc6909bd94a42",
+      "item": {
+        "type": "paragraph",
+        "id": "2b6bc6909bd94a42",
+        "text": "inside she found a sound wrecked home sheets blown"
+      },
+      "after": "a1131d4e9463a040",
+      "date": 1518124262016
+    },
+    {
+      "type": "add",
+      "id": "4d4dabf258ab40f2",
+      "item": {
+        "type": "paragraph",
+        "id": "4d4dabf258ab40f2",
+        "text": "a rip a tear her glare to tears in him."
+      },
+      "after": "2b6bc6909bd94a42",
+      "date": 1518124297593
+    },
+    {
+      "type": "edit",
+      "id": "4d4dabf258ab40f2",
+      "item": {
+        "type": "paragraph",
+        "id": "4d4dabf258ab40f2",
+        "text": "A rip a tear her glare to tears in him."
+      },
+      "date": 1518124306524
+    },
+    {
+      "type": "add",
+      "id": "592daa1688a9db33",
+      "item": {
+        "type": "paragraph",
+        "id": "592daa1688a9db33",
+        "text": "Salt thrown he's grown her wish her miss his luck."
+      },
+      "after": "4d4dabf258ab40f2",
+      "date": 1518124388474
+    },
+    {
+      "type": "add",
+      "id": "36ec6f6ec5330901",
+      "item": {
+        "type": "paragraph",
+        "id": "36ec6f6ec5330901",
+        "text": "resolved he stomps cuts fat she fades from him"
+      },
+      "after": "592daa1688a9db33",
+      "date": 1518124436678
+    },
+    {
+      "type": "edit",
+      "id": "36ec6f6ec5330901",
+      "item": {
+        "type": "paragraph",
+        "id": "36ec6f6ec5330901",
+        "text": "Resolved he stomps cuts fat she fades from him."
+      },
+      "date": 1518124462751
+    },
+    {
+      "type": "add",
+      "id": "5f3cba0ffe5c0210",
+      "item": {
+        "type": "paragraph",
+        "id": "5f3cba0ffe5c0210",
+        "text": "In time this time dogs fetch the sleep toward anew."
+      },
+      "after": "36ec6f6ec5330901",
+      "date": 1518124582966
+    },
+    {
+      "type": "edit",
+      "id": "2b6bc6909bd94a42",
+      "item": {
+        "type": "paragraph",
+        "id": "2b6bc6909bd94a42",
+        "text": "Inside she found a sound wrecked home sheets blown"
+      },
+      "date": 1518124600234
+    },
+    {
+      "type": "edit",
+      "id": "5f3cba0ffe5c0210",
+      "item": {
+        "type": "paragraph",
+        "id": "5f3cba0ffe5c0210",
+        "text": "In time this time dogs fetch the sleep anew."
+      },
+      "date": 1518124623823
+    }
+  ]
+}
