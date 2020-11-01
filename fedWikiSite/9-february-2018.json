@@ -1,0 +1,39 @@
+{
+  "title": "9 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c59115f38d04defa",
+      "text": "The roller coaster of emotional discord in my life has led me to question all relationships. This has led to a dearth of truly meaningful relationships, I think. I have thousands of friends. Very few people who are dear. I want to rebound from this tragedy to find true friends. Yet, I know not how to find them."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 February 2018",
+        "story": []
+      },
+      "date": 1518194386865
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c59115f38d04defa"
+      },
+      "id": "c59115f38d04defa",
+      "type": "add",
+      "date": 1518194388042
+    },
+    {
+      "type": "edit",
+      "id": "c59115f38d04defa",
+      "item": {
+        "type": "paragraph",
+        "id": "c59115f38d04defa",
+        "text": "The roller coaster of emotional discord in my life has led me to question all relationships. This has led to a dearth of truly meaningful relationships, I think. I have thousands of friends. Very few people who are dear. I want to rebound from this tragedy to find true friends. Yet, I know not how to find them."
+      },
+      "date": 1518194502855
+    }
+  ]
+}
