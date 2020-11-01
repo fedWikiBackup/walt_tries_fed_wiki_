@@ -1,0 +1,55 @@
+{
+  "title": "9 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "237e000bb8a79d6f",
+      "text": "Tom has been gone and I have been super busy. Busy days fly by. Not much time for CA, but fun none the less!!!!"
+    },
+    {
+      "type": "paragraph",
+      "id": "6893d29aab0bfbb0",
+      "text": "Time to work on Book this weekend."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 November 2017",
+        "story": []
+      },
+      "date": 1510248025194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "237e000bb8a79d6f"
+      },
+      "id": "237e000bb8a79d6f",
+      "type": "add",
+      "date": 1510248026703
+    },
+    {
+      "type": "edit",
+      "id": "237e000bb8a79d6f",
+      "item": {
+        "type": "paragraph",
+        "id": "237e000bb8a79d6f",
+        "text": "Tom has been gone and I have been super busy. Busy days fly by. Not much time for CA, but fun none the less!!!!"
+      },
+      "date": 1510248051590
+    },
+    {
+      "type": "add",
+      "id": "6893d29aab0bfbb0",
+      "item": {
+        "type": "paragraph",
+        "id": "6893d29aab0bfbb0",
+        "text": "Time to work on Book this weekend."
+      },
+      "after": "237e000bb8a79d6f",
+      "date": 1510248061181
+    }
+  ]
+}
