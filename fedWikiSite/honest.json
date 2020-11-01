@@ -1,0 +1,39 @@
+{
+  "title": "honest",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "93bb3a8914853cac",
+      "text": "Honesty means the voluntary production of [[material]] information relating to the [[expectations]] of the other person."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "honest",
+        "story": []
+      },
+      "date": 1503543332500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93bb3a8914853cac"
+      },
+      "id": "93bb3a8914853cac",
+      "type": "add",
+      "date": 1503543333536
+    },
+    {
+      "type": "edit",
+      "id": "93bb3a8914853cac",
+      "item": {
+        "type": "paragraph",
+        "id": "93bb3a8914853cac",
+        "text": "Honesty means the voluntary production of [[material]] information relating to the [[expectations]] of the other person."
+      },
+      "date": 1503543380737
+    }
+  ]
+}
