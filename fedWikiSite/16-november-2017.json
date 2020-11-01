@@ -1,0 +1,39 @@
+{
+  "title": "16 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2058e0bfdae3f2c0",
+      "text": "Finally feel like I am back on track. Wrecked my car, was sick, Boss was gone and workload was crazy. Now. Things are back in the groove."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 November 2017",
+        "story": []
+      },
+      "date": 1510855431497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2058e0bfdae3f2c0"
+      },
+      "id": "2058e0bfdae3f2c0",
+      "type": "add",
+      "date": 1510855432506
+    },
+    {
+      "type": "edit",
+      "id": "2058e0bfdae3f2c0",
+      "item": {
+        "type": "paragraph",
+        "id": "2058e0bfdae3f2c0",
+        "text": "Finally feel like I am back on track. Wrecked my car, was sick, Boss was gone and workload was crazy. Now. Things are back in the groove."
+      },
+      "date": 1510855469488
+    }
+  ]
+}
