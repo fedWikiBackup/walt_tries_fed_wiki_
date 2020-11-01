@@ -1,0 +1,577 @@
+{
+  "title": "To Ward",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8741ce1d0315f557",
+      "text": "This is a page made for Ward, the inventor of Wiki and Federated Wiki. "
+    },
+    {
+      "type": "pagefold",
+      "id": "e8cc66d2ee298245",
+      "text": "Questions/Comments"
+    },
+    {
+      "type": "paragraph",
+      "id": "854ccaad9f42e541",
+      "text": "On recent changes, i would love another page that highlights the pages that are most often forked. New arrivals of books in the library are nice, but the tried and true classics deserve their own section as well."
+    },
+    {
+      "type": "paragraph",
+      "id": "543bed77dfd69f31",
+      "text": "Really enjoy how easy it is to create new links! So cool!"
+    },
+    {
+      "type": "paragraph",
+      "id": "19d06122b86a9230",
+      "text": "I think an in-person component of fed.wiki should be investigated. I will always keep a physical library and would love to be able to organize and share/track that online with my cohort. Thoughts?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b38f5912993bbad6",
+      "text": "Could also record assembly conversations. Probably need some advanced math to organize the audio recording of conversations - particularly amongst 128 people. Does the sound of an audio library resonante with you?"
+    },
+    {
+      "type": "paragraph",
+      "id": "f3dd31bd6a26b723",
+      "text": "Calendar Plugin?"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d11fbdb43a56c7c",
+      "text": "Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists. I realize that pages substitute this, but sometimes I want a person to see the whole list in one place without having to click. For instance, I want to have \"Problems I am Working On\", and under that I want \"Primary Focus\" tabbed in with \"Secondary Focuses\" also tabbed in. Each with links underneath. Perhaps you want to avoid this?Is there any way for me to mark up other content without altering it? How hard, technically, would that be?Why are the two links to the left not working?"
+    },
+    {
+      "type": "paragraph",
+      "id": "db8269e953aca495",
+      "text": "Would be great if the links were colorful - currently the purple color looks a lot like plain text."
+    },
+    {
+      "type": "paragraph",
+      "id": "0116dfd72483cc39",
+      "text": "Are you aware of any data visualizations of social media platform use by region of the world?"
+    },
+    {
+      "type": "paragraph",
+      "id": "baa6cfed0ba7f59a",
+      "text": "Related to text movement. Can I create indents for paragraphs?"
+    },
+    {
+      "type": "paragraph",
+      "id": "fead6e019389fc83",
+      "text": "Is there any way for me to mark up other content without altering it? How hard, technically, would that be? I.e., markup your comments like Rap Genius does. The current system basically does this- with linking text via highlight. It is just difficult to use and then alter text on my page (requires two separate browser windows)."
+    },
+    {
+      "type": "pagefold",
+      "id": "7fb9eaaaeab9b511",
+      "text": "Addressed by Ward Below\n"
+    },
+    {
+      "type": "factory",
+      "id": "5d685d32facf5e11"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "To Ward",
+        "story": []
+      },
+      "date": 1488049466403
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8741ce1d0315f557"
+      },
+      "id": "8741ce1d0315f557",
+      "type": "add",
+      "date": 1488049468367
+    },
+    {
+      "type": "edit",
+      "id": "8741ce1d0315f557",
+      "item": {
+        "type": "paragraph",
+        "id": "8741ce1d0315f557",
+        "text": "This is a page made for Ward, the inventor of Wiki and Federated Wiki. "
+      },
+      "date": 1488050553791
+    },
+    {
+      "type": "add",
+      "id": "e7c9ef093f2fce7f",
+      "item": {
+        "type": "paragraph",
+        "id": "e7c9ef093f2fce7f",
+        "text": "Questions:"
+      },
+      "after": "8741ce1d0315f557",
+      "date": 1488050559361
+    },
+    {
+      "type": "add",
+      "id": "4d11fbdb43a56c7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4d11fbdb43a56c7c",
+        "text": "1) Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists."
+      },
+      "after": "e7c9ef093f2fce7f",
+      "date": 1488050634715
+    },
+    {
+      "type": "edit",
+      "id": "4d11fbdb43a56c7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4d11fbdb43a56c7c",
+        "text": "1) Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists. I realize that pages substitute this, but sometimes I want a person to see the whole list in one place without having to click. For instance, I want to have \"Problems I am Working On\", and under that I want \"Primary Focus\" tabbed in with \"Secondary Focuses\" also tabbed in. Each with links underneath. Perhaps you want to avoid this?"
+      },
+      "date": 1488050754846
+    },
+    {
+      "type": "add",
+      "id": "a11fe9ebf15afe56",
+      "item": {
+        "type": "paragraph",
+        "id": "a11fe9ebf15afe56",
+        "text": "2) Is there any way for me to mark up other content without altering it? How hard, technically, would that be?"
+      },
+      "after": "4d11fbdb43a56c7c",
+      "date": 1488051729773
+    },
+    {
+      "type": "add",
+      "id": "c10dd7dbb0c9d31a",
+      "item": {
+        "type": "paragraph",
+        "id": "c10dd7dbb0c9d31a",
+        "text": "3) Why are the two links to the left not working?"
+      },
+      "after": "a11fe9ebf15afe56",
+      "date": 1488051748710
+    },
+    {
+      "type": "edit",
+      "id": "4d11fbdb43a56c7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4d11fbdb43a56c7c",
+        "text": "Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists. I realize that pages substitute this, but sometimes I want a person to see the whole list in one place without having to click. For instance, I want to have \"Problems I am Working On\", and under that I want \"Primary Focus\" tabbed in with \"Secondary Focuses\" also tabbed in. Each with links underneath. Perhaps you want to avoid this?"
+      },
+      "date": 1488060406736
+    },
+    {
+      "type": "remove",
+      "id": "a11fe9ebf15afe56",
+      "date": 1488060410909
+    },
+    {
+      "type": "edit",
+      "id": "4d11fbdb43a56c7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4d11fbdb43a56c7c",
+        "text": "Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists. I realize that pages substitute this, but sometimes I want a person to see the whole list in one place without having to click. For instance, I want to have \"Problems I am Working On\", and under that I want \"Primary Focus\" tabbed in with \"Secondary Focuses\" also tabbed in. Each with links underneath. Perhaps you want to avoid this?Is there any way for me to mark up other content without altering it? How hard, technically, would that be?"
+      },
+      "date": 1488060412618
+    },
+    {
+      "type": "remove",
+      "id": "c10dd7dbb0c9d31a",
+      "date": 1488060415438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7fb9eaaaeab9b511"
+      },
+      "id": "7fb9eaaaeab9b511",
+      "type": "add",
+      "after": "4d11fbdb43a56c7c",
+      "date": 1488060418202
+    },
+    {
+      "type": "edit",
+      "id": "4d11fbdb43a56c7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4d11fbdb43a56c7c",
+        "text": "Is there a way that I can move text over (like a tab in a word document)? This would be useful for the creation of hierarchy within lists. I realize that pages substitute this, but sometimes I want a person to see the whole list in one place without having to click. For instance, I want to have \"Problems I am Working On\", and under that I want \"Primary Focus\" tabbed in with \"Secondary Focuses\" also tabbed in. Each with links underneath. Perhaps you want to avoid this?Is there any way for me to mark up other content without altering it? How hard, technically, would that be?Why are the two links to the left not working?"
+      },
+      "date": 1488060423939
+    },
+    {
+      "type": "edit",
+      "id": "7fb9eaaaeab9b511",
+      "item": {
+        "type": "pagefold",
+        "id": "7fb9eaaaeab9b511",
+        "text": "Questions Addressed Below (Unaddressed Above)\n"
+      },
+      "date": 1488060448602
+    },
+    {
+      "type": "edit",
+      "id": "7fb9eaaaeab9b511",
+      "item": {
+        "type": "pagefold",
+        "id": "7fb9eaaaeab9b511",
+        "text": ".\n"
+      },
+      "date": 1488060465528
+    },
+    {
+      "type": "edit",
+      "id": "7fb9eaaaeab9b511",
+      "item": {
+        "type": "pagefold",
+        "id": "7fb9eaaaeab9b511",
+        "text": "Addressed Below\n"
+      },
+      "date": 1488060479485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fead6e019389fc83"
+      },
+      "id": "fead6e019389fc83",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488060522195
+    },
+    {
+      "type": "edit",
+      "id": "fead6e019389fc83",
+      "item": {
+        "type": "paragraph",
+        "id": "fead6e019389fc83",
+        "text": "Is there any way for me to mark up other content without altering it? How hard, technically, would that be?"
+      },
+      "date": 1488060527048
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e7c9ef093f2fce7f",
+        "4d11fbdb43a56c7c",
+        "fead6e019389fc83",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "fead6e019389fc83",
+      "date": 1488060528966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3db385efe7c7eb06"
+      },
+      "id": "3db385efe7c7eb06",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488060540435
+    },
+    {
+      "type": "edit",
+      "id": "3db385efe7c7eb06",
+      "item": {
+        "type": "paragraph",
+        "id": "3db385efe7c7eb06",
+        "text": "Why are the two links to the left not working?"
+      },
+      "date": 1488060544368
+    },
+    {
+      "type": "edit",
+      "id": "3db385efe7c7eb06",
+      "item": {
+        "type": "paragraph",
+        "id": "3db385efe7c7eb06",
+        "text": "Why are the two links (under Other Projects) to the left not working?"
+      },
+      "date": 1488060562084
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e7c9ef093f2fce7f",
+        "4d11fbdb43a56c7c",
+        "fead6e019389fc83",
+        "3db385efe7c7eb06",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "3db385efe7c7eb06",
+      "date": 1488060566703
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0116dfd72483cc39"
+      },
+      "id": "0116dfd72483cc39",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488060575965
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e7c9ef093f2fce7f",
+        "0116dfd72483cc39",
+        "4d11fbdb43a56c7c",
+        "fead6e019389fc83",
+        "3db385efe7c7eb06",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "0116dfd72483cc39",
+      "date": 1488060579107
+    },
+    {
+      "type": "edit",
+      "id": "0116dfd72483cc39",
+      "item": {
+        "type": "paragraph",
+        "id": "0116dfd72483cc39",
+        "text": "Are you aware of any data visualizations of social media platform use by region of the world?"
+      },
+      "date": 1488060774100
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f4f922bd64715c1"
+      },
+      "id": "0f4f922bd64715c1",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488061203826
+    },
+    {
+      "type": "edit",
+      "id": "0f4f922bd64715c1",
+      "item": {
+        "type": "paragraph",
+        "id": "0f4f922bd64715c1",
+        "text": "Is there no way to bold or italicize? The ability to emphasize certain words would be very valuable."
+      },
+      "date": 1488061238554
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e7c9ef093f2fce7f",
+        "0116dfd72483cc39",
+        "0f4f922bd64715c1",
+        "4d11fbdb43a56c7c",
+        "fead6e019389fc83",
+        "3db385efe7c7eb06",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "0f4f922bd64715c1",
+      "date": 1488061249357
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8cc66d2ee298245"
+      },
+      "id": "e8cc66d2ee298245",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488061949576
+    },
+    {
+      "type": "remove",
+      "id": "e7c9ef093f2fce7f",
+      "date": 1488061953480
+    },
+    {
+      "type": "edit",
+      "id": "e8cc66d2ee298245",
+      "item": {
+        "type": "pagefold",
+        "id": "e8cc66d2ee298245",
+        "text": "Questions/Comments"
+      },
+      "date": 1488061963094
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e8cc66d2ee298245",
+        "0116dfd72483cc39",
+        "0f4f922bd64715c1",
+        "4d11fbdb43a56c7c",
+        "fead6e019389fc83",
+        "3db385efe7c7eb06",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "e8cc66d2ee298245",
+      "date": 1488061970385
+    },
+    {
+      "type": "edit",
+      "id": "7fb9eaaaeab9b511",
+      "item": {
+        "type": "pagefold",
+        "id": "7fb9eaaaeab9b511",
+        "text": "Addressed by Ward Below\n"
+      },
+      "date": 1488061995038
+    },
+    {
+      "type": "add",
+      "id": "854ccaad9f42e541",
+      "item": {
+        "type": "paragraph",
+        "id": "854ccaad9f42e541",
+        "text": "On recent changes, you need another page that highlights the pages that are most often forked. New arrivals of books in the library are nice, but the tried and true classics deserve their own section as well."
+      },
+      "after": "0116dfd72483cc39",
+      "date": 1488062080148
+    },
+    {
+      "type": "edit",
+      "id": "0f4f922bd64715c1",
+      "item": {
+        "type": "paragraph",
+        "id": "0f4f922bd64715c1",
+        "text": "Is there no way to bold, italicize or underline? The ability to emphasize certain words would be very valuable."
+      },
+      "date": 1488062092878
+    },
+    {
+      "type": "remove",
+      "id": "0f4f922bd64715c1",
+      "date": 1488062538493
+    },
+    {
+      "type": "add",
+      "id": "baa6cfed0ba7f59a",
+      "item": {
+        "type": "paragraph",
+        "id": "baa6cfed0ba7f59a",
+        "text": "Related to text movement. Can I create indents for paragraphs?"
+      },
+      "after": "4d11fbdb43a56c7c",
+      "date": 1488088177277
+    },
+    {
+      "type": "add",
+      "id": "19d06122b86a9230",
+      "item": {
+        "type": "paragraph",
+        "id": "19d06122b86a9230",
+        "text": "I think an in-person component of fed.wiki should be investigated. I will always keep a physical library and would love to be able to organize and share/track that online with my cohort. Thoughts?"
+      },
+      "after": "854ccaad9f42e541",
+      "date": 1488898214190
+    },
+    {
+      "type": "add",
+      "id": "b38f5912993bbad6",
+      "item": {
+        "type": "paragraph",
+        "id": "b38f5912993bbad6",
+        "text": "Could also record assembly conversations. Probably need some advanced math to organize the audio recording of conversations - particularly amongst 128 people. Does the sound of an audio library resonante with you?"
+      },
+      "after": "19d06122b86a9230",
+      "date": 1488898222530
+    },
+    {
+      "type": "add",
+      "id": "f3dd31bd6a26b723",
+      "item": {
+        "type": "paragraph",
+        "id": "f3dd31bd6a26b723",
+        "text": "Calendar Plugin?"
+      },
+      "after": "b38f5912993bbad6",
+      "date": 1488898234073
+    },
+    {
+      "type": "move",
+      "order": [
+        "8741ce1d0315f557",
+        "e8cc66d2ee298245",
+        "854ccaad9f42e541",
+        "19d06122b86a9230",
+        "b38f5912993bbad6",
+        "f3dd31bd6a26b723",
+        "4d11fbdb43a56c7c",
+        "0116dfd72483cc39",
+        "baa6cfed0ba7f59a",
+        "fead6e019389fc83",
+        "3db385efe7c7eb06",
+        "7fb9eaaaeab9b511"
+      ],
+      "id": "0116dfd72483cc39",
+      "date": 1488898270300
+    },
+    {
+      "type": "add",
+      "id": "db8269e953aca495",
+      "item": {
+        "type": "paragraph",
+        "id": "db8269e953aca495",
+        "text": "Would be great if the links were colorful - currently the purple color looks a lot like plain text."
+      },
+      "after": "4d11fbdb43a56c7c",
+      "date": 1488898550335
+    },
+    {
+      "type": "edit",
+      "id": "854ccaad9f42e541",
+      "item": {
+        "type": "paragraph",
+        "id": "854ccaad9f42e541",
+        "text": "On recent changes, i would love another page that highlights the pages that are most often forked. New arrivals of books in the library are nice, but the tried and true classics deserve their own section as well."
+      },
+      "date": 1488898658490
+    },
+    {
+      "type": "add",
+      "id": "543bed77dfd69f31",
+      "item": {
+        "type": "paragraph",
+        "id": "543bed77dfd69f31",
+        "text": "Really enjoy how easy it is to create new links! So cool!"
+      },
+      "after": "854ccaad9f42e541",
+      "date": 1488898680992
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d685d32facf5e11"
+      },
+      "id": "5d685d32facf5e11",
+      "type": "add",
+      "after": "7fb9eaaaeab9b511",
+      "date": 1488903651711
+    },
+    {
+      "type": "edit",
+      "id": "fead6e019389fc83",
+      "item": {
+        "type": "paragraph",
+        "id": "fead6e019389fc83",
+        "text": "Is there any way for me to mark up other content without altering it? How hard, technically, would that be? I.e., markup your comments like Rap Genius does. The current system basically does this- with linking text via highlight. It is just difficult to use and then alter text on my page (requires two separate browser windows)."
+      },
+      "date": 1498512254557
+    },
+    {
+      "type": "remove",
+      "id": "3db385efe7c7eb06",
+      "date": 1498512260559
+    }
+  ]
+}
