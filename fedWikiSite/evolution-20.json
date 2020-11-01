@@ -1,0 +1,133 @@
+{
+  "title": "Evolution 2.0",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "278ebe0aab1f706a",
+      "text": "Natural selection is an unconscious process. We can now use our prefrontal cortex to direct human evolution. We start by purposefully directing the creation of good habits and the deletion of bad habits via data collection, diagnostics, and multi-party review. "
+    },
+    {
+      "type": "paragraph",
+      "id": "73ae61c89012c246",
+      "text": "[http://brianchristian.org/bio-contact/ Brian Christian] and [http://cocosci.berkeley.edu/tom/index.php Tom Griffiths] wrote an important book that has wide implications for Evolution 2.0, as well as Community Adaptation."
+    },
+    {
+      "type": "paragraph",
+      "id": "1542035b3836d4b0",
+      "text": "[[Important Behavioral Science Articles]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "498553ae9e6ed208",
+      "text": "Explore more at [http://www.impaktlabs.com/evolution2 Evolution 2.0]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Evolution 2.0",
+        "story": []
+      },
+      "date": 1489003767066
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "278ebe0aab1f706a"
+      },
+      "id": "278ebe0aab1f706a",
+      "type": "add",
+      "date": 1489003768932
+    },
+    {
+      "type": "edit",
+      "id": "278ebe0aab1f706a",
+      "item": {
+        "type": "paragraph",
+        "id": "278ebe0aab1f706a",
+        "text": "[http://www.impaktlabs.com/evolution2 Evolution 2.0]"
+      },
+      "date": 1489003774835
+    },
+    {
+      "type": "edit",
+      "id": "278ebe0aab1f706a",
+      "item": {
+        "type": "paragraph",
+        "id": "278ebe0aab1f706a",
+        "text": "Natural selection is an unconscious process. We can now use our prefrontal cortex to direct human evolution. We start by purposefully directing the creation of good habits and the deletion of bad habits via data collection, diagnostics, and multi-party review. [http://www.impaktlabs.com/evolution2 Evolution 2.0]"
+      },
+      "date": 1489003859158
+    },
+    {
+      "type": "edit",
+      "id": "278ebe0aab1f706a",
+      "item": {
+        "type": "paragraph",
+        "id": "278ebe0aab1f706a",
+        "text": "Natural selection is an unconscious process. We can now use our prefrontal cortex to direct human evolution. We start by purposefully directing the creation of good habits and the deletion of bad habits via data collection, diagnostics, and multi-party review. "
+      },
+      "date": 1489003865706
+    },
+    {
+      "type": "add",
+      "id": "498553ae9e6ed208",
+      "item": {
+        "type": "paragraph",
+        "id": "498553ae9e6ed208",
+        "text": "Explore more at [http://www.impaktlabs.com/evolution2 Evolution 2.0]"
+      },
+      "after": "278ebe0aab1f706a",
+      "date": 1489003872478
+    },
+    {
+      "type": "add",
+      "id": "73ae61c89012c246",
+      "item": {
+        "type": "paragraph",
+        "id": "73ae61c89012c246",
+        "text": "[http://brianchristian.org/bio-contact/ Brian Christian]"
+      },
+      "after": "278ebe0aab1f706a",
+      "date": 1489269886654
+    },
+    {
+      "type": "add",
+      "id": "2c070978068dc200",
+      "item": {
+        "type": "paragraph",
+        "id": "2c070978068dc200",
+        "text": "[http://cocosci.berkeley.edu/tom/index.php Tom Griffiths]"
+      },
+      "after": "73ae61c89012c246",
+      "date": 1489269952454
+    },
+    {
+      "type": "remove",
+      "id": "2c070978068dc200",
+      "date": 1489269968266
+    },
+    {
+      "type": "edit",
+      "id": "73ae61c89012c246",
+      "item": {
+        "type": "paragraph",
+        "id": "73ae61c89012c246",
+        "text": "[http://brianchristian.org/bio-contact/ Brian Christian] and [http://cocosci.berkeley.edu/tom/index.php Tom Griffiths] wrote an important book that has wide implications for Evolution 2.0, as well as Community Adaptation."
+      },
+      "date": 1489270019103
+    },
+    {
+      "type": "add",
+      "id": "1542035b3836d4b0",
+      "item": {
+        "type": "paragraph",
+        "id": "1542035b3836d4b0",
+        "text": "[[Important Behavioral Science Articles]]"
+      },
+      "after": "73ae61c89012c246",
+      "date": 1489341439113
+    }
+  ]
+}
