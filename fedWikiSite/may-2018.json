@@ -1,0 +1,55 @@
+{
+  "title": "May 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "81c62fcc4f1abf33",
+      "text": "[[9 May 2018]] is indicative."
+    },
+    {
+      "type": "paragraph",
+      "id": "0df5f26bd02efc31",
+      "text": "[[15 May 2018]] is Tuesday in Billings. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "May 2018",
+        "story": []
+      },
+      "date": 1525897381023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81c62fcc4f1abf33"
+      },
+      "id": "81c62fcc4f1abf33",
+      "type": "add",
+      "date": 1525897381920
+    },
+    {
+      "type": "edit",
+      "id": "81c62fcc4f1abf33",
+      "item": {
+        "type": "paragraph",
+        "id": "81c62fcc4f1abf33",
+        "text": "[[9 May 2018]] is indicative."
+      },
+      "date": 1525897394811
+    },
+    {
+      "type": "add",
+      "id": "0df5f26bd02efc31",
+      "item": {
+        "type": "paragraph",
+        "id": "0df5f26bd02efc31",
+        "text": "[[15 May 2018]] is Tuesday in Billings. "
+      },
+      "after": "81c62fcc4f1abf33",
+      "date": 1526403005046
+    }
+  ]
+}
