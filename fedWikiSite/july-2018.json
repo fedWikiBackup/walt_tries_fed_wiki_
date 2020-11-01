@@ -1,0 +1,196 @@
+{
+  "title": "July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "19034233dd0da861",
+      "text": "[[11 July 2018]] was a Wednesday in Red Lodge."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4c276a1f9a853cc",
+      "text": "[[12 July 2018]] is Thursday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "472810f2692e9d8b",
+      "text": "[[13 July 2018]] is Friday the 13th in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "642d6828ae20d81b",
+      "text": "[[16 July 2018]] is Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "33f1d1e982c0605e",
+      "text": "[[17 July 2018]] is Tuesday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "99402a9910cc87ba",
+      "text": "[[18 July 2018]] is Wednesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "39a0a91da60bff1b",
+      "text": "[[23 July 2018]] is Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff6739cf020abff3",
+      "text": "[[27 July 2018]] is Friday in Billings. "
+    },
+    {
+      "type": "paragraph",
+      "id": "da23caa9c8eca194",
+      "text": "[[28 July 2018]] is Saturday in RL."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "July 2018",
+        "story": []
+      },
+      "date": 1531328927943
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19034233dd0da861"
+      },
+      "id": "19034233dd0da861",
+      "type": "add",
+      "date": 1531328929030
+    },
+    {
+      "type": "edit",
+      "id": "19034233dd0da861",
+      "item": {
+        "type": "paragraph",
+        "id": "19034233dd0da861",
+        "text": "Summer is the manic madness of finding ourselves with 16 hour days of nearly endless light. Summer is sadness, for knowing that it will end. Summer is seductive, in the sweat that rolls off the supple skin. Summer is here."
+      },
+      "date": 1531328981020
+    },
+    {
+      "type": "edit",
+      "id": "19034233dd0da861",
+      "item": {
+        "type": "paragraph",
+        "id": "19034233dd0da861",
+        "text": "[[11 July 2018]] was a Wednesday in Red Lodge."
+      },
+      "date": 1531417348325
+    },
+    {
+      "type": "add",
+      "id": "c4c276a1f9a853cc",
+      "item": {
+        "type": "paragraph",
+        "id": "c4c276a1f9a853cc",
+        "text": "[[12 July 2018]] is Thursday in RL."
+      },
+      "after": "19034233dd0da861",
+      "date": 1531417373240
+    },
+    {
+      "type": "add",
+      "id": "472810f2692e9d8b",
+      "item": {
+        "type": "paragraph",
+        "id": "472810f2692e9d8b",
+        "text": "[[13 July 2018]] is Friday the 13th in Billings."
+      },
+      "after": "c4c276a1f9a853cc",
+      "date": 1531498733121
+    },
+    {
+      "type": "add",
+      "id": "642d6828ae20d81b",
+      "item": {
+        "type": "paragraph",
+        "id": "642d6828ae20d81b",
+        "text": "[[16 July 2018]] is Monday in Billings."
+      },
+      "after": "472810f2692e9d8b",
+      "date": 1531768621602
+    },
+    {
+      "type": "add",
+      "id": "33f1d1e982c0605e",
+      "item": {
+        "type": "paragraph",
+        "id": "33f1d1e982c0605e",
+        "text": "[[17 July 2018]] is Tuesday in Billings."
+      },
+      "after": "642d6828ae20d81b",
+      "date": 1531843992390
+    },
+    {
+      "type": "edit",
+      "id": "33f1d1e982c0605e",
+      "item": {
+        "type": "paragraph",
+        "id": "33f1d1e982c0605e",
+        "text": "[[17 July 2018]] is Tuesday in RL."
+      },
+      "date": 1531844005629
+    },
+    {
+      "type": "add",
+      "id": "99402a9910cc87ba",
+      "item": {
+        "type": "paragraph",
+        "id": "99402a9910cc87ba",
+        "text": "[[18 July 2018]] is Wednesday in Billings."
+      },
+      "after": "33f1d1e982c0605e",
+      "date": 1531933455124
+    },
+    {
+      "type": "add",
+      "id": "39a0a91da60bff1b",
+      "item": {
+        "type": "paragraph",
+        "id": "39a0a91da60bff1b",
+        "text": "[[23 July 2018]] is Monday in Billings."
+      },
+      "after": "99402a9910cc87ba",
+      "date": 1532356362900,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1532720687117
+    },
+    {
+      "type": "add",
+      "id": "ff6739cf020abff3",
+      "item": {
+        "type": "paragraph",
+        "id": "ff6739cf020abff3",
+        "text": "[[27 July 2018]] is Friday in Billings. "
+      },
+      "after": "39a0a91da60bff1b",
+      "date": 1532720700245
+    },
+    {
+      "type": "add",
+      "id": "da23caa9c8eca194",
+      "item": {
+        "type": "paragraph",
+        "id": "da23caa9c8eca194",
+        "text": "[[28 July 2018]] is Saturday in RL."
+      },
+      "after": "ff6739cf020abff3",
+      "date": 1532807429352
+    }
+  ]
+}
