@@ -1,0 +1,49 @@
+{
+  "title": "28 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "23188cff73531539",
+      "text": "Just another Tuesday. Wrote a blog post [https://www.communityadaptation.com/bioblog here]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 November 2017",
+        "story": []
+      },
+      "date": 1511899561091
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23188cff73531539"
+      },
+      "id": "23188cff73531539",
+      "type": "add",
+      "date": 1511899562153
+    },
+    {
+      "type": "edit",
+      "id": "23188cff73531539",
+      "item": {
+        "type": "paragraph",
+        "id": "23188cff73531539",
+        "text": "Just another Tuesday. Wrote a blog post [here https://www.communityadaptation.com/bioblog]"
+      },
+      "date": 1511899585310
+    },
+    {
+      "type": "edit",
+      "id": "23188cff73531539",
+      "item": {
+        "type": "paragraph",
+        "id": "23188cff73531539",
+        "text": "Just another Tuesday. Wrote a blog post [https://www.communityadaptation.com/bioblog here]"
+      },
+      "date": 1511899599119
+    }
+  ]
+}
