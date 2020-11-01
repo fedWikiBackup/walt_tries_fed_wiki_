@@ -1,0 +1,588 @@
+{
+  "title": "Glossary",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48168dad623f93f3",
+      "text": "This is a repository of useful terms not available (or satisfactory so) on Wikipedia."
+    },
+    {
+      "type": "paragraph",
+      "id": "1cb460b058d192cc",
+      "text": "[[Allogamy]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "39e295c6dbc38614",
+      "text": "[[Dunbar's Number]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c42afd7a2dae9f6",
+      "text": "[[Existential Risk]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "083db5dba5fcf1d1",
+      "text": "A [[City]] is a self sustaining [[node]] of humans."
+    },
+    {
+      "type": "paragraph",
+      "id": "3054965909d4f8e3",
+      "text": "[[TinyCity]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d36cdc48963c0348",
+      "text": "[[Emotion]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a703cdef9e60ce5d",
+      "text": "[[BlockChain]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "08844cb44cc67c31",
+      "text": "[[Social Networking]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "25b462d5db28f1d3",
+      "text": "[[Medium]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b7692e84378a183",
+      "text": "[[Microgrid]] "
+    },
+    {
+      "type": "paragraph",
+      "id": "8f80a351c178cceb",
+      "text": "[[Metropolis]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1ea23c9a20f41897",
+      "text": "[[Metabolism]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e52f1bd77666c38",
+      "text": "[[Node]] "
+    },
+    {
+      "type": "paragraph",
+      "id": "a422c0206921ae39",
+      "text": "[[Superlative]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "328967f2dd8b0a87",
+      "text": "[[Propagation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5d2b50d14cb5f00b",
+      "text": "[[U.N. 2.0]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b3967d905a0719d3",
+      "text": "[[Modules]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Glossary",
+        "story": []
+      },
+      "date": 1488060912742
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48168dad623f93f3"
+      },
+      "id": "48168dad623f93f3",
+      "type": "add",
+      "date": 1488060918010
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1cb460b058d192cc"
+      },
+      "id": "1cb460b058d192cc",
+      "type": "add",
+      "after": "48168dad623f93f3",
+      "date": 1488060968716
+    },
+    {
+      "type": "edit",
+      "id": "48168dad623f93f3",
+      "item": {
+        "type": "paragraph",
+        "id": "48168dad623f93f3",
+        "text": "This is a repository of useful terms not available (or satisfactory on Wikipedia."
+      },
+      "date": 1488060970977
+    },
+    {
+      "type": "edit",
+      "id": "1cb460b058d192cc",
+      "item": {
+        "type": "paragraph",
+        "id": "1cb460b058d192cc",
+        "text": "Allogamy: The opposite of Antogomy, a system of relationship structure Walter is developing to replace Monogomy."
+      },
+      "date": 1488061011881
+    },
+    {
+      "type": "edit",
+      "id": "1cb460b058d192cc",
+      "item": {
+        "type": "paragraph",
+        "id": "1cb460b058d192cc",
+        "text": "Allogamy: The opposite of Antogamy, a system of relationship structure Walter is developing to replace Monogamy."
+      },
+      "date": 1488061039100
+    },
+    {
+      "type": "add",
+      "id": "5d2b50d14cb5f00b",
+      "item": {
+        "type": "paragraph",
+        "id": "5d2b50d14cb5f00b",
+        "text": "U.N. 2.0: A new world government currently under development. Its power is provided for by cession of power from current sovereigns to a new quasi sovereign. Or, it is provided power from the individual as sovereign."
+      },
+      "after": "1cb460b058d192cc",
+      "date": 1488061135802
+    },
+    {
+      "type": "add",
+      "id": "25b462d5db28f1d3",
+      "item": {
+        "type": "paragraph",
+        "id": "25b462d5db28f1d3",
+        "text": "Medium: A substrate for communication and news dissemination."
+      },
+      "after": "1cb460b058d192cc",
+      "date": 1488061326982
+    },
+    {
+      "type": "add",
+      "id": "ec5806a776b17997",
+      "item": {
+        "type": "paragraph",
+        "id": "ec5806a776b17997",
+        "text": "Lifeboat City: A city within a city, or a secondary city related to, but physically distant from the primary city. The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "after": "1cb460b058d192cc",
+      "date": 1488061482382
+    },
+    {
+      "type": "add",
+      "id": "8b7692e84378a183",
+      "item": {
+        "type": "paragraph",
+        "id": "8b7692e84378a183",
+        "text": "Microgrid: "
+      },
+      "after": "25b462d5db28f1d3",
+      "date": 1488061497585
+    },
+    {
+      "type": "edit",
+      "id": "1cb460b058d192cc",
+      "item": {
+        "type": "paragraph",
+        "id": "1cb460b058d192cc",
+        "text": "[["
+      },
+      "date": 1488061508488
+    },
+    {
+      "type": "edit",
+      "id": "1cb460b058d192cc",
+      "item": {
+        "type": "paragraph",
+        "id": "1cb460b058d192cc",
+        "text": "[[Allogamy]]"
+      },
+      "date": 1488061514200
+    },
+    {
+      "type": "edit",
+      "id": "ec5806a776b17997",
+      "item": {
+        "type": "paragraph",
+        "id": "ec5806a776b17997",
+        "text": "[[Lifeboat City]]"
+      },
+      "date": 1488061554567
+    },
+    {
+      "type": "edit",
+      "id": "25b462d5db28f1d3",
+      "item": {
+        "type": "paragraph",
+        "id": "25b462d5db28f1d3",
+        "text": "[[Medium]]"
+      },
+      "date": 1488061584812
+    },
+    {
+      "type": "edit",
+      "id": "5d2b50d14cb5f00b",
+      "item": {
+        "type": "paragraph",
+        "id": "5d2b50d14cb5f00b",
+        "text": "[[U.N. 2.0]]"
+      },
+      "date": 1488061612242
+    },
+    {
+      "type": "edit",
+      "id": "8b7692e84378a183",
+      "item": {
+        "type": "paragraph",
+        "id": "8b7692e84378a183",
+        "text": "[[Microgrid]] "
+      },
+      "date": 1488061636294
+    },
+    {
+      "type": "edit",
+      "id": "48168dad623f93f3",
+      "item": {
+        "type": "paragraph",
+        "id": "48168dad623f93f3",
+        "text": "This is a repository of useful terms not available (or satisfactory so) on Wikipedia."
+      },
+      "date": 1488061652605
+    },
+    {
+      "type": "add",
+      "id": "a422c0206921ae39",
+      "item": {
+        "type": "paragraph",
+        "id": "a422c0206921ae39",
+        "text": "[[Superlative]]"
+      },
+      "after": "8b7692e84378a183",
+      "date": 1488061782196
+    },
+    {
+      "type": "add",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "[[Dunbar's Number]]"
+      },
+      "after": "1cb460b058d192cc",
+      "date": 1488904319109
+    },
+    {
+      "type": "edit",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "[www.wikipedia.org/wiki/Dunbar's_number Dunbar's Number]"
+      },
+      "date": 1488907464181
+    },
+    {
+      "type": "edit",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "["
+      },
+      "date": 1488907473918
+    },
+    {
+      "type": "edit",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "[wikipedia.org/wiki/Dunbar's_number Dunbar's Number]"
+      },
+      "date": 1488907477649
+    },
+    {
+      "type": "edit",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "[https://en.wikipedia.org/wiki/Dunbar's_number Dunbar's Number]"
+      },
+      "date": 1488907513357
+    },
+    {
+      "type": "edit",
+      "id": "39e295c6dbc38614",
+      "item": {
+        "type": "paragraph",
+        "id": "39e295c6dbc38614",
+        "text": "[[Dunbar's Number]]"
+      },
+      "date": 1489007026085
+    },
+    {
+      "type": "add",
+      "id": "9c42afd7a2dae9f6",
+      "item": {
+        "type": "paragraph",
+        "id": "9c42afd7a2dae9f6",
+        "text": "[[Existential Risk]]"
+      },
+      "after": "5d2b50d14cb5f00b",
+      "date": 1489008676972
+    },
+    {
+      "type": "move",
+      "order": [
+        "48168dad623f93f3",
+        "1cb460b058d192cc",
+        "39e295c6dbc38614",
+        "9c42afd7a2dae9f6",
+        "ec5806a776b17997",
+        "25b462d5db28f1d3",
+        "8b7692e84378a183",
+        "a422c0206921ae39",
+        "5d2b50d14cb5f00b"
+      ],
+      "id": "9c42afd7a2dae9f6",
+      "date": 1489008680273
+    },
+    {
+      "type": "add",
+      "id": "083db5dba5fcf1d1",
+      "item": {
+        "type": "paragraph",
+        "id": "083db5dba5fcf1d1",
+        "text": "[[City]]"
+      },
+      "after": "9c42afd7a2dae9f6",
+      "date": 1502077938637
+    },
+    {
+      "type": "edit",
+      "id": "083db5dba5fcf1d1",
+      "item": {
+        "type": "paragraph",
+        "id": "083db5dba5fcf1d1",
+        "text": "A [[City]] city is a self sustaining unit of humans."
+      },
+      "date": 1502077952422
+    },
+    {
+      "type": "edit",
+      "id": "083db5dba5fcf1d1",
+      "item": {
+        "type": "paragraph",
+        "id": "083db5dba5fcf1d1",
+        "text": "A [[City] is a self sustaining unit of humans."
+      },
+      "date": 1502077965501
+    },
+    {
+      "type": "edit",
+      "id": "083db5dba5fcf1d1",
+      "item": {
+        "type": "paragraph",
+        "id": "083db5dba5fcf1d1",
+        "text": "A [[City]] is a self sustaining unit of humans."
+      },
+      "date": 1502077971590
+    },
+    {
+      "type": "add",
+      "id": "08844cb44cc67c31",
+      "item": {
+        "type": "paragraph",
+        "id": "08844cb44cc67c31",
+        "text": "[[Social Networking]]"
+      },
+      "after": "ec5806a776b17997",
+      "date": 1502079090427
+    },
+    {
+      "type": "add",
+      "id": "6a2d9746f07808ad",
+      "item": {
+        "type": "paragraph",
+        "id": "6a2d9746f07808ad",
+        "text": "[[City Module]] is a group of [[nodes]] of cities."
+      },
+      "after": "8b7692e84378a183",
+      "date": 1502080517112
+    },
+    {
+      "type": "add",
+      "id": "9e52f1bd77666c38",
+      "item": {
+        "type": "paragraph",
+        "id": "9e52f1bd77666c38",
+        "text": "[[Nodes]] are the smallest unit of [modular] networking."
+      },
+      "after": "6a2d9746f07808ad",
+      "date": 1502080590544
+    },
+    {
+      "type": "edit",
+      "id": "9e52f1bd77666c38",
+      "item": {
+        "type": "paragraph",
+        "id": "9e52f1bd77666c38",
+        "text": "[[Nodes]] are the smallest unit of [[modular]] networking."
+      },
+      "date": 1502080596280
+    },
+    {
+      "type": "add",
+      "id": "328967f2dd8b0a87",
+      "item": {
+        "type": "paragraph",
+        "id": "328967f2dd8b0a87",
+        "text": "[[Propagation]]"
+      },
+      "after": "a422c0206921ae39",
+      "date": 1502081079004
+    },
+    {
+      "type": "add",
+      "id": "b3967d905a0719d3",
+      "item": {
+        "type": "paragraph",
+        "id": "b3967d905a0719d3",
+        "text": "[[Modules]]"
+      },
+      "after": "5d2b50d14cb5f00b",
+      "date": 1502081193427
+    },
+    {
+      "type": "add",
+      "id": "3054965909d4f8e3",
+      "item": {
+        "type": "paragraph",
+        "id": "3054965909d4f8e3",
+        "text": "[[TinyCity]]"
+      },
+      "after": "ec5806a776b17997",
+      "date": 1502089693977
+    },
+    {
+      "type": "remove",
+      "id": "ec5806a776b17997",
+      "date": 1502089794456
+    },
+    {
+      "type": "remove",
+      "id": "6a2d9746f07808ad",
+      "date": 1502089820829
+    },
+    {
+      "type": "edit",
+      "id": "083db5dba5fcf1d1",
+      "item": {
+        "type": "paragraph",
+        "id": "083db5dba5fcf1d1",
+        "text": "A [[City]] is a self sustaining [[node]] of humans."
+      },
+      "date": 1502089827616
+    },
+    {
+      "type": "edit",
+      "id": "9e52f1bd77666c38",
+      "item": {
+        "type": "paragraph",
+        "id": "9e52f1bd77666c38",
+        "text": "A [[Node]] is the smallest unit of [[modular]] networking. For purposes of designing the human social network, the Node is [[City]], of which there are several sizes."
+      },
+      "date": 1502090178574
+    },
+    {
+      "type": "edit",
+      "id": "9e52f1bd77666c38",
+      "item": {
+        "type": "paragraph",
+        "id": "9e52f1bd77666c38",
+        "text": "A [[Node]] "
+      },
+      "date": 1502090187564
+    },
+    {
+      "type": "edit",
+      "id": "9e52f1bd77666c38",
+      "item": {
+        "type": "paragraph",
+        "id": "9e52f1bd77666c38",
+        "text": "[[Node]] "
+      },
+      "date": 1502090219481
+    },
+    {
+      "type": "add",
+      "id": "8f80a351c178cceb",
+      "item": {
+        "type": "paragraph",
+        "id": "8f80a351c178cceb",
+        "text": "[[Metropolis]]"
+      },
+      "after": "8b7692e84378a183",
+      "date": 1502091244697
+    },
+    {
+      "type": "add",
+      "id": "1ea23c9a20f41897",
+      "item": {
+        "type": "paragraph",
+        "id": "1ea23c9a20f41897",
+        "text": "[[Metabolism]]"
+      },
+      "after": "8f80a351c178cceb",
+      "date": 1502091615447
+    },
+    {
+      "type": "add",
+      "id": "d36cdc48963c0348",
+      "item": {
+        "type": "paragraph",
+        "id": "d36cdc48963c0348",
+        "text": "[[Emotion]]"
+      },
+      "after": "3054965909d4f8e3",
+      "date": 1502092720656
+    },
+    {
+      "type": "add",
+      "id": "a703cdef9e60ce5d",
+      "item": {
+        "type": "paragraph",
+        "id": "a703cdef9e60ce5d",
+        "text": "[[BlockChain"
+      },
+      "after": "d36cdc48963c0348",
+      "date": 1502094592946
+    },
+    {
+      "type": "edit",
+      "id": "a703cdef9e60ce5d",
+      "item": {
+        "type": "paragraph",
+        "id": "a703cdef9e60ce5d",
+        "text": "[[BlockChain]]"
+      },
+      "date": 1502094608791
+    }
+  ]
+}
