@@ -1,0 +1,39 @@
+{
+  "title": "16 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a1c366bc4b6ae4a3",
+      "text": "The measure of a man is not whether he falls, but how quickly he gets back up. It has been two weeks since my last entry. Not good. Not terrible. But not good. Next time I fall, I resolve to pick myself up more quickly. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 January 2018",
+        "story": []
+      },
+      "date": 1516128096710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1c366bc4b6ae4a3"
+      },
+      "id": "a1c366bc4b6ae4a3",
+      "type": "add",
+      "date": 1516128097762
+    },
+    {
+      "type": "edit",
+      "id": "a1c366bc4b6ae4a3",
+      "item": {
+        "type": "paragraph",
+        "id": "a1c366bc4b6ae4a3",
+        "text": "The measure of a man is not whether he falls, but how quickly he gets back up. It has been two weeks since my last entry. Not good. Not terrible. But not good. Next time I fall, I resolve to pick myself up more quickly. "
+      },
+      "date": 1516128141369
+    }
+  ]
+}
