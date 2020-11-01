@@ -1,0 +1,39 @@
+{
+  "title": "8 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "af488492273eb4c7",
+      "text": "It's done. Thank the lord. Hope I get another oral argument out of this! Now, on to new shape!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 September 2017",
+        "story": []
+      },
+      "date": 1504908660706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af488492273eb4c7"
+      },
+      "id": "af488492273eb4c7",
+      "type": "add",
+      "date": 1504908661867
+    },
+    {
+      "type": "edit",
+      "id": "af488492273eb4c7",
+      "item": {
+        "type": "paragraph",
+        "id": "af488492273eb4c7",
+        "text": "It's done. Thank the lord. Hope I get another oral argument out of this! Now, on to new shape!"
+      },
+      "date": 1504908692484
+    }
+  ]
+}
