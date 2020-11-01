@@ -1,0 +1,39 @@
+{
+  "title": "22 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4e4ff438cbff73d5",
+      "text": "Today is a day of careful winter driving. Headed to GF for an attempt at mediation. Lord I hope it goes well for our clients. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 February 2018",
+        "story": []
+      },
+      "date": 1519318418556
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e4ff438cbff73d5"
+      },
+      "id": "4e4ff438cbff73d5",
+      "type": "add",
+      "date": 1519319929035
+    },
+    {
+      "type": "edit",
+      "id": "4e4ff438cbff73d5",
+      "item": {
+        "type": "paragraph",
+        "id": "4e4ff438cbff73d5",
+        "text": "Today is a day of careful winter driving. Headed to GF for an attempt at mediation. Lord I hope it goes well for our clients. "
+      },
+      "date": 1519320026864
+    }
+  ]
+}
