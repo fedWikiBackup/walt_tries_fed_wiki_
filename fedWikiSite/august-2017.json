@@ -1,0 +1,447 @@
+{
+  "title": "August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc579d467ec0ff93",
+      "text": "[[1 August 2017]] was a rough start."
+    },
+    {
+      "type": "paragraph",
+      "id": "417280ce09c83246",
+      "text": "[[2 August 2017]] is first Wiki meeting."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ea4687860880a2e",
+      "text": "[[3 August 2017]] is a Thursday."
+    },
+    {
+      "type": "paragraph",
+      "id": "80e29582a44dc6a4",
+      "text": "[[4 August 2017]] is an early day with meditation."
+    },
+    {
+      "type": "paragraph",
+      "id": "1839108ea3f8ab30",
+      "text": "[[6 August 2017]] is last day in Nye for a while, discussion of Scale. Star Day."
+    },
+    {
+      "type": "paragraph",
+      "id": "5d203053ffbb0ebc",
+      "text": "[[7 August 2017]] is back to lawyering."
+    },
+    {
+      "type": "paragraph",
+      "id": "aabf246719b4d921",
+      "text": "[[8 August 2017]] was a good Tuesday."
+    },
+    {
+      "type": "paragraph",
+      "id": "a60b008c05b182a9",
+      "text": "[[9 August 2017]] is Wednesday in Missoula and Flying to Portland."
+    },
+    {
+      "type": "paragraph",
+      "id": "21b1dc1a0dd57491",
+      "text": "[[10 August 2017]] is Thursday in Portland learning about the Waldorf Education System."
+    },
+    {
+      "type": "paragraph",
+      "id": "65ee7decfcc95eb2",
+      "text": "[[15 August 2017]] is back in Montana after an exhausting couple of days."
+    },
+    {
+      "type": "paragraph",
+      "id": "7d9d1eb19274cf21",
+      "text": "[[17 August 2017]] is travel, travel, travel."
+    },
+    {
+      "type": "paragraph",
+      "id": "54354f8e06f578f7",
+      "text": "[[18 August 2017]] is FRIDAY!"
+    },
+    {
+      "type": "paragraph",
+      "id": "228634b559e14294",
+      "text": "[[19 August 2017]] is a Saturday with Liz, Friends, and Kids."
+    },
+    {
+      "type": "paragraph",
+      "id": "7b4a164f59fd4a3e",
+      "text": "[[20 August 2017]] is a working Sunday."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a11114bcc13f86b",
+      "text": "[[21 August 2017]] was Solar Eclipse, DMV, and busy day."
+    },
+    {
+      "type": "paragraph",
+      "id": "0cca21456831473f",
+      "text": "[[22 August 2017]] is eight days till draft of New Shape is due to Viraj."
+    },
+    {
+      "type": "paragraph",
+      "id": "dd4dbedc127cabd3",
+      "text": "[[23 August 2017]] is seven days until NS is due to Viraj."
+    },
+    {
+      "type": "paragraph",
+      "id": "b16cbdd3ff6f58d7",
+      "text": "[[24 August 2017]] is six days."
+    },
+    {
+      "type": "paragraph",
+      "id": "02ebe61120f36b6e",
+      "text": "[[25 August 2017]] is five days. Ugh."
+    },
+    {
+      "type": "paragraph",
+      "id": "4a3be8115b0fa5e0",
+      "text": "[[26 August 2017]] is a great Saturday. Tippet, Door, and New Shape."
+    },
+    {
+      "type": "paragraph",
+      "id": "4db3ecea6d1a6bb4",
+      "text": "[[28 August 2017]] is Saga Sisters K."
+    },
+    {
+      "type": "paragraph",
+      "id": "c314abb77651941b",
+      "text": "[[29 August 2017]] is the day I met another Will R."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b01b9a7fef4d54f",
+      "text": "[[30 August 2017]] is headed to Great Falls."
+    },
+    {
+      "type": "paragraph",
+      "id": "eda9ff7e1e9c5f60",
+      "text": "[[31 August 2017]] was a day of the hearing."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "August 2017",
+        "story": []
+      },
+      "date": 1501645093101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc579d467ec0ff93"
+      },
+      "id": "cc579d467ec0ff93",
+      "type": "add",
+      "date": 1501645094114
+    },
+    {
+      "type": "edit",
+      "id": "cc579d467ec0ff93",
+      "item": {
+        "type": "paragraph",
+        "id": "cc579d467ec0ff93",
+        "text": "[[1 August 2017]] was a rough start."
+      },
+      "date": 1501645111321
+    },
+    {
+      "type": "add",
+      "id": "417280ce09c83246",
+      "item": {
+        "type": "paragraph",
+        "id": "417280ce09c83246",
+        "text": "[[2 August 2017]] is first Wiki meeting."
+      },
+      "after": "cc579d467ec0ff93",
+      "date": 1501695544523
+    },
+    {
+      "type": "add",
+      "id": "5ea4687860880a2e",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea4687860880a2e",
+        "text": "[[3 August 2017]] is a Thursday."
+      },
+      "after": "417280ce09c83246",
+      "date": 1501776022934
+    },
+    {
+      "type": "add",
+      "id": "80e29582a44dc6a4",
+      "item": {
+        "type": "paragraph",
+        "id": "80e29582a44dc6a4",
+        "text": "[[4 August 2017]] is an early day with meditation."
+      },
+      "after": "5ea4687860880a2e",
+      "date": 1501858001958
+    },
+    {
+      "type": "add",
+      "id": "1839108ea3f8ab30",
+      "item": {
+        "type": "paragraph",
+        "id": "1839108ea3f8ab30",
+        "text": "[[6 August 2017]] "
+      },
+      "after": "80e29582a44dc6a4",
+      "date": 1502043117274
+    },
+    {
+      "type": "edit",
+      "id": "1839108ea3f8ab30",
+      "item": {
+        "type": "paragraph",
+        "id": "1839108ea3f8ab30",
+        "text": "[[6 August 2017]] is last day in Nye for a while."
+      },
+      "date": 1502043312860
+    },
+    {
+      "type": "edit",
+      "id": "1839108ea3f8ab30",
+      "item": {
+        "type": "paragraph",
+        "id": "1839108ea3f8ab30",
+        "text": "[[6 August 2017]] is last day in Nye for a while, discussion of Scale."
+      },
+      "date": 1502045359972
+    },
+    {
+      "type": "edit",
+      "id": "1839108ea3f8ab30",
+      "item": {
+        "type": "paragraph",
+        "id": "1839108ea3f8ab30",
+        "text": "[[6 August 2017]] is last day in Nye for a while, discussion of Scale. Star Day."
+      },
+      "date": 1502077337299
+    },
+    {
+      "type": "add",
+      "id": "5d203053ffbb0ebc",
+      "item": {
+        "type": "paragraph",
+        "id": "5d203053ffbb0ebc",
+        "text": "[[7 August 2017]] is back to lawyering."
+      },
+      "after": "1839108ea3f8ab30",
+      "date": 1502147434921
+    },
+    {
+      "type": "add",
+      "id": "aabf246719b4d921",
+      "item": {
+        "type": "paragraph",
+        "id": "aabf246719b4d921",
+        "text": "[[8 August 2017]] was a good Tuesday."
+      },
+      "after": "5d203053ffbb0ebc",
+      "date": 1502234097109
+    },
+    {
+      "type": "add",
+      "id": "a60b008c05b182a9",
+      "item": {
+        "type": "paragraph",
+        "id": "a60b008c05b182a9",
+        "text": "[[9 August 2017]] is Wednesday in Missoula and Flying to Portland."
+      },
+      "after": "aabf246719b4d921",
+      "date": 1502296501063
+    },
+    {
+      "type": "add",
+      "id": "21b1dc1a0dd57491",
+      "item": {
+        "type": "paragraph",
+        "id": "21b1dc1a0dd57491",
+        "text": "[[10 August 2017]] is Thursday in Portland learning about the Waldorf Education System."
+      },
+      "after": "a60b008c05b182a9",
+      "date": 1502383618447
+    },
+    {
+      "type": "add",
+      "id": "65ee7decfcc95eb2",
+      "item": {
+        "type": "paragraph",
+        "id": "65ee7decfcc95eb2",
+        "text": "[[15 August 2017]] is back in Montana after an exhausting couple of days."
+      },
+      "after": "21b1dc1a0dd57491",
+      "date": 1502816299527
+    },
+    {
+      "type": "add",
+      "id": "7d9d1eb19274cf21",
+      "item": {
+        "type": "paragraph",
+        "id": "7d9d1eb19274cf21",
+        "text": "[[17 August 2017]] is travel, travel, travel."
+      },
+      "after": "65ee7decfcc95eb2",
+      "date": 1503009359017
+    },
+    {
+      "type": "add",
+      "id": "54354f8e06f578f7",
+      "item": {
+        "type": "paragraph",
+        "id": "54354f8e06f578f7",
+        "text": "[[18 August 2017]] is FRIDAY!"
+      },
+      "after": "7d9d1eb19274cf21",
+      "date": 1503090017433
+    },
+    {
+      "type": "add",
+      "id": "228634b559e14294",
+      "item": {
+        "type": "paragraph",
+        "id": "228634b559e14294",
+        "text": "[[19 August 2017]] is a Saturday with Liz, Friends, and Kids."
+      },
+      "after": "54354f8e06f578f7",
+      "date": 1503184980832
+    },
+    {
+      "type": "add",
+      "id": "7b4a164f59fd4a3e",
+      "item": {
+        "type": "paragraph",
+        "id": "7b4a164f59fd4a3e",
+        "text": "[[20 August 2017]] is a working Sunday."
+      },
+      "after": "228634b559e14294",
+      "date": 1503290006576
+    },
+    {
+      "type": "add",
+      "id": "5a11114bcc13f86b",
+      "item": {
+        "type": "paragraph",
+        "id": "5a11114bcc13f86b",
+        "text": "[[21 August 2017]] was Solar Eclipse, DMV, and busy day."
+      },
+      "after": "7b4a164f59fd4a3e",
+      "date": 1503355991587
+    },
+    {
+      "type": "add",
+      "id": "0cca21456831473f",
+      "item": {
+        "type": "paragraph",
+        "id": "0cca21456831473f",
+        "text": "[[22 August 2017]] is eight days till draft of "
+      },
+      "after": "5a11114bcc13f86b",
+      "date": 1503413006251
+    },
+    {
+      "type": "edit",
+      "id": "0cca21456831473f",
+      "item": {
+        "type": "paragraph",
+        "id": "0cca21456831473f",
+        "text": "[[22 August 2017]] is eight days till draft of New Shape is due to Viraj."
+      },
+      "date": 1503413016292
+    },
+    {
+      "type": "add",
+      "id": "dd4dbedc127cabd3",
+      "item": {
+        "type": "paragraph",
+        "id": "dd4dbedc127cabd3",
+        "text": "[[23 August 2017]] is seven days until NS is due to Viraj."
+      },
+      "after": "0cca21456831473f",
+      "date": 1503518022057
+    },
+    {
+      "type": "add",
+      "id": "b16cbdd3ff6f58d7",
+      "item": {
+        "type": "paragraph",
+        "id": "b16cbdd3ff6f58d7",
+        "text": "[[24 August 2017]] is six days."
+      },
+      "after": "dd4dbedc127cabd3",
+      "date": 1503609029618
+    },
+    {
+      "type": "add",
+      "id": "02ebe61120f36b6e",
+      "item": {
+        "type": "paragraph",
+        "id": "02ebe61120f36b6e",
+        "text": "[[25 August 2017]] is five days. Ugh."
+      },
+      "after": "b16cbdd3ff6f58d7",
+      "date": 1503701760075
+    },
+    {
+      "type": "add",
+      "id": "4a3be8115b0fa5e0",
+      "item": {
+        "type": "paragraph",
+        "id": "4a3be8115b0fa5e0",
+        "text": "[[26 August 2017]] is a great Saturday. Tippet, Door, and New Shape."
+      },
+      "after": "02ebe61120f36b6e",
+      "date": 1503785178148
+    },
+    {
+      "type": "add",
+      "id": "4db3ecea6d1a6bb4",
+      "item": {
+        "type": "paragraph",
+        "id": "4db3ecea6d1a6bb4",
+        "text": "[[28 August 2017]] is Saga Sisters K."
+      },
+      "after": "4a3be8115b0fa5e0",
+      "date": 1503901859084
+    },
+    {
+      "type": "add",
+      "id": "c314abb77651941b",
+      "item": {
+        "type": "paragraph",
+        "id": "c314abb77651941b",
+        "text": "[[29 August 2017]] is the day I met another Will R."
+      },
+      "after": "4db3ecea6d1a6bb4",
+      "date": 1504053708956
+    },
+    {
+      "type": "add",
+      "id": "2b01b9a7fef4d54f",
+      "item": {
+        "type": "paragraph",
+        "id": "2b01b9a7fef4d54f",
+        "text": "[[30 August 2017]] is headed to Great Falls."
+      },
+      "after": "c314abb77651941b",
+      "date": 1504111542472
+    },
+    {
+      "type": "add",
+      "id": "eda9ff7e1e9c5f60",
+      "item": {
+        "type": "paragraph",
+        "id": "eda9ff7e1e9c5f60",
+        "text": "[[31 August 2017]] was a day of the hearing."
+      },
+      "after": "2b01b9a7fef4d54f",
+      "date": 1504211619572
+    }
+  ]
+}
