@@ -1,0 +1,49 @@
+{
+  "title": "10 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "16bd4cc99161e3f8",
+      "text": "Pulling the trigger on buying a Tesla. Terrified and exhilarated. Cannot wait to drive around Montana is the most advanced American made vehicle in existence. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "10 October 2017",
+        "story": []
+      },
+      "date": 1507654938497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16bd4cc99161e3f8"
+      },
+      "id": "16bd4cc99161e3f8",
+      "type": "add",
+      "date": 1507654939542
+    },
+    {
+      "type": "edit",
+      "id": "16bd4cc99161e3f8",
+      "item": {
+        "type": "paragraph",
+        "id": "16bd4cc99161e3f8",
+        "text": "Pulling the trigger on buying a Tesla. Terrified and exhilerated. Cannot wait to "
+      },
+      "date": 1507654961871
+    },
+    {
+      "type": "edit",
+      "id": "16bd4cc99161e3f8",
+      "item": {
+        "type": "paragraph",
+        "id": "16bd4cc99161e3f8",
+        "text": "Pulling the trigger on buying a Tesla. Terrified and exhilarated. Cannot wait to drive around Montana is the most advanced American made vehicle in existence. "
+      },
+      "date": 1507654994446
+    }
+  ]
+}
