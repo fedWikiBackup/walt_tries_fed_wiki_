@@ -1,0 +1,105 @@
+{
+  "title": "Why Walter is Here",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a56b5e843c61707e",
+      "text": "Walter aims to uncover the hidden gem that is Federated Wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "295d6a349271d5bb",
+      "text": "Walter believes he is on planet earth to reduce suffering by focusing his efforts within the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism; urban and rural. Still reading? Read more about his [[philosophy]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Why Walter is Here",
+        "story": []
+      },
+      "date": 1489007157216
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a56b5e843c61707e",
+        "text": "Walter aims to uncover the hidden gem that is Federated Wiki and guide it to global adoption."
+      },
+      "id": "a56b5e843c61707e",
+      "date": 1489007182218
+    },
+    {
+      "type": "add",
+      "id": "295d6a349271d5bb",
+      "item": {
+        "type": "paragraph",
+        "id": "295d6a349271d5bb",
+        "text": "Walter believes he is on planet earth to reduce suffering by focusing on the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism."
+      },
+      "after": "a56b5e843c61707e",
+      "date": 1489007280542
+    },
+    {
+      "type": "edit",
+      "id": "295d6a349271d5bb",
+      "item": {
+        "type": "paragraph",
+        "id": "295d6a349271d5bb",
+        "text": "Walter believes he is on planet earth to reduce suffering by focusing his efforts within the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism."
+      },
+      "date": 1489007295983
+    },
+    {
+      "type": "edit",
+      "id": "295d6a349271d5bb",
+      "item": {
+        "type": "paragraph",
+        "id": "295d6a349271d5bb",
+        "text": "Walter believes he is on planet earth to reduce suffering by focusing his efforts within the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism; urban and rural."
+      },
+      "date": 1489944171356,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "295d6a349271d5bb",
+      "item": {
+        "type": "paragraph",
+        "id": "295d6a349271d5bb",
+        "text": "Walter believes he is on planet earth to reduce suffering by focusing his efforts within the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism; urban and rural. Read more about his "
+      },
+      "date": 1494358136676
+    },
+    {
+      "type": "fork",
+      "date": 1494358190662
+    },
+    {
+      "type": "edit",
+      "id": "295d6a349271d5bb",
+      "item": {
+        "type": "paragraph",
+        "id": "295d6a349271d5bb",
+        "text": "Walter believes he is on planet earth to reduce suffering by focusing his efforts within the tension between: love and survival; socialism and capitalism; empathy and selfishness; liberalism and tribalism; urban and rural. Still reading? Read more about his [[philosophy]]."
+      },
+      "date": 1494358438052
+    },
+    {
+      "type": "edit",
+      "id": "a56b5e843c61707e",
+      "item": {
+        "type": "paragraph",
+        "id": "a56b5e843c61707e",
+        "text": "Walter aims to uncover the hidden gem that is Federated Wiki."
+      },
+      "date": 1501441932729
+    }
+  ]
+}
