@@ -1,0 +1,39 @@
+{
+  "title": "15 May 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "83bf4a1c3b612360",
+      "text": "The sun shines and it fades, the earth turns, and it oscillates. Cold and hot - hot and cold - cold and hot - and everything in between. The truth I will seek - and the solution I will find.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 May 2018",
+        "story": []
+      },
+      "date": 1526403014484
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83bf4a1c3b612360"
+      },
+      "id": "83bf4a1c3b612360",
+      "type": "add",
+      "date": 1526403015265
+    },
+    {
+      "type": "edit",
+      "id": "83bf4a1c3b612360",
+      "item": {
+        "type": "paragraph",
+        "id": "83bf4a1c3b612360",
+        "text": "The sun shines and it fades, the earth turns, and it oscillates. Cold and hot - hot and cold - cold and hot - and everything in between. The truth I will seek - and the solution I will find.  "
+      },
+      "date": 1526403070071
+    }
+  ]
+}
