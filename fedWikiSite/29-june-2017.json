@@ -1,0 +1,64 @@
+{
+  "title": "29 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0da5ae4bf694770c",
+      "text": "Man. What a day. Up at 6 to move the car. Then back down and back up to get keys from Spenny. Then move to Spenny's. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7f0bb22ba09a4f19",
+      "text": "Totally exhausted and a ton of work for today and tomorrow. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 June 2017",
+        "story": []
+      },
+      "date": 1498756883704
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0da5ae4bf694770c"
+      },
+      "id": "0da5ae4bf694770c",
+      "type": "add",
+      "date": 1498756885073
+    },
+    {
+      "type": "edit",
+      "id": "0da5ae4bf694770c",
+      "item": {
+        "type": "paragraph",
+        "id": "0da5ae4bf694770c",
+        "text": "Man. What a day. Up at 6 to move the car. Then back down and back up to get keys from Spenny. Then move to Spenny's. "
+      },
+      "date": 1498756920202
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f0bb22ba09a4f19"
+      },
+      "id": "7f0bb22ba09a4f19",
+      "type": "add",
+      "after": "0da5ae4bf694770c",
+      "date": 1498756922230
+    },
+    {
+      "type": "edit",
+      "id": "7f0bb22ba09a4f19",
+      "item": {
+        "type": "paragraph",
+        "id": "7f0bb22ba09a4f19",
+        "text": "Totally exhausted and a ton of work for today and tomorrow. "
+      },
+      "date": 1498756938135
+    }
+  ]
+}
