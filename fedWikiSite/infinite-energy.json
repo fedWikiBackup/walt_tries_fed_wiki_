@@ -1,0 +1,101 @@
+{
+  "title": "Infinite Energy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e93f63082dd27e82",
+      "text": "[[Tesla Tower]] was patented and the patent is now expired.[http://getcorp.com/ Global Energy Transmission] is working on a modern day Tesla Tower. [https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US1119732.pdf View the expired patent here.]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5d47163a00448086",
+      "text": "[http://www.transatomicpower.com/ Transatomic Power] is working on removing waste product. The main question for them is permitting time."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Infinite Energy",
+        "story": []
+      },
+      "date": 1489155797587
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e93f63082dd27e82"
+      },
+      "id": "e93f63082dd27e82",
+      "type": "add",
+      "date": 1489155799476
+    },
+    {
+      "type": "edit",
+      "id": "e93f63082dd27e82",
+      "item": {
+        "type": "paragraph",
+        "id": "e93f63082dd27e82",
+        "text": "[[Tesla Tower]] was patented and the patent is now expired."
+      },
+      "date": 1489155821539
+    },
+    {
+      "type": "add",
+      "id": "aab4d753c8ebc1e8",
+      "item": {
+        "type": "paragraph",
+        "id": "aab4d753c8ebc1e8",
+        "text": "[http://getcorp.com/ Global Energy Transmission] is working on this project."
+      },
+      "after": "e93f63082dd27e82",
+      "date": 1489155947266
+    },
+    {
+      "type": "edit",
+      "id": "aab4d753c8ebc1e8",
+      "item": {
+        "type": "paragraph",
+        "id": "aab4d753c8ebc1e8",
+        "text": "[http://getcorp.com/ Global Energy Transmission] is working on a modern day Tesla Tower."
+      },
+      "date": 1489155960223
+    },
+    {
+      "type": "remove",
+      "id": "aab4d753c8ebc1e8",
+      "date": 1489156314665
+    },
+    {
+      "type": "edit",
+      "id": "e93f63082dd27e82",
+      "item": {
+        "type": "paragraph",
+        "id": "e93f63082dd27e82",
+        "text": "[[Tesla Tower]] was patented and the patent is now expired.[http://getcorp.com/ Global Energy Transmission] is working on a modern day Tesla Tower."
+      },
+      "date": 1489156317812
+    },
+    {
+      "type": "add",
+      "id": "5d47163a00448086",
+      "item": {
+        "type": "paragraph",
+        "id": "5d47163a00448086",
+        "text": "[http://www.transatomicpower.com/ Transatomic Power] is working on removing waste product. The main question for them is permitting time."
+      },
+      "after": "e93f63082dd27e82",
+      "date": 1489156351743
+    },
+    {
+      "type": "edit",
+      "id": "e93f63082dd27e82",
+      "item": {
+        "type": "paragraph",
+        "id": "e93f63082dd27e82",
+        "text": "[[Tesla Tower]] was patented and the patent is now expired.[http://getcorp.com/ Global Energy Transmission] is working on a modern day Tesla Tower. [https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US1119732.pdf View the expired patent here.]"
+      },
+      "date": 1489156866867
+    }
+  ]
+}
