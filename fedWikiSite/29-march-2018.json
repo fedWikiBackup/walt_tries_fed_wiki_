@@ -1,0 +1,39 @@
+{
+  "title": "29 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a15258a5801954ba",
+      "text": "Really hope the wedding, slow weeks, and CLEs do not make me miss my bonus target. Really really really. Really want to buy a house. AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 March 2018",
+        "story": []
+      },
+      "date": 1522342316129
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a15258a5801954ba"
+      },
+      "id": "a15258a5801954ba",
+      "type": "add",
+      "date": 1522342317269
+    },
+    {
+      "type": "edit",
+      "id": "a15258a5801954ba",
+      "item": {
+        "type": "paragraph",
+        "id": "a15258a5801954ba",
+        "text": "Really hope the wedding, slow weeks, and CLEs do not make me miss my bonus target. Really really really. Really want to buy a house. AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH."
+      },
+      "date": 1522342356682
+    }
+  ]
+}
