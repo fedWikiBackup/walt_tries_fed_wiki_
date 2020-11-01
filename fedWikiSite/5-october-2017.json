@@ -1,0 +1,81 @@
+{
+  "title": "5 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0b2c9fb5dbd413c6",
+      "text": "Well. It has been a while. New Shape submission was a wild ride. And it is done. I am proud no matter how it is received. It is good work no matter what anyone says. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b4758c156f65276d",
+      "text": "I need to send a copy to Ward and a few others for review. I am very interested to see what Tom will think. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c20766cec06032d0",
+      "text": "I am subtly impressed that I managed to complete the project with so few resources and while working a day job and a start-up. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 October 2017",
+        "story": []
+      },
+      "date": 1507245640351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b2c9fb5dbd413c6"
+      },
+      "id": "0b2c9fb5dbd413c6",
+      "type": "add",
+      "date": 1507245641697
+    },
+    {
+      "type": "edit",
+      "id": "0b2c9fb5dbd413c6",
+      "item": {
+        "type": "paragraph",
+        "id": "0b2c9fb5dbd413c6",
+        "text": "Well. It has been a while. New Shape submission was a wild ride. And it is done. I am proud no matter how it is received. It is good work no matter what anyone says. "
+      },
+      "date": 1507245681654
+    },
+    {
+      "type": "add",
+      "id": "b4758c156f65276d",
+      "item": {
+        "type": "paragraph",
+        "id": "b4758c156f65276d",
+        "text": "I need to send a copy to Ward and a few others for review. I am very interested to see what Tom will think. "
+      },
+      "after": "0b2c9fb5dbd413c6",
+      "date": 1507245707284
+    },
+    {
+      "type": "add",
+      "id": "c20766cec06032d0",
+      "item": {
+        "type": "paragraph",
+        "id": "c20766cec06032d0",
+        "text": "I am subtlly "
+      },
+      "after": "b4758c156f65276d",
+      "date": 1507245720380
+    },
+    {
+      "type": "edit",
+      "id": "c20766cec06032d0",
+      "item": {
+        "type": "paragraph",
+        "id": "c20766cec06032d0",
+        "text": "I am subtly impressed that I managed to complete the project with so few resources and while working a day job and a start-up. "
+      },
+      "date": 1507245757279
+    }
+  ]
+}
