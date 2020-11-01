@@ -1,0 +1,53 @@
+{
+  "title": "17 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "80e62e1bd4589264",
+      "text": "Just got the sprinkler system working. RL newcomer service - Linda Fisher is coming over presently. A glory to be able to work from home a couple days a week. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 July 2018",
+        "story": []
+      },
+      "date": 1531843995292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a8da6c4bc18a675"
+      },
+      "id": "5a8da6c4bc18a675",
+      "type": "add",
+      "date": 1531843996233
+    },
+    {
+      "type": "remove",
+      "id": "5a8da6c4bc18a675",
+      "date": 1531843999853
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80e62e1bd4589264"
+      },
+      "id": "80e62e1bd4589264",
+      "type": "add",
+      "date": 1531844004909
+    },
+    {
+      "type": "edit",
+      "id": "80e62e1bd4589264",
+      "item": {
+        "type": "paragraph",
+        "id": "80e62e1bd4589264",
+        "text": "Just got the sprinkler system working. RL newcomer service - Linda Fisher is coming over presently. A glory to be able to work from home a couple days a week. "
+      },
+      "date": 1531844079149
+    }
+  ]
+}
