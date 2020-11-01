@@ -1,0 +1,39 @@
+{
+  "title": "6 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4626cd1386ced26a",
+      "text": "I travel a lot. A large contributing factor to my excessive travel is tied to the house in Nye. I am in love with Nye, with the hill, and to a lesser extent, to the house I built. My mother wants to sell that house. To sell that land. It kills me. But it would lessen the demands that I travel so darn much. Perhaps I should let it go? "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 March 2018",
+        "story": []
+      },
+      "date": 1520383321944
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4626cd1386ced26a"
+      },
+      "id": "4626cd1386ced26a",
+      "type": "add",
+      "date": 1520383323121
+    },
+    {
+      "type": "edit",
+      "id": "4626cd1386ced26a",
+      "item": {
+        "type": "paragraph",
+        "id": "4626cd1386ced26a",
+        "text": "I travel a lot. A large contributing factor to my excessive travel is tied to the house in Nye. I am in love with Nye, with the hill, and to a lesser extent, to the house I built. My mother wants to sell that house. To sell that land. It kills me. But it would lessen the demands that I travel so darn much. Perhaps I should let it go? "
+      },
+      "date": 1520383400940
+    }
+  ]
+}
