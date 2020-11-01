@@ -1,0 +1,39 @@
+{
+  "title": "19 January 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5f02da4e56d2252c",
+      "text": "Snowing today in RL. Wish I could dedicate more time to Fed Wiki and all of its promising features. In particular, i need to spend more time thinking about blockchain contracts. Need to check in with Ward. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 January 2017",
+        "story": []
+      },
+      "date": 1516377679317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f02da4e56d2252c"
+      },
+      "id": "5f02da4e56d2252c",
+      "type": "add",
+      "date": 1516377680487
+    },
+    {
+      "type": "edit",
+      "id": "5f02da4e56d2252c",
+      "item": {
+        "type": "paragraph",
+        "id": "5f02da4e56d2252c",
+        "text": "Snowing today in RL. Wish I could dedicate more time to Fed Wiki and all of its promising features. In particular, i need to spend more time thinking about blockchain contracts. Need to check in with Ward. "
+      },
+      "date": 1516377726257
+    }
+  ]
+}
