@@ -1,0 +1,70 @@
+{
+  "title": "The General Assembly",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e851adaa5c459174",
+      "text": "Composed of 1/3 of the World's voting age individuals."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5c3837b51713fd5",
+      "text": "When you think of the general assembly, think of the largest sporting arena you can imagine. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c668bc5f6c0e40ea",
+      "text": "The 1/3 scaling law is achieved by every three people voting to have one person represent them in the political contract. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The General Assembly",
+        "story": []
+      },
+      "date": 1502085945856
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5c3837b51713fd5"
+      },
+      "id": "a5c3837b51713fd5",
+      "type": "add",
+      "date": 1502085946947
+    },
+    {
+      "type": "edit",
+      "id": "a5c3837b51713fd5",
+      "item": {
+        "type": "paragraph",
+        "id": "a5c3837b51713fd5",
+        "text": "When you think of the general assembly, think of the largest sporting arena you can imagine. "
+      },
+      "date": 1502085988859
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/3 of the World's voting age individuals."
+      },
+      "id": "e851adaa5c459174",
+      "date": 1502088353742
+    },
+    {
+      "type": "add",
+      "id": "c668bc5f6c0e40ea",
+      "item": {
+        "type": "paragraph",
+        "id": "c668bc5f6c0e40ea",
+        "text": "The 1/3 scaling law is achieved by every three people voting to have one person represent them in the political contract. "
+      },
+      "after": "a5c3837b51713fd5",
+      "date": 1502088606478
+    }
+  ]
+}
