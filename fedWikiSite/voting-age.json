@@ -1,0 +1,58 @@
+{
+  "title": "voting age",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "voting age",
+        "story": []
+      },
+      "date": 1502085766377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b29b5f4cc642b815"
+      },
+      "id": "b29b5f4cc642b815",
+      "type": "add",
+      "date": 1502085767534
+    },
+    {
+      "type": "edit",
+      "id": "b29b5f4cc642b815",
+      "item": {
+        "type": "paragraph",
+        "id": "b29b5f4cc642b815",
+        "text": "The voting and military age should commence once the brain has stopped growing."
+      },
+      "date": 1502085809678
+    },
+    {
+      "type": "edit",
+      "id": "b29b5f4cc642b815",
+      "item": {
+        "type": "paragraph",
+        "id": "b29b5f4cc642b815",
+        "text": "The voting and military age should commence once the brain has stopped growing, roughly 25 years old."
+      },
+      "date": 1502085819559
+    },
+    {
+      "type": "edit",
+      "id": "b29b5f4cc642b815",
+      "item": {
+        "type": "paragraph",
+        "id": "b29b5f4cc642b815",
+        "text": "The voting should commence once the brain has stopped growing, roughly 25 years old."
+      },
+      "date": 1502085831414
+    },
+    {
+      "type": "remove",
+      "id": "b29b5f4cc642b815",
+      "date": 1502086749519
+    }
+  ]
+}
