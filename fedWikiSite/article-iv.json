@@ -1,0 +1,69 @@
+{
+  "title": "Article IV",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ed4c87dbe6db0c12",
+      "text": "Personhood is defined in this article. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Article IV",
+        "story": []
+      },
+      "date": 1502087866508
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed4c87dbe6db0c12"
+      },
+      "id": "ed4c87dbe6db0c12",
+      "type": "add",
+      "date": 1502087867918
+    },
+    {
+      "type": "edit",
+      "id": "ed4c87dbe6db0c12",
+      "item": {
+        "type": "paragraph",
+        "id": "ed4c87dbe6db0c12",
+        "text": "There are four dimensions in biology. Thus, there are four dimensions to this political contract. And the fourth dimension is the"
+      },
+      "date": 1502087872290
+    },
+    {
+      "type": "edit",
+      "id": "ed4c87dbe6db0c12",
+      "item": {
+        "type": "paragraph",
+        "id": "ed4c87dbe6db0c12",
+        "text": "There are four dimensions in biology. Thus, there are four dimensions to this political contract. "
+      },
+      "date": 1502087883034
+    },
+    {
+      "type": "edit",
+      "id": "ed4c87dbe6db0c12",
+      "item": {
+        "type": "paragraph",
+        "id": "ed4c87dbe6db0c12",
+        "text": "Personhood is defined in this article. It does not include AI."
+      },
+      "date": 1502088146217
+    },
+    {
+      "type": "edit",
+      "id": "ed4c87dbe6db0c12",
+      "item": {
+        "type": "paragraph",
+        "id": "ed4c87dbe6db0c12",
+        "text": "Personhood is defined in this article. "
+      },
+      "date": 1502088154209
+    }
+  ]
+}
