@@ -1,0 +1,69 @@
+{
+  "title": "16 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3c1fa3ca80777a3b",
+      "text": "Today was another work day. A commute day. A day to pray, and a day to say: \"Hallelujah?\" I wonder what tomorrow will bring, how the blue jay will sing. I wonder if the bells will ring out and shine the light upon what the delta brings. I have fears, and I have worries, but in sleep, I find my mind buried in that which is almost and alright. I find things are better when mostly watertight. I am deluded by the sight of sights upon my telephone. They scrape reality from my gray matter - they eat away at the neurons and dendrites hovering above my the weight of my body."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 August 2018",
+        "story": []
+      },
+      "date": 1534450127683
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c1fa3ca80777a3b"
+      },
+      "id": "3c1fa3ca80777a3b",
+      "type": "add",
+      "date": 1534450128679
+    },
+    {
+      "type": "edit",
+      "id": "3c1fa3ca80777a3b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c1fa3ca80777a3b",
+        "text": "Today was another work day. A commute day. A day to pray, and a day to say: \"Hallelujah?"
+      },
+      "date": 1534450158160
+    },
+    {
+      "type": "edit",
+      "id": "3c1fa3ca80777a3b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c1fa3ca80777a3b",
+        "text": "Today was another work day. A commute day. A day to pray, and a day to say: \"Hallelujah?\""
+      },
+      "date": 1534450161209
+    },
+    {
+      "type": "edit",
+      "id": "3c1fa3ca80777a3b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c1fa3ca80777a3b",
+        "text": "Today was another work day. A commute day. A day to pray, and a day to say: \"Hallelujah?\" "
+      },
+      "date": 1534450163360
+    },
+    {
+      "type": "edit",
+      "id": "3c1fa3ca80777a3b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c1fa3ca80777a3b",
+        "text": "Today was another work day. A commute day. A day to pray, and a day to say: \"Hallelujah?\" I wonder what tomorrow will bring, how the blue jay will sing. I wonder if the bells will ring out and shine the light upon what the delta brings. I have fears, and I have worries, but in sleep, I find my mind buried in that which is almost and alright. I find things are better when mostly watertight. I am deluded by the sight of sights upon my telephone. They scrape reality from my gray matter - they eat away at the neurons and dendrites hovering above my the weight of my body."
+      },
+      "date": 1534450335873
+    }
+  ]
+}
