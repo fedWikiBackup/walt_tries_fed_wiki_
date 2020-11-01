@@ -1,0 +1,55 @@
+{
+  "title": "8 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7e131bd8055639c8",
+      "text": "Still enjoying it. Logistics are not a challenge for remote work yet. But, easy to focus on no-work related matters. I hope that I produce docs up to snuff for Tom."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b000910e301f03f",
+      "text": "Really enjoy walking around Red Lodge and shopping for property. Time to get pre-approved for a loan from the bank. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 June 2017",
+        "story": []
+      },
+      "date": 1496944879351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e131bd8055639c8"
+      },
+      "id": "7e131bd8055639c8",
+      "type": "add",
+      "date": 1496944880855
+    },
+    {
+      "type": "edit",
+      "id": "7e131bd8055639c8",
+      "item": {
+        "type": "paragraph",
+        "id": "7e131bd8055639c8",
+        "text": "Still enjoying it. Logistics are not a challenge for remote work yet. But, easy to focus on no-work related matters. I hope that I produce docs up to snuff for Tom."
+      },
+      "date": 1496944932175
+    },
+    {
+      "type": "add",
+      "id": "6b000910e301f03f",
+      "item": {
+        "type": "paragraph",
+        "id": "6b000910e301f03f",
+        "text": "Really enjoy walking around Red Lodge and shopping for property. Time to get pre-approved for a loan from the bank. "
+      },
+      "after": "7e131bd8055639c8",
+      "date": 1496944963008
+    }
+  ]
+}
