@@ -1,0 +1,55 @@
+{
+  "title": "Data Visualization",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e220c10b4f478882",
+      "text": "Perhaps the most important part of our future. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7d62f9b5f7cf3697",
+      "text": "[http://flowingdata.com/page/2/ flowing data]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Data Visualization",
+        "story": []
+      },
+      "date": 1489010065879
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e220c10b4f478882"
+      },
+      "id": "e220c10b4f478882",
+      "type": "add",
+      "date": 1489010067786
+    },
+    {
+      "type": "edit",
+      "id": "e220c10b4f478882",
+      "item": {
+        "type": "paragraph",
+        "id": "e220c10b4f478882",
+        "text": "Perhaps the most important part of our future. "
+      },
+      "date": 1489010078338
+    },
+    {
+      "type": "add",
+      "id": "7d62f9b5f7cf3697",
+      "item": {
+        "type": "paragraph",
+        "id": "7d62f9b5f7cf3697",
+        "text": "[http://flowingdata.com/page/2/ flowing data]"
+      },
+      "after": "e220c10b4f478882",
+      "date": 1489010086022
+    }
+  ]
+}
