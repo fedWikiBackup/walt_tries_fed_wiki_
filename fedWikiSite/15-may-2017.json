@@ -1,0 +1,87 @@
+{
+  "title": "15 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b37d6f55e31eb65f",
+      "text": "I am a lucky man. I pledge to only watch TV/Movies in French with English subtitles. I love the French. I love Paris. I also love New York. "
+    },
+    {
+      "type": "paragraph",
+      "id": "35bc6a033a8b2997",
+      "text": "I am so excited to start anew in Montana."
+    },
+    {
+      "type": "paragraph",
+      "id": "3df85b5d3760188d",
+      "text": "I am so exhilarated to be traveling this path."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d2de7a29782326d",
+      "text": "I am so so about many things, but not Alice."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 May 2017",
+        "story": []
+      },
+      "date": 1494860465749
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b37d6f55e31eb65f"
+      },
+      "id": "b37d6f55e31eb65f",
+      "type": "add",
+      "date": 1494860467052
+    },
+    {
+      "type": "edit",
+      "id": "b37d6f55e31eb65f",
+      "item": {
+        "type": "paragraph",
+        "id": "b37d6f55e31eb65f",
+        "text": "I am a lucky man. I pledge to only watch TV/Movies in French with English subtitles. I love the French. I love Paris. I also love New York. "
+      },
+      "date": 1494860538101
+    },
+    {
+      "type": "add",
+      "id": "35bc6a033a8b2997",
+      "item": {
+        "type": "paragraph",
+        "id": "35bc6a033a8b2997",
+        "text": "I am so excited to start anew in Montana."
+      },
+      "after": "b37d6f55e31eb65f",
+      "date": 1494860570791
+    },
+    {
+      "type": "add",
+      "id": "3df85b5d3760188d",
+      "item": {
+        "type": "paragraph",
+        "id": "3df85b5d3760188d",
+        "text": "I am so exhilarated to be traveling this path."
+      },
+      "after": "35bc6a033a8b2997",
+      "date": 1494860590468
+    },
+    {
+      "type": "add",
+      "id": "3d2de7a29782326d",
+      "item": {
+        "type": "paragraph",
+        "id": "3d2de7a29782326d",
+        "text": "I am so so about many things, but not Alice."
+      },
+      "after": "3df85b5d3760188d",
+      "date": 1494860607637
+    }
+  ]
+}
