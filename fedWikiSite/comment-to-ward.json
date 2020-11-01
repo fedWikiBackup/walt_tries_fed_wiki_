@@ -1,0 +1,49 @@
+{
+  "title": "Comment to Ward",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e4f91478bc061c9c",
+      "text": "This link does not make sense to me. When I click on the link, I only get 108 pages? I want to be able to search the entire universe of FWikis. How do I do that?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Comment to Ward",
+        "story": []
+      },
+      "date": 1488051144078
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e4f91478bc061c9c"
+      },
+      "id": "e4f91478bc061c9c",
+      "type": "add",
+      "date": 1488051146704
+    },
+    {
+      "type": "edit",
+      "id": "e4f91478bc061c9c",
+      "item": {
+        "type": "paragraph",
+        "id": "e4f91478bc061c9c",
+        "text": "This link does not make sense to me."
+      },
+      "date": 1488051193497
+    },
+    {
+      "type": "edit",
+      "id": "e4f91478bc061c9c",
+      "item": {
+        "type": "paragraph",
+        "id": "e4f91478bc061c9c",
+        "text": "This link does not make sense to me. When I click on the link, I only get 108 pages? I want to be able to search the entire universe of FWikis. How do I do that?"
+      },
+      "date": 1488051254076
+    }
+  ]
+}
