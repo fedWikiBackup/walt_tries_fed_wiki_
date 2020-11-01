@@ -1,0 +1,256 @@
+{
+  "title": "philosophy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a009c44a38b166a0",
+      "text": "We do not get to know why we are here. At least not completely. God, or the operator of our simulation, has not revealed their self to me. But, much has been revealed though the work of physics, biology, chemistry, geology, etc. At the essence of all of life is a drive to survive. This is evolution. "
+    },
+    {
+      "type": "paragraph",
+      "id": "61566a3c80a89e2d",
+      "text": "The Nazi's took on this philosophy, as had the Spartans. So, it has deep problems. If we believe our only purpose is to survive, this allows deep atrocity to slip into the folds of the applications of that philosophy. The problem with the Nazis, the Spartans, the Capitalists, the Communists, and most idealogues, is that they are one sided. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6f9763cfa3836126",
+      "text": "We are electrical beings, with three states, a positive state, a negative state, and a neutral state. This, I believe, mirrors the quantum nature of the universe. All of the above philosophies were 100% positive or negative. But every stable atom must have an equal number of positive and negative particles. Philosophy is no different. It is, simply, the ying and yang of the universe. "
+    },
+    {
+      "type": "paragraph",
+      "id": "be93ada96ff2d48e",
+      "text": "So we have survival as a clear winner for one state. What is the other? Empathy/Love. And the third? Both at the same time, when they cancel eachother out by existing in both places at once. I think in some form, this is represented by testosterone and estrogen - the prototypical man and woman. And unions facilitating the third state. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a8e262c2f31de553",
+      "text": "So. My philosophy is that the purpose of my life is to provide for the continued survival and evolution of humanity. And that purpose exists in juxtaposition with my other purpose to love every human and creature equally. I am probably 51% the former and 49% the latter. So, my ideal mate will be the exact opposite. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a10a5427dcb00942",
+      "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament (maybe). "
+    },
+    {
+      "type": "paragraph",
+      "id": "440180fff04c5894",
+      "text": "Somewhat paradoxically, the wikipedia article on [https://en.wikipedia.org/wiki/Philosophy philosophy] contains only two references to the word purpose, and not in the context in which I intend. Perhaps this is an indication that my philosophy is either deeply misguided or genius. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "philosophy",
+        "story": []
+      },
+      "date": 1494358441485
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament. "
+      },
+      "id": "a10a5427dcb00942",
+      "type": "add",
+      "date": 1494358443040
+    },
+    {
+      "type": "edit",
+      "id": "a10a5427dcb00942",
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament. "
+      },
+      "date": 1494358588951
+    },
+    {
+      "type": "edit",
+      "id": "a10a5427dcb00942",
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament. "
+      },
+      "date": 1494358678531
+    },
+    {
+      "type": "add",
+      "id": "440180fff04c5894",
+      "item": {
+        "type": "paragraph",
+        "id": "440180fff04c5894",
+        "text": "Somewhat paradoxically, the wikipedia article on [https://en.wikipedia.org/wiki/Philosophy philosophy] contains only two references to the word purpose, and not in the context in which I intend. Perhaps this is an indication that my philosophy is either deeply misguided or genius. "
+      },
+      "after": "a10a5427dcb00942",
+      "date": 1494358769297
+    },
+    {
+      "type": "edit",
+      "id": "a10a5427dcb00942",
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament. "
+      },
+      "date": 1494358798486
+    },
+    {
+      "type": "add",
+      "id": "a009c44a38b166a0",
+      "item": {
+        "type": "paragraph",
+        "id": "a009c44a38b166a0",
+        "text": "We do not get to know why we are here. At least not completely. God, or the operator of our simulation, has not revealed their self to me. But, much has been revealed though the work of physics, biology, chemistry, geology, etc. At the essence of all of life is a drive to survive. This is evolution. "
+      },
+      "after": "440180fff04c5894",
+      "date": 1494358936410
+    },
+    {
+      "type": "edit",
+      "id": "a10a5427dcb00942",
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament. "
+      },
+      "date": 1494359018490
+    },
+    {
+      "type": "edit",
+      "id": "440180fff04c5894",
+      "item": {
+        "type": "paragraph",
+        "id": "440180fff04c5894",
+        "text": "Somewhat paradoxically, the wikipedia article on [https://en.wikipedia.org/wiki/Philosophy philosophy] contains only two references to the word purpose, and not in the context in which I intend. Perhaps this is an indication that my philosophy is either deeply misguided or genius. "
+      },
+      "date": 1494359028577
+    },
+    {
+      "type": "edit",
+      "id": "a009c44a38b166a0",
+      "item": {
+        "type": "paragraph",
+        "id": "a009c44a38b166a0",
+        "text": "We do not get to know why we are here. At least not completely. God, or the operator of our simulation, has not revealed their self to me. But, much has been revealed though the work of physics, biology, chemistry, geology, etc. At the essence of all of life is a drive to survive. This is evolution. "
+      },
+      "date": 1494359075685
+    },
+    {
+      "type": "move",
+      "order": [
+        "a10a5427dcb00942",
+        "440180fff04c5894",
+        "61566a3c80a89e2d",
+        "a009c44a38b166a0"
+      ],
+      "id": "a009c44a38b166a0",
+      "date": 1494359134841,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1494359236605
+    },
+    {
+      "type": "add",
+      "id": "61566a3c80a89e2d",
+      "item": {
+        "type": "paragraph",
+        "id": "61566a3c80a89e2d",
+        "text": "The Nazi's took on this philosophy, as had the Spartans. So, it has deep problems. If we believe our only purpose is to survive, this allows deep atrocity to slip into the folds of the applications of that philosophy. The problem with the Nazis, the Spartans, the Capitalists, the Communists, and most idealogues, is that they are one sided. "
+      },
+      "after": "a009c44a38b166a0",
+      "date": 1494359327288
+    },
+    {
+      "type": "add",
+      "id": "6f9763cfa3836126",
+      "item": {
+        "type": "paragraph",
+        "id": "6f9763cfa3836126",
+        "text": "We are electrical beings, with three states, a positive state, a negative state, and a neutral state. This, I believe, mirrors the quantum nature of the universe. All of the above philosophies were 100% positive or negative. But every stable atom must have an equal number of positive and negative particles. Philosophy is no different. It is, simply, the ying and yang of the universe. "
+      },
+      "after": "61566a3c80a89e2d",
+      "date": 1494359474796
+    },
+    {
+      "type": "add",
+      "id": "be93ada96ff2d48e",
+      "item": {
+        "type": "paragraph",
+        "id": "be93ada96ff2d48e",
+        "text": "So we have survival as a clear winner for one state. What is the other? Empathy/Love. And the third? Both at the same time, when they cancel eachother out. "
+      },
+      "after": "6f9763cfa3836126",
+      "date": 1494359520477
+    },
+    {
+      "type": "edit",
+      "id": "be93ada96ff2d48e",
+      "item": {
+        "type": "paragraph",
+        "id": "be93ada96ff2d48e",
+        "text": "So we have survival as a clear winner for one state. What is the other? Empathy/Love. And the third? Both at the same time, when they cancel eachother out. I think in some form, this is represented by testosterone and estrogen - the prototypical man and woman. And marriage being the third state. "
+      },
+      "date": 1494359808923
+    },
+    {
+      "type": "add",
+      "id": "a8e262c2f31de553",
+      "item": {
+        "type": "paragraph",
+        "id": "a8e262c2f31de553",
+        "text": "So. My philosophy is that the purpose of my life is to provide for the continued survival and evolution of humanity. And that purpose exists in juxtaposition with my purpose to love every human and creature equally. I am probably 51% the former and 49% the latter. So, my ideal mate will be the exact opposite. "
+      },
+      "after": "be93ada96ff2d48e",
+      "date": 1494359945100
+    },
+    {
+      "type": "edit",
+      "id": "a10a5427dcb00942",
+      "item": {
+        "type": "paragraph",
+        "id": "a10a5427dcb00942",
+        "text": "My philosophy describes what I believe to be the purpose of my life. This is my reduction of the question \"why?\". Why do men rape women? Why do we have war? Why is the sky blue? Why do we eat meat?\nWhen you, like a seven year old, ask the question \"why\" enough times, final answers tend to evade even the most astute.  What follows remedies that predicament (maybe). "
+      },
+      "date": 1494360286265
+    },
+    {
+      "type": "edit",
+      "id": "be93ada96ff2d48e",
+      "item": {
+        "type": "paragraph",
+        "id": "be93ada96ff2d48e",
+        "text": "So we have survival as a clear winner for one state. What is the other? Empathy/Love. And the third? Both at the same time, when they cancel eachother out by existing in both places at once. I think in some form, this is represented by testosterone and estrogen - the prototypical man and woman. And marriage being the third state. "
+      },
+      "date": 1494360371079
+    },
+    {
+      "type": "edit",
+      "id": "a8e262c2f31de553",
+      "item": {
+        "type": "paragraph",
+        "id": "a8e262c2f31de553",
+        "text": "So. My philosophy is that the purpose of my life is to provide for the continued survival and evolution of humanity. And that purpose exists in juxtaposition with my other purpose to love every human and creature equally. I am probably 51% the former and 49% the latter. So, my ideal mate will be the exact opposite. "
+      },
+      "date": 1494360400832
+    },
+    {
+      "type": "edit",
+      "id": "be93ada96ff2d48e",
+      "item": {
+        "type": "paragraph",
+        "id": "be93ada96ff2d48e",
+        "text": "So we have survival as a clear winner for one state. What is the other? Empathy/Love. And the third? Both at the same time, when they cancel eachother out by existing in both places at once. I think in some form, this is represented by testosterone and estrogen - the prototypical man and woman. And unions facilitating the third state. "
+      },
+      "date": 1501442016089
+    }
+  ]
+}
