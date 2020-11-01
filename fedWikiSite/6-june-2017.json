@@ -1,0 +1,55 @@
+{
+  "title": "6 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e6fe51ebd326ac66",
+      "text": "People in the firm resistant to change die."
+    },
+    {
+      "type": "paragraph",
+      "id": "339a1946d5e13a5f",
+      "text": "People who "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 June 2017",
+        "story": []
+      },
+      "date": 1496765355131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6fe51ebd326ac66"
+      },
+      "id": "e6fe51ebd326ac66",
+      "type": "add",
+      "date": 1496765356686
+    },
+    {
+      "type": "edit",
+      "id": "e6fe51ebd326ac66",
+      "item": {
+        "type": "paragraph",
+        "id": "e6fe51ebd326ac66",
+        "text": "People in the firm resistant to change die."
+      },
+      "date": 1496765395698
+    },
+    {
+      "type": "add",
+      "id": "339a1946d5e13a5f",
+      "item": {
+        "type": "paragraph",
+        "id": "339a1946d5e13a5f",
+        "text": "People who "
+      },
+      "after": "e6fe51ebd326ac66",
+      "date": 1496765433652
+    }
+  ]
+}
