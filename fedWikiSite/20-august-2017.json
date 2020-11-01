@@ -1,0 +1,39 @@
+{
+  "title": "20 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "73fe1b38b85a5b42",
+      "text": "Some people truly dislike working on Sundays. I think I am one of those people."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 August 2017",
+        "story": []
+      },
+      "date": 1503290009294
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73fe1b38b85a5b42"
+      },
+      "id": "73fe1b38b85a5b42",
+      "type": "add",
+      "date": 1503290010278
+    },
+    {
+      "type": "edit",
+      "id": "73fe1b38b85a5b42",
+      "item": {
+        "type": "paragraph",
+        "id": "73fe1b38b85a5b42",
+        "text": "Some people truly dislike working on Sundays. I think I am one of those people."
+      },
+      "date": 1503290035741
+    }
+  ]
+}
