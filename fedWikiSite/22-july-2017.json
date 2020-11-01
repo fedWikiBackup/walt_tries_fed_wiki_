@@ -1,0 +1,39 @@
+{
+  "title": "22 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d96c47d5edabc3dd",
+      "text": "Moved rocks. Moved more rocks. Operated a weed eater for several hours. Organized screws and other fasteners. Organized furniture. Had some whiskey. It was a great day. A truly great day."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 July 2017",
+        "story": []
+      },
+      "date": 1500793095474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d96c47d5edabc3dd"
+      },
+      "id": "d96c47d5edabc3dd",
+      "type": "add",
+      "date": 1500793096705
+    },
+    {
+      "type": "edit",
+      "id": "d96c47d5edabc3dd",
+      "item": {
+        "type": "paragraph",
+        "id": "d96c47d5edabc3dd",
+        "text": "Moved rocks. Moved more rocks. Operated a weed eater for several hours. Organized screws and other fasteners. Organized furniture. Had some whiskey. It was a great day. A truly great day."
+      },
+      "date": 1500793186930
+    }
+  ]
+}
