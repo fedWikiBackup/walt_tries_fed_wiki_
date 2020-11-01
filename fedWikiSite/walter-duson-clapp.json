@@ -1,0 +1,559 @@
+{
+  "title": "Walter Duson Clapp",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ceb367a8b3fa9bb7",
+      "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small [https://en.wikipedia.org/wiki/Memphis_blues Memphis, Tennessee], a [https://en.wikipedia.org/wiki/Nye,_Montana small town in Montana], and a very smelly [https://en.wikipedia.org/wiki/Washington,_D.C. Washington, DC]. Walter is done growing. So now he wants to build  [[Cities]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "199c1b3f668ed091",
+      "text": "Walter is an explorer, inventor and lawyer. He likes to fix broken things - like tractors, relationships, and [[Cities]]. He once built a [[log cabin in Montana]]. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+    },
+    {
+      "type": "paragraph",
+      "id": "67ea84f212a5b600",
+      "text": "The End. Just Kidding."
+    },
+    {
+      "type": "paragraph",
+      "id": "f54f0612834be90a",
+      "text": "You can read [[why Walter is here]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bcb26bfc8b498bd8",
+      "text": "The ambitious can peruse his social media:"
+    },
+    {
+      "type": "paragraph",
+      "id": "c0725414cacaf041",
+      "text": "[https://www.linkedin.com/in/wdclapp/ LinkedIn]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f984282cd543459e",
+      "text": "[https://www.facebook.com/profile.php?id=33902663 Facebook]"
+    },
+    {
+      "type": "paragraph",
+      "id": "80ccbb5c6515c06f",
+      "text": "[https://twitter.com/wdclapp Twitter]"
+    },
+    {
+      "type": "paragraph",
+      "id": "85a6cbade6899d77",
+      "text": "[https://www.instagram.com/curiouswalter/ Instagram]"
+    },
+    {
+      "type": "video",
+      "id": "d572d4429fe0a5e9",
+      "text": "YOUTUBE OX2x-nnBnNU\nIt is weird that Walter ended by clapping at himself - despite his last name. He aims to never do that again."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter Duson Clapp",
+        "story": []
+      },
+      "date": 1489003149900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3cc6858c831690d9"
+      },
+      "id": "3cc6858c831690d9",
+      "type": "add",
+      "date": 1489003158727
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f54f0612834be90a",
+        "text": "[[Why I am Here]]"
+      },
+      "id": "f54f0612834be90a",
+      "date": 1489003161490
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bcb26bfc8b498bd8",
+        "text": "You can find out more about me on the following social media platforms (that I hope to replace with Federated Wiki):"
+      },
+      "after": "f54f0612834be90a",
+      "id": "bcb26bfc8b498bd8",
+      "date": 1489003163458
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c0725414cacaf041",
+        "text": "[https://www.linkedin.com/in/wdclapp/ LinkedIn]"
+      },
+      "after": "f54f0612834be90a",
+      "id": "c0725414cacaf041",
+      "date": 1489003166578
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f984282cd543459e",
+        "text": "[https://www.facebook.com/profile.php?id=33902663 Facebook]"
+      },
+      "after": "c0725414cacaf041",
+      "id": "f984282cd543459e",
+      "date": 1489003169090
+    },
+    {
+      "type": "move",
+      "order": [
+        "f54f0612834be90a",
+        "c0725414cacaf041",
+        "bcb26bfc8b498bd8",
+        "f984282cd543459e",
+        "3cc6858c831690d9"
+      ],
+      "id": "f984282cd543459e",
+      "date": 1489003172975
+    },
+    {
+      "type": "move",
+      "order": [
+        "f54f0612834be90a",
+        "bcb26bfc8b498bd8",
+        "c0725414cacaf041",
+        "f984282cd543459e",
+        "3cc6858c831690d9"
+      ],
+      "id": "c0725414cacaf041",
+      "date": 1489003174795
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "80ccbb5c6515c06f",
+        "text": "[https://twitter.com/wdclapp Twitter]"
+      },
+      "after": "f984282cd543459e",
+      "id": "80ccbb5c6515c06f",
+      "date": 1489003178791
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "85a6cbade6899d77",
+        "text": "[https://www.instagram.com/curiouswalter/ Instagram]"
+      },
+      "after": "80ccbb5c6515c06f",
+      "id": "85a6cbade6899d77",
+      "date": 1489003181561
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "d572d4429fe0a5e9",
+        "text": "YOUTUBE OX2x-nnBnNU\nIt is weird that I ended by clapping at myself - despite my last name. I aim to never do that again."
+      },
+      "after": "85a6cbade6899d77",
+      "id": "d572d4429fe0a5e9",
+      "date": 1489003189853
+    },
+    {
+      "type": "remove",
+      "id": "3cc6858c831690d9",
+      "date": 1489003198523
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f0a2edd6dedc521"
+      },
+      "id": "0f0a2edd6dedc521",
+      "type": "add",
+      "after": "d572d4429fe0a5e9",
+      "date": 1489004092118
+    },
+    {
+      "type": "edit",
+      "id": "0f0a2edd6dedc521",
+      "item": {
+        "type": "paragraph",
+        "id": "0f0a2edd6dedc521",
+        "text": "[[Walter's Trip Around the World]] (Hopefully)"
+      },
+      "date": 1489004099673
+    },
+    {
+      "type": "edit",
+      "id": "bcb26bfc8b498bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "bcb26bfc8b498bd8",
+        "text": "You can find out more about me on the following social media platforms:"
+      },
+      "date": 1489004203447
+    },
+    {
+      "type": "add",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer and builder. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. Most recently, he graduated from law school. "
+      },
+      "after": "f54f0612834be90a",
+      "date": 1489005496870
+    },
+    {
+      "type": "move",
+      "order": [
+        "ceb367a8b3fa9bb7",
+        "f54f0612834be90a",
+        "bcb26bfc8b498bd8",
+        "c0725414cacaf041",
+        "f984282cd543459e",
+        "80ccbb5c6515c06f",
+        "85a6cbade6899d77",
+        "d572d4429fe0a5e9",
+        "0f0a2edd6dedc521"
+      ],
+      "id": "ceb367a8b3fa9bb7",
+      "date": 1489005498523
+    },
+    {
+      "type": "edit",
+      "id": "f54f0612834be90a",
+      "item": {
+        "type": "paragraph",
+        "id": "f54f0612834be90a",
+        "text": "[[Why Walter is Here]]"
+      },
+      "date": 1489005515803
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer and builder. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana where he wired and plumbed all 2,700 square feet. Most recently, he graduated from law school and now is trying to find ways to sustain himself so that he may practice pro bono law exclusively."
+      },
+      "date": 1489005588016
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer and builder. He likes to fix broken things - like tractors, relationships and governments. He once led the construction of a log cabin in Montana where he wired and plumbed all 2,700 square feet. Most recently, he graduated from law school and now is trying to find ways to sustain himself so that he may practice pro bono law exclusively."
+      },
+      "date": 1489005626038
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer, builder. He likes to fix broken things - like tractors, relationships and governments. He once led the construction of a log cabin in Montana where he wired and plumbed all 2,700 square feet. Most recently, he graduated from law school but remains a serial "
+      },
+      "date": 1489005670764
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer, inventor and builder. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. He is in the process of filing six patents. "
+      },
+      "date": 1489005720558
+    },
+    {
+      "type": "edit",
+      "id": "bcb26bfc8b498bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "bcb26bfc8b498bd8",
+        "text": "You can find out more about Walter on the following social media platforms:"
+      },
+      "date": 1489005730407
+    },
+    {
+      "type": "edit",
+      "id": "d572d4429fe0a5e9",
+      "item": {
+        "type": "video",
+        "id": "d572d4429fe0a5e9",
+        "text": "YOUTUBE OX2x-nnBnNU\nIt is weird that Walter ended by clapping at himself - despite his last name. He aims to never do that again."
+      },
+      "date": 1489005754781
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter is a fixer, inventor and builder. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "date": 1489007147593
+    },
+    {
+      "type": "add",
+      "id": "6361c8f8e481280c",
+      "item": {
+        "type": "paragraph",
+        "id": "6361c8f8e481280c",
+        "text": "[[Why I am Here]]"
+      },
+      "after": "f54f0612834be90a",
+      "date": 1489007175056
+    },
+    {
+      "type": "remove",
+      "id": "6361c8f8e481280c",
+      "date": 1489007185922
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France, Memphis, Tennessee, a small town in Montana, and Washington, DC. "
+      },
+      "date": 1489007396114
+    },
+    {
+      "type": "add",
+      "id": "199c1b3f668ed091",
+      "item": {
+        "type": "paragraph",
+        "id": "199c1b3f668ed091",
+        "text": "Walter is a fixer, inventor and builder. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "after": "ceb367a8b3fa9bb7",
+      "date": 1489007397683
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France,  not so small Memphis, Tennessee, a small town in Montana, and not so small Washington, DC. "
+      },
+      "date": 1489007417190
+    },
+    {
+      "type": "add",
+      "id": "67ea84f212a5b600",
+      "item": {
+        "type": "paragraph",
+        "id": "67ea84f212a5b600",
+        "text": "The End."
+      },
+      "after": "199c1b3f668ed091",
+      "date": 1489007454104
+    },
+    {
+      "type": "edit",
+      "id": "67ea84f212a5b600",
+      "item": {
+        "type": "paragraph",
+        "id": "67ea84f212a5b600",
+        "text": "The End. Just Kidding."
+      },
+      "date": 1489007465677
+    },
+    {
+      "type": "edit",
+      "id": "f54f0612834be90a",
+      "item": {
+        "type": "paragraph",
+        "id": "f54f0612834be90a",
+        "text": "You can read [[why Walter is here]]. "
+      },
+      "date": 1489007482914
+    },
+    {
+      "type": "edit",
+      "id": "bcb26bfc8b498bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "bcb26bfc8b498bd8",
+        "text": "The ambitious can peruse his social media:"
+      },
+      "date": 1489007534735
+    },
+    {
+      "type": "remove",
+      "id": "0f0a2edd6dedc521",
+      "date": 1489007550107
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France,  not so small Memphis, Tennessee, a small town in Montana, and not so small Washington, DC. Now he wants to build cities."
+      },
+      "date": 1489286355888
+    },
+    {
+      "type": "edit",
+      "id": "199c1b3f668ed091",
+      "item": {
+        "type": "paragraph",
+        "id": "199c1b3f668ed091",
+        "text": "Walter is an explorer, inventor and designer. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "date": 1489292490883
+    },
+    {
+      "type": "edit",
+      "id": "199c1b3f668ed091",
+      "item": {
+        "type": "paragraph",
+        "id": "199c1b3f668ed091",
+        "text": "Walter is an explorer, inventor and lawyer. He likes to fix broken things - like tractors, relationships and governments. He once built a log cabin in Montana. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "date": 1501441919504
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France,  not so small Memphis, Tennessee, a small town in Montana, and not so small Washington, DC. Now he wants to build  Tiny Cities."
+      },
+      "date": 1501442302186
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France,  the not so small Memphis, Tennessee, a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  Cities."
+      },
+      "date": 1502093680755
+    },
+    {
+      "type": "edit",
+      "id": "199c1b3f668ed091",
+      "item": {
+        "type": "paragraph",
+        "id": "199c1b3f668ed091",
+        "text": "Walter is an explorer, inventor and lawyer. He likes to fix broken things - like tractors, relationships, and [[Cities]]. He once built a log cabin in Montana. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "date": 1502093705063
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town Texas, a small town in France,  the not so small Memphis, Tennessee, a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093711491
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in small town [https://en.wikipedia.org/wiki/El_Campo,_Texas Texas], a small town in France,  the not so small Memphis, Tennessee, a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093768466
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a small town in France,  the not so small Memphis, Tennessee, a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093795795
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small Memphis, Tennessee, a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093860987
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small [https://en.wikipedia.org/wiki/Memphis_blues Memphis, Tennessee], a small town in Montana, and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093887058
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small [https://en.wikipedia.org/wiki/Memphis_blues Memphis, Tennessee], a [https://en.wikipedia.org/wiki/Nye,_Montana small town in Montana], and a very smelly Washington, DC. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093916026
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small [https://en.wikipedia.org/wiki/Memphis_blues Memphis, Tennessee], a [https://en.wikipedia.org/wiki/Nye,_Montana small town in Montana], and a very smelly [https://en.wikipedia.org/wiki/Washington,_D.C. Washington, DC]]. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093948668
+    },
+    {
+      "type": "edit",
+      "id": "ceb367a8b3fa9bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb367a8b3fa9bb7",
+        "text": "Walter grew up in [https://en.wikipedia.org/wiki/El_Campo,_Texas small town Texas], a [https://en.wikipedia.org/wiki/Saint-Sauvant,_Charente-Maritime small town in France]],  the not so small [https://en.wikipedia.org/wiki/Memphis_blues Memphis, Tennessee], a [https://en.wikipedia.org/wiki/Nye,_Montana small town in Montana], and a very smelly [https://en.wikipedia.org/wiki/Washington,_D.C. Washington, DC]. Walter is done growing. So now he wants to build  [[Cities]]."
+      },
+      "date": 1502093955069
+    },
+    {
+      "type": "edit",
+      "id": "199c1b3f668ed091",
+      "item": {
+        "type": "paragraph",
+        "id": "199c1b3f668ed091",
+        "text": "Walter is an explorer, inventor and lawyer. He likes to fix broken things - like tractors, relationships, and [[Cities]]. He once built a [[log cabin in Montana]]. He is in the process of filing six patents based on his inventions. He plans to give all of his accumulated wealth away before he dies. "
+      },
+      "date": 1502093976905
+    }
+  ]
+}
