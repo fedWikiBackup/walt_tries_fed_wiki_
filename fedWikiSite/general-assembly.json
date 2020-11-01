@@ -1,0 +1,39 @@
+{
+  "title": "general assembly",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "60c8438b7bca395b",
+      "text": "This is a new concept compared to the U.S. System. The general assembly will be 1/3 of the global population, and their governance will be effected through Political.Fed.Wiki"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "general assembly",
+        "story": []
+      },
+      "date": 1502083288044
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60c8438b7bca395b"
+      },
+      "id": "60c8438b7bca395b",
+      "type": "add",
+      "date": 1502083289340
+    },
+    {
+      "type": "edit",
+      "id": "60c8438b7bca395b",
+      "item": {
+        "type": "paragraph",
+        "id": "60c8438b7bca395b",
+        "text": "This is a new concept compared to the U.S. System. The general assembly will be 1/3 of the global population, and their governance will be effected through Political.Fed.Wiki"
+      },
+      "date": 1502083362516
+    }
+  ]
+}
