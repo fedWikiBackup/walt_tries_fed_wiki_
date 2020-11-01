@@ -1,0 +1,187 @@
+{
+  "title": "TinyCity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "538ee32ed8dc7f88",
+      "text": "A [[node]], and also a [[module]] of humans."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4b2d6f00677f98e",
+      "text": "Population is 30^3. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e0e140008f241a14",
+      "text": "Could also be called a lifeboat city. It contains the knowledge and resources to rebuild human civilization should our collapse."
+    }
+  ],
+  "journal": [
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "A city within a city, or a secondary city related to, but physically distant from the primary city. The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "after": "5b4088e30de5a580",
+      "id": "c4b2d6f00677f98e",
+      "date": 1502089700944,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "TinyCity",
+        "story": []
+      },
+      "date": 1502089709215
+    },
+    {
+      "type": "fork",
+      "date": 1502089710825
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "A city within a city, or a secondary city related to, but physically distant from the primary city. The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "id": "c4b2d6f00677f98e",
+      "date": 1502089712833
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "Could also be called a lifeboat city. It contains the knowledge and resources to rebuild human civilization should our collapse."
+      },
+      "date": 1502089744442
+    },
+    {
+      "type": "add",
+      "id": "261a6142b1265d82",
+      "item": {
+        "type": "paragraph",
+        "id": "261a6142b1265d82",
+        "text": "The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "after": "c4b2d6f00677f98e",
+      "date": 1502089777729
+    },
+    {
+      "type": "remove",
+      "id": "261a6142b1265d82",
+      "date": 1502089785464
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "Population is "
+      },
+      "date": 1502090983947
+    },
+    {
+      "type": "add",
+      "id": "e0e140008f241a14",
+      "item": {
+        "type": "paragraph",
+        "id": "e0e140008f241a14",
+        "text": "Could also be called a lifeboat city. It contains the knowledge and resources to rebuild human civilization should our collapse."
+      },
+      "after": "c4b2d6f00677f98e",
+      "date": 1502090986592
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "Population is 3^3."
+      },
+      "date": 1502090992754
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "Population is 3^3. "
+      },
+      "date": 1502091312840
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "538ee32ed8dc7f88"
+      },
+      "id": "538ee32ed8dc7f88",
+      "type": "add",
+      "after": "e0e140008f241a14",
+      "date": 1502091314866
+    },
+    {
+      "type": "edit",
+      "id": "538ee32ed8dc7f88",
+      "item": {
+        "type": "paragraph",
+        "id": "538ee32ed8dc7f88",
+        "text": "A node and module of humans."
+      },
+      "date": 1502091317072
+    },
+    {
+      "type": "move",
+      "order": [
+        "538ee32ed8dc7f88",
+        "c4b2d6f00677f98e",
+        "e0e140008f241a14"
+      ],
+      "id": "538ee32ed8dc7f88",
+      "date": 1502091318394
+    },
+    {
+      "type": "edit",
+      "id": "538ee32ed8dc7f88",
+      "item": {
+        "type": "paragraph",
+        "id": "538ee32ed8dc7f88",
+        "text": "A [[node]] and [[module]] of humans."
+      },
+      "date": 1502091329176
+    },
+    {
+      "type": "edit",
+      "id": "538ee32ed8dc7f88",
+      "item": {
+        "type": "paragraph",
+        "id": "538ee32ed8dc7f88",
+        "text": "A [[node]], and also a [[module]] of humans."
+      },
+      "date": 1502091388648
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "Population is 30^3. "
+      },
+      "date": 1503964871780
+    }
+  ]
+}
