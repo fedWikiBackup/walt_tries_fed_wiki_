@@ -1,0 +1,55 @@
+{
+  "title": "30 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b33d1d9a303d6647",
+      "text": "Redux of my first hearing today. Driving to GF and looking forward to impressing Ted (hopefully)."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b0711a2b798dce1",
+      "text": "Anna is gone. Kamila will be here shortly. I love them both very much - different as they are. One is the queen of Video, the other of Audio. A true team to build an empire if I ever could dream of one."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 August 2017",
+        "story": []
+      },
+      "date": 1504111544665
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b33d1d9a303d6647"
+      },
+      "id": "b33d1d9a303d6647",
+      "type": "add",
+      "date": 1504111546014
+    },
+    {
+      "type": "edit",
+      "id": "b33d1d9a303d6647",
+      "item": {
+        "type": "paragraph",
+        "id": "b33d1d9a303d6647",
+        "text": "Redux of my first hearing today. Driving to GF and looking forward to impressing Ted (hopefully)."
+      },
+      "date": 1504111580218
+    },
+    {
+      "type": "add",
+      "id": "2b0711a2b798dce1",
+      "item": {
+        "type": "paragraph",
+        "id": "2b0711a2b798dce1",
+        "text": "Anna is gone. Kamila will be here shortly. I love them both very much - different as they are. One is the queen of Video, the other of Audio. A true team to build an empire if I ever could dream of one."
+      },
+      "after": "b33d1d9a303d6647",
+      "date": 1504111630053
+    }
+  ]
+}
