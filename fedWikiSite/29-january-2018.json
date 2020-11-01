@@ -1,0 +1,39 @@
+{
+  "title": "29 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fad13ef37954f8c9",
+      "text": "January of 2018 was a tough month. New Year's day started it off quite rough - it ended with my family disavowing the house I build for them. My siblings feel to not respect me or my ideas one iota. Kamila is there for me though. She is my rock in this flood of winter ice through the heart of my soul."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 January 2018",
+        "story": []
+      },
+      "date": 1517257025641
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fad13ef37954f8c9"
+      },
+      "id": "fad13ef37954f8c9",
+      "type": "add",
+      "date": 1517257026652
+    },
+    {
+      "type": "edit",
+      "id": "fad13ef37954f8c9",
+      "item": {
+        "type": "paragraph",
+        "id": "fad13ef37954f8c9",
+        "text": "January of 2018 was a tough month. New Year's day started it off quite rough - it ended with my family disavowing the house I build for them. My siblings feel to not respect me or my ideas one iota. Kamila is there for me though. She is my rock in this flood of winter ice through the heart of my soul."
+      },
+      "date": 1517257107605
+    }
+  ]
+}
