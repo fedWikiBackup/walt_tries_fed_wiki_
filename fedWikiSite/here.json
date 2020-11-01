@@ -1,0 +1,85 @@
+{
+  "title": "here",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d72fef48db142972",
+      "text": "If you are not a coder - skip this link."
+    },
+    {
+      "type": "paragraph",
+      "id": "ec8f571b940c852a",
+      "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. The server software supports a multi-tenant \"farm\" option useful for small groups or heavy users. [https://www.npmjs.com/package/wiki npm]"
+    },
+    {
+      "type": "paragraph",
+      "id": "74269607fa946000",
+      "text": "A community of open-source developers maintain both the client-side and server-side applications most frequently used to browse and edit pages. Pages themselves are composed of paragraph-sized items of various kinds. This same community provides a core set of plugins for rich content pages and a variety of experimental plugins that push boundaries of web computing. [https://github.com/fedwiki github]"
+    },
+    {
+      "type": "factory",
+      "id": "0d089891782552e8"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "here",
+        "story": []
+      },
+      "date": 1488050994978
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d089891782552e8"
+      },
+      "id": "0d089891782552e8",
+      "type": "add",
+      "date": 1488051003202
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d72fef48db142972",
+        "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. The server software supports a multi-tenant \"farm\" option useful for small groups or heavy users. [https://www.npmjs.com/package/wiki npm]"
+      },
+      "id": "d72fef48db142972",
+      "date": 1488051005358
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "74269607fa946000",
+        "text": "A community of open-source developers maintain both the client-side and server-side applications most frequently used to browse and edit pages. Pages themselves are composed of paragraph-sized items of various kinds. This same community provides a core set of plugins for rich content pages and a variety of experimental plugins that push boundaries of web computing. [https://github.com/fedwiki github]"
+      },
+      "after": "d72fef48db142972",
+      "id": "74269607fa946000",
+      "date": 1488051008351
+    },
+    {
+      "type": "edit",
+      "id": "d72fef48db142972",
+      "item": {
+        "type": "paragraph",
+        "id": "d72fef48db142972",
+        "text": "If you are not a coder - skip this link."
+      },
+      "date": 1503544876367
+    },
+    {
+      "type": "add",
+      "id": "ec8f571b940c852a",
+      "item": {
+        "type": "paragraph",
+        "id": "ec8f571b940c852a",
+        "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. The server software supports a multi-tenant \"farm\" option useful for small groups or heavy users. [https://www.npmjs.com/package/wiki npm]"
+      },
+      "after": "d72fef48db142972",
+      "date": 1503544878329
+    }
+  ]
+}
