@@ -1,0 +1,983 @@
+{
+  "title": "2017 Free Writing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7c83a42102f84c16",
+      "text": "[[April 2017]] is the beginning of Journaling and my time in Europe."
+    },
+    {
+      "type": "paragraph",
+      "id": "cfa2d4b241bcf94a",
+      "text": "[[May 2017]] is end of Europe and travel to Montana."
+    },
+    {
+      "type": "paragraph",
+      "id": "1eea82b4658851b2",
+      "text": "[[June 2017]] is mostly Montana."
+    },
+    {
+      "type": "paragraph",
+      "id": "d9a622cc3ac3defc",
+      "text": "[[July 2017]] is NYC, Maine, and back to MT."
+    },
+    {
+      "type": "paragraph",
+      "id": "8cd7958261ccc7cd",
+      "text": "[[August 2017]] will be awesome."
+    },
+    {
+      "type": "paragraph",
+      "id": "972248ea98f1aafa",
+      "text": "[[September 2017]] is off to a magnificent start."
+    },
+    {
+      "type": "paragraph",
+      "id": "d8dc74b732151a16",
+      "text": "[[October 2017]] is regrouping after submission of New Shape. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4ac069cc2db29864",
+      "text": "[[November 2017]] is age 30."
+    },
+    {
+      "type": "paragraph",
+      "id": "d7a8347d3ed3261e",
+      "text": "[[December 2017]] is Christmas season."
+    }
+  ],
+  "journal": [
+    {
+      "type": "add",
+      "id": "d9a622cc3ac3defc",
+      "item": {
+        "type": "paragraph",
+        "id": "d9a622cc3ac3defc",
+        "text": "[[July 2017]] is NYC, Maine, and back to MT."
+      },
+      "after": "1eea82b4658851b2",
+      "date": 1499116601658,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "77e0ffd08c0ebe31",
+      "date": 1497021867250
+    },
+    {
+      "type": "remove",
+      "id": "2a46b1e5e6878a4b",
+      "date": 1497021863679
+    },
+    {
+      "type": "remove",
+      "id": "13247e73dc81eddf",
+      "date": 1497021855924
+    },
+    {
+      "type": "remove",
+      "id": "807c6737a3d88540",
+      "date": 1497021844777
+    },
+    {
+      "type": "remove",
+      "id": "70fcfb15109d4e52",
+      "date": 1497021842329
+    },
+    {
+      "type": "remove",
+      "id": "e24dcb260f0ea59a",
+      "date": 1497021840917
+    },
+    {
+      "type": "remove",
+      "id": "a69ce5481d70c9c1",
+      "date": 1497021839206
+    },
+    {
+      "type": "remove",
+      "id": "a8d415888d067177",
+      "date": 1497021837433
+    },
+    {
+      "type": "remove",
+      "id": "52d21d234a1b63b6",
+      "date": 1497021835281
+    },
+    {
+      "type": "remove",
+      "id": "9d8690e052ba97e9",
+      "date": 1497021833315
+    },
+    {
+      "type": "add",
+      "id": "7c83a42102f84c16",
+      "item": {
+        "type": "paragraph",
+        "id": "7c83a42102f84c16",
+        "text": "[[April 2017]] is the beginning of Journaling and my time in Europe."
+      },
+      "after": "9d8690e052ba97e9",
+      "date": 1497021820492
+    },
+    {
+      "type": "remove",
+      "id": "29fac9064fdc8ea8",
+      "date": 1497021777582
+    },
+    {
+      "type": "remove",
+      "id": "a1477f508f87e5ce",
+      "date": 1497021769578
+    },
+    {
+      "type": "remove",
+      "id": "2ff79320d83c47c0",
+      "date": 1497021767556
+    },
+    {
+      "type": "move",
+      "order": [
+        "77e0ffd08c0ebe31",
+        "2a46b1e5e6878a4b",
+        "13247e73dc81eddf",
+        "807c6737a3d88540",
+        "70fcfb15109d4e52",
+        "e24dcb260f0ea59a",
+        "a69ce5481d70c9c1",
+        "a8d415888d067177",
+        "52d21d234a1b63b6",
+        "9d8690e052ba97e9",
+        "29fac9064fdc8ea8",
+        "a1477f508f87e5ce",
+        "2ff79320d83c47c0",
+        "cfa2d4b241bcf94a",
+        "1eea82b4658851b2"
+      ],
+      "id": "a1477f508f87e5ce",
+      "date": 1497021758514
+    },
+    {
+      "type": "remove",
+      "id": "c55d59ca4f273313",
+      "date": 1497021756626
+    },
+    {
+      "type": "remove",
+      "id": "bd6537d8f7149926",
+      "date": 1497021754612
+    },
+    {
+      "type": "remove",
+      "id": "34207bbca01e3a34",
+      "date": 1497021752863
+    },
+    {
+      "type": "remove",
+      "id": "cec0dabb0445aa58",
+      "date": 1497021749630
+    },
+    {
+      "type": "remove",
+      "id": "41ec18b547ea8a47",
+      "date": 1497021747427
+    },
+    {
+      "type": "add",
+      "id": "cfa2d4b241bcf94a",
+      "item": {
+        "type": "paragraph",
+        "id": "cfa2d4b241bcf94a",
+        "text": "[[May 2017]] is end of Europe and travel to Montana."
+      },
+      "after": "41ec18b547ea8a47",
+      "date": 1497021713743
+    },
+    {
+      "type": "remove",
+      "id": "77ff2147f11b46fd",
+      "date": 1497021660701
+    },
+    {
+      "type": "remove",
+      "id": "2ebad24045229dd7",
+      "date": 1497021657819
+    },
+    {
+      "type": "remove",
+      "id": "2d8e30d770e2fbf9",
+      "date": 1497021655905
+    },
+    {
+      "type": "remove",
+      "id": "600a586fd3e91d1f",
+      "date": 1497021653986
+    },
+    {
+      "type": "remove",
+      "id": "71fccbbb016d5f55",
+      "date": 1497021651647
+    },
+    {
+      "type": "remove",
+      "id": "4afc84fe6c795828",
+      "date": 1497021649138
+    },
+    {
+      "type": "add",
+      "id": "4afc84fe6c795828",
+      "item": {
+        "type": "paragraph",
+        "id": "4afc84fe6c795828",
+        "text": "[[8 June 2017]] is second day of remote work."
+      },
+      "after": "1eea82b4658851b2",
+      "date": 1497021642017
+    },
+    {
+      "type": "edit",
+      "id": "1eea82b4658851b2",
+      "item": {
+        "type": "paragraph",
+        "id": "1eea82b4658851b2",
+        "text": "[[June 2017]] is mostly Montana."
+      },
+      "date": 1497021637202
+    },
+    {
+      "type": "edit",
+      "id": "1eea82b4658851b2",
+      "item": {
+        "type": "paragraph",
+        "id": "1eea82b4658851b2",
+        "text": "[[8 June 2017]] is second day of remote work."
+      },
+      "date": 1496944876077
+    },
+    {
+      "type": "edit",
+      "id": "1eea82b4658851b2",
+      "item": {
+        "type": "paragraph",
+        "id": "1eea82b4658851b2",
+        "text": "[8 June 2017]] is second day of remote work."
+      },
+      "date": 1496944861526
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1eea82b4658851b2"
+      },
+      "id": "1eea82b4658851b2",
+      "type": "add",
+      "after": "71fccbbb016d5f55",
+      "date": 1496944847693
+    },
+    {
+      "type": "edit",
+      "id": "71fccbbb016d5f55",
+      "item": {
+        "type": "paragraph",
+        "id": "71fccbbb016d5f55",
+        "text": "[[7 June 2017]] is first day of remote work!"
+      },
+      "date": 1496866126081
+    },
+    {
+      "type": "add",
+      "id": "71fccbbb016d5f55",
+      "item": {
+        "type": "paragraph",
+        "id": "71fccbbb016d5f55",
+        "text": "[[7 June 2017]] is first day of work from home!"
+      },
+      "after": "600a586fd3e91d1f",
+      "date": 1496866083231
+    },
+    {
+      "type": "add",
+      "id": "600a586fd3e91d1f",
+      "item": {
+        "type": "paragraph",
+        "id": "600a586fd3e91d1f",
+        "text": "[[6 June 2017]] is me frustrated."
+      },
+      "after": "2d8e30d770e2fbf9",
+      "date": 1496765352089
+    },
+    {
+      "type": "add",
+      "id": "2d8e30d770e2fbf9",
+      "item": {
+        "type": "paragraph",
+        "id": "2d8e30d770e2fbf9",
+        "text": "[[5 June 2017]] is back to work after a good weekend."
+      },
+      "after": "2ebad24045229dd7",
+      "date": 1496700554274
+    },
+    {
+      "type": "remove",
+      "id": "1582953016bbe042",
+      "date": 1496426954290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1582953016bbe042"
+      },
+      "id": "1582953016bbe042",
+      "type": "add",
+      "after": "2ebad24045229dd7",
+      "date": 1496426948811
+    },
+    {
+      "type": "edit",
+      "id": "2ebad24045229dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "2ebad24045229dd7",
+        "text": "[[2 June 2017]] is working on working in an office."
+      },
+      "date": 1496342448861
+    },
+    {
+      "type": "edit",
+      "id": "2ebad24045229dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "2ebad24045229dd7",
+        "text": "[[2 June 2017] is working on working in an office."
+      },
+      "date": 1496342443439
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ebad24045229dd7"
+      },
+      "id": "2ebad24045229dd7",
+      "type": "add",
+      "after": "77ff2147f11b46fd",
+      "date": 1496342425101
+    },
+    {
+      "type": "edit",
+      "id": "77ff2147f11b46fd",
+      "item": {
+        "type": "paragraph",
+        "id": "77ff2147f11b46fd",
+        "text": "[[1 June 2017]] working on habits."
+      },
+      "date": 1496251845503
+    },
+    {
+      "type": "edit",
+      "id": "77ff2147f11b46fd",
+      "item": {
+        "type": "paragraph",
+        "id": "77ff2147f11b46fd",
+        "text": "[[1 June 2017]]working on habits."
+      },
+      "date": 1496251823486
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77ff2147f11b46fd"
+      },
+      "id": "77ff2147f11b46fd",
+      "type": "add",
+      "after": "41ec18b547ea8a47",
+      "date": 1496251804204
+    },
+    {
+      "type": "edit",
+      "id": "41ec18b547ea8a47",
+      "item": {
+        "type": "paragraph",
+        "id": "41ec18b547ea8a47",
+        "text": "[[30 May 2017]] is back in Montana."
+      },
+      "date": 1496172223253
+    },
+    {
+      "type": "edit",
+      "id": "41ec18b547ea8a47",
+      "item": {
+        "type": "paragraph",
+        "id": "41ec18b547ea8a47",
+        "text": "[30 May 2017] is back in Montana."
+      },
+      "date": 1496172216101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41ec18b547ea8a47"
+      },
+      "id": "41ec18b547ea8a47",
+      "type": "add",
+      "after": "cec0dabb0445aa58",
+      "date": 1496172193310
+    },
+    {
+      "type": "add",
+      "id": "cec0dabb0445aa58",
+      "item": {
+        "type": "paragraph",
+        "id": "cec0dabb0445aa58",
+        "text": "[[18 May 2017]] is NYC to DC."
+      },
+      "after": "34207bbca01e3a34",
+      "date": 1495121492014
+    },
+    {
+      "type": "edit",
+      "id": "34207bbca01e3a34",
+      "item": {
+        "type": "paragraph",
+        "id": "34207bbca01e3a34",
+        "text": "[[16 May 2017]] is just normal life."
+      },
+      "date": 1494940100449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34207bbca01e3a34"
+      },
+      "id": "34207bbca01e3a34",
+      "type": "add",
+      "after": "bd6537d8f7149926",
+      "date": 1494940080684
+    },
+    {
+      "type": "edit",
+      "id": "bd6537d8f7149926",
+      "item": {
+        "type": "paragraph",
+        "id": "bd6537d8f7149926",
+        "text": "[[15 May 2017]] recaps the termination of my travels. "
+      },
+      "date": 1494860461858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bd6537d8f7149926"
+      },
+      "id": "bd6537d8f7149926",
+      "type": "add",
+      "after": "c55d59ca4f273313",
+      "date": 1494860426738
+    },
+    {
+      "type": "add",
+      "id": "c55d59ca4f273313",
+      "item": {
+        "type": "paragraph",
+        "id": "c55d59ca4f273313",
+        "text": "[[10 May 2017]] recaps a day meeting the Earl of Annandale."
+      },
+      "after": "a1477f508f87e5ce",
+      "date": 1494444619120
+    },
+    {
+      "type": "edit",
+      "id": "a1477f508f87e5ce",
+      "item": {
+        "type": "paragraph",
+        "id": "a1477f508f87e5ce",
+        "text": "[[9 May 2017]] recaps a fine day in Scotland."
+      },
+      "date": 1494357594909
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1477f508f87e5ce"
+      },
+      "id": "a1477f508f87e5ce",
+      "type": "add",
+      "after": "2ff79320d83c47c0",
+      "date": 1494357574721
+    },
+    {
+      "type": "edit",
+      "id": "2ff79320d83c47c0",
+      "item": {
+        "type": "paragraph",
+        "id": "2ff79320d83c47c0",
+        "text": "[[8 May 2017]] recaps a weekend in Berlin and travel to Scotland."
+      },
+      "date": 1494281770541
+    },
+    {
+      "type": "add",
+      "id": "2ff79320d83c47c0",
+      "item": {
+        "type": "paragraph",
+        "id": "2ff79320d83c47c0",
+        "text": "[[8 May 2017]] recaps a weekend in Berlin and travel to "
+      },
+      "after": "29fac9064fdc8ea8",
+      "date": 1494281683692
+    },
+    {
+      "type": "edit",
+      "id": "29fac9064fdc8ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "29fac9064fdc8ea8",
+        "text": "[[5 May 2017]] recaps days 2-4 in Budapest and travel to Germany."
+      },
+      "date": 1493986634279
+    },
+    {
+      "type": "edit",
+      "id": "29fac9064fdc8ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "29fac9064fdc8ea8",
+        "text": "[[5 May 2017]] recaps days 2-4 in Budapest."
+      },
+      "date": 1493986624138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29fac9064fdc8ea8"
+      },
+      "id": "29fac9064fdc8ea8",
+      "type": "add",
+      "after": "9d8690e052ba97e9",
+      "date": 1493986589663
+    },
+    {
+      "type": "edit",
+      "id": "9d8690e052ba97e9",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8690e052ba97e9",
+        "text": "[[30 April 2017]] recaps day 3 and 4 in Skopje and return to Budapest."
+      },
+      "date": 1493580731470
+    },
+    {
+      "type": "edit",
+      "id": "9d8690e052ba97e9",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8690e052ba97e9",
+        "text": "[[30 April 2017]] recaps day 3 in Skopje."
+      },
+      "date": 1493580707407
+    },
+    {
+      "type": "fork",
+      "date": 1493580694117
+    },
+    {
+      "type": "edit",
+      "id": "9d8690e052ba97e9",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8690e052ba97e9",
+        "text": "[[29 April 2017]] recaps day 3 in Skopje."
+      },
+      "date": 1493456922589,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9d8690e052ba97e9"
+      },
+      "id": "9d8690e052ba97e9",
+      "type": "add",
+      "after": "52d21d234a1b63b6",
+      "date": 1493456891189,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1493280959608
+    },
+    {
+      "type": "edit",
+      "id": "a8d415888d067177",
+      "item": {
+        "type": "paragraph",
+        "id": "a8d415888d067177",
+        "text": "[[26 April 2017]] recaps day one in Skopje, Macedonia."
+      },
+      "date": 1493280917381,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "edit",
+      "id": "e24dcb260f0ea59a",
+      "item": {
+        "type": "paragraph",
+        "id": "e24dcb260f0ea59a",
+        "text": "[[22 April 2017]] recaps day 2 in Florence."
+      },
+      "date": 1492880425164
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e24dcb260f0ea59a",
+        "text": "[[22 April 2017]] recaps day 2 in Florence."
+      },
+      "id": "e24dcb260f0ea59a",
+      "type": "add",
+      "after": "70fcfb15109d4e52",
+      "date": 1492880402687
+    },
+    {
+      "type": "fork",
+      "date": 1489341355505
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c6c5a711b983604"
+      },
+      "id": "4c6c5a711b983604",
+      "type": "add",
+      "date": 1492262308133
+    },
+    {
+      "type": "remove",
+      "id": "4c6c5a711b983604",
+      "date": 1492262324982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77e0ffd08c0ebe31"
+      },
+      "id": "77e0ffd08c0ebe31",
+      "type": "add",
+      "date": 1492262333166
+    },
+    {
+      "type": "edit",
+      "id": "77e0ffd08c0ebe31",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[15 April 2017]"
+      },
+      "date": 1492262353042
+    },
+    {
+      "type": "edit",
+      "id": "77e0ffd08c0ebe31",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[[15 April 2017]]"
+      },
+      "date": 1492262358415
+    },
+    {
+      "type": "edit",
+      "id": "77e0ffd08c0ebe31",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[[15 April 2017]] was day one on my European exploration."
+      },
+      "date": 1492266119985
+    },
+    {
+      "type": "edit",
+      "id": "77e0ffd08c0ebe31",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[[15 April 2017]] recaps day one of my European exploration."
+      },
+      "date": 1492266136563
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a46b1e5e6878a4b"
+      },
+      "id": "2a46b1e5e6878a4b",
+      "type": "add",
+      "after": "77e0ffd08c0ebe31",
+      "date": 1492348277183
+    },
+    {
+      "type": "edit",
+      "id": "2a46b1e5e6878a4b",
+      "item": {
+        "type": "paragraph",
+        "id": "2a46b1e5e6878a4b",
+        "text": "[[16 April 2017]] recaps the day of the club."
+      },
+      "date": 1492348301102
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13247e73dc81eddf"
+      },
+      "id": "13247e73dc81eddf",
+      "type": "add",
+      "after": "2a46b1e5e6878a4b",
+      "date": 1492446494071
+    },
+    {
+      "type": "edit",
+      "id": "13247e73dc81eddf",
+      "item": {
+        "type": "paragraph",
+        "id": "13247e73dc81eddf",
+        "text": "[[17 April 2017]] recaps my time in Naples."
+      },
+      "date": 1492446519680
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "807c6737a3d88540"
+      },
+      "id": "807c6737a3d88540",
+      "type": "add",
+      "after": "13247e73dc81eddf",
+      "date": 1492608551659
+    },
+    {
+      "type": "edit",
+      "id": "807c6737a3d88540",
+      "item": {
+        "type": "paragraph",
+        "id": "807c6737a3d88540",
+        "text": "[[19 April 2017]] recaps day 1 and 2 in Rome."
+      },
+      "date": 1492608579351
+    },
+    {
+      "type": "edit",
+      "id": "77e0ffd08c0ebe31",
+      "item": {
+        "type": "paragraph",
+        "id": "77e0ffd08c0ebe31",
+        "text": "[[15 April 2017]] recaps day one of my European exploration in Paris"
+      },
+      "date": 1492609674276
+    },
+    {
+      "type": "edit",
+      "id": "2a46b1e5e6878a4b",
+      "item": {
+        "type": "paragraph",
+        "id": "2a46b1e5e6878a4b",
+        "text": "[[16 April 2017]] recaps the day of the Paris club."
+      },
+      "date": 1492609681938
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "id": "70fcfb15109d4e52",
+      "type": "add",
+      "after": "807c6737a3d88540",
+      "date": 1492791184824
+    },
+    {
+      "type": "edit",
+      "id": "70fcfb15109d4e52",
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "date": 1492791215060
+    },
+    {
+      "type": "edit",
+      "id": "70fcfb15109d4e52",
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "date": 1492791218302
+    },
+    {
+      "type": "edit",
+      "id": "70fcfb15109d4e52",
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "date": 1492791220622
+    },
+    {
+      "type": "edit",
+      "id": "70fcfb15109d4e52",
+      "item": {
+        "type": "paragraph",
+        "id": "70fcfb15109d4e52",
+        "text": "[[21 April 2017]] recaps day 3 in Rome and day 1 in Florence."
+      },
+      "date": 1492791229722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a69ce5481d70c9c1"
+      },
+      "id": "a69ce5481d70c9c1",
+      "type": "add",
+      "after": "e24dcb260f0ea59a",
+      "date": 1493139942939,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1493139983492
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a8d415888d067177",
+        "text": "[[26 April 2017]] recaps day one in Skopje, Macedonia."
+      },
+      "id": "a8d415888d067177",
+      "type": "add",
+      "after": "a69ce5481d70c9c1",
+      "date": 1493139984849
+    },
+    {
+      "type": "edit",
+      "id": "a69ce5481d70c9c1",
+      "item": {
+        "type": "paragraph",
+        "id": "a69ce5481d70c9c1",
+        "text": "[[25 April 2017]] recaps end of Florence, two nights in Venice. and day one in Budapest"
+      },
+      "date": 1493140032765
+    },
+    {
+      "type": "edit",
+      "id": "a8d415888d067177",
+      "item": {
+        "type": "paragraph",
+        "id": "a8d415888d067177",
+        "text": "[[26 April 2017]] recaps day 1 in Skopje, Macedonia."
+      },
+      "date": 1493281561726
+    },
+    {
+      "type": "edit",
+      "id": "a69ce5481d70c9c1",
+      "item": {
+        "type": "paragraph",
+        "id": "a69ce5481d70c9c1",
+        "text": "[[25 April 2017]] recaps the end of Florence, 2 nights in Venice, and day 1 in Budapest"
+      },
+      "date": 1493281581522
+    },
+    {
+      "type": "add",
+      "id": "52d21d234a1b63b6",
+      "item": {
+        "type": "paragraph",
+        "id": "52d21d234a1b63b6",
+        "text": "[[27 April 2017]] recaps day 2 in Skopje."
+      },
+      "after": "a8d415888d067177",
+      "date": 1493336924941
+    },
+    {
+      "type": "fork",
+      "date": 1499116626528
+    },
+    {
+      "type": "add",
+      "id": "8cd7958261ccc7cd",
+      "item": {
+        "type": "paragraph",
+        "id": "8cd7958261ccc7cd",
+        "text": "[[August 2017]] will be awesome."
+      },
+      "after": "d9a622cc3ac3defc",
+      "date": 1501645090117
+    },
+    {
+      "type": "add",
+      "id": "972248ea98f1aafa",
+      "item": {
+        "type": "paragraph",
+        "id": "972248ea98f1aafa",
+        "text": "[[September 2017]] is off to a magnificent start."
+      },
+      "after": "8cd7958261ccc7cd",
+      "date": 1504277668144
+    },
+    {
+      "type": "add",
+      "id": "d8dc74b732151a16",
+      "item": {
+        "type": "paragraph",
+        "id": "d8dc74b732151a16",
+        "text": "[[October 2017]] is regrouping after submission of New Shape. "
+      },
+      "after": "972248ea98f1aafa",
+      "date": 1507245607556
+    },
+    {
+      "type": "add",
+      "id": "4ac069cc2db29864",
+      "item": {
+        "type": "paragraph",
+        "id": "4ac069cc2db29864",
+        "text": "[[November 2017]] is age 30."
+      },
+      "after": "d8dc74b732151a16",
+      "date": 1510008346963
+    },
+    {
+      "type": "add",
+      "id": "d7a8347d3ed3261e",
+      "item": {
+        "type": "paragraph",
+        "id": "d7a8347d3ed3261e",
+        "text": "[[December 2017]] is Christmas season."
+      },
+      "after": "4ac069cc2db29864",
+      "date": 1512153175988
+    }
+  ]
+}
