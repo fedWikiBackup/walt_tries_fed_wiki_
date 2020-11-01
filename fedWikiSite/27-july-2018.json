@@ -1,0 +1,55 @@
+{
+  "title": "27 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fa94212c921b3c68",
+      "text": "Fed Wiki was down for a couple days. Back on my game now. Oh how I depend on Tech."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0bfc89babce2096",
+      "text": "Also. It's my father's birthday today. He will be here on Sunday. This should be a grand old time."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 July 2018",
+        "story": []
+      },
+      "date": 1532720702956
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa94212c921b3c68"
+      },
+      "id": "fa94212c921b3c68",
+      "type": "add",
+      "date": 1532720703931
+    },
+    {
+      "type": "edit",
+      "id": "fa94212c921b3c68",
+      "item": {
+        "type": "paragraph",
+        "id": "fa94212c921b3c68",
+        "text": "Fed Wiki was down for a couple days. Back on my game now. Oh how I depend on Tech."
+      },
+      "date": 1532720725149
+    },
+    {
+      "type": "add",
+      "id": "b0bfc89babce2096",
+      "item": {
+        "type": "paragraph",
+        "id": "b0bfc89babce2096",
+        "text": "Also. It's my father's birthday today. He will be here on Sunday. This should be a grand old time."
+      },
+      "after": "fa94212c921b3c68",
+      "date": 1532720745388
+    }
+  ]
+}
