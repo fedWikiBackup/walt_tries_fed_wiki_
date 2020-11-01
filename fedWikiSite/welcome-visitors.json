@@ -1,0 +1,3676 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "2e55c91c663b5fba",
+      "text": "\nA Library Curated by Walter Duson Clapp\n"
+    },
+    {
+      "type": "html",
+      "id": "f9b673dc09b82525",
+      "text": "<h2><b> Greetings. Welcome to a paradigm shift in our social networking. <b><h2> \n"
+    },
+    {
+      "type": "html",
+      "id": "4995e4b09213a9cd",
+      "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. <b><h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "[[Walter Duson Clapp]] <- that's a link about me."
+    },
+    {
+      "type": "paragraph",
+      "id": "c87160b9de697761",
+      "text": "Walter's [[Projects]] <- that's about my bigger works."
+    },
+    {
+      "type": "paragraph",
+      "id": "2c86924ddf29b16f",
+      "text": "                                                 "
+    },
+    {
+      "type": "paragraph",
+      "id": "752d4acba80d4cc7",
+      "text": "[[Walter's Research and Writing]] <- everyday stuff."
+    },
+    {
+      "type": "paragraph",
+      "id": "72dbf70f13b28a94",
+      "text": "[[Federated Wiki Tools and Testing Ground]] <- mmm."
+    },
+    {
+      "type": "paragraph",
+      "id": "0de34d562f2544ec",
+      "text": "The [[Glossary]] is useful, too. "
+    },
+    {
+      "type": "html",
+      "id": "429f45fc206f7407",
+      "text": "These crazy things below me are a blockchain ledger of my creation herein. Hover over them to see time stamps. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[Walter Clapp]]"
+      },
+      "date": 1488043162176
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "I am here to explore Federated Wiki and learn about all of its potential. I look forward to learning from the community that already exists and hopefully help it grow"
+      },
+      "date": 1488043377732
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "I am here to explore Federated Wiki and learn about all of its potential. I look forward to learning from the community that already exists and hopefully help it grow!"
+      },
+      "date": 1488043390145
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "I am here to explore Federated Wiki and learn about all of its potential. I look forward to learning from the community that already exists and hopefully help it grow! "
+      },
+      "date": 1488043394488
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Why I am Here]] "
+      },
+      "date": 1488043427310
+    },
+    {
+      "type": "add",
+      "id": "a56b5e843c61707e",
+      "item": {
+        "type": "paragraph",
+        "id": "a56b5e843c61707e",
+        "text": "I am here to explore Federated Wiki and learn about all of its potential. I look forward to learning from the community that already exists and hopefully help it grow! "
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1488043440831
+    },
+    {
+      "type": "remove",
+      "id": "a56b5e843c61707e",
+      "date": 1488043452477
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec4f64a51eaa2696"
+      },
+      "id": "ec4f64a51eaa2696",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1488044404402
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e55c91c663b5fba"
+      },
+      "id": "2e55c91c663b5fba",
+      "type": "add",
+      "after": "ec4f64a51eaa2696",
+      "date": 1488044411171
+    },
+    {
+      "type": "remove",
+      "id": "ec4f64a51eaa2696",
+      "date": 1488044417219
+    },
+    {
+      "type": "edit",
+      "id": "2e55c91c663b5fba",
+      "item": {
+        "type": "pagefold",
+        "id": "2e55c91c663b5fba",
+        "text": ".\n"
+      },
+      "date": 1488044436492
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "2e55c91c663b5fba",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2e55c91c663b5fba",
+      "date": 1488044441978
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2e55c91c663b5fba",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2e55c91c663b5fba",
+      "date": 1488044446174
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2e55c91c663b5fba",
+      "date": 1488044456215
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b72b181361f0d2b"
+      },
+      "id": "2b72b181361f0d2b",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1488044461914
+    },
+    {
+      "type": "edit",
+      "id": "2b72b181361f0d2b",
+      "item": {
+        "type": "pagefold",
+        "id": "2b72b181361f0d2b",
+        "text": "."
+      },
+      "date": 1488044472171
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2b72b181361f0d2b",
+      "date": 1488044474727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b521cea96a1b1049"
+      },
+      "id": "b521cea96a1b1049",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1488046092166
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "walt.tries.fed.wiki\nward.asia.wiki.org"
+      },
+      "date": 1488046155588
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "walt.tries.fed.wiki\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1488046249746
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "walt.tries.fed.wiki\nward.asia.wiki.org\nward.bay.wiki.org\nward.walt.tries.fed.wiki"
+      },
+      "date": 1488046327650
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "walt.tries.fed.wiki\nward.walt.tries.fed.wiki\n\n\nReference Sites\n\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1488046374158
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\n\n\nReference Sites\n\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1488046389823
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\n\nReference Sites\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1488046403299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7539c5c2872bc4c8"
+      },
+      "id": "7539c5c2872bc4c8",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488046887805
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "7539c5c2872bc4c8",
+      "date": 1488046891268
+    },
+    {
+      "type": "edit",
+      "id": "7539c5c2872bc4c8",
+      "item": {
+        "type": "paragraph",
+        "id": "7539c5c2872bc4c8",
+        "text": "[[To Ward]]"
+      },
+      "date": 1488046903964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "00c563360d7f6131"
+      },
+      "id": "00c563360d7f6131",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488046912823
+    },
+    {
+      "type": "edit",
+      "id": "00c563360d7f6131",
+      "item": {
+        "type": "pagefold",
+        "id": "00c563360d7f6131",
+        "text": "."
+      },
+      "date": 1488046924438
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "00c563360d7f6131",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "00c563360d7f6131",
+      "date": 1488046930071
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1488046971558
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me:"
+      },
+      "date": 1488046983306
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6c1d36b75841e86"
+      },
+      "id": "f6c1d36b75841e86",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488047028437
+    },
+    {
+      "type": "edit",
+      "id": "f6c1d36b75841e86",
+      "item": {
+        "type": "paragraph",
+        "id": "f6c1d36b75841e86",
+        "text": "[[Walter Clapp]]"
+      },
+      "date": 1488047034009
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "f6c1d36b75841e86",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "00c563360d7f6131",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "f6c1d36b75841e86",
+      "date": 1488047036771
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share:"
+      },
+      "date": 1488047048209
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "f6c1d36b75841e86",
+        "05e2fa92643677ca",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "00c563360d7f6131",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "05e2fa92643677ca",
+      "date": 1488047052582
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8950b12e8359f421"
+      },
+      "id": "8950b12e8359f421",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488047390900
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "f6c1d36b75841e86",
+        "05e2fa92643677ca",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "8950b12e8359f421",
+        "00c563360d7f6131",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "8950b12e8359f421",
+      "date": 1488047394567
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[https://www.globalchallenges.org/en/the-prize/criteria]"
+      },
+      "date": 1488047415987
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[ https://www.globalchallenges.org/en/the-prize/criteria "
+      },
+      "date": 1488047553823
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[ https://www.globalchallenges.org/en/the-prize/criteria ]"
+      },
+      "date": 1488047562522
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "["
+      },
+      "date": 1488047593353
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[https://www.globalchallenges.org/en/the-prize/criteria] [webpage]"
+      },
+      "date": 1488047600810
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[https://www.globalchallenges.org/en/the-prize/criteria] webpage]"
+      },
+      "date": 1488047618811
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "[https://www.globalchallenges.org/en/the-prize/criteria The Challenge]"
+      },
+      "date": 1488047637403
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Working On:"
+      },
+      "date": 1488049457879
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1488050072515
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "About me:"
+      },
+      "date": 1488050225721
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[Federated Wiki]] site. From this page you can find Walter is and what he does. If you want to create your own site, read",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488050273899
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[Federated Wiki]] site. From this page you can find Walter is and what he does. If you want to create your own site, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488050289761
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1488050308923
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[Federated Wiki]] site. From this page you can find out who Walter is and what he does. If you want to create your own site, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488050318174
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[Federated Wiki]] site. From this page you can find out who Walter is and what he does. If you want to create your own social library, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488050337618
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Still reading? Follow [[Recent Changes]] to see the history of the creation of this federation."
+      },
+      "date": 1488050379909
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group (This is where Ward and I collaborate in a Club)\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\n\nReference Sites (These are a couple of Ward's pages)\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1488050415868
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Primary Focus:"
+      },
+      "date": 1488050449152
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "   Primary Focus:"
+      },
+      "date": 1488050515338
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "   [https://www.globalchallenges.org/en/the-prize/criteria The Challenge]"
+      },
+      "date": 1488050520221
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Primary Focus:"
+      },
+      "date": 1488050638432
+    },
+    {
+      "type": "add",
+      "id": "8198aa715d703be6",
+      "item": {
+        "type": "paragraph",
+        "id": "8198aa715d703be6",
+        "text": "Secondary Focuses:"
+      },
+      "after": "8950b12e8359f421",
+      "date": 1488050766751
+    },
+    {
+      "type": "add",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "["
+      },
+      "after": "8198aa715d703be6",
+      "date": 1488050770309
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Current Focus:"
+      },
+      "date": 1488050787372
+    },
+    {
+      "type": "edit",
+      "id": "8198aa715d703be6",
+      "item": {
+        "type": "paragraph",
+        "id": "8198aa715d703be6",
+        "text": "Other Projects:"
+      },
+      "date": 1488050796859
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "[http://www.communityadaptation.com/ Community Adaptation]"
+      },
+      "date": 1488050803368
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Still reading? Open [[Recent Changes]] to see the history of the creation of this social libarary."
+      },
+      "date": 1488050849011
+    },
+    {
+      "type": "add",
+      "id": "aa9775e29caaa134",
+      "item": {
+        "type": "paragraph",
+        "id": "aa9775e29caaa134",
+        "text": "[theperfectwine.glass The Perfect Wine Glass]"
+      },
+      "after": "43f1dc473e0d34a9",
+      "date": 1488051381825
+    },
+    {
+      "type": "edit",
+      "id": "aa9775e29caaa134",
+      "item": {
+        "type": "paragraph",
+        "id": "aa9775e29caaa134",
+        "text": "[theperfectwine.glass The"
+      },
+      "date": 1488051398699
+    },
+    {
+      "type": "edit",
+      "id": "aa9775e29caaa134",
+      "item": {
+        "type": "paragraph",
+        "id": "aa9775e29caaa134",
+        "text": "[theperfectwine.glass ThePerfectWineGlass]"
+      },
+      "date": 1488051403974
+    },
+    {
+      "type": "edit",
+      "id": "aa9775e29caaa134",
+      "item": {
+        "type": "paragraph",
+        "id": "aa9775e29caaa134",
+        "text": "[theperfectwine.glass The Perfect Wine Glass]"
+      },
+      "date": 1488051413148
+    },
+    {
+      "type": "add",
+      "id": "c2dc0fec7faddc2f",
+      "item": {
+        "type": "paragraph",
+        "id": "c2dc0fec7faddc2f",
+        "text": "[pstu.org Planet Stupider]"
+      },
+      "after": "aa9775e29caaa134",
+      "date": 1488051435608
+    },
+    {
+      "type": "edit",
+      "id": "c2dc0fec7faddc2f",
+      "item": {
+        "type": "paragraph",
+        "id": "c2dc0fec7faddc2f",
+        "text": "[www.pstu.org Planet Stupider]"
+      },
+      "date": 1488051442224
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "   [https://www.globalchallenges.org/en/the-prize/criteria The Global Challenge]"
+      },
+      "date": 1488060387058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d58a7c1ba7273232"
+      },
+      "id": "d58a7c1ba7273232",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488060895631
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "f6c1d36b75841e86",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "8950b12e8359f421",
+        "8198aa715d703be6",
+        "43f1dc473e0d34a9",
+        "aa9775e29caaa134",
+        "c2dc0fec7faddc2f",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "d58a7c1ba7273232",
+      "date": 1488060899004
+    },
+    {
+      "type": "edit",
+      "id": "d58a7c1ba7273232",
+      "item": {
+        "type": "paragraph",
+        "id": "d58a7c1ba7273232",
+        "text": "[[Glossary]]"
+      },
+      "date": 1488060908777
+    },
+    {
+      "type": "add",
+      "id": "eac946eb6a88cb4d",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]]"
+      },
+      "after": "d58a7c1ba7273232",
+      "date": 1488062109754
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f480f5c08e0d611"
+      },
+      "id": "1f480f5c08e0d611",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488062670795
+    },
+    {
+      "type": "edit",
+      "id": "1f480f5c08e0d611",
+      "item": {
+        "type": "markdown",
+        "id": "1f480f5c08e0d611",
+        "text": "#Heading\n*list\n*list"
+      },
+      "date": 1488062695610
+    },
+    {
+      "type": "remove",
+      "id": "1f480f5c08e0d611",
+      "date": 1488062703043
+    },
+    {
+      "type": "edit",
+      "id": "8950b12e8359f421",
+      "item": {
+        "type": "paragraph",
+        "id": "8950b12e8359f421",
+        "text": "   [https://www.globalchallenges.org/en/the-prize/criteria The Global Challenge]                                                           "
+      },
+      "date": 1488072697798,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d45aa1e02a1b79fb"
+      },
+      "id": "d45aa1e02a1b79fb",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1488072701019,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "f6c1d36b75841e86",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "8950b12e8359f421",
+        "d45aa1e02a1b79fb",
+        "8198aa715d703be6",
+        "43f1dc473e0d34a9",
+        "aa9775e29caaa134",
+        "c2dc0fec7faddc2f",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "7539c5c2872bc4c8",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "d45aa1e02a1b79fb",
+      "date": 1488072707856,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable Collective Decisions]]"
+      },
+      "date": 1488072720674,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable, Binding and"
+      },
+      "date": 1488072753309,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable, Binding and Collective Decisions]]"
+      },
+      "date": 1488072757976,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable"
+      },
+      "date": 1488072776321,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable Collective Decisions]]"
+      },
+      "date": 1488072777999,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[About Federated Wiki]] site. From this page you can find out who Walter is and what he does. If you want to create your own social library, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488073773720,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's [[Federated Wiki]] site. From this page you can find out who Walter is and what he does. If you want to create your own social library, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488073788160,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's FEderated Wiki site. From this page you can find out who Walter is and what he does. If you want to create your own social library, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488073848112,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's Federated Wiki site. From this page you can find out who Walter is and what he does. If you want to create your own social library, read [[How to Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488073862138,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter's Federated Wiki site. From this page you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you to consume in the most loving yet efficient way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488074074513,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what [[Federated Wiki]].If you want to create your own social library, read [[How to Wiki]]."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1488074154672,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what this technology is, and how it is different from wiki, but also similar, read here: [[Federated Wiki]]. "
+      },
+      "date": 1488074200229,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "If you look around and like what you see, you will want to j create your own social library. To get started with that most amazing project check out [[How to Wiki]]."
+      },
+      "after": "b21fc7f541fe7860",
+      "date": 1488074249800,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki site. From this page you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you to consume in the most loving yet efficient way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488074287649,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki site. From this page you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you to consume in the most efficient yet loving way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488074322330,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what this technology is, read here: [[Federated Wiki]]. "
+      },
+      "date": 1488074342287,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "If you look around and like what you see, you will want to create your own social library. To get started with that most amazing project check out [[How to Wiki]]."
+      },
+      "date": 1488074356532,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "f6c1d36b75841e86",
+      "date": 1488074361917,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "About me: [[Walter Clapp]]"
+      },
+      "date": 1488074382219,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what [[Federated Wiki]] is, start by clicking on every link on this page, starting at the top and working your way down. "
+      },
+      "date": 1488074476431,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "If you look around and like what you see, you will want to create your own social library. To get started with that most amazing project you will want to learn [[How to Wiki]]. Its kind of like me teaching you how to Douggie. "
+      },
+      "date": 1488074518045,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "If you look around and like what you see, you will want to create your own social library. To get started with that most amazing project you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. "
+      },
+      "date": 1488074568586,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "If you look around and like what you see, you will want to create your own social library. To get started with that fun project you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. But instead, we are teaching you how to wiki (note to create introductory video to new users)."
+      },
+      "date": 1488074760686,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what [[Federated Wiki]] is, start by clicking on every link on this page, starting at the top and working your way down. Ultimately, this site, this project is about so much more than just Walter. It is about [[WWW.Infinity.Com]]"
+      },
+      "date": 1488074914338,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what [[Federated Wiki]] is, start by clicking on every link on this page, starting at the top and working your way down. Ultimately, this site, this project is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "date": 1488074932195,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. From this page you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you to consume in the most efficient yet loving way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488076117981,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp of what [[Federated Wiki]] is, start by clicking on every link on this page, starting at the top and working your way down. Ultimately, this site, no, this project, is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "date": 1488076146172,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp on what [[Federated Wiki]] is, start by clicking on every link on each page, starting at the top and working your way down. Ultimately, this site, no, this project, is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "date": 1488077311558,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you to consume in the most efficient yet loving way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488078328166,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you. He hopes that he has organized it in a way that you can consume in the most efficient yet loving way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488078550141,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp on what [[Federated Wiki]] is, start by clicking on every link on each page, starting at the top and working your way down. {Yes, please stop reading and clink on the link above.) Ultimately, this site, no, this project, is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "date": 1488078585246,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want a grasp on what [[Federated Wiki]] is, start by clicking on every link on each page, starting at the top and working your way down. (Yes, please stop reading and clink on the links above.) "
+      },
+      "date": 1488078631600,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "b2750dd8a20599b2",
+      "item": {
+        "type": "paragraph",
+        "id": "b2750dd8a20599b2",
+        "text": "Ultimately, this site, no, this project, is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1488078635187,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you. He aims to organize it in a way that is the most efficient, yet loving, way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488078718277,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b2750dd8a20599b2",
+      "item": {
+        "type": "paragraph",
+        "id": "b2750dd8a20599b2",
+        "text": "Ultimately, this project, is about so much more than just Walter. It is about [[www.infinity.com]]"
+      },
+      "date": 1488078739892,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you. He aims to organize all of this information in a way that is the most efficient, yet loving, way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488079047291,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you. He aims to organize all of this information in a way that is the most efficient, yet loving, way possible. Send Walter comments [wdclapp@gmail.com here].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488079096184,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does and what knowledge he has curated for you. He aims to organize all of this information in a way that is the most efficient, yet loving, way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488079105099,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does, and, most relevant to you, what knowledge he has curated for your benefit. He aims to organize all of this information in a way that is the most efficient, yet loving, way possible. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488079156747,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does, and, most relevant to you, what knowledge he has curated for your benefit. He aims to organize all of this information in a way that is the most efficient, yet loving, way possible. Let him know how he is doing by reading on.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1488079189503,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want to grasp what [[Federated Wiki]] is, start by clicking on every link on each page, starting at the top and working your way down. (Yes, please stop reading and clink on the links above.) "
+      },
+      "date": 1488079207259,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want to grasp what [[Federated Wiki]] is, start by clicking on every link, starting at the top of every page and working your way down. (Yes, please stop reading and clink on the links above.) "
+      },
+      "date": 1488079236271,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. To get started with that fun project you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. But instead, we are teaching you how to wiki (note to create introductory video to new users)."
+      },
+      "date": 1488079254323,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. To get started with that fun project you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. But instead, we are teaching you how to wiki {note to create introductory video to new users}."
+      },
+      "date": 1488079280298,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want to grasp what [[Federated Wiki]] is, start by clicking on every link, starting at the top of every page and working your way down. (Yes, please stop reading and clink on the links above. Sometimes I will direct links to specific people, and if you are not those specific people, you can ignore them.) "
+      },
+      "date": 1488081417058,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. If you are not convinced, skip the rest of this paragraph. To get started with that fun project you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. But instead, we are teaching you how to wiki {note to create introductory video to new users}."
+      },
+      "date": 1488081483812,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. If you are not convinced, skip the rest of this paragraph. To get started creating your own social library you will want to learn [[How to Wiki]]. Its kind of like [https://en.wikipedia.org/wiki/Teach_Me_How_to_Dougie  teaching you how to Dougie]. But instead, we are teaching you how to wiki {note to create introductory video to new users}."
+      },
+      "date": 1488081505737,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "http://www.impaktlabs.com/evolution2"
+      },
+      "after": "43f1dc473e0d34a9",
+      "date": 1488086988065,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "[http://www.impaktlabs.com/evolution2 Evolution 2.0]"
+      },
+      "date": 1488087010148,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "aafc7c5f2e2434d2",
+      "item": {
+        "type": "paragraph",
+        "id": "aafc7c5f2e2434d2",
+        "text": "[[The Solution]]"
+      },
+      "after": "7539c5c2872bc4c8",
+      "date": 1488173670395,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "7df119dd18ddf26f",
+      "item": {
+        "type": "paragraph",
+        "id": "7df119dd18ddf26f",
+        "text": "[[Walter's Trip Around the World]]"
+      },
+      "after": "aafc7c5f2e2434d2",
+      "date": 1488182032488,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "If you want to grasp what [[Federated Wiki]] is, start by clicking on every link, starting at the top of every page and working your way down. (Yes, please stop reading and clink on the links above.)"
+      },
+      "date": 1488263570722
+    },
+    {
+      "type": "fork",
+      "date": 1488306972738
+    },
+    {
+      "type": "fork",
+      "date": 1488823959194
+    },
+    {
+      "type": "add",
+      "id": "1691bf77f09b483e",
+      "item": {
+        "type": "paragraph",
+        "id": "1691bf77f09b483e",
+        "text": "[[Conversations With Ward]]"
+      },
+      "after": "d45aa1e02a1b79fb",
+      "date": 1488898114356
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Still reading? Open [[Recent Changes]] to see the history of the creation of this social libarary. [[Local Changes]]"
+      },
+      "date": 1488899562621
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. If you are not convinced, skip the rest of this paragraph. To get started creating your own social library you will want to learn [[How to Wiki]].{note to create introductory video to new users}."
+      },
+      "date": 1488907363842,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488907377733
+    },
+    {
+      "type": "edit",
+      "id": "b2750dd8a20599b2",
+      "item": {
+        "type": "paragraph",
+        "id": "b2750dd8a20599b2",
+        "text": "Ultimately, this project, is about so much more than just Walter. It is about [[www.infinity.com]]."
+      },
+      "date": 1488907396120
+    },
+    {
+      "type": "add",
+      "id": "661264e983006713",
+      "item": {
+        "type": "paragraph",
+        "id": "661264e983006713",
+        "text": "[[Donnie is Cool]]"
+      },
+      "after": "7afba9542cb0b4c2",
+      "date": 1488908797808
+    },
+    {
+      "type": "remove",
+      "id": "661264e983006713",
+      "date": 1488908924276
+    },
+    {
+      "type": "add",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "[[The Global Challenge]]: A project to reshape the UN and win money in the process"
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1488922891146
+    },
+    {
+      "type": "remove",
+      "id": "8950b12e8359f421",
+      "date": 1488922894931
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "[[The Global Challenge]]: A project to reshape the UN and win money in the process                                                      "
+      },
+      "date": 1488922898221
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "[[Community Adaptation]]: Building Lifeboat Cities"
+      },
+      "date": 1488930605288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e3895e3c39d0e1cc"
+      },
+      "id": "e3895e3c39d0e1cc",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1489002742307
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "b2750dd8a20599b2",
+        "b21fc7f541fe7860",
+        "7afba9542cb0b4c2",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "2b72b181361f0d2b",
+        "2bbd646ff3f44b51",
+        "e15eded54dae0e07",
+        "d45aa1e02a1b79fb",
+        "1691bf77f09b483e",
+        "8198aa715d703be6",
+        "43f1dc473e0d34a9",
+        "edd6092a90d037f9",
+        "aa9775e29caaa134",
+        "c2dc0fec7faddc2f",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "7539c5c2872bc4c8",
+        "aafc7c5f2e2434d2",
+        "7df119dd18ddf26f",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "e3895e3c39d0e1cc",
+      "date": 1489002747586
+    },
+    {
+      "type": "edit",
+      "id": "e3895e3c39d0e1cc",
+      "item": {
+        "type": "html",
+        "id": "e3895e3c39d0e1cc",
+        "text": "<h3>Introduction</h3>"
+      },
+      "date": 1489002788389
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's Federated Wiki. Read on friend. Here, you can find out who Walter is, what he believes in, what he does, and, most relevant to you, what knowledge he has curated for your benefit. This is Walter's library.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1489002828152
+    },
+    {
+      "type": "edit",
+      "id": "e3895e3c39d0e1cc",
+      "item": {
+        "type": "html",
+        "id": "e3895e3c39d0e1cc",
+        "text": "<h3>Introduction to Walter's Library</h3>"
+      },
+      "date": 1489002838797
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's [[Federated Wiki]]. Read on friend. Here, you can find out who Walter is, what he believes in, what he does, and, most relevant to you, what knowledge he has curated for your benefit. This is Walter's library.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1489002855156
+    },
+    {
+      "type": "remove",
+      "id": "b2750dd8a20599b2",
+      "date": 1489002866471
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "To orient yourself, start by clicking on the link above, then read on below."
+      },
+      "date": 1489002967102
+    },
+    {
+      "type": "edit",
+      "id": "b21fc7f541fe7860",
+      "item": {
+        "type": "paragraph",
+        "id": "b21fc7f541fe7860",
+        "text": "To orient yourself, start by clicking on the link above, then continue on below."
+      },
+      "date": 1489003088895
+    },
+    {
+      "type": "edit",
+      "id": "7afba9542cb0b4c2",
+      "item": {
+        "type": "paragraph",
+        "id": "7afba9542cb0b4c2",
+        "text": "Welcome back. If you look around and like what you see, you will want to create your own social library. If you are not convinced, skip on to the next section. To get started creating your own social library you will want to learn [[How to Wiki]].{note to create introductory video to new users}."
+      },
+      "date": 1489003110453
+    },
+    {
+      "type": "edit",
+      "id": "2e55c91c663b5fba",
+      "item": {
+        "type": "pagefold",
+        "id": "2e55c91c663b5fba",
+        "text": "About Me\n"
+      },
+      "date": 1489003124452
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Clapp]] [[Walter Duson Clapp"
+      },
+      "date": 1489003144484
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Clapp]] [[Walter Duson Clapp]]"
+      },
+      "date": 1489003147226
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]]"
+      },
+      "date": 1489003307770
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "[[The Global Challenge]]: A project to reshape the UN and win money to help develop Federated Wiki"
+      },
+      "date": 1489003332727
+    },
+    {
+      "type": "add",
+      "id": "2c86924ddf29b16f",
+      "item": {
+        "type": "paragraph",
+        "id": "2c86924ddf29b16f",
+        "text": "                                                 "
+      },
+      "after": "e15eded54dae0e07",
+      "date": 1489003332876
+    },
+    {
+      "type": "edit",
+      "id": "d45aa1e02a1b79fb",
+      "item": {
+        "type": "paragraph",
+        "id": "d45aa1e02a1b79fb",
+        "text": "[[Reliable Collective Decisions]] to develop "
+      },
+      "date": 1489003499882
+    },
+    {
+      "type": "remove",
+      "id": "d45aa1e02a1b79fb",
+      "date": 1489003587056
+    },
+    {
+      "type": "remove",
+      "id": "1691bf77f09b483e",
+      "date": 1489003629190
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1489003671442
+    },
+    {
+      "type": "edit",
+      "id": "2b72b181361f0d2b",
+      "item": {
+        "type": "pagefold",
+        "id": "2b72b181361f0d2b",
+        "text": "Current Focus"
+      },
+      "date": 1489003676970
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0869d36c5b493c54"
+      },
+      "id": "0869d36c5b493c54",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1489003687685
+    },
+    {
+      "type": "edit",
+      "id": "0869d36c5b493c54",
+      "item": {
+        "type": "pagefold",
+        "id": "0869d36c5b493c54",
+        "text": "Other Projects"
+      },
+      "date": 1489003695413
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "b21fc7f541fe7860",
+        "7afba9542cb0b4c2",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "2b72b181361f0d2b",
+        "e15eded54dae0e07",
+        "2c86924ddf29b16f",
+        "0869d36c5b493c54",
+        "8198aa715d703be6",
+        "43f1dc473e0d34a9",
+        "edd6092a90d037f9",
+        "aa9775e29caaa134",
+        "c2dc0fec7faddc2f",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "7539c5c2872bc4c8",
+        "aafc7c5f2e2434d2",
+        "7df119dd18ddf26f",
+        "ee416d431ebf4fb4",
+        "b521cea96a1b1049"
+      ],
+      "id": "0869d36c5b493c54",
+      "date": 1489003700062
+    },
+    {
+      "type": "remove",
+      "id": "8198aa715d703be6",
+      "date": 1489003704895
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Evolution 2.0: Upgrading the Human OS"
+      },
+      "date": 1489003756963
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "[[Evolution 2.0]]: Upgrading the Human OS"
+      },
+      "date": 1489003763866
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]]: A Small Town Boy"
+      },
+      "date": 1489003890171
+    },
+    {
+      "type": "remove",
+      "id": "aa9775e29caaa134",
+      "date": 1489003905132
+    },
+    {
+      "type": "remove",
+      "id": "c2dc0fec7faddc2f",
+      "date": 1489003907989
+    },
+    {
+      "type": "edit",
+      "id": "00c563360d7f6131",
+      "item": {
+        "type": "pagefold",
+        "id": "00c563360d7f6131",
+        "text": "Library Index"
+      },
+      "date": 1489003984510
+    },
+    {
+      "type": "edit",
+      "id": "2b72b181361f0d2b",
+      "item": {
+        "type": "pagefold",
+        "id": "2b72b181361f0d2b",
+        "text": "Projects"
+      },
+      "date": 1489003998371
+    },
+    {
+      "type": "remove",
+      "id": "0869d36c5b493c54",
+      "date": 1489004002542
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "[[The Global Challenge]]: Reshaping the UN"
+      },
+      "date": 1489004026081
+    },
+    {
+      "type": "remove",
+      "id": "7539c5c2872bc4c8",
+      "date": 1489004074827
+    },
+    {
+      "type": "remove",
+      "id": "7df119dd18ddf26f",
+      "date": 1489004088219
+    },
+    {
+      "type": "add",
+      "id": "ee10e12f401fec2e",
+      "item": {
+        "type": "paragraph",
+        "id": "ee10e12f401fec2e",
+        "text": "[[Walter's Journal]]"
+      },
+      "after": "eac946eb6a88cb4d",
+      "date": 1489004133367
+    },
+    {
+      "type": "remove",
+      "id": "aafc7c5f2e2434d2",
+      "date": 1489004230437
+    },
+    {
+      "type": "edit",
+      "id": "d58a7c1ba7273232",
+      "item": {
+        "type": "paragraph",
+        "id": "d58a7c1ba7273232",
+        "text": "[[Glossary]] of terms."
+      },
+      "date": 1489004425823
+    },
+    {
+      "type": "edit",
+      "id": "eac946eb6a88cb4d",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]] of plugins."
+      },
+      "date": 1489004434494
+    },
+    {
+      "type": "edit",
+      "id": "ee10e12f401fec2e",
+      "item": {
+        "type": "paragraph",
+        "id": "ee10e12f401fec2e",
+        "text": "[[Walter's Journal]] of comments."
+      },
+      "date": 1489004443206
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c68499c466b11476"
+      },
+      "id": "c68499c466b11476",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1489004450168
+    },
+    {
+      "type": "edit",
+      "id": "c68499c466b11476",
+      "item": {
+        "type": "pagefold",
+        "id": "c68499c466b11476",
+        "text": "Other Sites"
+      },
+      "date": 1489004466900
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "b21fc7f541fe7860",
+        "7afba9542cb0b4c2",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "2b72b181361f0d2b",
+        "e15eded54dae0e07",
+        "2c86924ddf29b16f",
+        "43f1dc473e0d34a9",
+        "edd6092a90d037f9",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "ee10e12f401fec2e",
+        "ee416d431ebf4fb4",
+        "c68499c466b11476",
+        "b521cea96a1b1049"
+      ],
+      "id": "c68499c466b11476",
+      "date": 1489004473821
+    },
+    {
+      "type": "edit",
+      "id": "c68499c466b11476",
+      "item": {
+        "type": "pagefold",
+        "id": "c68499c466b11476",
+        "text": "Other Important Sites"
+      },
+      "date": 1489004479335
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\n\nWard's future page and library page\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1489004539085
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6441961ca58e35d5"
+      },
+      "id": "6441961ca58e35d5",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1489004544249
+    },
+    {
+      "type": "edit",
+      "id": "6441961ca58e35d5",
+      "item": {
+        "type": "pagefold",
+        "id": "6441961ca58e35d5",
+        "text": "Reference Sites"
+      },
+      "date": 1489004557136
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "b21fc7f541fe7860",
+        "7afba9542cb0b4c2",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "2b72b181361f0d2b",
+        "e15eded54dae0e07",
+        "2c86924ddf29b16f",
+        "43f1dc473e0d34a9",
+        "edd6092a90d037f9",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "ee10e12f401fec2e",
+        "6441961ca58e35d5",
+        "ee416d431ebf4fb4",
+        "c68499c466b11476",
+        "b521cea96a1b1049"
+      ],
+      "id": "6441961ca58e35d5",
+      "date": 1489004560345
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Open [[Recent Changes]] to see the history of the creation of this social library. "
+      },
+      "date": 1489004576653
+    },
+    {
+      "type": "add",
+      "id": "37af73cd9ec241f4",
+      "item": {
+        "type": "paragraph",
+        "id": "37af73cd9ec241f4",
+        "text": "Open [[Local Changes]] to see changes made on your local computer."
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1489004591123
+    },
+    {
+      "type": "add",
+      "id": "d0869779e8063b4b",
+      "item": {
+        "type": "paragraph",
+        "id": "d0869779e8063b4b",
+        "text": "Open [[Frequent Changes]] to see the most frequently forked pages."
+      },
+      "after": "37af73cd9ec241f4",
+      "date": 1489004617097
+    },
+    {
+      "type": "add",
+      "id": "d2f77874a66451ae",
+      "item": {
+        "type": "paragraph",
+        "id": "d2f77874a66451ae",
+        "text": "[[Walter's Offline Library]] for your online viewing."
+      },
+      "after": "ee10e12f401fec2e",
+      "date": 1489004675423
+    },
+    {
+      "type": "remove",
+      "id": "7afba9542cb0b4c2",
+      "date": 1489004897666
+    },
+    {
+      "type": "add",
+      "id": "133f1316f58a7435",
+      "item": {
+        "type": "paragraph",
+        "id": "133f1316f58a7435",
+        "text": "Open [[How to Wiki]] to create your own Federated Wiki."
+      },
+      "after": "6441961ca58e35d5",
+      "date": 1489004923669
+    },
+    {
+      "type": "edit",
+      "id": "ee10e12f401fec2e",
+      "item": {
+        "type": "paragraph",
+        "id": "ee10e12f401fec2e",
+        "text": "[[Walter's Journal]] of thoughts."
+      },
+      "date": 1489006781528
+    },
+    {
+      "type": "add",
+      "id": "2dbb098c346c5a51",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Third Party]] sources"
+      },
+      "after": "ee10e12f401fec2e",
+      "date": 1489006809700
+    },
+    {
+      "type": "edit",
+      "id": "2dbb098c346c5a51",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Research]]"
+      },
+      "date": 1489006836832
+    },
+    {
+      "type": "edit",
+      "id": "2dbb098c346c5a51",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Research]] of other people's thoughts."
+      },
+      "date": 1489006848505
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]]: A Short Story"
+      },
+      "date": 1489007445878
+    },
+    {
+      "type": "edit",
+      "id": "2dbb098c346c5a51",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Research]] of other people's thoughts.A"
+      },
+      "date": 1489007677908
+    },
+    {
+      "type": "edit",
+      "id": "2dbb098c346c5a51",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Research]] of other people's thoughts."
+      },
+      "date": 1489010060512
+    },
+    {
+      "type": "add",
+      "id": "36c2fccb5d9e8b5e",
+      "item": {
+        "type": "paragraph",
+        "id": "36c2fccb5d9e8b5e",
+        "text": "[[Walter's Trip Around the World]]"
+      },
+      "after": "edd6092a90d037f9",
+      "date": 1489269160969
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's [[Federated Wiki]].  Think of this place as an online library curated for public consumption. It does not contain every book, but the ones that indicate who Walter is and what he believes in. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1491106725106,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1491106742626
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Walter Duson Clapp's [[Federated Wiki]].  ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1491318919267
+    },
+    {
+      "type": "add",
+      "id": "c322c2a94d81bd4d",
+      "item": {
+        "type": "paragraph",
+        "id": "c322c2a94d81bd4d",
+        "text": "["
+      },
+      "after": "36c2fccb5d9e8b5e",
+      "date": 1496285236483,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c322c2a94d81bd4d",
+      "item": {
+        "type": "paragraph",
+        "id": "c322c2a94d81bd4d",
+        "text": "[https://oldpeopledictionary.com/home Old People Dictionary.] It's like a dictionary, but better."
+      },
+      "date": 1496285272840,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1496979837102
+    },
+    {
+      "type": "edit",
+      "id": "2b72b181361f0d2b",
+      "item": {
+        "type": "pagefold",
+        "id": "2b72b181361f0d2b",
+        "text": "Projects and Cool Stuff\n"
+      },
+      "date": 1496979866302
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "When things get rough, the fox digs a hole, I build castles.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1497083665438
+    },
+    {
+      "type": "add",
+      "id": "2ac21cadcadf7468",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac21cadcadf7468",
+        "text": "Welcome to Walter Duson Clapp's [[Federated Wiki]].  "
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1497083667864
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Fox digs holes. We build castles.\"",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1497083727239
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Fox digs holes. We build castles.\" - Walter Duson",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1497083739504
+    },
+    {
+      "type": "add",
+      "id": "e2ba26696ab2ac72",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ba26696ab2ac72",
+        "text": "You are the master of our destiny."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1497083764780
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Fox digs holes. We build castles.\" ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1497083775855
+    },
+    {
+      "type": "remove",
+      "id": "e2ba26696ab2ac72",
+      "date": 1497083779705
+    },
+    {
+      "type": "add",
+      "id": "7ce45b6f78e9975b",
+      "item": {
+        "type": "paragraph",
+        "id": "7ce45b6f78e9975b",
+        "text": "[[Dear America]] is a short read."
+      },
+      "after": "b21fc7f541fe7860",
+      "date": 1497083863026
+    },
+    {
+      "type": "add",
+      "id": "32c058073b11aa9e",
+      "item": {
+        "type": "paragraph",
+        "id": "32c058073b11aa9e",
+        "text": "[[Conversations with Ward]] is a development site."
+      },
+      "after": "d0869779e8063b4b",
+      "date": 1498511510967
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\nkamila.tries.fed.wiki\n\nWard's future page and library page\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1501695468862
+    },
+    {
+      "type": "add",
+      "id": "9dcda04e8a734cf0",
+      "item": {
+        "type": "paragraph",
+        "id": "9dcda04e8a734cf0",
+        "text": "[[Fedwikitools]] is David Bovil's hub for transporters."
+      },
+      "after": "d2f77874a66451ae",
+      "date": 1501696398525
+    },
+    {
+      "type": "edit",
+      "id": "9dcda04e8a734cf0",
+      "item": {
+        "type": "paragraph",
+        "id": "9dcda04e8a734cf0",
+        "text": "[[Fedwiki Tools]] is David Bovil's hub for transporters."
+      },
+      "date": 1501696423783
+    },
+    {
+      "type": "edit",
+      "id": "b521cea96a1b1049",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\nkamila.tries.fed.wiki\nwiki.parliamentofthings.org\n\nWard's future page and library page\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "date": 1501697077064
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Foxes digs holes. We build . . ?\" ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1502070086200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9b673dc09b82525"
+      },
+      "id": "f9b673dc09b82525",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1502070107579
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "2ac21cadcadf7468",
+        "f9b673dc09b82525",
+        "b21fc7f541fe7860",
+        "7ce45b6f78e9975b",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "2b72b181361f0d2b",
+        "e15eded54dae0e07",
+        "2c86924ddf29b16f",
+        "43f1dc473e0d34a9",
+        "edd6092a90d037f9",
+        "36c2fccb5d9e8b5e",
+        "c322c2a94d81bd4d",
+        "00c563360d7f6131",
+        "d58a7c1ba7273232",
+        "eac946eb6a88cb4d",
+        "ee10e12f401fec2e",
+        "2dbb098c346c5a51",
+        "d2f77874a66451ae",
+        "9dcda04e8a734cf0",
+        "6441961ca58e35d5",
+        "133f1316f58a7435",
+        "ee416d431ebf4fb4",
+        "37af73cd9ec241f4",
+        "d0869779e8063b4b",
+        "32c058073b11aa9e",
+        "c68499c466b11476",
+        "b521cea96a1b1049"
+      ],
+      "id": "f9b673dc09b82525",
+      "date": 1502070115765
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<b> If you are new to Federated Wiki, start by clicking on the link above. <b>"
+      },
+      "date": 1502070165176
+    },
+    {
+      "type": "remove",
+      "id": "b21fc7f541fe7860",
+      "date": 1502070172579
+    },
+    {
+      "type": "remove",
+      "id": "7ce45b6f78e9975b",
+      "date": 1502070176982
+    },
+    {
+      "type": "add",
+      "id": "c87160b9de697761",
+      "item": {
+        "type": "paragraph",
+        "id": "c87160b9de697761",
+        "text": "Walter's Projects"
+      },
+      "after": "e15eded54dae0e07",
+      "date": 1502070228311
+    },
+    {
+      "type": "edit",
+      "id": "c87160b9de697761",
+      "item": {
+        "type": "paragraph",
+        "id": "c87160b9de697761",
+        "text": "[[Walter's Projects]]"
+      },
+      "date": 1502070234463
+    },
+    {
+      "type": "remove",
+      "id": "e15eded54dae0e07",
+      "date": 1502070241722
+    },
+    {
+      "type": "remove",
+      "id": "43f1dc473e0d34a9",
+      "date": 1502070243266
+    },
+    {
+      "type": "remove",
+      "id": "edd6092a90d037f9",
+      "date": 1502070245258
+    },
+    {
+      "type": "remove",
+      "id": "36c2fccb5d9e8b5e",
+      "date": 1502070247634
+    },
+    {
+      "type": "remove",
+      "id": "c322c2a94d81bd4d",
+      "date": 1502070249080
+    },
+    {
+      "type": "edit",
+      "id": "2b72b181361f0d2b",
+      "item": {
+        "type": "pagefold",
+        "id": "2b72b181361f0d2b",
+        "text": "\n"
+      },
+      "date": 1502070385606
+    },
+    {
+      "type": "remove",
+      "id": "2b72b181361f0d2b",
+      "date": 1502070389372
+    },
+    {
+      "type": "add",
+      "id": "752d4acba80d4cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "752d4acba80d4cc7",
+        "text": "[[Walter's Research and Writing"
+      },
+      "after": "00c563360d7f6131",
+      "date": 1502070433493
+    },
+    {
+      "type": "edit",
+      "id": "752d4acba80d4cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "752d4acba80d4cc7",
+        "text": "[[Walter's Research and Writing]]"
+      },
+      "date": 1502070437997
+    },
+    {
+      "type": "remove",
+      "id": "d58a7c1ba7273232",
+      "date": 1502070443640
+    },
+    {
+      "type": "remove",
+      "id": "ee10e12f401fec2e",
+      "date": 1502070447038
+    },
+    {
+      "type": "remove",
+      "id": "2dbb098c346c5a51",
+      "date": 1502070449242
+    },
+    {
+      "type": "remove",
+      "id": "d2f77874a66451ae",
+      "date": 1502070451460
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "7b56f22a4b9ee974",
+        "2ac21cadcadf7468",
+        "f9b673dc09b82525",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "00c563360d7f6131",
+        "752d4acba80d4cc7",
+        "eac946eb6a88cb4d",
+        "6441961ca58e35d5",
+        "9dcda04e8a734cf0",
+        "133f1316f58a7435",
+        "ee416d431ebf4fb4",
+        "37af73cd9ec241f4",
+        "d0869779e8063b4b",
+        "32c058073b11aa9e",
+        "c68499c466b11476",
+        "b521cea96a1b1049"
+      ],
+      "id": "9dcda04e8a734cf0",
+      "date": 1502070456672
+    },
+    {
+      "type": "add",
+      "id": "72dbf70f13b28a94",
+      "item": {
+        "type": "paragraph",
+        "id": "72dbf70f13b28a94",
+        "text": "[[Federated Wiki Tools and Testing Ground]]"
+      },
+      "after": "752d4acba80d4cc7",
+      "date": 1502070478933
+    },
+    {
+      "type": "remove",
+      "id": "eac946eb6a88cb4d",
+      "date": 1502070483616
+    },
+    {
+      "type": "remove",
+      "id": "9dcda04e8a734cf0",
+      "date": 1502070486421
+    },
+    {
+      "type": "remove",
+      "id": "133f1316f58a7435",
+      "date": 1502070495836
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1502070503625
+    },
+    {
+      "type": "remove",
+      "id": "37af73cd9ec241f4",
+      "date": 1502070505585
+    },
+    {
+      "type": "remove",
+      "id": "d0869779e8063b4b",
+      "date": 1502070509185
+    },
+    {
+      "type": "remove",
+      "id": "32c058073b11aa9e",
+      "date": 1502070514155
+    },
+    {
+      "type": "remove",
+      "id": "6441961ca58e35d5",
+      "date": 1502070556943
+    },
+    {
+      "type": "remove",
+      "id": "c68499c466b11476",
+      "date": 1502070559005
+    },
+    {
+      "type": "remove",
+      "id": "00c563360d7f6131",
+      "date": 1502070561874
+    },
+    {
+      "type": "edit",
+      "id": "2e55c91c663b5fba",
+      "item": {
+        "type": "pagefold",
+        "id": "2e55c91c663b5fba",
+        "text": "A Library Curated by Walter\n"
+      },
+      "date": 1502070582468
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]] is my story."
+      },
+      "date": 1502070599980
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]] "
+      },
+      "date": 1502070615486
+    },
+    {
+      "type": "edit",
+      "id": "e3895e3c39d0e1cc",
+      "item": {
+        "type": "html",
+        "id": "e3895e3c39d0e1cc",
+        "text": "<h3>To Walter's Library</h3>"
+      },
+      "date": 1502070631773
+    },
+    {
+      "type": "edit",
+      "id": "e3895e3c39d0e1cc",
+      "item": {
+        "type": "html",
+        "id": "e3895e3c39d0e1cc",
+        "text": "<h2>To Walter's Library</h2>"
+      },
+      "date": 1502070638741
+    },
+    {
+      "type": "move",
+      "order": [
+        "e3895e3c39d0e1cc",
+        "f9b673dc09b82525",
+        "7b56f22a4b9ee974",
+        "2ac21cadcadf7468",
+        "2e55c91c663b5fba",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "752d4acba80d4cc7",
+        "72dbf70f13b28a94",
+        "b521cea96a1b1049"
+      ],
+      "id": "f9b673dc09b82525",
+      "date": 1502070655047
+    },
+    {
+      "type": "remove",
+      "id": "e3895e3c39d0e1cc",
+      "date": 1502070661733
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<c><b> If you are new to Federated Wiki, start by clicking on the link above. <b><c>"
+      },
+      "date": 1502070675236
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> If you are new to Federated Wiki, start by clicking on the link above. <b><h3>"
+      },
+      "date": 1502070688244
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> If you are new to Federated Wiki, start by clicking on the first link below to orient yourself. Then look further down the page for info specific to this site <b><h3>"
+      },
+      "date": 1502070718435
+    },
+    {
+      "type": "move",
+      "order": [
+        "2e55c91c663b5fba",
+        "f9b673dc09b82525",
+        "7b56f22a4b9ee974",
+        "2ac21cadcadf7468",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "752d4acba80d4cc7",
+        "72dbf70f13b28a94",
+        "b521cea96a1b1049"
+      ],
+      "id": "2e55c91c663b5fba",
+      "date": 1502070731332
+    },
+    {
+      "type": "edit",
+      "id": "2e55c91c663b5fba",
+      "item": {
+        "type": "pagefold",
+        "id": "2e55c91c663b5fba",
+        "text": "A Library Curated by Walter Duson Clapp\n"
+      },
+      "date": 1502070738991
+    },
+    {
+      "type": "edit",
+      "id": "2ac21cadcadf7468",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac21cadcadf7468",
+        "text": "Welcome to [[Federated Wiki]].  "
+      },
+      "date": 1502070747740
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi internet explorer. If you are new to Federated Wiki, start by clicking on the first link below to orient yourself. \n\nThen look further down the page for info specific to this site <b><h3>"
+      },
+      "date": 1502070786700
+    },
+    {
+      "type": "edit",
+      "id": "2ac21cadcadf7468",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac21cadcadf7468",
+        "text": "[[Federated Wiki]].  "
+      },
+      "date": 1502070797755
+    },
+    {
+      "type": "move",
+      "order": [
+        "2e55c91c663b5fba",
+        "7b56f22a4b9ee974",
+        "f9b673dc09b82525",
+        "2ac21cadcadf7468",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "752d4acba80d4cc7",
+        "72dbf70f13b28a94",
+        "b521cea96a1b1049"
+      ],
+      "id": "7b56f22a4b9ee974",
+      "date": 1502070802915
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Foxes digs holes. We build cities?\" ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1502070813634
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Foxes digs holes. We build ?\" ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1502070821874
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "\"Things get rough. Foxes digs holes.\" ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1502070832387
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi internet explorer. If you are new to Federated Wiki, start by clicking on the first link below to orient yourself.<b><h3>"
+      },
+      "date": 1502070850794
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "efb2a20c1ef9eacf",
+        "site": "sites.fed.wiki.org",
+        "title": "sites.fed.wiki.org",
+        "text": "Check out some other Federated Wikis here. [[Comment to Ward]]"
+      },
+      "after": "b521cea96a1b1049",
+      "id": "efb2a20c1ef9eacf",
+      "date": 1502070949822
+    },
+    {
+      "type": "remove",
+      "id": "efb2a20c1ef9eacf",
+      "date": 1502070995995
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi Internet Explorer. <b><h3> \n"
+      },
+      "date": 1502071031506
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4995e4b09213a9cd"
+      },
+      "id": "4995e4b09213a9cd",
+      "type": "add",
+      "after": "b521cea96a1b1049",
+      "date": 1502071035026
+    },
+    {
+      "type": "move",
+      "order": [
+        "2e55c91c663b5fba",
+        "7b56f22a4b9ee974",
+        "f9b673dc09b82525",
+        "4995e4b09213a9cd",
+        "2ac21cadcadf7468",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "752d4acba80d4cc7",
+        "72dbf70f13b28a94",
+        "b521cea96a1b1049"
+      ],
+      "id": "4995e4b09213a9cd",
+      "date": 1502071037468
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on the first link below to orient yourself.<b><h3>"
+      },
+      "date": 1502071045881
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi Internet Explorer. Welcome to a paradigm shift in the social internet. <b><h3> \n"
+      },
+      "date": 1502071072409
+    },
+    {
+      "type": "remove",
+      "id": "b521cea96a1b1049",
+      "date": 1502071739967
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "The Future. But Mixed With The Past.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1502077592076
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi Internet Explorer (yes, you). Welcome to a paradigm shift in the social internet. <b><h3> \n"
+      },
+      "date": 1502078213235
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi Internet Explorer (yes, you). Welcome to a paradigm shift in our social networking. <b><h3> \n"
+      },
+      "date": 1502078243130
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Hi Internet Explorer (yes, you). Welcome to a paradigm shift in our [[social networking]]. <b><h3> \n"
+      },
+      "date": 1502078254515
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Greetings(yes, you). Welcome to a paradigm shift in our [[social networking]]. <b><h3> \n"
+      },
+      "date": 1502078312442
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h3><b> Greetings (yes, you). Welcome to a paradigm shift in our [[social networking]]. <b><h3> \n"
+      },
+      "date": 1502078316787
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e55c91c663b5fba",
+        "f9b673dc09b82525",
+        "4995e4b09213a9cd",
+        "2ac21cadcadf7468",
+        "821827c99b90cfd1",
+        "c87160b9de697761",
+        "2c86924ddf29b16f",
+        "752d4acba80d4cc7",
+        "72dbf70f13b28a94"
+      ],
+      "id": "2e55c91c663b5fba",
+      "date": 1502078354860
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1502078373117
+    },
+    {
+      "type": "edit",
+      "id": "2e55c91c663b5fba",
+      "item": {
+        "type": "pagefold",
+        "id": "2e55c91c663b5fba",
+        "text": "\nA Library Curated by Walter Duson Clapp\n"
+      },
+      "date": 1502078382825
+    },
+    {
+      "type": "edit",
+      "id": "2ac21cadcadf7468",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac21cadcadf7468",
+        "text": "[[Federated Wiki]] is the Future. But mixed with the past."
+      },
+      "date": 1502078412729
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Walter Duson Clapp]] <- that's a link about me."
+      },
+      "date": 1502078458568
+    },
+    {
+      "type": "edit",
+      "id": "c87160b9de697761",
+      "item": {
+        "type": "paragraph",
+        "id": "c87160b9de697761",
+        "text": "[[Walter's Projects]] <- that's about my bigger works."
+      },
+      "date": 1502078489400
+    },
+    {
+      "type": "edit",
+      "id": "752d4acba80d4cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "752d4acba80d4cc7",
+        "text": "[[Walter's Research and Writing]] <- it's everyday stuff"
+      },
+      "date": 1502078508729
+    },
+    {
+      "type": "edit",
+      "id": "72dbf70f13b28a94",
+      "item": {
+        "type": "paragraph",
+        "id": "72dbf70f13b28a94",
+        "text": "[[Federated Wiki Tools and Testing Ground]] <- mmmmmm."
+      },
+      "date": 1502078527176
+    },
+    {
+      "type": "edit",
+      "id": "72dbf70f13b28a94",
+      "item": {
+        "type": "paragraph",
+        "id": "72dbf70f13b28a94",
+        "text": "[[Federated Wiki Tools and Testing Ground]] <- mmm."
+      },
+      "date": 1502078534104
+    },
+    {
+      "type": "edit",
+      "id": "752d4acba80d4cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "752d4acba80d4cc7",
+        "text": "[[Walter's Research and Writing]] <- everyday stuff."
+      },
+      "date": 1502078543183
+    },
+    {
+      "type": "remove",
+      "id": "2ac21cadcadf7468",
+      "date": 1502078652503
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. In a Future mixed with the past.<b><h3>"
+      },
+      "date": 1502078714182
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h2><b> Greetings (yes, you). Welcome to a paradigm shift in our [[social networking]]. <b><h2> \n"
+      },
+      "date": 1502078729903
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. <b><h3>"
+      },
+      "date": 1502081484281
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. You are [[here]] <b><h3>"
+      },
+      "date": 1502082479979
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "transport",
+        "id": "10ea2af363e51a5f",
+        "text": "POST https://rest.livecode.world/mediawiki"
+      },
+      "after": "72dbf70f13b28a94",
+      "id": "10ea2af363e51a5f",
+      "date": 1502090484081
+    },
+    {
+      "type": "add",
+      "id": "0de34d562f2544ec",
+      "item": {
+        "type": "paragraph",
+        "id": "0de34d562f2544ec",
+        "text": "[[The Glossary]] is useful, too. "
+      },
+      "after": "72dbf70f13b28a94",
+      "date": 1502091673174
+    },
+    {
+      "type": "remove",
+      "id": "10ea2af363e51a5f",
+      "date": 1502091692769
+    },
+    {
+      "type": "edit",
+      "id": "0de34d562f2544ec",
+      "item": {
+        "type": "paragraph",
+        "id": "0de34d562f2544ec",
+        "text": "The [[Glossary]] is useful, too. "
+      },
+      "date": 1502092135524
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. You are [[here]]. <b><h3>"
+      },
+      "date": 1502093541981
+    },
+    {
+      "type": "edit",
+      "id": "c87160b9de697761",
+      "item": {
+        "type": "paragraph",
+        "id": "c87160b9de697761",
+        "text": "[[Walter's Projects]] [[Projects]] <- that's about my bigger works."
+      },
+      "date": 1502094068537
+    },
+    {
+      "type": "edit",
+      "id": "c87160b9de697761",
+      "item": {
+        "type": "paragraph",
+        "id": "c87160b9de697761",
+        "text": "Walter's [[Projects]] <- that's about my bigger works."
+      },
+      "date": 1502094128304
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h2><b> Greetings. Welcome to a paradigm shift in our [[social networking]]. <b><h2> \n"
+      },
+      "date": 1502139773532
+    },
+    {
+      "type": "edit",
+      "id": "4995e4b09213a9cd",
+      "item": {
+        "type": "html",
+        "id": "4995e4b09213a9cd",
+        "text": "<b><h3>If you are new to Federated Wiki, start by clicking on [[Federated Wiki]]. It's a meta description about where you are. <b><h3>"
+      },
+      "date": 1502139801008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "429f45fc206f7407"
+      },
+      "id": "429f45fc206f7407",
+      "type": "add",
+      "after": "0de34d562f2544ec",
+      "date": 1502258999606
+    },
+    {
+      "type": "edit",
+      "id": "429f45fc206f7407",
+      "item": {
+        "type": "html",
+        "id": "429f45fc206f7407",
+        "text": "These crazy things below me are a blockchain ledger of my creation herein. Hover over them to see time stamps. "
+      },
+      "date": 1502259066664
+    },
+    {
+      "type": "edit",
+      "id": "f9b673dc09b82525",
+      "item": {
+        "type": "html",
+        "id": "f9b673dc09b82525",
+        "text": "<h2><b> Greetings. Welcome to a paradigm shift in our social networking. <b><h2> \n"
+      },
+      "date": 1503544847016
+    }
+  ]
+}
