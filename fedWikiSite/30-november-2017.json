@@ -1,0 +1,39 @@
+{
+  "title": "30 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c1c24bac34846f48",
+      "text": "Great day. Marketing presentation to the firm. Ready for sleep, but glad to be working for Axilon. Hopeful for a bonus."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 November 2017",
+        "story": []
+      },
+      "date": 1512079515237
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1c24bac34846f48"
+      },
+      "id": "c1c24bac34846f48",
+      "type": "add",
+      "date": 1512079516442
+    },
+    {
+      "type": "edit",
+      "id": "c1c24bac34846f48",
+      "item": {
+        "type": "paragraph",
+        "id": "c1c24bac34846f48",
+        "text": "Great day. Marketing presentation to the firm. Ready for sleep, but glad to be working for Axilon. Hopeful for a bonus."
+      },
+      "date": 1512079550212
+    }
+  ]
+}
