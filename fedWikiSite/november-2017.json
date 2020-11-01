@@ -1,0 +1,231 @@
+{
+  "title": "November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "936c813393ec8ef3",
+      "text": "[[6 November 2017]] was a beautifully crisp day in Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "82ebffb3dd44a7d0",
+      "text": "[[7 November 2017]] is a busy day."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a80d64cb1102f9a",
+      "text": "[[9 November 2017]] is a productive week."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba1159f09976906d",
+      "text": "[[13 November 2017]] was a wake up call."
+    },
+    {
+      "type": "paragraph",
+      "id": "57f4cfe7d2a0634a",
+      "text": "[[16 November 2017]] is another Thursday."
+    },
+    {
+      "type": "paragraph",
+      "id": "88e6f8bac388deae",
+      "text": "[[17 November 2017]] was a Friday Hunt."
+    },
+    {
+      "type": "paragraph",
+      "id": "94927b6ecad9f2b4",
+      "text": "[[21 November 2017]] was recovery."
+    },
+    {
+      "type": "paragraph",
+      "id": "d4fe1b67b86090d2",
+      "text": "[[22 November 2017]] is sadness."
+    },
+    {
+      "type": "paragraph",
+      "id": "3cc7443d118456ea",
+      "text": "[[28 November 2017]] is a Tuesday."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ca860858f38bed4",
+      "text": "[[29 November 2017]] is Wednesday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "35905799a3ad15c2",
+      "text": "[[30 November 2017]] is Thursday in Helena."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "November 2017",
+        "story": []
+      },
+      "date": 1510008349666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edc6fedc4968f31c"
+      },
+      "id": "edc6fedc4968f31c",
+      "type": "add",
+      "date": 1510008351082
+    },
+    {
+      "type": "edit",
+      "id": "edc6fedc4968f31c",
+      "item": {
+        "type": "paragraph",
+        "id": "edc6fedc4968f31c",
+        "text": "I am now 30. It is time to grow up. What does that mean exactly? To grow up? Once you hit 25 and are physiologically developed, what more \"growing\" does one do? "
+      },
+      "date": 1510008406969
+    },
+    {
+      "type": "add",
+      "id": "b3af65ad6654363f",
+      "item": {
+        "type": "paragraph",
+        "id": "b3af65ad6654363f",
+        "text": "Is it wisdom that we acquire? Hardened habits? Something else entirely? More stuff?"
+      },
+      "after": "edc6fedc4968f31c",
+      "date": 1510008449496
+    },
+    {
+      "type": "add",
+      "id": "936c813393ec8ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "936c813393ec8ef3",
+        "text": "[[6 November 2017]] was a beautifully crisp day in Nye."
+      },
+      "after": "b3af65ad6654363f",
+      "date": 1510094722515
+    },
+    {
+      "type": "remove",
+      "id": "edc6fedc4968f31c",
+      "date": 1510094729995
+    },
+    {
+      "type": "remove",
+      "id": "b3af65ad6654363f",
+      "date": 1510094731299
+    },
+    {
+      "type": "add",
+      "id": "82ebffb3dd44a7d0",
+      "item": {
+        "type": "paragraph",
+        "id": "82ebffb3dd44a7d0",
+        "text": "[[7 November 2017]] is a busy day."
+      },
+      "after": "936c813393ec8ef3",
+      "date": 1510094744091
+    },
+    {
+      "type": "add",
+      "id": "0a80d64cb1102f9a",
+      "item": {
+        "type": "paragraph",
+        "id": "0a80d64cb1102f9a",
+        "text": "[[9 November 2017]] is a productive week."
+      },
+      "after": "82ebffb3dd44a7d0",
+      "date": 1510247892600
+    },
+    {
+      "type": "add",
+      "id": "ba1159f09976906d",
+      "item": {
+        "type": "paragraph",
+        "id": "ba1159f09976906d",
+        "text": "[[13 November 2017]] was a wake up call."
+      },
+      "after": "0a80d64cb1102f9a",
+      "date": 1510589281473
+    },
+    {
+      "type": "add",
+      "id": "57f4cfe7d2a0634a",
+      "item": {
+        "type": "paragraph",
+        "id": "57f4cfe7d2a0634a",
+        "text": "[[16 November 2017]] is another Thursday."
+      },
+      "after": "ba1159f09976906d",
+      "date": 1510855428879
+    },
+    {
+      "type": "add",
+      "id": "88e6f8bac388deae",
+      "item": {
+        "type": "paragraph",
+        "id": "88e6f8bac388deae",
+        "text": "[[17 November 2017]] was a Friday Hunt."
+      },
+      "after": "57f4cfe7d2a0634a",
+      "date": 1510936356056
+    },
+    {
+      "type": "add",
+      "id": "94927b6ecad9f2b4",
+      "item": {
+        "type": "paragraph",
+        "id": "94927b6ecad9f2b4",
+        "text": "[[21 November 2017]] was recovery."
+      },
+      "after": "88e6f8bac388deae",
+      "date": 1511285563602
+    },
+    {
+      "type": "add",
+      "id": "d4fe1b67b86090d2",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fe1b67b86090d2",
+        "text": "[[22 November 2017]] is sadness."
+      },
+      "after": "94927b6ecad9f2b4",
+      "date": 1511385720309
+    },
+    {
+      "type": "add",
+      "id": "3cc7443d118456ea",
+      "item": {
+        "type": "paragraph",
+        "id": "3cc7443d118456ea",
+        "text": "[[28 November 2017]] is a Tuesday."
+      },
+      "after": "d4fe1b67b86090d2",
+      "date": 1511899558392
+    },
+    {
+      "type": "add",
+      "id": "6ca860858f38bed4",
+      "item": {
+        "type": "paragraph",
+        "id": "6ca860858f38bed4",
+        "text": "[[29 November 2017]] is Wednesday in RL."
+      },
+      "after": "3cc7443d118456ea",
+      "date": 1511970798137
+    },
+    {
+      "type": "add",
+      "id": "35905799a3ad15c2",
+      "item": {
+        "type": "paragraph",
+        "id": "35905799a3ad15c2",
+        "text": "[[30 November 2017]] is Thursday in Helena."
+      },
+      "after": "6ca860858f38bed4",
+      "date": 1512079510681
+    }
+  ]
+}
