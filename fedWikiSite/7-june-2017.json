@@ -1,0 +1,101 @@
+{
+  "title": "7 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a2208debb9724ffa",
+      "text": "Hooray. First day of remote work. It is glorious! Went and helped Ben early morning getting his freight farm up and running. Really excited to use early mornings or afternoons for an hour hike or run. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a865525381a0a509",
+      "text": "People in the office are warming to me (I hope). The work remains interesting. Excited to get more embedded into the communities of Billings, Red Lodge, and Nye. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8129837446282990",
+      "text": "Things are great with Kamila. Wonder what our relationship will be in 20 years."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 June 2017",
+        "story": []
+      },
+      "date": 1496866086433
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2208debb9724ffa"
+      },
+      "id": "a2208debb9724ffa",
+      "type": "add",
+      "date": 1496866087681
+    },
+    {
+      "type": "edit",
+      "id": "a2208debb9724ffa",
+      "item": {
+        "type": "paragraph",
+        "id": "a2208debb9724ffa",
+        "text": "Hooray. First day of remote work. It is glorious!"
+      },
+      "date": 1496866116102
+    },
+    {
+      "type": "edit",
+      "id": "a2208debb9724ffa",
+      "item": {
+        "type": "paragraph",
+        "id": "a2208debb9724ffa",
+        "text": "Hooray. First day of remote work. It is glorious! Went and helped Ben early morning getting his freight farm up and running. Really excited to use early mornings or afternoons for an hour hike or run. "
+      },
+      "date": 1496866210635
+    },
+    {
+      "type": "add",
+      "id": "a865525381a0a509",
+      "item": {
+        "type": "paragraph",
+        "id": "a865525381a0a509",
+        "text": "People in the office are warming to me (I hope). The work remains interesting. "
+      },
+      "after": "a2208debb9724ffa",
+      "date": 1496866235753
+    },
+    {
+      "type": "edit",
+      "id": "a865525381a0a509",
+      "item": {
+        "type": "paragraph",
+        "id": "a865525381a0a509",
+        "text": "People in the office are warming to me (I hope). The work remains interesting. Excited to get more imbedded i"
+      },
+      "date": 1496866273623
+    },
+    {
+      "type": "edit",
+      "id": "a865525381a0a509",
+      "item": {
+        "type": "paragraph",
+        "id": "a865525381a0a509",
+        "text": "People in the office are warming to me (I hope). The work remains interesting. Excited to get more embedded into the communities of Billings, Red Lodge, and Nye. "
+      },
+      "date": 1496866294863
+    },
+    {
+      "type": "add",
+      "id": "8129837446282990",
+      "item": {
+        "type": "paragraph",
+        "id": "8129837446282990",
+        "text": "Things are great with Kamila. Wonder what our relationship will be in 20 years."
+      },
+      "after": "a865525381a0a509",
+      "date": 1496866321739
+    }
+  ]
+}
