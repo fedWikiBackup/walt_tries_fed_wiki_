@@ -1,0 +1,39 @@
+{
+  "title": "5 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3a3fa1131a8be40a",
+      "text": "Still sick. But really excited about the future. Really really really excited about the future. Love everything about my life right now."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 December 2017",
+        "story": []
+      },
+      "date": 1512506922287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a3fa1131a8be40a"
+      },
+      "id": "3a3fa1131a8be40a",
+      "type": "add",
+      "date": 1512506923354
+    },
+    {
+      "type": "edit",
+      "id": "3a3fa1131a8be40a",
+      "item": {
+        "type": "paragraph",
+        "id": "3a3fa1131a8be40a",
+        "text": "Still sick. But really excited about the future. Really really really excited about the future. Love everything about my life right now."
+      },
+      "date": 1512506956228
+    }
+  ]
+}
