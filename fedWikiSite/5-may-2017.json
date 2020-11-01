@@ -1,0 +1,81 @@
+{
+  "title": "5 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8ed52ab380372e3d",
+      "text": "Budapest is a city of nostalgia, of party, of art, of hungarians. I stayed in Budapest with my good friend David, and we partied. We went to the baths. We toured the city. Prostitution is legal there - I did not participate, but I did think about getting a massage. I am happy that I did not. The brief rise and fall of the empire is apparent - hungary remains a relatively poor country. But, I believe there is hope - they have a history of success, even if brief."
+    },
+    {
+      "type": "paragraph",
+      "id": "83ec9ce232592f40",
+      "text": "The statues there are very interesting. It is all men of great renown, but there is always a single winged female that stands above the rest. She is the unknown female - an idol of the male population. Perhaps their muse. But, she does not have the opportunity to have her face known. This is the way of women in Hungary. A sense of superiority to men, a place out of the individual spotlight in return for a collective spotlight. I believe that the women should have the opportunity for individual spotlight, should they so desire it. But, they do not. "
+    },
+    {
+      "type": "paragraph",
+      "id": "fc705a1526157eff",
+      "text": "David's sister visited, and the two of them were a blast together. I enjoy that we all have a complicated parental history, and that we share similar struggles in this absurd existence. I believe I may have the most faith, walk the fastest, and eat the fastest. David's sister is a close second, with david a comfortable third. It was a fascinating dynamic - I wish it did not have to end so soon. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 May 2017",
+        "story": []
+      },
+      "date": 1493986637192
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ed52ab380372e3d"
+      },
+      "id": "8ed52ab380372e3d",
+      "type": "add",
+      "date": 1493986638950
+    },
+    {
+      "type": "edit",
+      "id": "8ed52ab380372e3d",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed52ab380372e3d",
+        "text": "Budapest is a city of nostalgia, of party, of art, of hungarians. I stayed in Budapest with my good friend David, and we partied. We went to the baths. We toured the city. Prostitution is legal there - I did not participate, but I did think about getting a massage. I am happy that I did not. "
+      },
+      "date": 1493986737357
+    },
+    {
+      "type": "edit",
+      "id": "8ed52ab380372e3d",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed52ab380372e3d",
+        "text": "Budapest is a city of nostalgia, of party, of art, of hungarians. I stayed in Budapest with my good friend David, and we partied. We went to the baths. We toured the city. Prostitution is legal there - I did not participate, but I did think about getting a massage. I am happy that I did not. The brief rise and fall of the empire is apparent - hungary remains a relatively poor country. But, I believe there is hope - they have a history of success, even if brief."
+      },
+      "date": 1493986815049
+    },
+    {
+      "type": "add",
+      "id": "83ec9ce232592f40",
+      "item": {
+        "type": "paragraph",
+        "id": "83ec9ce232592f40",
+        "text": "The statues there are very interesting. It is all men of great renown, but there is always a single winged female that stands above the rest. She is the unknown female - an idol of the male population. Perhaps their muse. But, she does not have the opportunity to have her face known. This is the way of women in Hungary. A sense of superiority to men, a place out of the individual spotlight in return for a collective spotlight. I believe that the women should have the opportunity for individual spotlight, should they so desire it. But, they do not. "
+      },
+      "after": "8ed52ab380372e3d",
+      "date": 1493986956559
+    },
+    {
+      "type": "add",
+      "id": "fc705a1526157eff",
+      "item": {
+        "type": "paragraph",
+        "id": "fc705a1526157eff",
+        "text": "David's sister visited, and the two of them were a blast together. I enjoy that we all have a complicated parental history, and that we share similar struggles in this absurd existence. I believe I may have the most faith, walk the fastest, and eat the fastest. David's sister is a close second, with david a comfortable third. It was a fascinating dynamic - I wish it did not have to end so soon. "
+      },
+      "after": "83ec9ce232592f40",
+      "date": 1493987048293
+    }
+  ]
+}
