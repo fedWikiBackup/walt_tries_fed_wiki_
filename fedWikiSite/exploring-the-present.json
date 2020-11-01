@@ -1,0 +1,62 @@
+{
+  "title": "Exploring the Present",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Exploring the Present",
+        "story": []
+      },
+      "date": 1488183052525,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c1cdb6c8c347e55"
+      },
+      "id": "9c1cdb6c8c347e55",
+      "type": "add",
+      "date": 1488183054028,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9c1cdb6c8c347e55",
+      "item": {
+        "type": "paragraph",
+        "id": "9c1cdb6c8c347e55",
+        "text": "[[Meditations]]"
+      },
+      "date": 1488183069610,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "9c1cdb6c8c347e55",
+      "date": 1488183077812,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489269187718
+    }
+  ]
+}
