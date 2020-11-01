@@ -1,0 +1,75 @@
+{
+  "title": "Morality",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cdc906c0da8f8fe9",
+      "text": "Morality is one of life's greatest questions. Without literal interpretation of texts where does one find morality?"
+    },
+    {
+      "type": "paragraph",
+      "id": "7da0d4bca27d325f",
+      "text": "Some may use tech tools for investigating [http://www.yourmorals.org/explore.php his or her morals relative to others.] "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Morality",
+        "story": []
+      },
+      "date": 1489009136224
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cdc906c0da8f8fe9"
+      },
+      "id": "cdc906c0da8f8fe9",
+      "type": "add",
+      "date": 1489009137685
+    },
+    {
+      "type": "edit",
+      "id": "cdc906c0da8f8fe9",
+      "item": {
+        "type": "paragraph",
+        "id": "cdc906c0da8f8fe9",
+        "text": "Tech tools for investigating [http://www.yourmorals.org/explore.php your morals]]. "
+      },
+      "date": 1489009159461
+    },
+    {
+      "type": "edit",
+      "id": "cdc906c0da8f8fe9",
+      "item": {
+        "type": "paragraph",
+        "id": "cdc906c0da8f8fe9",
+        "text": "Tech tools for investigating [http://www.yourmorals.org/explore.php your morals.] "
+      },
+      "date": 1489009169560
+    },
+    {
+      "type": "edit",
+      "id": "cdc906c0da8f8fe9",
+      "item": {
+        "type": "paragraph",
+        "id": "cdc906c0da8f8fe9",
+        "text": "Morality is one of life's greatest questions. Without literal interpretation of texts where does one find morality?"
+      },
+      "date": 1489009225163
+    },
+    {
+      "type": "add",
+      "id": "7da0d4bca27d325f",
+      "item": {
+        "type": "paragraph",
+        "id": "7da0d4bca27d325f",
+        "text": "Some may use tech tools for investigating [http://www.yourmorals.org/explore.php his or her morals relative to others.] "
+      },
+      "after": "cdc906c0da8f8fe9",
+      "date": 1489009255976
+    }
+  ]
+}
