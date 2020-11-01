@@ -1,0 +1,39 @@
+{
+  "title": "16 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d10006a3a40e0a0a",
+      "text": "Survived Friday the 14th by the skin of my teeth ;). Had a decent weekend in Nye. Didn't do much. A bit lazy. But this week is starting out quite well."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 July 2018",
+        "story": []
+      },
+      "date": 1531768624934
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d10006a3a40e0a0a"
+      },
+      "id": "d10006a3a40e0a0a",
+      "type": "add",
+      "date": 1531768625820
+    },
+    {
+      "type": "edit",
+      "id": "d10006a3a40e0a0a",
+      "item": {
+        "type": "paragraph",
+        "id": "d10006a3a40e0a0a",
+        "text": "Survived Friday the 14th by the skin of my teeth ;). Had a decent weekend in Nye. Didn't do much. A bit lazy. But this week is starting out quite well."
+      },
+      "date": 1531768672474
+    }
+  ]
+}
