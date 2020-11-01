@@ -1,0 +1,39 @@
+{
+  "title": "14 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1f5b978032bcea97",
+      "text": "I cried today. All of my blood relation has all but abandoned me. I toil for them. They are foiled in gem. Singing the reasons of Hymn. I will march on. Alone. Building a new family. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 March 2018",
+        "story": []
+      },
+      "date": 1521066476663
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f5b978032bcea97"
+      },
+      "id": "1f5b978032bcea97",
+      "type": "add",
+      "date": 1521066477648
+    },
+    {
+      "type": "edit",
+      "id": "1f5b978032bcea97",
+      "item": {
+        "type": "paragraph",
+        "id": "1f5b978032bcea97",
+        "text": "I cried today. All of my blood relation has all but abandoned me. I toil for them. They are foiled in gem. Singing the reasons of Hymn. I will march on. Alone. Building a new family. "
+      },
+      "date": 1521066549034
+    }
+  ]
+}
