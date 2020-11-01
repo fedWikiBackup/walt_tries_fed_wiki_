@@ -1,0 +1,1481 @@
+{
+  "title": "Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6654dea23b7d3831",
+      "text": "You are [[here]]."
+    },
+    {
+      "type": "html",
+      "id": "c5ec1d2c52a315aa",
+      "text": "This is a new window. They open horizontally. You can toggle back and forth using the left and right aarow. "
+    },
+    {
+      "type": "html",
+      "id": "8a1757854dafd21f",
+      "text": "You can also drag paragraphs of text around. Go ahead, try it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b6e014ccc6c3619c",
+      "text": "Federated Wiki is a variation of a [[Wiki]], which was originally invented by [[Ward Cunningham]]."
+    },
+    {
+      "type": "html",
+      "id": "6fe1a33a91a79ac0",
+      "text": "\n\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5666f2e5181a38a0",
+      "text": "It is built on blockchain technology."
+    },
+    {
+      "type": "paragraph",
+      "id": "1a9509930fd5f9f0",
+      "text": "To me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8e5d0f5aeffeafad",
+      "text": " Some people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+    },
+    {
+      "type": "roster",
+      "id": "cedcb24ecfae87d9",
+      "text": "ward.asia.wiki.org\nward.bay.wiki.org\n\n \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "730afd1e52146835",
+      "text": "You can let all information be made available to the internet, none of the information to the internet, or only some limited portion available to the internet. That is, this library is quantum. "
+    },
+    {
+      "type": "paragraph",
+      "id": "179a5a0dbff8f38d",
+      "text": "Federated Wiki operates in three modes. Open, Closed, and partial open/closed. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4c9bdb1dd9c6f832",
+      "text": "If you want to create your own library, read [[How to Wiki]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "be5beb04ec02236f",
+      "text": "History buff? Read the [[History of Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dbdec77ced8a8866",
+      "text": "Engineer or programmer? Click [[here]] for some gritty details."
+    },
+    {
+      "type": "paragraph",
+      "id": "a23c59ac0443a892",
+      "text": "Want to host sites, check out [[Tips for Administrators]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki",
+        "story": []
+      },
+      "date": 1418521457737
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "530fa0c6d830da7d"
+      },
+      "id": "530fa0c6d830da7d",
+      "type": "add",
+      "date": 1418521468150
+    },
+    {
+      "type": "edit",
+      "id": "530fa0c6d830da7d",
+      "item": {
+        "type": "paragraph",
+        "id": "530fa0c6d830da7d",
+        "text": "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
+      },
+      "date": 1418521991680
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74269607fa946000"
+      },
+      "id": "74269607fa946000",
+      "type": "add",
+      "after": "530fa0c6d830da7d",
+      "date": 1418522205755
+    },
+    {
+      "type": "edit",
+      "id": "74269607fa946000",
+      "item": {
+        "type": "paragraph",
+        "id": "74269607fa946000",
+        "text": "A community of open-source developers maintain both the client-side and server-side applications most frequently used to browse and edit pages. Pages themselves are composed of paragraph-sized items of various kinds. This same community provides a core set of plugins for rich content pages and a variety of experimental plugins that push boundaries of web computing."
+      },
+      "date": 1418522793324
+    },
+    {
+      "type": "edit",
+      "id": "74269607fa946000",
+      "item": {
+        "type": "paragraph",
+        "id": "74269607fa946000",
+        "text": "A community of open-source developers maintain both the client-side and server-side applications most frequently used to browse and edit pages. Pages themselves are composed of paragraph-sized items of various kinds. This same community provides a core set of plugins for rich content pages and a variety of experimental plugins that push boundaries of web computing. [https://github.com/fedwiki github]"
+      },
+      "date": 1418522877756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be5beb04ec02236f"
+      },
+      "id": "be5beb04ec02236f",
+      "type": "add",
+      "after": "74269607fa946000",
+      "date": 1418522935324
+    },
+    {
+      "type": "edit",
+      "id": "be5beb04ec02236f",
+      "item": {
+        "type": "paragraph",
+        "id": "be5beb04ec02236f",
+        "text": "Ward Cunningham started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts."
+      },
+      "date": 1418523559948
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "efb2a20c1ef9eacf"
+      },
+      "id": "efb2a20c1ef9eacf",
+      "type": "add",
+      "after": "be5beb04ec02236f",
+      "date": 1418523670124
+    },
+    {
+      "type": "edit",
+      "id": "efb2a20c1ef9eacf",
+      "item": {
+        "type": "reference",
+        "id": "efb2a20c1ef9eacf",
+        "site": "sites.fed.wiki.org",
+        "title": "sites.fed.wiki.org",
+        "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+      },
+      "date": 1418523717019
+    },
+    {
+      "type": "move",
+      "order": [
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "74269607fa946000",
+        "be5beb04ec02236f"
+      ],
+      "id": "efb2a20c1ef9eacf",
+      "date": 1418523723158
+    },
+    {
+      "type": "edit",
+      "id": "be5beb04ec02236f",
+      "item": {
+        "type": "paragraph",
+        "id": "be5beb04ec02236f",
+        "text": "Ward Cunningham started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\"."
+      },
+      "date": 1418523815810
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d72fef48db142972"
+      },
+      "id": "d72fef48db142972",
+      "type": "add",
+      "after": "be5beb04ec02236f",
+      "date": 1418523843204
+    },
+    {
+      "type": "edit",
+      "id": "d72fef48db142972",
+      "item": {
+        "type": "paragraph",
+        "id": "d72fef48db142972",
+        "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching servers in support of that community's purpose."
+      },
+      "date": 1418524089665
+    },
+    {
+      "type": "edit",
+      "id": "d72fef48db142972",
+      "item": {
+        "type": "paragraph",
+        "id": "d72fef48db142972",
+        "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. [https://www.npmjs.com/package/wiki npm]"
+      },
+      "date": 1418524277519
+    },
+    {
+      "type": "edit",
+      "id": "d72fef48db142972",
+      "item": {
+        "type": "paragraph",
+        "id": "d72fef48db142972",
+        "text": "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. The server software supports a multi-tenant \"farm\" option useful for small groups or heavy users. [https://www.npmjs.com/package/wiki npm]"
+      },
+      "date": 1418524419231
+    },
+    {
+      "type": "move",
+      "order": [
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "74269607fa946000",
+        "d72fef48db142972",
+        "be5beb04ec02236f"
+      ],
+      "id": "d72fef48db142972",
+      "date": 1418524447194
+    },
+    {
+      "type": "move",
+      "order": [
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "d72fef48db142972",
+        "74269607fa946000",
+        "be5beb04ec02236f"
+      ],
+      "id": "74269607fa946000",
+      "date": 1418524455903
+    },
+    {
+      "type": "fork",
+      "date": 1488045681067
+    },
+    {
+      "type": "edit",
+      "id": "530fa0c6d830da7d",
+      "item": {
+        "type": "paragraph",
+        "id": "530fa0c6d830da7d",
+        "text": "Federated Wiki is an online social library. It is Facebook meets Wikipedia. "
+      },
+      "date": 1488050883942
+    },
+    {
+      "type": "edit",
+      "id": "efb2a20c1ef9eacf",
+      "item": {
+        "type": "reference",
+        "id": "efb2a20c1ef9eacf",
+        "site": "sites.fed.wiki.org",
+        "title": "sites.fed.wiki.org",
+        "text": "Check out some other Federated Wikis here."
+      },
+      "date": 1488050912270
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dbdec77ced8a8866"
+      },
+      "id": "dbdec77ced8a8866",
+      "type": "add",
+      "after": "be5beb04ec02236f",
+      "date": 1488050950983
+    },
+    {
+      "type": "edit",
+      "id": "dbdec77ced8a8866",
+      "item": {
+        "type": "paragraph",
+        "id": "dbdec77ced8a8866",
+        "text": "Are you a programmer? Click [["
+      },
+      "date": 1488050985406
+    },
+    {
+      "type": "edit",
+      "id": "dbdec77ced8a8866",
+      "item": {
+        "type": "paragraph",
+        "id": "dbdec77ced8a8866",
+        "text": "Are you a programmer? Click [[here]] for some gritty details."
+      },
+      "date": 1488050992020
+    },
+    {
+      "type": "remove",
+      "id": "d72fef48db142972",
+      "date": 1488051005357
+    },
+    {
+      "type": "remove",
+      "id": "74269607fa946000",
+      "date": 1488051008350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c9bdb1dd9c6f832"
+      },
+      "id": "4c9bdb1dd9c6f832",
+      "type": "add",
+      "after": "dbdec77ced8a8866",
+      "date": 1488051022897
+    },
+    {
+      "type": "move",
+      "order": [
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866"
+      ],
+      "id": "4c9bdb1dd9c6f832",
+      "date": 1488051024799
+    },
+    {
+      "type": "edit",
+      "id": "4c9bdb1dd9c6f832",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9bdb1dd9c6f832",
+        "text": "If you want to create your own online social library, read [[How to Wiki]]."
+      },
+      "date": 1488051035630
+    },
+    {
+      "type": "edit",
+      "id": "efb2a20c1ef9eacf",
+      "item": {
+        "type": "reference",
+        "id": "efb2a20c1ef9eacf",
+        "site": "sites.fed.wiki.org",
+        "title": "sites.fed.wiki.org",
+        "text": "Check out some other Federated Wikis here. [[Comment to Ward]]"
+      },
+      "date": 1488051140755
+    },
+    {
+      "type": "edit",
+      "id": "be5beb04ec02236f",
+      "item": {
+        "type": "paragraph",
+        "id": "be5beb04ec02236f",
+        "text": "Ward Cunningham started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\" in the search bar below."
+      },
+      "date": 1488051349179
+    },
+    {
+      "type": "edit",
+      "id": "be5beb04ec02236f",
+      "item": {
+        "type": "paragraph",
+        "id": "be5beb04ec02236f",
+        "text": "Read the [[History of Federated Wiki]]"
+      },
+      "date": 1488051653944
+    },
+    {
+      "type": "edit",
+      "id": "530fa0c6d830da7d",
+      "item": {
+        "type": "paragraph",
+        "id": "530fa0c6d830da7d",
+        "text": "Federated Wiki is an online social library. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors.\" "
+      },
+      "date": 1488060881884
+    },
+    {
+      "type": "edit",
+      "id": "530fa0c6d830da7d",
+      "item": {
+        "type": "paragraph",
+        "id": "530fa0c6d830da7d",
+        "text": "Federated Wiki is an online social library. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077238674,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "be5beb04ec02236f",
+      "item": {
+        "type": "paragraph",
+        "id": "be5beb04ec02236f",
+        "text": "History buff? Read the [[History of Federated Wiki]]"
+      },
+      "date": 1488077264999,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbdec77ced8a8866",
+      "item": {
+        "type": "paragraph",
+        "id": "dbdec77ced8a8866",
+        "text": "Engineer or programmer? Click [[here]] for some gritty details."
+      },
+      "date": 1488077277501,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f452ac2810c28967"
+      },
+      "id": "f452ac2810c28967",
+      "type": "add",
+      "after": "dbdec77ced8a8866",
+      "date": 1488077317400,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f452ac2810c28967",
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866"
+      ],
+      "id": "f452ac2810c28967",
+      "date": 1488077319357,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "f452ac2810c28967",
+      "date": 1488077325571,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488077329912,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488077342564,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4b21b95d5431f32"
+      },
+      "id": "c4b21b95d5431f32",
+      "type": "add",
+      "after": "dbdec77ced8a8866",
+      "date": 1488077349869,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4b21b95d5431f32",
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866"
+      ],
+      "id": "c4b21b95d5431f32",
+      "date": 1488077352521,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dbe7bf54dce47633"
+      },
+      "id": "dbe7bf54dce47633",
+      "type": "add",
+      "after": "dbdec77ced8a8866",
+      "date": 1488077373962,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "dbe7bf54dce47633",
+        "c4b21b95d5431f32",
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866"
+      ],
+      "id": "dbe7bf54dce47633",
+      "date": 1488077375637,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "c4b21b95d5431f32",
+      "date": 1488077377363,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <i>online social library<i>. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077418371,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library<b>. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077429186,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077445414,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library<b>. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077457152,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "<b>Federated Wiki is an online social library<b>. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be. "
+      },
+      "date": 1488077481011,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "530fa0c6d830da7d",
+      "date": 1488077500645,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "<b>Federated Wiki is an online social library<b>. It is Facebook meets Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be - so you can make optimal decisions. "
+      },
+      "date": 1488078374770,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4c9bdb1dd9c6f832",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9bdb1dd9c6f832",
+        "text": "If you want to create your own online social library, read [[How to Wiki]]. Don't worry, I post this link all over the place. You will encounter it again shortly."
+      },
+      "date": 1488078490172,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488306990570
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library</b>. It is Facebook meets Wikipedia. It is an autobiographical Wiki. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be - so we all can make optimal decisions. "
+      },
+      "date": 1489003048915
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library</b>. It is Facebook meets Wikipedia. It is autobiographical Wikipedia. It is a platform for sorting information that is important to you and your \"neighbors\" - whoever that might be - so we all can make optimal decisions. "
+      },
+      "date": 1489005115178
+    },
+    {
+      "type": "move",
+      "order": [
+        "dbe7bf54dce47633",
+        "4c9bdb1dd9c6f832",
+        "efb2a20c1ef9eacf",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866"
+      ],
+      "id": "efb2a20c1ef9eacf",
+      "date": 1489005121798
+    },
+    {
+      "type": "edit",
+      "id": "4c9bdb1dd9c6f832",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9bdb1dd9c6f832",
+        "text": "If you want to create your own online social library, read [[How to Wiki]]. Don't worry, I post this link all over the place. You will encounter it again."
+      },
+      "date": 1489005133973
+    },
+    {
+      "type": "add",
+      "id": "a23c59ac0443a892",
+      "item": {
+        "type": "paragraph",
+        "id": "a23c59ac0443a892",
+        "text": "Want to host sites, check out [[Tips for Administrators]]"
+      },
+      "after": "dbdec77ced8a8866",
+      "date": 1501440840586
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library</b>.  It is an autobiographical Wikipedia."
+      },
+      "date": 1502070887771
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook."
+      },
+      "date": 1502070914442
+    },
+    {
+      "type": "edit",
+      "id": "4c9bdb1dd9c6f832",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9bdb1dd9c6f832",
+        "text": "If you want to create your own online social library, read [[How to Wiki]]."
+      },
+      "date": 1502070923435
+    },
+    {
+      "type": "remove",
+      "id": "efb2a20c1ef9eacf",
+      "date": 1502070949820
+    },
+    {
+      "type": "edit",
+      "id": "4c9bdb1dd9c6f832",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9bdb1dd9c6f832",
+        "text": "If you want to create your own library, read [[How to Wiki]]."
+      },
+      "date": 1502071094489
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook.\n\nIt used to be the case that only rich people could have libraries. Then the internet happened. Now everyone can have a library. Welcome to Federated Wiki - the online personalized library."
+      },
+      "date": 1502071145217
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "It used to be the case that only rich people could have libraries. Then the internet happened. Now everyone can have a library. Welcome to Federated Wiki - the online personalized library."
+      },
+      "date": 1502071154775
+    },
+    {
+      "type": "add",
+      "id": "3464e71989d6a388",
+      "item": {
+        "type": "paragraph",
+        "id": "3464e71989d6a388",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook.\n"
+      },
+      "after": "4c9bdb1dd9c6f832",
+      "date": 1502071163494
+    },
+    {
+      "type": "move",
+      "order": [
+        "dbe7bf54dce47633",
+        "3464e71989d6a388",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "3464e71989d6a388",
+      "date": 1502071164784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fe1a33a91a79ac0"
+      },
+      "id": "6fe1a33a91a79ac0",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502071170801
+    },
+    {
+      "type": "remove",
+      "id": "3464e71989d6a388",
+      "date": 1502071172707
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook.\n"
+      },
+      "date": 1502071175800
+    },
+    {
+      "type": "move",
+      "order": [
+        "dbe7bf54dce47633",
+        "6fe1a33a91a79ac0",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "6fe1a33a91a79ac0",
+      "date": 1502071177486
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Before the internet, only rich people could have libraries. Then the internet happened. Now everyone can have a library. Welcome to Federated Wiki - the online personalized library."
+      },
+      "date": 1502071215246
+    },
+    {
+      "type": "edit",
+      "id": "dbe7bf54dce47633",
+      "item": {
+        "type": "html",
+        "id": "dbe7bf54dce47633",
+        "text": "Before the internet, only rich people had private libraries. Then the internet. Now everyone can have a private library. Welcome to Federated Wiki - the online personalized library."
+      },
+      "date": 1502071331151
+    },
+    {
+      "type": "remove",
+      "id": "dbe7bf54dce47633",
+      "date": 1502071379046
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook for those willing to dedicate the time.\n"
+      },
+      "date": 1502071391463
+    },
+    {
+      "type": "add",
+      "id": "179a5a0dbff8f38d",
+      "item": {
+        "type": "paragraph",
+        "id": "179a5a0dbff8f38d",
+        "text": "Federated Wiki operates in three modes. Open, Closed, and partial open/closed. "
+      },
+      "after": "6fe1a33a91a79ac0",
+      "date": 1502071477893
+    },
+    {
+      "type": "add",
+      "id": "730afd1e52146835",
+      "item": {
+        "type": "paragraph",
+        "id": "730afd1e52146835",
+        "text": "You can let all information be made available to the internet, none of the information to the internet, or only some limited portion available to the internet. That is, this library is quantum. "
+      },
+      "after": "179a5a0dbff8f38d",
+      "date": 1502071510780
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cedcb24ecfae87d9"
+      },
+      "id": "cedcb24ecfae87d9",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502071578270
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook for those willing to dedicate the time. You can read more from the founder by clicking on the little roster icon below."
+      },
+      "date": 1502071590026
+    },
+    {
+      "type": "edit",
+      "id": "cedcb24ecfae87d9",
+      "item": {
+        "type": "roster",
+        "id": "cedcb24ecfae87d9",
+        "text": "ward.asia.wiki.org, \n"
+      },
+      "date": 1502071608533
+    },
+    {
+      "type": "edit",
+      "id": "cedcb24ecfae87d9",
+      "item": {
+        "type": "roster",
+        "id": "cedcb24ecfae87d9",
+        "text": "ward.asia.wiki.org\nward.bay.wiki.org \n"
+      },
+      "date": 1502071631605
+    },
+    {
+      "type": "edit",
+      "id": "cedcb24ecfae87d9",
+      "item": {
+        "type": "roster",
+        "id": "cedcb24ecfae87d9",
+        "text": "ward.asia.wiki.org\n \n"
+      },
+      "date": 1502071646226
+    },
+    {
+      "type": "edit",
+      "id": "cedcb24ecfae87d9",
+      "item": {
+        "type": "roster",
+        "id": "cedcb24ecfae87d9",
+        "text": "ward.asia.wiki.org\nward.bay.wiki.org\n\n \n"
+      },
+      "date": 1502071657555
+    },
+    {
+      "type": "move",
+      "order": [
+        "6fe1a33a91a79ac0",
+        "cedcb24ecfae87d9",
+        "179a5a0dbff8f38d",
+        "730afd1e52146835",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "cedcb24ecfae87d9",
+      "date": 1502071662823
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "To me, Federated Wiki is an <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook for those willing to dedicate the time. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502071710395
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "To me, Federated Wiki is a Wikipedia about you.\n\nAn <b>online social library</b> - an autobiographical Wikipedia that will replace many aspects of Facebook for those willing to dedicate the time. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502078065372
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "To me, Federated Wiki is a Wikipedia about you.\n\nAn <b>online social library</b> - an autobiographical writing [[machine-helper-thing]].\n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502078632407
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "To me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]].\n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502078647869
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is THE social network. \n\nIt is built on blockchain technology. \n\nIt also has a fractal dimension. It's forkability. \n\nTo me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502078996331
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is THE future platform of the social network. \n\nIt is built on blockchain technology. \n\nIt also has a fractal dimension. It's forkability. \n\nTo me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079278890
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of the social network. \n\nIt is built on blockchain technology. \n\nIt also has a fractal dimension. It's forkability. \n\nTo me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079284881
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of the social network. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079329346
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of the social networking. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you.\n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079389258
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of contracts, [[social]], [[political]], [[business], [[religious]] and [[marriage]]. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. The beauty \n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079829917
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of contracts, [[social]], [[political]], [[business]], [[religious]] and [[marriage]]. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. The beauty \n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502079835892
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of contracts, [[social]], [[political]], [[business]], [[religious]] and [[marriage]]. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. The beauty \n\nAn online social library - an autobiographical writing [[machine-helper-thing]]. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502084351328
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of contracts, [[social]], [[political]], [[business]], [[religious]] and [[marriage]]. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502084378585
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform of contracts - that is, of [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502088816253
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\nIt is built on blockchain technology. \n\nTo me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. \n\nSome people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "date": 1502088843132
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5666f2e5181a38a0"
+      },
+      "id": "5666f2e5181a38a0",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502088853614
+    },
+    {
+      "type": "move",
+      "order": [
+        "6fe1a33a91a79ac0",
+        "5666f2e5181a38a0",
+        "cedcb24ecfae87d9",
+        "179a5a0dbff8f38d",
+        "730afd1e52146835",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "5666f2e5181a38a0",
+      "date": 1502088855246
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "This is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502088855872
+    },
+    {
+      "type": "edit",
+      "id": "5666f2e5181a38a0",
+      "item": {
+        "type": "paragraph",
+        "id": "5666f2e5181a38a0",
+        "text": "It is built on blockchain technology. "
+      },
+      "date": 1502088861102
+    },
+    {
+      "type": "add",
+      "id": "1a9509930fd5f9f0",
+      "item": {
+        "type": "paragraph",
+        "id": "1a9509930fd5f9f0",
+        "text": "To me, Federated Wiki is a Wikipedia about you or an organization or contract you are creating.Your digital fingerprint. That you created. It is going to revolutionize the way that we do business the globe over. \n"
+      },
+      "after": "5666f2e5181a38a0",
+      "date": 1502088865853
+    },
+    {
+      "type": "add",
+      "id": "8e5d0f5aeffeafad",
+      "item": {
+        "type": "paragraph",
+        "id": "8e5d0f5aeffeafad",
+        "text": " Some people think Federated Wiki is something else. You can read more from the founder of the technology by clicking on the either of the little roster icons below."
+      },
+      "after": "1a9509930fd5f9f0",
+      "date": 1502088867860
+    },
+    {
+      "type": "edit",
+      "id": "5666f2e5181a38a0",
+      "item": {
+        "type": "paragraph",
+        "id": "5666f2e5181a38a0",
+        "text": "It is built on blockchain technology, and principles of . "
+      },
+      "date": 1502088890537
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is a [[Wiki]], invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502092418947
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is a type of [[Wiki]], invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502092457994
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is a variation of a [[Wiki]], invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502092467466
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "Federated Wiki is a variation of a [[Wiki]], which was originally invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502092475939
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "You are [[here]]\n\nFederated Wiki is a variation of a [[Wiki]], which was originally invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502139812964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6654dea23b7d3831"
+      },
+      "id": "6654dea23b7d3831",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502139822358
+    },
+    {
+      "type": "move",
+      "order": [
+        "6654dea23b7d3831",
+        "6fe1a33a91a79ac0",
+        "5666f2e5181a38a0",
+        "1a9509930fd5f9f0",
+        "8e5d0f5aeffeafad",
+        "cedcb24ecfae87d9",
+        "179a5a0dbff8f38d",
+        "730afd1e52146835",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "6654dea23b7d3831",
+      "date": 1502139828727
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "\n\nFederated Wiki is a variation of a [[Wiki]], which was originally invented by [[Ward Cunningham]].\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502139831445
+    },
+    {
+      "type": "edit",
+      "id": "6654dea23b7d3831",
+      "item": {
+        "type": "paragraph",
+        "id": "6654dea23b7d3831",
+        "text": "You are [[here]]."
+      },
+      "date": 1502139833694
+    },
+    {
+      "type": "edit",
+      "id": "6fe1a33a91a79ac0",
+      "item": {
+        "type": "html",
+        "id": "6fe1a33a91a79ac0",
+        "text": "\n\n\nThis is the future platform in which parties can contract - that is, create [[social]], [[political]], [[business]], [[religious]] and [[marriage]] contracts. \n\n"
+      },
+      "date": 1502139841290
+    },
+    {
+      "type": "add",
+      "id": "b6e014ccc6c3619c",
+      "item": {
+        "type": "paragraph",
+        "id": "b6e014ccc6c3619c",
+        "text": "Federated Wiki is a variation of a [[Wiki]], which was originally invented by [[Ward Cunningham]]."
+      },
+      "after": "6654dea23b7d3831",
+      "date": 1502139844578
+    },
+    {
+      "type": "edit",
+      "id": "5666f2e5181a38a0",
+      "item": {
+        "type": "paragraph",
+        "id": "5666f2e5181a38a0",
+        "text": "It is built on blockchain technology."
+      },
+      "date": 1502139856607
+    },
+    {
+      "type": "move",
+      "order": [
+        "6654dea23b7d3831",
+        "b6e014ccc6c3619c",
+        "6fe1a33a91a79ac0",
+        "5666f2e5181a38a0",
+        "1a9509930fd5f9f0",
+        "8e5d0f5aeffeafad",
+        "cedcb24ecfae87d9",
+        "730afd1e52146835",
+        "179a5a0dbff8f38d",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "730afd1e52146835",
+      "date": 1502259091485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5ec1d2c52a315aa"
+      },
+      "id": "c5ec1d2c52a315aa",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502259109334
+    },
+    {
+      "type": "edit",
+      "id": "c5ec1d2c52a315aa",
+      "item": {
+        "type": "html",
+        "id": "c5ec1d2c52a315aa",
+        "text": "This is a new window. They open horizontally. You can toggle back and forth using the left and right aarow. "
+      },
+      "date": 1502259178525
+    },
+    {
+      "type": "move",
+      "order": [
+        "6654dea23b7d3831",
+        "c5ec1d2c52a315aa",
+        "b6e014ccc6c3619c",
+        "6fe1a33a91a79ac0",
+        "5666f2e5181a38a0",
+        "1a9509930fd5f9f0",
+        "8e5d0f5aeffeafad",
+        "cedcb24ecfae87d9",
+        "730afd1e52146835",
+        "179a5a0dbff8f38d",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "c5ec1d2c52a315aa",
+      "date": 1502259189635
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a1757854dafd21f"
+      },
+      "id": "8a1757854dafd21f",
+      "type": "add",
+      "after": "a23c59ac0443a892",
+      "date": 1502259203243
+    },
+    {
+      "type": "edit",
+      "id": "8a1757854dafd21f",
+      "item": {
+        "type": "html",
+        "id": "8a1757854dafd21f",
+        "text": "You can also drag paragraphs of text around. Go ahead, try it. "
+      },
+      "date": 1502259254071
+    },
+    {
+      "type": "move",
+      "order": [
+        "6654dea23b7d3831",
+        "c5ec1d2c52a315aa",
+        "8a1757854dafd21f",
+        "b6e014ccc6c3619c",
+        "6fe1a33a91a79ac0",
+        "5666f2e5181a38a0",
+        "1a9509930fd5f9f0",
+        "8e5d0f5aeffeafad",
+        "cedcb24ecfae87d9",
+        "730afd1e52146835",
+        "179a5a0dbff8f38d",
+        "4c9bdb1dd9c6f832",
+        "be5beb04ec02236f",
+        "dbdec77ced8a8866",
+        "a23c59ac0443a892"
+      ],
+      "id": "8a1757854dafd21f",
+      "date": 1502259264921
+    }
+  ]
+}
