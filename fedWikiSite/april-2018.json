@@ -1,0 +1,160 @@
+{
+  "title": "April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "53806bc026992940",
+      "text": "[[3 April 2018]] is second winter."
+    },
+    {
+      "type": "paragraph",
+      "id": "a3b319e152885cc2",
+      "text": "[[4 April 2018]] is Depo while in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "b026a8f31cf08dd9",
+      "text": "[[9 April 2018]] is the day after Nigel passed."
+    },
+    {
+      "type": "paragraph",
+      "id": "b456b5ef9aef5d16",
+      "text": "[[13 April 2018]] is eight days after Nigel was diagnosed."
+    },
+    {
+      "type": "paragraph",
+      "id": "baeae2af93a42c3b",
+      "text": "[[16 April 2018]] in Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "b2fee07a20ceefc9",
+      "text": "[[17 April 2018]] is Tuesday in Red Lodge."
+    },
+    {
+      "type": "paragraph",
+      "id": "0e9417a5aa0f05f3",
+      "text": "[[26 April 2018]] is Thursday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f53cbded67d1960",
+      "text": "[[30 April 2018]] is Monday in Billings."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "April 2018",
+        "story": []
+      },
+      "date": 1522772733775
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53806bc026992940"
+      },
+      "id": "53806bc026992940",
+      "type": "add",
+      "date": 1522772734657
+    },
+    {
+      "type": "edit",
+      "id": "53806bc026992940",
+      "item": {
+        "type": "paragraph",
+        "id": "53806bc026992940",
+        "text": "[[3 April 2018]] is second winter."
+      },
+      "date": 1522772755299
+    },
+    {
+      "type": "add",
+      "id": "a3b319e152885cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "a3b319e152885cc2",
+        "text": "[[4 April 2018]] is Depo while in RL."
+      },
+      "after": "53806bc026992940",
+      "date": 1522857128973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b026a8f31cf08dd9"
+      },
+      "id": "b026a8f31cf08dd9",
+      "type": "add",
+      "after": "a3b319e152885cc2",
+      "date": 1523297500963
+    },
+    {
+      "type": "edit",
+      "id": "b026a8f31cf08dd9",
+      "item": {
+        "type": "paragraph",
+        "id": "b026a8f31cf08dd9",
+        "text": "[[9 April 2018]] is the day after Nigel passed."
+      },
+      "date": 1523297520281
+    },
+    {
+      "type": "add",
+      "id": "b456b5ef9aef5d16",
+      "item": {
+        "type": "paragraph",
+        "id": "b456b5ef9aef5d16",
+        "text": "[[13 April 2018]] is eight days after Nigel was diagnosed."
+      },
+      "after": "b026a8f31cf08dd9",
+      "date": 1523642683135
+    },
+    {
+      "type": "add",
+      "id": "baeae2af93a42c3b",
+      "item": {
+        "type": "paragraph",
+        "id": "baeae2af93a42c3b",
+        "text": "[[16 April 2018]] in Monday in Billings."
+      },
+      "after": "b456b5ef9aef5d16",
+      "date": 1523901576244
+    },
+    {
+      "type": "add",
+      "id": "b2fee07a20ceefc9",
+      "item": {
+        "type": "paragraph",
+        "id": "b2fee07a20ceefc9",
+        "text": "[[17 April 2018]] is Tuesday in Red Lodge."
+      },
+      "after": "baeae2af93a42c3b",
+      "date": 1523975354744
+    },
+    {
+      "type": "add",
+      "id": "0e9417a5aa0f05f3",
+      "item": {
+        "type": "paragraph",
+        "id": "0e9417a5aa0f05f3",
+        "text": "[[26 April 2018]] is Thursday in Billings."
+      },
+      "after": "b2fee07a20ceefc9",
+      "date": 1524780576697
+    },
+    {
+      "type": "add",
+      "id": "6f53cbded67d1960",
+      "item": {
+        "type": "paragraph",
+        "id": "6f53cbded67d1960",
+        "text": "[[30 April 2018]] is Monday in Billings."
+      },
+      "after": "0e9417a5aa0f05f3",
+      "date": 1525105781125
+    }
+  ]
+}
