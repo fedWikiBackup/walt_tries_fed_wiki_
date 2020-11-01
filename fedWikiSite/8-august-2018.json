@@ -1,0 +1,335 @@
+{
+  "title": "8 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c2ec6a746a3476c2",
+      "text": "I think I am going to spend the week in Nye. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3ed83c4a91a58c09",
+      "text": "Likely the last time I get to ... before I die."
+    },
+    {
+      "type": "paragraph",
+      "id": "a0fc4a696f2c9261",
+      "text": "I couldn't help but cry."
+    },
+    {
+      "type": "paragraph",
+      "id": "9dbd31a214a1494a",
+      "text": "The day before my daughter died."
+    },
+    {
+      "type": "paragraph",
+      "id": "1002f8cb87a63313",
+      "text": "I cried. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9785797556486aa1",
+      "text": "And I wept."
+    },
+    {
+      "type": "paragraph",
+      "id": "73d83fffc5f9d746",
+      "text": "And I slept."
+    },
+    {
+      "type": "paragraph",
+      "id": "cec5170908b140ee",
+      "text": "And I found a wish I wish I hadn't kept."
+    },
+    {
+      "type": "paragraph",
+      "id": "9fb8534e35554be8",
+      "text": "My life, inside, it is a conflict. Half attempts at good in my fallen mind. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a6b520dfac20bb16",
+      "text": "I hope you would have been able to rise and shine."
+    },
+    {
+      "type": "paragraph",
+      "id": "90cd3e7bd61a18c3",
+      "text": "Found yourself ready to dine. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f26175ae888dc6b3",
+      "text": "But instead time"
+    },
+    {
+      "type": "paragraph",
+      "id": "1766a091eee56f01",
+      "text": "Stole you away - like It does all the time."
+    },
+    {
+      "type": "paragraph",
+      "id": "eab7abdacdf24778",
+      "text": "Dying by the dozens, even my cousins."
+    },
+    {
+      "type": "paragraph",
+      "id": "17f4854c324bc559",
+      "text": "All will be gone and all will be lost."
+    },
+    {
+      "type": "paragraph",
+      "id": "17413ac91bb83821",
+      "text": "But today we have today. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f97d83a8e6ef6b73",
+      "text": "Horray. Let's go to the Bay."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 August 2018",
+        "story": []
+      },
+      "date": 1533769961748
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2ec6a746a3476c2"
+      },
+      "id": "c2ec6a746a3476c2",
+      "type": "add",
+      "date": 1533769963055
+    },
+    {
+      "type": "edit",
+      "id": "c2ec6a746a3476c2",
+      "item": {
+        "type": "paragraph",
+        "id": "c2ec6a746a3476c2",
+        "text": "I think I am going to spend the week in Nye. "
+      },
+      "date": 1533769971959
+    },
+    {
+      "type": "add",
+      "id": "3ed83c4a91a58c09",
+      "item": {
+        "type": "paragraph",
+        "id": "3ed83c4a91a58c09",
+        "text": "It may be the last time I get to before I die."
+      },
+      "after": "c2ec6a746a3476c2",
+      "date": 1533769981632
+    },
+    {
+      "type": "add",
+      "id": "a0fc4a696f2c9261",
+      "item": {
+        "type": "paragraph",
+        "id": "a0fc4a696f2c9261",
+        "text": "I couldn't help but cry."
+      },
+      "after": "3ed83c4a91a58c09",
+      "date": 1533769993521
+    },
+    {
+      "type": "edit",
+      "id": "3ed83c4a91a58c09",
+      "item": {
+        "type": "paragraph",
+        "id": "3ed83c4a91a58c09",
+        "text": "Likely the last time I get to ... before I die."
+      },
+      "date": 1533770024322
+    },
+    {
+      "type": "add",
+      "id": "9dbd31a214a1494a",
+      "item": {
+        "type": "paragraph",
+        "id": "9dbd31a214a1494a",
+        "text": "The day before my daughter died."
+      },
+      "after": "a0fc4a696f2c9261",
+      "date": 1533770033320
+    },
+    {
+      "type": "add",
+      "id": "1002f8cb87a63313",
+      "item": {
+        "type": "paragraph",
+        "id": "1002f8cb87a63313",
+        "text": "I cried. "
+      },
+      "after": "9dbd31a214a1494a",
+      "date": 1533770043168
+    },
+    {
+      "type": "add",
+      "id": "9785797556486aa1",
+      "item": {
+        "type": "paragraph",
+        "id": "9785797556486aa1",
+        "text": "And I wept."
+      },
+      "after": "1002f8cb87a63313",
+      "date": 1533770046696
+    },
+    {
+      "type": "add",
+      "id": "73d83fffc5f9d746",
+      "item": {
+        "type": "paragraph",
+        "id": "73d83fffc5f9d746",
+        "text": "And I slept."
+      },
+      "after": "9785797556486aa1",
+      "date": 1533770050032
+    },
+    {
+      "type": "add",
+      "id": "cec5170908b140ee",
+      "item": {
+        "type": "paragraph",
+        "id": "cec5170908b140ee",
+        "text": "And I found a wish I hadnt kept."
+      },
+      "after": "73d83fffc5f9d746",
+      "date": 1533770059560
+    },
+    {
+      "type": "add",
+      "id": "9fb8534e35554be8",
+      "item": {
+        "type": "paragraph",
+        "id": "9fb8534e35554be8",
+        "text": "My life, inside, it is a conflict. Half attempts at good in my fallen mind. "
+      },
+      "after": "cec5170908b140ee",
+      "date": 1533770100626
+    },
+    {
+      "type": "add",
+      "id": "a6b520dfac20bb16",
+      "item": {
+        "type": "paragraph",
+        "id": "a6b520dfac20bb16",
+        "text": "I hope you would have been able to rise and shine."
+      },
+      "after": "9fb8534e35554be8",
+      "date": 1533770114498
+    },
+    {
+      "type": "add",
+      "id": "90cd3e7bd61a18c3",
+      "item": {
+        "type": "paragraph",
+        "id": "90cd3e7bd61a18c3",
+        "text": "Found yourself ready to dine. "
+      },
+      "after": "a6b520dfac20bb16",
+      "date": 1533770126737
+    },
+    {
+      "type": "add",
+      "id": "f26175ae888dc6b3",
+      "item": {
+        "type": "paragraph",
+        "id": "f26175ae888dc6b3",
+        "text": "But instead time."
+      },
+      "after": "90cd3e7bd61a18c3",
+      "date": 1533770133155
+    },
+    {
+      "type": "edit",
+      "id": "f26175ae888dc6b3",
+      "item": {
+        "type": "paragraph",
+        "id": "f26175ae888dc6b3",
+        "text": "But instead time"
+      },
+      "date": 1533770134626
+    },
+    {
+      "type": "add",
+      "id": "1766a091eee56f01",
+      "item": {
+        "type": "paragraph",
+        "id": "1766a091eee56f01",
+        "text": "Stole you away - that it does all the time."
+      },
+      "after": "f26175ae888dc6b3",
+      "date": 1533770146321
+    },
+    {
+      "type": "add",
+      "id": "eab7abdacdf24778",
+      "item": {
+        "type": "paragraph",
+        "id": "eab7abdacdf24778",
+        "text": "Dying by the dozens, even my cousins."
+      },
+      "after": "1766a091eee56f01",
+      "date": 1533770165450
+    },
+    {
+      "type": "add",
+      "id": "17f4854c324bc559",
+      "item": {
+        "type": "paragraph",
+        "id": "17f4854c324bc559",
+        "text": "All will be gone and all will be lost."
+      },
+      "after": "eab7abdacdf24778",
+      "date": 1533770177904
+    },
+    {
+      "type": "add",
+      "id": "17413ac91bb83821",
+      "item": {
+        "type": "paragraph",
+        "id": "17413ac91bb83821",
+        "text": "But today we have today. "
+      },
+      "after": "17f4854c324bc559",
+      "date": 1533770183914
+    },
+    {
+      "type": "edit",
+      "id": "cec5170908b140ee",
+      "item": {
+        "type": "paragraph",
+        "id": "cec5170908b140ee",
+        "text": "And I found a wish I wish I hadn't kept."
+      },
+      "date": 1533770209188
+    },
+    {
+      "type": "edit",
+      "id": "1766a091eee56f01",
+      "item": {
+        "type": "paragraph",
+        "id": "1766a091eee56f01",
+        "text": "Stole you away - like It does all the time."
+      },
+      "date": 1533770245351
+    },
+    {
+      "type": "add",
+      "id": "f97d83a8e6ef6b73",
+      "item": {
+        "type": "paragraph",
+        "id": "f97d83a8e6ef6b73",
+        "text": "Horray. Let's go to the Bay."
+      },
+      "after": "17413ac91bb83821",
+      "date": 1533770254114
+    }
+  ]
+}
