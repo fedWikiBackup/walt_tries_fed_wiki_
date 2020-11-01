@@ -1,0 +1,39 @@
+{
+  "title": "8 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "29345a7bab2d06e0",
+      "text": "In Billings for deposition day 2. Day one went well. Co-counsel enjoys grating cheese. I do not. Warm today in Billings. Almost 41. Whoop. Spring is getting closer everyday."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 March 2018",
+        "story": []
+      },
+      "date": 1520525631709
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29345a7bab2d06e0"
+      },
+      "id": "29345a7bab2d06e0",
+      "type": "add",
+      "date": 1520525633078
+    },
+    {
+      "type": "edit",
+      "id": "29345a7bab2d06e0",
+      "item": {
+        "type": "paragraph",
+        "id": "29345a7bab2d06e0",
+        "text": "In Billings for deposition day 2. Day one went well. Co-counsel enjoys grating cheese. I do not. Warm today in Billings. Almost 41. Whoop. Spring is getting closer everyday."
+      },
+      "date": 1520525761303
+    }
+  ]
+}
