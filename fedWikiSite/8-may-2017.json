@@ -1,0 +1,95 @@
+{
+  "title": "8 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e2c7afaec2d07f9e",
+      "text": "Berlin is a non-stop party. Met up with my cousin and we partied all night friday until the birds sang. Then played ultimate frisbee in the park, then partied all night saturday at a house until the birds sang again (we all sang songs about milk shakes on the walk home). Sunday was a trip to the Stasi museum, a park, and then some much needed rest. I am old. But, I very much loved dancing all the nights away in Berlin. An experience I will not soon forget. The city will have a proper dance club, that is for sure."
+    },
+    {
+      "type": "paragraph",
+      "id": "da3e357f6f4a56c1",
+      "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch Fyne and then did a bit of work overlooking the Loch. Early bed for a big day tomorrow at Dunderave Castle, Invereray Castle, and some more remnants of a castle up on Loch Awe. Perhaps a bit of time to get down to Ostel Bay. SOOOOOOOOOO EXCITED FOR TOMORROW!!!!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 May 2017",
+        "story": []
+      },
+      "date": 1494281773342
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2c7afaec2d07f9e"
+      },
+      "id": "e2c7afaec2d07f9e",
+      "type": "add",
+      "date": 1494281774550
+    },
+    {
+      "type": "edit",
+      "id": "e2c7afaec2d07f9e",
+      "item": {
+        "type": "paragraph",
+        "id": "e2c7afaec2d07f9e",
+        "text": "Berlin is a non-stop party. Met up with my cousin and we partied all night friday until the birds sang. Then played ultimate frisbee in the park, then partied all night saturday at a house until the birds sang again (we all sang songs about milk shakes on the walk home). Sunday was a trip to the Stasi museum, a park, and then some much needed rest. I am old. But, I very much loved dancing all the nights away in Berlin. An experience I will not soon forget. The city will have a proper dance club, that is for sure."
+      },
+      "date": 1494281906220
+    },
+    {
+      "type": "add",
+      "id": "da3e357f6f4a56c1",
+      "item": {
+        "type": "paragraph",
+        "id": "da3e357f6f4a56c1",
+        "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch "
+      },
+      "after": "e2c7afaec2d07f9e",
+      "date": 1494281965429
+    },
+    {
+      "type": "edit",
+      "id": "da3e357f6f4a56c1",
+      "item": {
+        "type": "paragraph",
+        "id": "da3e357f6f4a56c1",
+        "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch Fyne and then did a bit of work overlooking the Loch. Early bed for a big day tomorrow at Dundevere Castle, "
+      },
+      "date": 1494282014240
+    },
+    {
+      "type": "edit",
+      "id": "da3e357f6f4a56c1",
+      "item": {
+        "type": "paragraph",
+        "id": "da3e357f6f4a56c1",
+        "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch Fyne and then did a bit of work overlooking the Loch. Early bed for a big day tomorrow at Dunderave Castle, "
+      },
+      "date": 1494282035619
+    },
+    {
+      "type": "edit",
+      "id": "da3e357f6f4a56c1",
+      "item": {
+        "type": "paragraph",
+        "id": "da3e357f6f4a56c1",
+        "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch Fyne and then did a bit of work overlooking the Loch. Early bed for a big day tomorrow at Dunderave Castle, Invereray Castle, and some more remnants of a castle up on Loch Awe. Perhaps a bit of time to get down to "
+      },
+      "date": 1494282081338
+    },
+    {
+      "type": "edit",
+      "id": "da3e357f6f4a56c1",
+      "item": {
+        "type": "paragraph",
+        "id": "da3e357f6f4a56c1",
+        "text": "Boarded a plane this morning to come to Scotland. After a frustrating search for the rental car company on a beautiful afternoon, I was upgraded from a smart car to an E class Mercedes. Lucky day. Beautiful drive to Loch Fyne and then did a bit of work overlooking the Loch. Early bed for a big day tomorrow at Dunderave Castle, Invereray Castle, and some more remnants of a castle up on Loch Awe. Perhaps a bit of time to get down to Ostel Bay. SOOOOOOOOOO EXCITED FOR TOMORROW!!!!"
+      },
+      "date": 1494282105130
+    }
+  ]
+}
