@@ -1,0 +1,39 @@
+{
+  "title": "27 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ee902bb88cd59cac",
+      "text": "Skopje, in the city center, is under construction. What has been constructed is quite kitch. It is like las vegas - but incomplete. It reminds me of many thoughts which I will revisit at another date."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 April 2017",
+        "story": []
+      },
+      "date": 1493336930068
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee902bb88cd59cac"
+      },
+      "id": "ee902bb88cd59cac",
+      "type": "add",
+      "date": 1493336932238
+    },
+    {
+      "type": "edit",
+      "id": "ee902bb88cd59cac",
+      "item": {
+        "type": "paragraph",
+        "id": "ee902bb88cd59cac",
+        "text": "Skopje, in the city center, is under construction. What has been constructed is quite kitch. It is like las vegas - but incomplete. It reminds me of many thoughts which I will revisit at another date."
+      },
+      "date": 1493337021772
+    }
+  ]
+}
