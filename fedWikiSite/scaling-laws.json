@@ -1,0 +1,162 @@
+{
+  "title": "Scaling Laws",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "131f8eff7500d43e",
+      "text": "Wikipedia Definition of Power Law"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d4fd9ce-61dd-41d8-b59a-9bd61c075f76",
+      "text": "In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four - [https://en.wikipedia.org/wiki/Power_law wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "64a98d36-b362-4b91-b301-77c6e771066b",
+      "text": "# See also\n* [[Empirical examples]]\n* [[Properties]]\n* [[Power-law functions]]\n* [[Power-law probability distributions]]\n* [[Validating power laws]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "01ff473577845d81",
+      "text": "Research"
+    },
+    {
+      "type": "paragraph",
+      "id": "840054c73e88733a",
+      "text": "See [[Widom scaling]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6149f681cf1822b5",
+      "text": "See [[Scale (music)]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Scaling Laws",
+        "story": []
+      },
+      "date": 1502080684056
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "131f8eff7500d43e"
+      },
+      "id": "131f8eff7500d43e",
+      "type": "add",
+      "date": 1502080684982
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8d4fd9ce-61dd-41d8-b59a-9bd61c075f76",
+        "text": "In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four - [https://en.wikipedia.org/wiki/Power_law wikipedia]"
+      },
+      "after": "131f8eff7500d43e",
+      "id": "8d4fd9ce-61dd-41d8-b59a-9bd61c075f76",
+      "date": 1502094278486
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "64a98d36-b362-4b91-b301-77c6e771066b",
+        "text": "# See also\n* [[Empirical examples]]\n* [[Properties]]\n* [[Power-law functions]]\n* [[Power-law probability distributions]]\n* [[Validating power laws]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+      },
+      "after": "8d4fd9ce-61dd-41d8-b59a-9bd61c075f76",
+      "id": "64a98d36-b362-4b91-b301-77c6e771066b",
+      "date": 1502094280503
+    },
+    {
+      "type": "edit",
+      "id": "131f8eff7500d43e",
+      "item": {
+        "type": "pagefold",
+        "id": "131f8eff7500d43e",
+        "text": "Wikipedia Definition of Power Law"
+      },
+      "date": 1502094295711
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d72608a7adafa37e"
+      },
+      "id": "d72608a7adafa37e",
+      "type": "add",
+      "after": "64a98d36-b362-4b91-b301-77c6e771066b",
+      "date": 1502094356339
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "01ff473577845d81"
+      },
+      "id": "01ff473577845d81",
+      "type": "add",
+      "after": "d72608a7adafa37e",
+      "date": 1502094359162
+    },
+    {
+      "type": "remove",
+      "id": "d72608a7adafa37e",
+      "date": 1502094364187
+    },
+    {
+      "type": "edit",
+      "id": "01ff473577845d81",
+      "item": {
+        "type": "pagefold",
+        "id": "01ff473577845d81",
+        "text": "Research"
+      },
+      "date": 1502094370054
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6149f681cf1822b5"
+      },
+      "id": "6149f681cf1822b5",
+      "type": "add",
+      "after": "01ff473577845d81",
+      "date": 1502094371275
+    },
+    {
+      "type": "edit",
+      "id": "6149f681cf1822b5",
+      "item": {
+        "type": "paragraph",
+        "id": "6149f681cf1822b5",
+        "text": "See [[Musical Scales]]"
+      },
+      "date": 1502094385727
+    },
+    {
+      "type": "edit",
+      "id": "6149f681cf1822b5",
+      "item": {
+        "type": "paragraph",
+        "id": "6149f681cf1822b5",
+        "text": "See [[Scale (music)]]"
+      },
+      "date": 1502094415390
+    },
+    {
+      "type": "add",
+      "id": "840054c73e88733a",
+      "item": {
+        "type": "paragraph",
+        "id": "840054c73e88733a",
+        "text": "See [[Widom scaling]]"
+      },
+      "after": "01ff473577845d81",
+      "date": 1502094503679
+    }
+  ]
+}
