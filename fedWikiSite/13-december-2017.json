@@ -1,0 +1,39 @@
+{
+  "title": "13 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b690c1049aa80a19",
+      "text": "Moving forward with electricity plant. Very exciting. EMT class is grueling. Looking forward to being done in February. Today is a day of snowing. Exciting also. Love frozen water. And the hardness that comes from a deep cold winter. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 December 2017",
+        "story": []
+      },
+      "date": 1513205079023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b690c1049aa80a19"
+      },
+      "id": "b690c1049aa80a19",
+      "type": "add",
+      "date": 1513205080293
+    },
+    {
+      "type": "edit",
+      "id": "b690c1049aa80a19",
+      "item": {
+        "type": "paragraph",
+        "id": "b690c1049aa80a19",
+        "text": "Moving forward with electricity plant. Very exciting. EMT class is grueling. Looking forward to being done in February. Today is a day of snowing. Exciting also. Love frozen water. And the hardness that comes from a deep cold winter. "
+      },
+      "date": 1513205141287
+    }
+  ]
+}
