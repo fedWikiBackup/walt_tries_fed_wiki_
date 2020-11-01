@@ -1,0 +1,113 @@
+{
+  "title": "18 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5e9f2cf9aeb41da1",
+      "text": "Desk building went a little slower than I anticipated."
+    },
+    {
+      "type": "paragraph",
+      "id": "73535dcc838a7cb5",
+      "text": "Eddie and I may go into business together."
+    },
+    {
+      "type": "paragraph",
+      "id": "1c8f9810cdc3b1ec",
+      "text": "Kamila and I are currently facetiming. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c5806e6b4fc550d2",
+      "text": "Nye is beautiful."
+    },
+    {
+      "type": "paragraph",
+      "id": "da9557e5adc5fb8c",
+      "text": "I need to be more dutiful about meditating first thing every day."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 June 2017",
+        "story": []
+      },
+      "date": 1497805835752
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e9f2cf9aeb41da1"
+      },
+      "id": "5e9f2cf9aeb41da1",
+      "type": "add",
+      "date": 1497805837014
+    },
+    {
+      "type": "edit",
+      "id": "5e9f2cf9aeb41da1",
+      "item": {
+        "type": "paragraph",
+        "id": "5e9f2cf9aeb41da1",
+        "text": "Desk building went a little slower than I anticipated."
+      },
+      "date": 1497805864285
+    },
+    {
+      "type": "add",
+      "id": "73535dcc838a7cb5",
+      "item": {
+        "type": "paragraph",
+        "id": "73535dcc838a7cb5",
+        "text": "Eddie and I may go into business together."
+      },
+      "after": "5e9f2cf9aeb41da1",
+      "date": 1497805874172
+    },
+    {
+      "type": "add",
+      "id": "1c8f9810cdc3b1ec",
+      "item": {
+        "type": "paragraph",
+        "id": "1c8f9810cdc3b1ec",
+        "text": "Kamila and I are currently facetiming. "
+      },
+      "after": "73535dcc838a7cb5",
+      "date": 1497805886356
+    },
+    {
+      "type": "add",
+      "id": "c5806e6b4fc550d2",
+      "item": {
+        "type": "paragraph",
+        "id": "c5806e6b4fc550d2",
+        "text": "Nye is beautiful."
+      },
+      "after": "1c8f9810cdc3b1ec",
+      "date": 1497805893051
+    },
+    {
+      "type": "add",
+      "id": "da9557e5adc5fb8c",
+      "item": {
+        "type": "paragraph",
+        "id": "da9557e5adc5fb8c",
+        "text": "I need to be more dutiful about meditating first thin"
+      },
+      "after": "c5806e6b4fc550d2",
+      "date": 1497805920699
+    },
+    {
+      "type": "edit",
+      "id": "da9557e5adc5fb8c",
+      "item": {
+        "type": "paragraph",
+        "id": "da9557e5adc5fb8c",
+        "text": "I need to be more dutiful about meditating first thing every day."
+      },
+      "date": 1497805924259
+    }
+  ]
+}
