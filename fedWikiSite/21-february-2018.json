@@ -1,0 +1,39 @@
+{
+  "title": "21 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "707979fba77db1c2",
+      "text": "Ugh. Not the nicest correspondence ever today. Looking for better humble assertive and meritocratic discussion. We will see. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 February 2018",
+        "story": []
+      },
+      "date": 1519246425722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "707979fba77db1c2"
+      },
+      "id": "707979fba77db1c2",
+      "type": "add",
+      "date": 1519246426632
+    },
+    {
+      "type": "edit",
+      "id": "707979fba77db1c2",
+      "item": {
+        "type": "paragraph",
+        "id": "707979fba77db1c2",
+        "text": "Ugh. Not the nicest correspondence ever today. Looking for better humble assertive and meritocratic discussion. We will see. "
+      },
+      "date": 1519246472566
+    }
+  ]
+}
