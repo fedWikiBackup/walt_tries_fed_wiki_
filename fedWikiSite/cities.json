@@ -1,0 +1,39 @@
+{
+  "title": "Cities",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7799037d1bba79a0",
+      "text": "See [[City]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Cities",
+        "story": []
+      },
+      "date": 1502093713831
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7799037d1bba79a0"
+      },
+      "id": "7799037d1bba79a0",
+      "type": "add",
+      "date": 1502093715181
+    },
+    {
+      "type": "edit",
+      "id": "7799037d1bba79a0",
+      "item": {
+        "type": "paragraph",
+        "id": "7799037d1bba79a0",
+        "text": "See [[City]]"
+      },
+      "date": 1502093730618
+    }
+  ]
+}
