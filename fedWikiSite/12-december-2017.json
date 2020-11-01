@@ -1,0 +1,65 @@
+{
+  "title": "12 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "50efae57322d14a5",
+      "text": "Another Doctor visit today. Back on thursday for blood work. Hope I am not going to be too sick. Should get back to writing some book. Thoughts?"
+    },
+    {
+      "type": "paragraph",
+      "id": "4aaa54eaeff2967e",
+      "text": "The tweed jacket of a fall evening fell across his hunched back. He realized - straightened his back. Deep breath he thought. The mirror watched his chest rise and fall until he forgot about his back and it slumped once more. This went on and on. Breathing interspersed with typing and hunched and then straight back. A cycle. Oh, but that tweed. Fall was a nice time of year in Montana. Winter - less so."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 December 2017",
+        "story": []
+      },
+      "date": 1513112201840
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50efae57322d14a5"
+      },
+      "id": "50efae57322d14a5",
+      "type": "add",
+      "date": 1513112202768
+    },
+    {
+      "type": "edit",
+      "id": "50efae57322d14a5",
+      "item": {
+        "type": "paragraph",
+        "id": "50efae57322d14a5",
+        "text": "Another Doctor visit today. Back on thursday for blood work. Hope I am not going to be too sick. Should get back to writing some book. Thoughts?"
+      },
+      "date": 1513112231304
+    },
+    {
+      "type": "add",
+      "id": "4aaa54eaeff2967e",
+      "item": {
+        "type": "paragraph",
+        "id": "4aaa54eaeff2967e",
+        "text": "The tweed jacket of a fall evening fell across his hunched back. He realized - straightened his back. Deep breath he thought. The mirror watched his chest rise and fall until he forgot about his back and "
+      },
+      "after": "50efae57322d14a5",
+      "date": 1513112299134
+    },
+    {
+      "type": "edit",
+      "id": "4aaa54eaeff2967e",
+      "item": {
+        "type": "paragraph",
+        "id": "4aaa54eaeff2967e",
+        "text": "The tweed jacket of a fall evening fell across his hunched back. He realized - straightened his back. Deep breath he thought. The mirror watched his chest rise and fall until he forgot about his back and it slumped once more. This went on and on. Breathing interspersed with typing and hunched and then straight back. A cycle. Oh, but that tweed. Fall was a nice time of year in Montana. Winter - less so."
+      },
+      "date": 1513112381983
+    }
+  ]
+}
