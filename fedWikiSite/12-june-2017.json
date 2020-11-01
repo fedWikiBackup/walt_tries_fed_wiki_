@@ -1,0 +1,143 @@
+{
+  "title": "12 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "95d877986fba8080",
+      "text": "Set up the new office in Nye and today is my first day working here. The wind is an energizing force."
+    },
+    {
+      "type": "paragraph",
+      "id": "f4b8042b9ecd0ed4",
+      "text": "It is definitely a more distracting space than RL or Billings - a house unfinished is a list of things to do - most of which are more engaging than legal work :). "
+    },
+    {
+      "type": "paragraph",
+      "id": "6a50c4fb6ea5338d",
+      "text": "But - I worked at Tippet, studied for the bar, and worked on the house while here. I can manage. Crushed the bar then, will crush these briefs now."
+    },
+    {
+      "type": "paragraph",
+      "id": "5b5c430f3d3e7f1f",
+      "text": "It reminds me of seeing my dad silly drunk probably 7 or so years ago. He was falling asleep, but always retained his jolly and logic. My friend pointed out that he was so smart that he could get silly drunk and still be smarter than anyone else at the party. That scared me. But, what I realize is that 100% utilization of my brain on one thing is too much. I must be distracted to act optimally. I think that is what my dad was doing. And Nye gives that to me."
+    },
+    {
+      "type": "paragraph",
+      "id": "6659d512898a767c",
+      "text": "Wow, what an ad hoc justification for the creative force of Nye. Oh well. Marching forward. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 June 2017",
+        "story": []
+      },
+      "date": 1497295050546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95d877986fba8080"
+      },
+      "id": "95d877986fba8080",
+      "type": "add",
+      "date": 1497295052559
+    },
+    {
+      "type": "edit",
+      "id": "95d877986fba8080",
+      "item": {
+        "type": "paragraph",
+        "id": "95d877986fba8080",
+        "text": "Set up the new office in Nye and today is my first day working here. It is definately a more distracting space than RL or Billings - a house unfinished is a list of things to do - most of which are more engaging than legal work :). "
+      },
+      "date": 1497295107577
+    },
+    {
+      "type": "add",
+      "id": "6a50c4fb6ea5338d",
+      "item": {
+        "type": "paragraph",
+        "id": "6a50c4fb6ea5338d",
+        "text": "But - I worked at Tippet, studied for the bar, and worked ont he house while here. I can manage."
+      },
+      "after": "95d877986fba8080",
+      "date": 1497295131473
+    },
+    {
+      "type": "add",
+      "id": "5b5c430f3d3e7f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "5b5c430f3d3e7f1f",
+        "text": "It reminds me of seeing my dad silly drunk probably 7 or so years ago. He was falling asleep, but always retained his jolly and logic. My friend pointed out that he was so smart that he could get silly drunk and still be smarter than anyone else at the party. That scared me. But, what I realize is that 100% utilization of my brain on one thing is too much. I must be distracted to act optimally. And Nye gives that to me."
+      },
+      "after": "6a50c4fb6ea5338d",
+      "date": 1497295245392
+    },
+    {
+      "type": "add",
+      "id": "6659d512898a767c",
+      "item": {
+        "type": "paragraph",
+        "id": "6659d512898a767c",
+        "text": "Wow, what an ad hoc justification for the creative force of Nye. "
+      },
+      "after": "5b5c430f3d3e7f1f",
+      "date": 1497295276360
+    },
+    {
+      "type": "edit",
+      "id": "95d877986fba8080",
+      "item": {
+        "type": "paragraph",
+        "id": "95d877986fba8080",
+        "text": "Set up the new office in Nye and today is my first day working here. The wind is an energizing force."
+      },
+      "date": 1497295298521
+    },
+    {
+      "type": "add",
+      "id": "f4b8042b9ecd0ed4",
+      "item": {
+        "type": "paragraph",
+        "id": "f4b8042b9ecd0ed4",
+        "text": "It is definitely a more distracting space than RL or Billings - a house unfinished is a list of things to do - most of which are more engaging than legal work :). "
+      },
+      "after": "95d877986fba8080",
+      "date": 1497295303248
+    },
+    {
+      "type": "edit",
+      "id": "6a50c4fb6ea5338d",
+      "item": {
+        "type": "paragraph",
+        "id": "6a50c4fb6ea5338d",
+        "text": "But - I worked at Tippet, studied for the bar, and worked on the house while here. I can manage. Crushed the bar then, will crush these briefs now."
+      },
+      "date": 1497295341696
+    },
+    {
+      "type": "edit",
+      "id": "5b5c430f3d3e7f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "5b5c430f3d3e7f1f",
+        "text": "It reminds me of seeing my dad silly drunk probably 7 or so years ago. He was falling asleep, but always retained his jolly and logic. My friend pointed out that he was so smart that he could get silly drunk and still be smarter than anyone else at the party. That scared me. But, what I realize is that 100% utilization of my brain on one thing is too much. I must be distracted to act optimally. I think that is what my dad was doing. And Nye gives that to me."
+      },
+      "date": 1497295367258
+    },
+    {
+      "type": "edit",
+      "id": "6659d512898a767c",
+      "item": {
+        "type": "paragraph",
+        "id": "6659d512898a767c",
+        "text": "Wow, what an ad hoc justification for the creative force of Nye. Oh well. Marching forward. "
+      },
+      "date": 1497295379657
+    }
+  ]
+}
