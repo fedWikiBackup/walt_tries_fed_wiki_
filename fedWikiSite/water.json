@@ -1,0 +1,55 @@
+{
+  "title": "Water",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "22d132d212dc300f",
+      "text": "Aside from Air, the world's most precious resource. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ef7d2db537e41daa",
+      "text": "See how the [http://www.lcra.org/water/water-supply/water-management-plan-for-lower-colorado-river-basin/pages/default.aspx LCRA governs water flow.]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Water",
+        "story": []
+      },
+      "date": 1489009605358
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22d132d212dc300f"
+      },
+      "id": "22d132d212dc300f",
+      "type": "add",
+      "date": 1489009606955
+    },
+    {
+      "type": "edit",
+      "id": "22d132d212dc300f",
+      "item": {
+        "type": "paragraph",
+        "id": "22d132d212dc300f",
+        "text": "Aside from Air, the world's most precious resource. "
+      },
+      "date": 1489009631052
+    },
+    {
+      "type": "add",
+      "id": "ef7d2db537e41daa",
+      "item": {
+        "type": "paragraph",
+        "id": "ef7d2db537e41daa",
+        "text": "See how the [http://www.lcra.org/water/water-supply/water-management-plan-for-lower-colorado-river-basin/pages/default.aspx LCRA governs water flow.]"
+      },
+      "after": "22d132d212dc300f",
+      "date": 1489009655187
+    }
+  ]
+}
