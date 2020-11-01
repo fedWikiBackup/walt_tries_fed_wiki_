@@ -1,0 +1,39 @@
+{
+  "title": "12 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3f9d1095cc582bc7",
+      "text": "Squished this morning with Ben. I was lethargic because I had a drink before bed. That is silly. Why waste drink just before bed? I feel much better when I do not drink just before bed. I need better control over my desire to drink. Meditate - don't drink."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 July 2018",
+        "story": []
+      },
+      "date": 1531417377253
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f9d1095cc582bc7"
+      },
+      "id": "3f9d1095cc582bc7",
+      "type": "add",
+      "date": 1531417378758
+    },
+    {
+      "type": "edit",
+      "id": "3f9d1095cc582bc7",
+      "item": {
+        "type": "paragraph",
+        "id": "3f9d1095cc582bc7",
+        "text": "Squished this morning with Ben. I was lethargic because I had a drink before bed. That is silly. Why waste drink just before bed? I feel much better when I do not drink just before bed. I need better control over my desire to drink. Meditate - don't drink."
+      },
+      "date": 1531417428741
+    }
+  ]
+}
