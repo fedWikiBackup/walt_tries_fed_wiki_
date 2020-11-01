@@ -1,0 +1,416 @@
+{
+  "title": "City",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "City"
+      },
+      "date": 1502089430183,
+      "source": {
+        "pageTitle": "City",
+        "pageSlug": "City",
+        "url": "https://en.wikipedia.org/wiki/City",
+        "date": 1502089430183,
+        "link_dictionary": {
+          "wiki_links": {
+            "Representation in culture": {
+              "section_number": 35,
+              "section_level": 2,
+              "dot_number": 10
+            },
+            "Ecology": {
+              "section_number": 29,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Notes": {
+              "section_number": 37,
+              "section_level": 2,
+              "dot_number": 12
+            },
+            "Infrastructure": {
+              "section_number": 25,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "References": {
+              "section_number": 38,
+              "section_level": 2,
+              "dot_number": 13
+            },
+            "Urbanization": {
+              "section_number": 14,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "External links": {
+              "section_number": 39,
+              "section_level": 2,
+              "dot_number": 14
+            },
+            "See also": {
+              "section_number": 36,
+              "section_level": 2,
+              "dot_number": 11
+            },
+            "World city system": {
+              "section_number": 30,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Geography": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "History": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "Society": {
+              "section_number": 20,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Meaning": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Government": {
+              "section_number": 15,
+              "section_level": 2,
+              "dot_number": 5
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 793944504,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502089433446
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained unit of humans."
+      },
+      "id": "44a391c33e8c0dfb",
+      "date": 1502089441066
+    },
+    {
+      "type": "fork",
+      "date": 1502089445126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7516a0d41f04d121"
+      },
+      "id": "7516a0d41f04d121",
+      "type": "add",
+      "after": "cebb6814-b0f3-42f7-ad84-1b345412399d",
+      "date": 1502089460327
+    },
+    {
+      "type": "edit",
+      "id": "7516a0d41f04d121",
+      "item": {
+        "type": "pagefold",
+        "id": "7516a0d41f04d121",
+        "text": "My Definition"
+      },
+      "date": 1502089469818
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad6e57e1b339e1ac"
+      },
+      "id": "ad6e57e1b339e1ac",
+      "type": "add",
+      "after": "7516a0d41f04d121",
+      "date": 1502089474588
+    },
+    {
+      "type": "edit",
+      "id": "ad6e57e1b339e1ac",
+      "item": {
+        "type": "pagefold",
+        "id": "ad6e57e1b339e1ac",
+        "text": "Wikipedia's"
+      },
+      "date": 1502089482194
+    },
+    {
+      "type": "move",
+      "order": [
+        "7516a0d41f04d121",
+        "44a391c33e8c0dfb",
+        "41ac2472-94a0-47c9-8f4b-6cfc9a141e0d",
+        "c30d3e15-02d8-408b-ad93-f7a0aafb0b03",
+        "a4c8eebe-dabe-43a8-9e74-40ad2acd9c71",
+        "cebb6814-b0f3-42f7-ad84-1b345412399d",
+        "ad6e57e1b339e1ac"
+      ],
+      "id": "7516a0d41f04d121",
+      "date": 1502089489338
+    },
+    {
+      "type": "move",
+      "order": [
+        "7516a0d41f04d121",
+        "44a391c33e8c0dfb",
+        "ad6e57e1b339e1ac",
+        "41ac2472-94a0-47c9-8f4b-6cfc9a141e0d",
+        "c30d3e15-02d8-408b-ad93-f7a0aafb0b03",
+        "a4c8eebe-dabe-43a8-9e74-40ad2acd9c71",
+        "cebb6814-b0f3-42f7-ad84-1b345412399d"
+      ],
+      "id": "ad6e57e1b339e1ac",
+      "date": 1502089494110
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained unit of humans. Cities come in different sizes. They can be as small as "
+      },
+      "date": 1502089575482
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained unit of humans. Cities come in different sizes. They can be as small as small as 27,000 people."
+      },
+      "date": 1502089611138
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained unit of humans. Cities come in different sizes. They can be as small as small as 27,000 people. "
+      },
+      "date": 1502089624681
+    },
+    {
+      "type": "add",
+      "id": "ac46f50264626f3a",
+      "item": {
+        "type": "paragraph",
+        "id": "ac46f50264626f3a",
+        "text": "TinyCity"
+      },
+      "after": "44a391c33e8c0dfb",
+      "date": 1502089629105
+    },
+    {
+      "type": "add",
+      "id": "3af447d3a2df2b65",
+      "item": {
+        "type": "paragraph",
+        "id": "3af447d3a2df2b65",
+        "text": "City"
+      },
+      "after": "ac46f50264626f3a",
+      "date": 1502089632666
+    },
+    {
+      "type": "add",
+      "id": "0f4f7b7489a22168",
+      "item": {
+        "type": "paragraph",
+        "id": "0f4f7b7489a22168",
+        "text": "Metropolis"
+      },
+      "after": "3af447d3a2df2b65",
+      "date": 1502089639297
+    },
+    {
+      "type": "edit",
+      "id": "ac46f50264626f3a",
+      "item": {
+        "type": "paragraph",
+        "id": "ac46f50264626f3a",
+        "text": "[[TinyCity]]"
+      },
+      "date": 1502089659393
+    },
+    {
+      "type": "edit",
+      "id": "3af447d3a2df2b65",
+      "item": {
+        "type": "paragraph",
+        "id": "3af447d3a2df2b65",
+        "text": "[[Polis]]"
+      },
+      "date": 1502089671009
+    },
+    {
+      "type": "edit",
+      "id": "0f4f7b7489a22168",
+      "item": {
+        "type": "paragraph",
+        "id": "0f4f7b7489a22168",
+        "text": "[[Metropolis]]"
+      },
+      "date": 1502089676257
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained unit of humans. Cities come in different sizes. They can be as small as small as 27,000 people. And as large as "
+      },
+      "date": 1502090248620
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained [[node]] of humans. Cities come in different sizes. They can be as small as small as 27,000 people. And as large as "
+      },
+      "date": 1502091259562
+    },
+    {
+      "type": "add",
+      "id": "d2920e2a00ee0b5a",
+      "item": {
+        "type": "paragraph",
+        "id": "d2920e2a00ee0b5a",
+        "text": "[["
+      },
+      "after": "0f4f7b7489a22168",
+      "date": 1502091295083
+    },
+    {
+      "type": "edit",
+      "id": "d2920e2a00ee0b5a",
+      "item": {
+        "type": "paragraph",
+        "id": "d2920e2a00ee0b5a",
+        "text": "[[Human]]"
+      },
+      "date": 1502091371743
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained [[node]] or [[module]] of humans. Cities come in different sizes. They can be as small as small as 27,000 people. And as large as "
+      },
+      "date": 1502091980404
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained [[node]] or [[module]] of humans. Cities come in different sizes. They can be as small as small as 27,000 people. And as large as 8.4 billion. "
+      },
+      "date": 1502092010549
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A self-sustaining and self-contained [[node]] or [[module]] of humans. Cities come in different sizes. They can be as small as small as ~27,000 people. And as large as ~8.4 billion. "
+      },
+      "date": 1502092026764
+    },
+    {
+      "type": "edit",
+      "id": "44a391c33e8c0dfb",
+      "item": {
+        "type": "paragraph",
+        "id": "44a391c33e8c0dfb",
+        "text": "A City is a self-sustaining and self-contained [[node]] or [[module]] of humans. Cities come in different sizes. They can be as small as small as ~27,000 people. And as large as ~8.4 billion. "
+      },
+      "date": 1502092105287
+    },
+    {
+      "type": "remove",
+      "id": "7516a0d41f04d121",
+      "date": 1502092108280
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "44a391c33e8c0dfb",
+      "text": "A City is a self-sustaining and self-contained [[node]] or [[module]] of humans. Cities come in different sizes. They can be as small as small as ~27,000 people. And as large as ~8.4 billion. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ac46f50264626f3a",
+      "text": "[[TinyCity]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3af447d3a2df2b65",
+      "text": "[[Polis]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f4f7b7489a22168",
+      "text": "[[Metropolis]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d2920e2a00ee0b5a",
+      "text": "[[Human]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "ad6e57e1b339e1ac",
+      "text": "Wikipedia's"
+    },
+    {
+      "type": "paragraph",
+      "id": "41ac2472-94a0-47c9-8f4b-6cfc9a141e0d",
+      "text": "A city is a large and permanent human settlement. Cities generally have extensive systems for housing, transportation, sanitation, utilities, land use, and communication. Their density facilitates interaction between people and businesses, sometimes benefiting both parties in the process - [https://en.wikipedia.org/wiki/City wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c30d3e15-02d8-408b-ad93-f7a0aafb0b03",
+      "text": "Historically citydwellers have been a small proportion of humanity overall, but today, following two centuries of unprecedented and rapid urbanization, half of the world population is said to live in cities. Present-day cities usually form the core of larger metropolitan areas and urban areas, creating numerous commuters traveling towards city centers for employment, entertainment, and edification."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4c8eebe-dabe-43a8-9e74-40ad2acd9c71",
+      "text": "The most populated city proper is Shanghai while the largest metropolitan areas also include the Greater Tokyo Area and Jabodetabek (Jakarta). The cities of Faiyum, Damascus, and Varanasi are among those laying claim to longest continual inhabitation."
+    },
+    {
+      "type": "markdown",
+      "id": "cebb6814-b0f3-42f7-ad84-1b345412399d",
+      "text": "# See also\n* [[Meaning]]\n* [[Geography]]\n* [[History]]\n* [[Urbanization]]\n* [[Government]]\n* [[Society]]\n* [[Infrastructure]]\n* [[Ecology]]\n* [[World city system]]\n* [[Representation in culture]]\n* [[See also]]\n* [[Notes]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}
