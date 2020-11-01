@@ -1,0 +1,71 @@
+{
+  "title": "2 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "76533d54a663348c",
+      "text": "I love snow. I would take it 100 days in a row. An ocean of snow, ripple, rattle, currents aflow. Never too much - except in the throws of only god knows."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f3adc19f729c1b8",
+      "text": "What a life. Grateful. Delightful. Even if mildly frightful. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8bb2cd0478370c39",
+      "text": "I hope, I pray, that I may end up insightful. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 March 2018",
+        "story": []
+      },
+      "date": 1520019362154
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76533d54a663348c"
+      },
+      "id": "76533d54a663348c",
+      "type": "add",
+      "date": 1520019363244
+    },
+    {
+      "type": "edit",
+      "id": "76533d54a663348c",
+      "item": {
+        "type": "paragraph",
+        "id": "76533d54a663348c",
+        "text": "I love snow. I would take it 100 days in a row. An ocean of snow, ripple, rattle, currents aflow. Never too much - except in the throws of only god knows."
+      },
+      "date": 1520019420213
+    },
+    {
+      "type": "add",
+      "id": "3f3adc19f729c1b8",
+      "item": {
+        "type": "paragraph",
+        "id": "3f3adc19f729c1b8",
+        "text": "What a life. Grateful. Delightful. Even if mildly frightful. "
+      },
+      "after": "76533d54a663348c",
+      "date": 1520019442602
+    },
+    {
+      "type": "add",
+      "id": "8bb2cd0478370c39",
+      "item": {
+        "type": "paragraph",
+        "id": "8bb2cd0478370c39",
+        "text": "I hope, I pray, that I may end up insightful. "
+      },
+      "after": "3f3adc19f729c1b8",
+      "date": 1520019459135
+    }
+  ]
+}
