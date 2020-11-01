@@ -1,0 +1,39 @@
+{
+  "title": "31 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cd1e87d8dde7ec55",
+      "text": "In Warsaw. A little under the weather. Met Kamila's grandmother last night. She is pretty awesome. Went for a run this morning. Muslims not welcome in Poland. The like Trump but hate Russia. Fascinating dichotomy."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "31 October 2017",
+        "story": []
+      },
+      "date": 1509452121257
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd1e87d8dde7ec55"
+      },
+      "id": "cd1e87d8dde7ec55",
+      "type": "add",
+      "date": 1509452122655
+    },
+    {
+      "type": "edit",
+      "id": "cd1e87d8dde7ec55",
+      "item": {
+        "type": "paragraph",
+        "id": "cd1e87d8dde7ec55",
+        "text": "In Warsaw. A little under the weather. Met Kamila's grandmother last night. She is pretty awesome. Went for a run this morning. Muslims not welcome in Poland. The like Trump but hate Russia. Fascinating dichotomy."
+      },
+      "date": 1509452177731
+    }
+  ]
+}

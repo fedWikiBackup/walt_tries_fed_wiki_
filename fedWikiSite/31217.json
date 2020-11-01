@@ -1,0 +1,20 @@
+{
+  "title": "3.12.17",
+  "story": [],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1489341356488
+    },
+    {
+      "type": "edit",
+      "id": "82b7fcdb87666c2c",
+      "item": {
+        "type": "paragraph",
+        "id": "82b7fcdb87666c2c",
+        "text": "Random encounters are made more probable through sheer number of attempts made. This likely also applies to the number of people you introduce to one another."
+      },
+      "date": 1489341372866
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title": "17 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d8acf3930d3d332c",
+      "text": "I arrived under the cover of darkness, to a town known for its precocious endeavors into the dark of night. A truly ancient city, ruled most recently by Spain, but also by many others. Naples was like a twist of Paris. A language with a bit more flamboyant than artistry, but gilded in the surround of marble palaces. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b67ee95b627fe738",
+      "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop resided in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti and rumblings of a foreign tongue) overtook my senses. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and [https://it.wikipedia.org/wiki/Museo_d%27arte_contemporanea_Donnaregina Modern Art] muesums. It is hard to explain how stunning the truly gigantic marble sculptures ranging from egyptian times to now are. I was often left aghast. I have not seen anything quite like it in the MOMA or in the Smithsonian galleries. The museums alone were worth the trip."
+    },
+    {
+      "type": "paragraph",
+      "id": "a913c85e8c33bda7",
+      "text": "I then ventured back through the most ancient streets, where a car cannot pass at the base and the buildings reach up yearning to touch eachother as much as they long for the sky (aka its not just the towers that lean). I bought a classic Naples pizza. It was okay. "
+    },
+    {
+      "type": "paragraph",
+      "id": "06340b9921766407",
+      "text": "Final thought, people in Naples love dogs. There were large breed dogs everywhere being walked from morning until dusk. A win for the Napolese. Tomorrow is Rome."
+    },
+    {
+      "type": "paragraph",
+      "id": "f00bdbd8b86e0e1f",
+      "text": "Unlike in Paris, I have seen no homeless people....."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 April 2017",
+        "story": []
+      },
+      "date": 1492446522985
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d8acf3930d3d332c"
+      },
+      "id": "d8acf3930d3d332c",
+      "type": "add",
+      "date": 1492446524497
+    },
+    {
+      "type": "edit",
+      "id": "d8acf3930d3d332c",
+      "item": {
+        "type": "paragraph",
+        "id": "d8acf3930d3d332c",
+        "text": "I arrived under the cover of darkness, to a town known for its precocious endeavors into the dark of night. A truly ancient city, ruled most recently by spain, but also by many others. Naples was like a twist of Paris. A language with a bit more flamboyant than artistry, but gilded in the surround of marble palaces. "
+      },
+      "date": 1492446676202
+    },
+    {
+      "type": "add",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti) overtook my courage. My italian is even worse than my french and spanish. Upon daybreak, I walked down alo"
+      },
+      "after": "d8acf3930d3d332c",
+      "date": 1492447008571
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti) overtook my courage. My italian is even worse than my french and spanish. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the Archaeological and Modern Art muesums. "
+      },
+      "date": 1492447188836
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti) overtook my courage. My italian is even worse than my french and spanish. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and Modern Art muesums. "
+      },
+      "date": 1492447205256
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti) overtook my courage. My italian is even worse than my french and spanish. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and [https://it.wikipedia.org/wiki/Museo_d%27arte_contemporanea_Donnaregina Modern Art] muesums. "
+      },
+      "date": 1492447233680
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti) overtook my courage. My italian is even worse than my french and spanish. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and [https://it.wikipedia.org/wiki/Museo_d%27arte_contemporanea_Donnaregina Modern Art] muesums. It is hard to explain how stunning the gigantic sculptures ranging from egyptian times to now are. I was often left aghast. I have not seen anything quite like it in the MOMA or in the Smithsonian galleries. The museums alone were worth the trip."
+      },
+      "date": 1492447335901
+    },
+    {
+      "type": "add",
+      "id": "06340b9921766407",
+      "item": {
+        "type": "paragraph",
+        "id": "06340b9921766407",
+        "text": "Final thought, people in Naples love dogs. There were large breed dogs everywhere being walked from morning until dusk. A win for the Napolese. Tomorrow is Rome."
+      },
+      "after": "b67ee95b627fe738",
+      "date": 1492447437884
+    },
+    {
+      "type": "add",
+      "id": "a913c85e8c33bda7",
+      "item": {
+        "type": "paragraph",
+        "id": "a913c85e8c33bda7",
+        "text": "I then ventured back through the most ancient streets, where a car cannot pass at the base and the buildings reach up yearning to touch eachother as much as they long for the sky (aka its not just the towers that lean). I bought a classic Naples pizza. It was okay. I may have chosen the wrong place. They were particularly disappointed to learn I dp not speak Italian."
+      },
+      "after": "b67ee95b627fe738",
+      "date": 1492447583459
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop lie in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a little bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti and rumblings of a foreign tongue) overtook my senses. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and [https://it.wikipedia.org/wiki/Museo_d%27arte_contemporanea_Donnaregina Modern Art] muesums. It is hard to explain how stunning the truly gigantic marble sculptures ranging from egyptian times to now are. I was often left aghast. I have not seen anything quite like it in the MOMA or in the Smithsonian galleries. The museums alone were worth the trip."
+      },
+      "date": 1492448168454
+    },
+    {
+      "type": "edit",
+      "id": "a913c85e8c33bda7",
+      "item": {
+        "type": "paragraph",
+        "id": "a913c85e8c33bda7",
+        "text": "I then ventured back through the most ancient streets, where a car cannot pass at the base and the buildings reach up yearning to touch eachother as much as they long for the sky (aka its not just the towers that lean). I bought a classic Naples pizza. It was okay. "
+      },
+      "date": 1492448198537
+    },
+    {
+      "type": "add",
+      "id": "f00bdbd8b86e0e1f",
+      "item": {
+        "type": "paragraph",
+        "id": "f00bdbd8b86e0e1f",
+        "text": "Unlike in Paris, I have seen no homeless people....."
+      },
+      "after": "06340b9921766407",
+      "date": 1492448221042
+    },
+    {
+      "type": "edit",
+      "id": "d8acf3930d3d332c",
+      "item": {
+        "type": "paragraph",
+        "id": "d8acf3930d3d332c",
+        "text": "I arrived under the cover of darkness, to a town known for its precocious endeavors into the dark of night. A truly ancient city, ruled most recently by Spain, but also by many others. Naples was like a twist of Paris. A language with a bit more flamboyant than artistry, but gilded in the surround of marble palaces. "
+      },
+      "date": 1492449380078
+    },
+    {
+      "type": "edit",
+      "id": "b67ee95b627fe738",
+      "item": {
+        "type": "paragraph",
+        "id": "b67ee95b627fe738",
+        "text": "I arrived past dusk on 4/16 and failed to ride the rather rural bus whose stop resided in the wedge of curb filled with a foot of water and italian racecar drivers. So, I got a bit ripped off by a taxi driver and dropped off at my hostel (a first). I attempted to walk downtown, but the edgy alleyways (completely filled with graffiti and rumblings of a foreign tongue) overtook my senses. Upon daybreak, I walked down the [https://it.wikipedia.org/wiki/Castel_dell%27Ovo Castle del Ovo] and then wove my way back through the various other, castles, palaces and ancient narrow streets. I then headed to the northeast to check out the [https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli Archaeological] and [https://it.wikipedia.org/wiki/Museo_d%27arte_contemporanea_Donnaregina Modern Art] muesums. It is hard to explain how stunning the truly gigantic marble sculptures ranging from egyptian times to now are. I was often left aghast. I have not seen anything quite like it in the MOMA or in the Smithsonian galleries. The museums alone were worth the trip."
+      },
+      "date": 1492449420027
+    }
+  ]
+}

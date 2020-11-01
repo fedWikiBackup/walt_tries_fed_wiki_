@@ -1,0 +1,39 @@
+{
+  "title": "23 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "52dde2d6f6c28eb3",
+      "text": "Tom leaves for Africa on Wednesday morning. I drank beer last night. Unclear why. Had a fantastic evening on Saturday not drinking. I very much dislike alcohol. Like. Alot. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "23 October 2017",
+        "story": []
+      },
+      "date": 1508772494568
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52dde2d6f6c28eb3"
+      },
+      "id": "52dde2d6f6c28eb3",
+      "type": "add",
+      "date": 1508772495665
+    },
+    {
+      "type": "edit",
+      "id": "52dde2d6f6c28eb3",
+      "item": {
+        "type": "paragraph",
+        "id": "52dde2d6f6c28eb3",
+        "text": "Tom leaves for Africa on Wednesday morning. I drank beer last night. Unclear why. Had a fantastic evening on Saturday not drinking. I very much dislike alcohol. Like. Alot. "
+      },
+      "date": 1508772569616
+    }
+  ]
+}

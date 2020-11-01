@@ -1,0 +1,59 @@
+{
+  "title": "political",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9e4a7a5aacee62f2",
+      "text": "The political contract is the contract we make with the institution of government, wherein we cede our individual sovereign power to responsible bodies. It is often called a [[Constitution]]. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "political",
+        "story": []
+      },
+      "date": 1502082570163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e4a7a5aacee62f2"
+      },
+      "id": "9e4a7a5aacee62f2",
+      "type": "add",
+      "date": 1502082571355
+    },
+    {
+      "type": "edit",
+      "id": "9e4a7a5aacee62f2",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4a7a5aacee62f2",
+        "text": "The political contract is the contract we make with the bureaucracy that helps guide us. It is often called a [[Constitution]]. "
+      },
+      "date": 1502082629898
+    },
+    {
+      "type": "edit",
+      "id": "9e4a7a5aacee62f2",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4a7a5aacee62f2",
+        "text": "The political contract is the contract we make with the institution of government, wherein we cede our individual sovereign power to responsible bodies"
+      },
+      "date": 1502143709063
+    },
+    {
+      "type": "edit",
+      "id": "9e4a7a5aacee62f2",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4a7a5aacee62f2",
+        "text": "The political contract is the contract we make with the institution of government, wherein we cede our individual sovereign power to responsible bodies. It is often called a [[Constitution]]. "
+      },
+      "date": 1502143713321
+    }
+  ]
+}

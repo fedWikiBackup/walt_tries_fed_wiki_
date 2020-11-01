@@ -1,0 +1,307 @@
+{
+  "title": "Theory of constructed emotion",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Theory of constructed emotion"
+      },
+      "date": 1502092736852,
+      "source": {
+        "pageTitle": "Theory of constructed emotion",
+        "pageSlug": "Theory_of_constructed_emotion",
+        "url": "https://en.wikipedia.org/wiki/Theory_of_constructed_emotion",
+        "date": 1502092736852,
+        "link_dictionary": {
+          "wiki_links": {
+            "Statement of the theory": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "References": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 2
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 791214185,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502092739729
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "86952dd2a7851243"
+      },
+      "id": "86952dd2a7851243",
+      "type": "add",
+      "after": "ee82031a-9e90-49d4-9f24-145f63df38e2",
+      "date": 1502092782146
+    },
+    {
+      "type": "edit",
+      "id": "86952dd2a7851243",
+      "item": {
+        "type": "pagefold",
+        "id": "86952dd2a7851243",
+        "text": "Wikipedia Definition"
+      },
+      "date": 1502092792177
+    },
+    {
+      "type": "move",
+      "order": [
+        "86952dd2a7851243",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "86952dd2a7851243",
+      "date": 1502092795912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a6af26d3522c2f4"
+      },
+      "id": "1a6af26d3522c2f4",
+      "type": "add",
+      "after": "ee82031a-9e90-49d4-9f24-145f63df38e2",
+      "date": 1502092797395
+    },
+    {
+      "type": "move",
+      "order": [
+        "86952dd2a7851243",
+        "1a6af26d3522c2f4",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "1a6af26d3522c2f4",
+      "date": 1502092799607
+    },
+    {
+      "type": "move",
+      "order": [
+        "1a6af26d3522c2f4",
+        "86952dd2a7851243",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "1a6af26d3522c2f4",
+      "date": 1502092800832
+    },
+    {
+      "type": "remove",
+      "id": "1a6af26d3522c2f4",
+      "date": 1502092811960
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d691aea107d7ce23"
+      },
+      "id": "d691aea107d7ce23",
+      "type": "add",
+      "after": "ee82031a-9e90-49d4-9f24-145f63df38e2",
+      "date": 1502092828699
+    },
+    {
+      "type": "move",
+      "order": [
+        "86952dd2a7851243",
+        "d691aea107d7ce23",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "d691aea107d7ce23",
+      "date": 1502092830410
+    },
+    {
+      "type": "move",
+      "order": [
+        "d691aea107d7ce23",
+        "86952dd2a7851243",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "86952dd2a7851243",
+      "date": 1502092834507
+    },
+    {
+      "type": "edit",
+      "id": "d691aea107d7ce23",
+      "item": {
+        "type": "paragraph",
+        "id": "d691aea107d7ce23",
+        "text": "Pleasure vs. displeasure, measured along a continuous scale from positive to negative.\nHigh arousal vs. low arousal, measured along a continuous scale between these endpoints."
+      },
+      "date": 1502092843320
+    },
+    {
+      "type": "edit",
+      "id": "d691aea107d7ce23",
+      "item": {
+        "type": "paragraph",
+        "id": "d691aea107d7ce23",
+        "text": "Pleasure vs. displeasure, measured along a continuous scale from positive to negative."
+      },
+      "date": 1502092847440
+    },
+    {
+      "type": "add",
+      "id": "d1322c41f9cf818f",
+      "item": {
+        "type": "paragraph",
+        "id": "d1322c41f9cf818f",
+        "text": "High arousal vs. low arousal, measured along a continuous scale between these endpoints."
+      },
+      "after": "d691aea107d7ce23",
+      "date": 1502092852537
+    },
+    {
+      "type": "add",
+      "id": "9a82666d0d8faf64",
+      "item": {
+        "type": "paragraph",
+        "id": "9a82666d0d8faf64",
+        "text": "Two axis."
+      },
+      "after": "d1322c41f9cf818f",
+      "date": 1502092857049
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a82666d0d8faf64",
+        "d691aea107d7ce23",
+        "d1322c41f9cf818f",
+        "86952dd2a7851243",
+        "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+        "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+        "16eb9bad-845d-4aa2-814a-76171cdad689",
+        "ee82031a-9e90-49d4-9f24-145f63df38e2"
+      ],
+      "id": "9a82666d0d8faf64",
+      "date": 1502092858824
+    },
+    {
+      "type": "add",
+      "id": "bd12050068f76619",
+      "item": {
+        "type": "paragraph",
+        "id": "bd12050068f76619",
+        "text": "Plus third axis at point of intersection. "
+      },
+      "after": "d1322c41f9cf818f",
+      "date": 1502092892436
+    },
+    {
+      "type": "edit",
+      "id": "9a82666d0d8faf64",
+      "item": {
+        "type": "paragraph",
+        "id": "9a82666d0d8faf64",
+        "text": "Two axes."
+      },
+      "date": 1502092918964
+    },
+    {
+      "type": "edit",
+      "id": "d1322c41f9cf818f",
+      "item": {
+        "type": "paragraph",
+        "id": "d1322c41f9cf818f",
+        "text": "High arousal (aggressive) vs. low arousal (calmness), measured along a continuous scale between these endpoints."
+      },
+      "date": 1502092939127
+    },
+    {
+      "type": "edit",
+      "id": "d1322c41f9cf818f",
+      "item": {
+        "type": "paragraph",
+        "id": "d1322c41f9cf818f",
+        "text": "High arousal vs. low arousal , measured along a continuous scale between these endpoints."
+      },
+      "date": 1502092976495
+    },
+    {
+      "type": "remove",
+      "id": "bd12050068f76619",
+      "date": 1502092992375
+    },
+    {
+      "type": "edit",
+      "id": "9a82666d0d8faf64",
+      "item": {
+        "type": "paragraph",
+        "id": "9a82666d0d8faf64",
+        "text": "Two axes make four quadrants of emotion. "
+      },
+      "date": 1502093006455
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9a82666d0d8faf64",
+      "text": "Two axes make four quadrants of emotion. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d691aea107d7ce23",
+      "text": "Pleasure vs. displeasure, measured along a continuous scale from positive to negative."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1322c41f9cf818f",
+      "text": "High arousal vs. low arousal , measured along a continuous scale between these endpoints."
+    },
+    {
+      "type": "pagefold",
+      "id": "86952dd2a7851243",
+      "text": "Wikipedia Definition"
+    },
+    {
+      "type": "paragraph",
+      "id": "894adfcd-89c7-4787-a4ff-889d7c073c0c",
+      "text": "The theory of constructed emotion (formerly the conceptual act model of emotion) is a scientific theory to explain the experience and perception of emotion. This theory was proposed by Lisa Feldman Barrett to resolve the \"emotion paradox,\" which has perplexed emotion researchers for decades - [https://en.wikipedia.org/wiki/Theory_of_constructed_emotion wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "40c5f4b4-4e4b-41e4-85f1-deac8a5005d1",
+      "text": "The emotion paradox is as follows. People have vivid and intense experiences of emotion in day-to-day life: they report seeing emotions like \"anger\", \"sadness\", and \"happiness\" in others, and they report experiencing \"anger\", \"sadness\" and so on themselves. Nevertheless, psychophysiological and neuroscientific evidence has failed to yield consistent support for the existence of such discrete categories of experience. Instead, the empirical evidence suggests that what exists in the brain and body is affect, and emotions are constructed by multiple brain networks working in tandem."
+    },
+    {
+      "type": "paragraph",
+      "id": "16eb9bad-845d-4aa2-814a-76171cdad689",
+      "text": "Despite this evidence, most other theories of emotion assume that emotions are genetically endowed, not learned, and are produced by dedicated circuits in the brain: an anger circuit, a fear circuit, and so on. This point of view is very much in line with common-sense conceptions of emotion. The theory of constructed emotion calls this assumption into question. It suggests that these emotions (often called \"basic emotions\") are not biologically hardwired, but instead are phenomena that emerge in consciousness \"in the moment\" from more fundamental ingredients."
+    },
+    {
+      "type": "markdown",
+      "id": "ee82031a-9e90-49d4-9f24-145f63df38e2",
+      "text": "# See also\n* [[Statement of the theory]]\n* [[References]]"
+    }
+  ]
+}

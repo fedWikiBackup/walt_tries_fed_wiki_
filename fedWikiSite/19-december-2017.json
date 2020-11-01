@@ -1,0 +1,55 @@
+{
+  "title": "19 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a3b257750a66452d",
+      "text": "Today was a good day. I did \"very well\" in court, according to my paralegal and my boss. My heart is filled to know that I will be the excellent orator I always believed I could be. The challenge now is to find my stump."
+    },
+    {
+      "type": "paragraph",
+      "id": "6afe19114788ca2b",
+      "text": "Where should I perch to tell my story. And to whom should I tell it?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 December 2017",
+        "story": []
+      },
+      "date": 1513718557571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3b257750a66452d"
+      },
+      "id": "a3b257750a66452d",
+      "type": "add",
+      "date": 1513718558717
+    },
+    {
+      "type": "edit",
+      "id": "a3b257750a66452d",
+      "item": {
+        "type": "paragraph",
+        "id": "a3b257750a66452d",
+        "text": "Today was a good day. I did \"very well\" in court, according to my paralegal and my boss. My heart is filled to know that I will be the excellent orator I always believed I could be. The challenge now is to find my stump."
+      },
+      "date": 1513718612142
+    },
+    {
+      "type": "add",
+      "id": "6afe19114788ca2b",
+      "item": {
+        "type": "paragraph",
+        "id": "6afe19114788ca2b",
+        "text": "Where should I perch to tell my story. And to whom should I tell it?"
+      },
+      "after": "a3b257750a66452d",
+      "date": 1513718629665
+    }
+  ]
+}

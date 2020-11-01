@@ -1,0 +1,39 @@
+{
+  "title": "business",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "12274e8eb4182041",
+      "text": "Block-chain will disrupt the business contract. It started with money, but when the monetary contract is bonded to performance contract - then we have a business contract."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "business",
+        "story": []
+      },
+      "date": 1502088609570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12274e8eb4182041"
+      },
+      "id": "12274e8eb4182041",
+      "type": "add",
+      "date": 1502088610801
+    },
+    {
+      "type": "edit",
+      "id": "12274e8eb4182041",
+      "item": {
+        "type": "paragraph",
+        "id": "12274e8eb4182041",
+        "text": "Block-chain will disrupt the business contract. It started with money, but when the monetary contract is bonded to performance contract - then we have a business contract."
+      },
+      "date": 1502088666502
+    }
+  ]
+}

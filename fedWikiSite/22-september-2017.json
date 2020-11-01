@@ -1,0 +1,39 @@
+{
+  "title": "22 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5f764a7a6f7aefc7",
+      "text": "New Shape is shaping up. Truck wont start. Cell phone is broken. Bills are piling up. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 September 2017",
+        "story": []
+      },
+      "date": 1506101333189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f764a7a6f7aefc7"
+      },
+      "id": "5f764a7a6f7aefc7",
+      "type": "add",
+      "date": 1506101345071
+    },
+    {
+      "type": "edit",
+      "id": "5f764a7a6f7aefc7",
+      "item": {
+        "type": "paragraph",
+        "id": "5f764a7a6f7aefc7",
+        "text": "New Shape is shaping up. Truck wont start. Cell phone is broken. Bills are piling up. "
+      },
+      "date": 1506101365534
+    }
+  ]
+}

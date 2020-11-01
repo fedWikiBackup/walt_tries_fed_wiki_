@@ -1,0 +1,39 @@
+{
+  "title": "26 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ad75f2bda86fcca5",
+      "text": "Mediation yesterday was a success! But today? Lord. What a day. Met with FBI. Did not go well. Brief dropped in lap yesterday is still in dire need of help. Filing shitty work under my name feels terrible. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 January 2018",
+        "story": []
+      },
+      "date": 1517009577600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad75f2bda86fcca5"
+      },
+      "id": "ad75f2bda86fcca5",
+      "type": "add",
+      "date": 1517009578675
+    },
+    {
+      "type": "edit",
+      "id": "ad75f2bda86fcca5",
+      "item": {
+        "type": "paragraph",
+        "id": "ad75f2bda86fcca5",
+        "text": "Mediation yesterday was a success! But today? Lord. What a day. Met with FBI. Did not go well. Brief dropped in lap yesterday is still in dire need of help. Filing shitty work under my name feels terrible. "
+      },
+      "date": 1517009631362
+    }
+  ]
+}

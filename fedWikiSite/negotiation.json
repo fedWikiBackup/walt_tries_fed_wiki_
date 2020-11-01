@@ -1,0 +1,49 @@
+{
+  "title": "Negotiation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "35e33fa9191a9043",
+      "text": "Not all styles of negotiation were created equal. Perhaps even more importantly, [http://www.businessinsider.sg/communication-charts-around-the-world-2014-3/#.UzTsmK1dVy#PxI5jTHjr5oid3qh.97 styles change depending on country.]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Negotiation",
+        "story": []
+      },
+      "date": 1489008802226
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35e33fa9191a9043"
+      },
+      "id": "35e33fa9191a9043",
+      "type": "add",
+      "date": 1489008803871
+    },
+    {
+      "type": "edit",
+      "id": "35e33fa9191a9043",
+      "item": {
+        "type": "paragraph",
+        "id": "35e33fa9191a9043",
+        "text": "Not all styles of negotiation were created equal. Perhaps even more importantly, [http://www.businessinsider.sg/communication-charts-around-the-world-2014-3/#.UzTsmK1dVy#PxI5jTHjr5oid3qh.97 styles change depending on country]."
+      },
+      "date": 1489008851125
+    },
+    {
+      "type": "edit",
+      "id": "35e33fa9191a9043",
+      "item": {
+        "type": "paragraph",
+        "id": "35e33fa9191a9043",
+        "text": "Not all styles of negotiation were created equal. Perhaps even more importantly, [http://www.businessinsider.sg/communication-charts-around-the-world-2014-3/#.UzTsmK1dVy#PxI5jTHjr5oid3qh.97 styles change depending on country.]"
+      },
+      "date": 1489008856977
+    }
+  ]
+}

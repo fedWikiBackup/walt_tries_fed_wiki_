@@ -1,0 +1,101 @@
+{
+  "title": "Hemp",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c2df837a79ecd9fb",
+      "text": "The first draft of our Declaration of Independence was written on Hemp paper. Hemp planting was encouraged to make rope for WWII. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f28060d39c0d6cf1",
+      "text": "[http://www.thehia.org/ The Hemp Industries Association]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9fc5fcd6b57dfded",
+      "text": "[https://catalog.extension.oregonstate.edu/sb681 Feasibility of Industrial Hemp Production in the United States Pacific Northwest]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hemp",
+        "story": []
+      },
+      "date": 1489009284554
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2df837a79ecd9fb"
+      },
+      "id": "c2df837a79ecd9fb",
+      "type": "add",
+      "date": 1489009286206
+    },
+    {
+      "type": "edit",
+      "id": "c2df837a79ecd9fb",
+      "item": {
+        "type": "paragraph",
+        "id": "c2df837a79ecd9fb",
+        "text": "The first draft of our Declaration of Independence was written on Hemp paper. Hemp planting was encouraged to make rope for WWII. "
+      },
+      "date": 1489009337607
+    },
+    {
+      "type": "add",
+      "id": "f28060d39c0d6cf1",
+      "item": {
+        "type": "paragraph",
+        "id": "f28060d39c0d6cf1",
+        "text": "[http://www.thehia.org/ "
+      },
+      "after": "c2df837a79ecd9fb",
+      "date": 1489009341913
+    },
+    {
+      "type": "edit",
+      "id": "f28060d39c0d6cf1",
+      "item": {
+        "type": "paragraph",
+        "id": "f28060d39c0d6cf1",
+        "text": "[http://www.thehia.org/ The Hemp Industries Association]]"
+      },
+      "date": 1489009358466
+    },
+    {
+      "type": "edit",
+      "id": "f28060d39c0d6cf1",
+      "item": {
+        "type": "paragraph",
+        "id": "f28060d39c0d6cf1",
+        "text": "[http://www.thehia.org/ The Hemp Industries Association]"
+      },
+      "date": 1489009364601
+    },
+    {
+      "type": "add",
+      "id": "9fc5fcd6b57dfded",
+      "item": {
+        "type": "paragraph",
+        "id": "9fc5fcd6b57dfded",
+        "text": "[https://catalog.extension.oregonstate.edu/sb681 Feasibility of "
+      },
+      "after": "f28060d39c0d6cf1",
+      "date": 1489009406968
+    },
+    {
+      "type": "edit",
+      "id": "9fc5fcd6b57dfded",
+      "item": {
+        "type": "paragraph",
+        "id": "9fc5fcd6b57dfded",
+        "text": "[https://catalog.extension.oregonstate.edu/sb681 Feasibility of Industrial Hemp Production in the United States Pacific Northwest]"
+      },
+      "date": 1489009419478
+    }
+  ]
+}

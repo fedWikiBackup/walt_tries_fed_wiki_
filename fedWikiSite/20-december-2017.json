@@ -1,0 +1,39 @@
+{
+  "title": "20 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "76145e2d5650accd",
+      "text": "Early morning cross country skiing - saw a moose. Then to firehall for meeting with mentor. Pace so damn slow - most volunteers operate on a different wavelength than me. Work is slowing down. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 December 2017",
+        "story": []
+      },
+      "date": 1513813667412
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76145e2d5650accd"
+      },
+      "id": "76145e2d5650accd",
+      "type": "add",
+      "date": 1513813669053
+    },
+    {
+      "type": "edit",
+      "id": "76145e2d5650accd",
+      "item": {
+        "type": "paragraph",
+        "id": "76145e2d5650accd",
+        "text": "Early morning cross country skiing - saw a moose. Then to firehall for meeting with mentor. Pace so damn slow - most volunteers operate on a different wavelength than me. Work is slowing down. "
+      },
+      "date": 1513813729220
+    }
+  ]
+}

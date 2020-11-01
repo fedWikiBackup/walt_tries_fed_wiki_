@@ -1,0 +1,55 @@
+{
+  "title": "23 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5c242354a104ed9f",
+      "text": "Either Jack and the kids at the school house are as blessed as me - or the deer is getting around ;). Well, perhaps the interaction was not as special as I thought."
+    },
+    {
+      "type": "paragraph",
+      "id": "936de74ce7284ed5",
+      "text": "Anyway - helped Ben get farm 2 one step closer to ready - will be pretty exciting when he has both up and running. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "23 June 2017",
+        "story": []
+      },
+      "date": 1498244365122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c242354a104ed9f"
+      },
+      "id": "5c242354a104ed9f",
+      "type": "add",
+      "date": 1498244366000
+    },
+    {
+      "type": "edit",
+      "id": "5c242354a104ed9f",
+      "item": {
+        "type": "paragraph",
+        "id": "5c242354a104ed9f",
+        "text": "Either Jack and the kids at the school house are as blessed as me - or the deer is getting around ;). Well, perhaps the interaction was not as special as I thought."
+      },
+      "date": 1498244410827
+    },
+    {
+      "type": "add",
+      "id": "936de74ce7284ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "936de74ce7284ed5",
+        "text": "Anyway - helped Ben get farm 2 one step closer to ready - will be pretty exciting when he has both up and running. "
+      },
+      "after": "5c242354a104ed9f",
+      "date": 1498244438297
+    }
+  ]
+}

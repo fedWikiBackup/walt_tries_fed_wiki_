@@ -1,0 +1,117 @@
+{
+  "title": "The Houses",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c86068f49f74d79e",
+      "text": "House Size = (Voters*(1/3))^(.25)"
+    },
+    {
+      "type": "paragraph",
+      "id": "37f1ac728d3eb54e",
+      "text": "The three houses will represent each of Northern Hemisphere voting populations, Southern Hemisphere voting populations, and Global voting populations. "
+    },
+    {
+      "type": "paragraph",
+      "id": "669524d10339a8fb",
+      "text": "Terms will be 3 years, with 1 month campaign season limit. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e37bd44afd3f0c61",
+      "text": "Each [[house]] will contain 184 members with [[global voting-age population]] (\"Gvp\") of individuals at 3.5 billion."
+    },
+    {
+      "type": "paragraph",
+      "id": "f00c7242c9172561",
+      "text": "[[Representatives]] will be elected by the general assembly."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Houses",
+        "story": []
+      },
+      "date": 1502086416382
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d88b00adce106121"
+      },
+      "id": "d88b00adce106121",
+      "type": "add",
+      "date": 1502086417588
+    },
+    {
+      "type": "edit",
+      "id": "d88b00adce106121",
+      "item": {
+        "type": "paragraph",
+        "id": "d88b00adce106121",
+        "text": "House Size = (Gvp*(1/3))^(1/4)"
+      },
+      "date": 1502086497874
+    },
+    {
+      "type": "remove",
+      "id": "d88b00adce106121",
+      "date": 1502086606957
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Northern Hemisphere voting populations, Southern Hemisphere voting populations, and Global voting populations. "
+      },
+      "id": "37f1ac728d3eb54e",
+      "date": 1502088191473
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "669524d10339a8fb",
+        "text": "Terms will be 3 years, with 1 month campaign season limit. "
+      },
+      "after": "37f1ac728d3eb54e",
+      "id": "669524d10339a8fb",
+      "date": 1502088193042
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e37bd44afd3f0c61",
+        "text": "Each [[house]] will contain 184 members with [[global voting-age population]] (\"Gvp\") of individuals at 3.5 billion."
+      },
+      "after": "669524d10339a8fb",
+      "id": "e37bd44afd3f0c61",
+      "date": 1502088194800
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f00c7242c9172561",
+        "text": "[[Representatives]] will be elected by the general assembly."
+      },
+      "after": "e37bd44afd3f0c61",
+      "id": "f00c7242c9172561",
+      "date": 1502088197767
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c86068f49f74d79e",
+        "text": "House Size = (Voters*(1/3))^(.25)"
+      },
+      "id": "c86068f49f74d79e",
+      "date": 1502088330737
+    }
+  ]
+}

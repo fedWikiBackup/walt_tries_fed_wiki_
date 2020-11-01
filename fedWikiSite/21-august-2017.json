@@ -1,0 +1,39 @@
+{
+  "title": "21 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "50cfcb7c6bd6d111",
+      "text": "Solar eclipse was cool. DMV people were nice. Liz, et. al leave tomorrow. Looking forward to alone time. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 August 2017",
+        "story": []
+      },
+      "date": 1503355994575
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50cfcb7c6bd6d111"
+      },
+      "id": "50cfcb7c6bd6d111",
+      "type": "add",
+      "date": 1503355995598
+    },
+    {
+      "type": "edit",
+      "id": "50cfcb7c6bd6d111",
+      "item": {
+        "type": "paragraph",
+        "id": "50cfcb7c6bd6d111",
+        "text": "Solar eclipse was cool. DMV people were nice. Liz, et. al leave tomorrow. Looking forward to alone time. "
+      },
+      "date": 1503356037716
+    }
+  ]
+}

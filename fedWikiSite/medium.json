@@ -1,0 +1,39 @@
+{
+  "title": "Medium",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "13b42f3237f15b91",
+      "text": "A substrate for communication and news dissemination."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Medium",
+        "story": []
+      },
+      "date": 1488061588375
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13b42f3237f15b91"
+      },
+      "id": "13b42f3237f15b91",
+      "type": "add",
+      "date": 1488061589985
+    },
+    {
+      "type": "edit",
+      "id": "13b42f3237f15b91",
+      "item": {
+        "type": "paragraph",
+        "id": "13b42f3237f15b91",
+        "text": "A substrate for communication and news dissemination."
+      },
+      "date": 1488061601173
+    }
+  ]
+}

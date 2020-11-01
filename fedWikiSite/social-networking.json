@@ -1,0 +1,59 @@
+{
+  "title": "social networking",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "44a9415a302c7eca",
+      "text": "Pretty self explanatory. Social networking defines the sustainability of a civilization."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "social networking",
+        "story": []
+      },
+      "date": 1502078257592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44a9415a302c7eca"
+      },
+      "id": "44a9415a302c7eca",
+      "type": "add",
+      "date": 1502078258744
+    },
+    {
+      "type": "edit",
+      "id": "44a9415a302c7eca",
+      "item": {
+        "type": "paragraph",
+        "id": "44a9415a302c7eca",
+        "text": "Pretty self explanatory. "
+      },
+      "date": 1502078292900
+    },
+    {
+      "type": "edit",
+      "id": "44a9415a302c7eca",
+      "item": {
+        "type": "paragraph",
+        "id": "44a9415a302c7eca",
+        "text": "Pretty self explanatory. Our social networking defines our civilization."
+      },
+      "date": 1502079200491
+    },
+    {
+      "type": "edit",
+      "id": "44a9415a302c7eca",
+      "item": {
+        "type": "paragraph",
+        "id": "44a9415a302c7eca",
+        "text": "Pretty self explanatory. Social networking defines the sustainability of a civilization."
+      },
+      "date": 1502082506596
+    }
+  ]
+}

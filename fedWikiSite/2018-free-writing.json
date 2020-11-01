@@ -1,0 +1,165 @@
+{
+  "title": "2018 Free Writing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3fd6709affecd698",
+      "text": "[[January 2018]] started with a test."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d4ab3b67a14af37",
+      "text": "[[February 2018]] and it is still winter."
+    },
+    {
+      "type": "paragraph",
+      "id": "e67d9379c4e30f31",
+      "text": "[[March 2018]] is still winter - yay for snow!!!"
+    },
+    {
+      "type": "paragraph",
+      "id": "4b0f4a6b802e7246",
+      "text": "[[April 2018]] is still winter - less yay for snow."
+    },
+    {
+      "type": "paragraph",
+      "id": "a8e26054ac2db202",
+      "text": "[[May 2018]] is spring."
+    },
+    {
+      "type": "paragraph",
+      "id": "a8f4855bbdce3a7e",
+      "text": "[[June 2018]] is really spring."
+    },
+    {
+      "type": "paragraph",
+      "id": "698370430c5b00b5",
+      "text": "[[July 2018]] is Summer!!!!"
+    },
+    {
+      "type": "paragraph",
+      "id": "25a9f21065707cfe",
+      "text": "[[August 2018]] is really really summer - aka Hot."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2018 Free Writing",
+        "story": []
+      },
+      "date": 1514914767026
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9dc9164daa4a5614"
+      },
+      "id": "9dc9164daa4a5614",
+      "type": "add",
+      "date": 1514914768043
+    },
+    {
+      "type": "remove",
+      "id": "9dc9164daa4a5614",
+      "date": 1514914777446
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3fd6709affecd698"
+      },
+      "id": "3fd6709affecd698",
+      "type": "add",
+      "date": 1514914780602
+    },
+    {
+      "type": "edit",
+      "id": "3fd6709affecd698",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd6709affecd698",
+        "text": "[[January 2018]] started with a test."
+      },
+      "date": 1514914809345
+    },
+    {
+      "type": "add",
+      "id": "2d4ab3b67a14af37",
+      "item": {
+        "type": "paragraph",
+        "id": "2d4ab3b67a14af37",
+        "text": "[[February 2018]] and it is still winter."
+      },
+      "after": "3fd6709affecd698",
+      "date": 1517507334031
+    },
+    {
+      "type": "add",
+      "id": "e67d9379c4e30f31",
+      "item": {
+        "type": "paragraph",
+        "id": "e67d9379c4e30f31",
+        "text": "[[March 2018]] is still winter - yay for snow!!!"
+      },
+      "after": "2d4ab3b67a14af37",
+      "date": 1520019340662
+    },
+    {
+      "type": "add",
+      "id": "4b0f4a6b802e7246",
+      "item": {
+        "type": "paragraph",
+        "id": "4b0f4a6b802e7246",
+        "text": "[[April 2018]] is still winter - less yay for snow."
+      },
+      "after": "e67d9379c4e30f31",
+      "date": 1522772731220
+    },
+    {
+      "type": "add",
+      "id": "a8e26054ac2db202",
+      "item": {
+        "type": "paragraph",
+        "id": "a8e26054ac2db202",
+        "text": "[[May 2018]] is spring."
+      },
+      "after": "4b0f4a6b802e7246",
+      "date": 1525897378267
+    },
+    {
+      "type": "add",
+      "id": "a8f4855bbdce3a7e",
+      "item": {
+        "type": "paragraph",
+        "id": "a8f4855bbdce3a7e",
+        "text": "[[June 2018]] is really spring."
+      },
+      "after": "a8e26054ac2db202",
+      "date": 1528130919049
+    },
+    {
+      "type": "add",
+      "id": "698370430c5b00b5",
+      "item": {
+        "type": "paragraph",
+        "id": "698370430c5b00b5",
+        "text": "[[July 2018]] is Summer!!!!"
+      },
+      "after": "a8f4855bbdce3a7e",
+      "date": 1531328924295
+    },
+    {
+      "type": "add",
+      "id": "25a9f21065707cfe",
+      "item": {
+        "type": "paragraph",
+        "id": "25a9f21065707cfe",
+        "text": "[[August 2018]] is really really summer - aka Hot."
+      },
+      "after": "698370430c5b00b5",
+      "date": 1533239238345
+    }
+  ]
+}

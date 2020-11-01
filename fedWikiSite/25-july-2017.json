@@ -1,0 +1,71 @@
+{
+  "title": "25 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f8d05e40c6230bcd",
+      "text": "I need to stop letting the weekend drag down my Mondays. Sunday should be a day of rest and I should be in bed by 1030. Spending time with Ben and the Kids should not mean anything different."
+    },
+    {
+      "type": "paragraph",
+      "id": "9f2bb58688521adc",
+      "text": "Today is another trip to the courthouse - yay. Also, bought a new old truck yesterday. Very excited about that."
+    },
+    {
+      "type": "paragraph",
+      "id": "facfd66026236095",
+      "text": "Starting to settle into the new job. Really enjoying it and feeling really excited about the future here in the Billings area."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "25 July 2017",
+        "story": []
+      },
+      "date": 1500996096512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8d05e40c6230bcd"
+      },
+      "id": "f8d05e40c6230bcd",
+      "type": "add",
+      "date": 1500996097680
+    },
+    {
+      "type": "edit",
+      "id": "f8d05e40c6230bcd",
+      "item": {
+        "type": "paragraph",
+        "id": "f8d05e40c6230bcd",
+        "text": "I need to stop letting the weekend drag down my Mondays. Sunday should be a day of rest and I should be in bed by 1030. Spending time with Ben and the Kids should not mean anything different."
+      },
+      "date": 1500996146233
+    },
+    {
+      "type": "add",
+      "id": "9f2bb58688521adc",
+      "item": {
+        "type": "paragraph",
+        "id": "9f2bb58688521adc",
+        "text": "Today is another trip to the courthouse - yay. Also, bought a new old truck yesterday. Very excited about that."
+      },
+      "after": "f8d05e40c6230bcd",
+      "date": 1500996175347
+    },
+    {
+      "type": "add",
+      "id": "facfd66026236095",
+      "item": {
+        "type": "paragraph",
+        "id": "facfd66026236095",
+        "text": "Starting to settle into the new job. Really enjoying it and feeling really excited about the future here in the Billings area."
+      },
+      "after": "9f2bb58688521adc",
+      "date": 1501029348275
+    }
+  ]
+}

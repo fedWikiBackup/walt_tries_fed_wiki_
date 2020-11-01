@@ -1,0 +1,55 @@
+{
+  "title": "26 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6cab5894806f281f",
+      "text": "This desk/chair in my Air BnB is very uncomfortable. Back hurts. Ward reached out today - really happy to see that. Looking forward to showing him progress on the New Shape Application. Hopefully he sees my vision for Fed Wiki as one that fits within his world view - if not, I am ready to alter my vision, as I trust his."
+    },
+    {
+      "type": "paragraph",
+      "id": "26b3ec1993c15add",
+      "text": "I get sworn into the NY Bar on Wednesday after an interview tomorrow. I hope it all goes well, that is for sure."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 June 2017",
+        "story": []
+      },
+      "date": 1498513514638
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6cab5894806f281f"
+      },
+      "id": "6cab5894806f281f",
+      "type": "add",
+      "date": 1498513516117
+    },
+    {
+      "type": "edit",
+      "id": "6cab5894806f281f",
+      "item": {
+        "type": "paragraph",
+        "id": "6cab5894806f281f",
+        "text": "This desk/chair in my Air BnB is very uncomfortable. Back hurts. Ward reached out today - really happy to see that. Looking forward to showing him progress on the New Shape Application. Hopefully he sees my vision for Fed Wiki as one that fits within his world view - if not, I am ready to alter my vision, as I trust his."
+      },
+      "date": 1498513608655
+    },
+    {
+      "type": "add",
+      "id": "26b3ec1993c15add",
+      "item": {
+        "type": "paragraph",
+        "id": "26b3ec1993c15add",
+        "text": "I get sworn into the NY Bar on Wednesday after an interview tomorrow. I hope it all goes well, that is for sure."
+      },
+      "after": "6cab5894806f281f",
+      "date": 1498513632834
+    }
+  ]
+}

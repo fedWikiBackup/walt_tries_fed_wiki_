@@ -1,0 +1,151 @@
+{
+  "title": "August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d582d9843447db79",
+      "text": "[[2 August 2018]] is Thursday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "58c33621633e3af3",
+      "text": "[[8 August 2018]] is Wednesday in Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "489d687bc77ddfc3",
+      "text": "[[13 August 2018]] is Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9f358c3db593969",
+      "text": "[[14 August 2018]] is Tuesday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "62a1932989b43cf2",
+      "text": "[[16 August 2018]] is Thursday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "4bc8841fd91e6b8b",
+      "text": "[[17 August 2018]] if Friday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "d0f956ddba312cb8",
+      "text": "[[20 August 2018]] is Monday in Billings/GF."
+    },
+    {
+      "type": "paragraph",
+      "id": "9ac4e2d334a73a9b",
+      "text": "[[27 August 2018]] is Monday in Nye."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "August 2018",
+        "story": []
+      },
+      "date": 1533239240967
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d582d9843447db79"
+      },
+      "id": "d582d9843447db79",
+      "type": "add",
+      "date": 1533239241874
+    },
+    {
+      "type": "edit",
+      "id": "d582d9843447db79",
+      "item": {
+        "type": "paragraph",
+        "id": "d582d9843447db79",
+        "text": "[[2 August 2018]] is Thursday in RL."
+      },
+      "date": 1533239254771
+    },
+    {
+      "type": "add",
+      "id": "58c33621633e3af3",
+      "item": {
+        "type": "paragraph",
+        "id": "58c33621633e3af3",
+        "text": "[[8 August 2018]] is Wednesday in Nye."
+      },
+      "after": "d582d9843447db79",
+      "date": 1533769958922
+    },
+    {
+      "type": "add",
+      "id": "489d687bc77ddfc3",
+      "item": {
+        "type": "paragraph",
+        "id": "489d687bc77ddfc3",
+        "text": "[[13 August 2018]] is Monday in Billings."
+      },
+      "after": "58c33621633e3af3",
+      "date": 1534178398244
+    },
+    {
+      "type": "add",
+      "id": "b9f358c3db593969",
+      "item": {
+        "type": "paragraph",
+        "id": "b9f358c3db593969",
+        "text": "[[14 August 2018]] is Tuesday in RL."
+      },
+      "after": "489d687bc77ddfc3",
+      "date": 1534258939576
+    },
+    {
+      "type": "add",
+      "id": "62a1932989b43cf2",
+      "item": {
+        "type": "paragraph",
+        "id": "62a1932989b43cf2",
+        "text": "[[16 August 2018]] is Thursday in Billings."
+      },
+      "after": "b9f358c3db593969",
+      "date": 1534450124880
+    },
+    {
+      "type": "add",
+      "id": "4bc8841fd91e6b8b",
+      "item": {
+        "type": "paragraph",
+        "id": "4bc8841fd91e6b8b",
+        "text": "[[17 August 2018]] if Friday in Billings."
+      },
+      "after": "62a1932989b43cf2",
+      "date": 1534528031406
+    },
+    {
+      "type": "add",
+      "id": "d0f956ddba312cb8",
+      "item": {
+        "type": "paragraph",
+        "id": "d0f956ddba312cb8",
+        "text": "[[20 August 2018]] is Monday in Billings/GF."
+      },
+      "after": "4bc8841fd91e6b8b",
+      "date": 1534790059919
+    },
+    {
+      "type": "add",
+      "id": "9ac4e2d334a73a9b",
+      "item": {
+        "type": "paragraph",
+        "id": "9ac4e2d334a73a9b",
+        "text": "[[27 August 2018]] is Monday in Nye."
+      },
+      "after": "d0f956ddba312cb8",
+      "date": 1535395732096
+    }
+  ]
+}

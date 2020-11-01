@@ -1,0 +1,49 @@
+{
+  "title": "18 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0f0d68dcce1945a4",
+      "text": "Finally. It is Friday and I will soon be asleep for at least 12 hours. I can hardly wait. My brain is drained and is ready for some much-needed rest."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 August 2017",
+        "story": []
+      },
+      "date": 1503090019463
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f0d68dcce1945a4"
+      },
+      "id": "0f0d68dcce1945a4",
+      "type": "add",
+      "date": 1503090020415
+    },
+    {
+      "type": "edit",
+      "id": "0f0d68dcce1945a4",
+      "item": {
+        "type": "paragraph",
+        "id": "0f0d68dcce1945a4",
+        "text": "Finally. It is Friday and I will soon be asleep for at least 12 hours. I can hardly wait. My brain is drained and is ready for some much needed rest."
+      },
+      "date": 1503090053655
+    },
+    {
+      "type": "edit",
+      "id": "0f0d68dcce1945a4",
+      "item": {
+        "type": "paragraph",
+        "id": "0f0d68dcce1945a4",
+        "text": "Finally. It is Friday and I will soon be asleep for at least 12 hours. I can hardly wait. My brain is drained and is ready for some much-needed rest."
+      },
+      "date": 1503090059241
+    }
+  ]
+}

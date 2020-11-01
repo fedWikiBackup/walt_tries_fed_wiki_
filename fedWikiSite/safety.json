@@ -1,0 +1,39 @@
+{
+  "title": "safety",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2e8c55f0d3530e07",
+      "text": "Security is an unrealistic 2-Dimensional goal. There is not true freedom from risk. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "safety",
+        "story": []
+      },
+      "date": 1502084847848
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e8c55f0d3530e07"
+      },
+      "id": "2e8c55f0d3530e07",
+      "type": "add",
+      "date": 1502084848735
+    },
+    {
+      "type": "edit",
+      "id": "2e8c55f0d3530e07",
+      "item": {
+        "type": "paragraph",
+        "id": "2e8c55f0d3530e07",
+        "text": "Security is an unrealistic 2-Dimensional goal. There is not true freedom from risk. "
+      },
+      "date": 1502084883620
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "13 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "080ddc650b1d31b0",
+      "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened to [https://oldsaltunion.com/ Old Salt Union] - which was a fantastic string delight hailing from St. Louis. Which reminds me of the equally fantastic [http://peculiarpatriots.com/ Peculiar Patriots] that grooved last weekend. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bb853b9ab0cabde4",
+      "text": "I love live music like I love living. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 July 2018",
+        "story": []
+      },
+      "date": 1531498736691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "080ddc650b1d31b0"
+      },
+      "id": "080ddc650b1d31b0",
+      "type": "add",
+      "date": 1531498737704
+    },
+    {
+      "type": "edit",
+      "id": "080ddc650b1d31b0",
+      "item": {
+        "type": "paragraph",
+        "id": "080ddc650b1d31b0",
+        "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened "
+      },
+      "date": 1531498792798
+    },
+    {
+      "type": "edit",
+      "id": "080ddc650b1d31b0",
+      "item": {
+        "type": "paragraph",
+        "id": "080ddc650b1d31b0",
+        "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened to Old Salt Union - which was a fantastic string delight hailing from St. Louis. "
+      },
+      "date": 1531498847006
+    },
+    {
+      "type": "edit",
+      "id": "080ddc650b1d31b0",
+      "item": {
+        "type": "paragraph",
+        "id": "080ddc650b1d31b0",
+        "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened to [https://oldsaltunion.com/ Old Salt Union] - which was a fantastic string delight hailing from St. Louis. "
+      },
+      "date": 1531498874677
+    },
+    {
+      "type": "edit",
+      "id": "080ddc650b1d31b0",
+      "item": {
+        "type": "paragraph",
+        "id": "080ddc650b1d31b0",
+        "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened to [https://oldsaltunion.com/ Old Salt Union] - which was a fantastic string delight hailing from St. Louis. Which reminds me of the equally fantastic "
+      },
+      "date": 1531498890399
+    },
+    {
+      "type": "edit",
+      "id": "080ddc650b1d31b0",
+      "item": {
+        "type": "paragraph",
+        "id": "080ddc650b1d31b0",
+        "text": "Danced the night away yestereve after a thrilling performance of Love's Labor's Lost by the Montana Shakespeare in the Parks. What an event and a talented crew. The dancing happened to [https://oldsaltunion.com/ Old Salt Union] - which was a fantastic string delight hailing from St. Louis. Which reminds me of the equally fantastic [http://peculiarpatriots.com/ Peculiar Patriots] that grooved last weekend. "
+      },
+      "date": 1531498956408
+    },
+    {
+      "type": "add",
+      "id": "bb853b9ab0cabde4",
+      "item": {
+        "type": "paragraph",
+        "id": "bb853b9ab0cabde4",
+        "text": "I love live music like I love living. "
+      },
+      "after": "080ddc650b1d31b0",
+      "date": 1531498964436
+    }
+  ]
+}

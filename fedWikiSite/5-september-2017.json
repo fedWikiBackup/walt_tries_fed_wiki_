@@ -1,0 +1,39 @@
+{
+  "title": "5 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c5545c9d52f3411a",
+      "text": "Brief almost due and Kamila arrives today. Kip arrives tomorrow. Big stuff. May I find the time for it all!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 September 2017",
+        "story": []
+      },
+      "date": 1504628658053
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5545c9d52f3411a"
+      },
+      "id": "c5545c9d52f3411a",
+      "type": "add",
+      "date": 1504628659014
+    },
+    {
+      "type": "edit",
+      "id": "c5545c9d52f3411a",
+      "item": {
+        "type": "paragraph",
+        "id": "c5545c9d52f3411a",
+        "text": "Brief almost due and Kamila arrives today. Kip arrives tomorrow. Big stuff. May I find the time for it all!"
+      },
+      "date": 1504628690661
+    }
+  ]
+}

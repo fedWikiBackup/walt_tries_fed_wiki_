@@ -1,0 +1,58 @@
+{
+  "title": "Exploring the Future",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b5d6ef14ccf41523",
+      "text": "[[Architecture]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Exploring the Future",
+        "story": []
+      },
+      "date": 1488182613443,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5d6ef14ccf41523"
+      },
+      "id": "b5d6ef14ccf41523",
+      "type": "add",
+      "date": 1488182614960,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b5d6ef14ccf41523",
+      "item": {
+        "type": "paragraph",
+        "id": "b5d6ef14ccf41523",
+        "text": "[[Architecture]]"
+      },
+      "date": 1488182628566,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489269185550
+    }
+  ]
+}

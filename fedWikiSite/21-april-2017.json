@@ -1,0 +1,133 @@
+{
+  "title": "21 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7351b607cf798b92",
+      "text": "Rome is old. It was an empire. It fell. They built a new Rome on top. Several times. I wonder what will be built on top next."
+    },
+    {
+      "type": "paragraph",
+      "id": "74e5e97e20170fca",
+      "text": "The colosseum and palatino were amazing, but could have skipped the internal tour of the colosseum. The views from the palatino made it worth it. Same for the 20th century monument for the former king of Italy - amazing views."
+    },
+    {
+      "type": "paragraph",
+      "id": "e8167241ca365050",
+      "text": "Far fewer large dogs than in Naples. Much cleaner than in Naples. I love Rome, except for the earthquake risk. Such a beautiful city with so much amazing history surrounded by beautiful people and beautiful food."
+    },
+    {
+      "type": "paragraph",
+      "id": "0c54df4c359da439",
+      "text": "I went out for beers with the group from the Rome hostel and we had a blast chatting with the local Italians (who were very nice). I probably had too many drinks, but made some new friends - so happy to be meeting people everywhere I go."
+    },
+    {
+      "type": "paragraph",
+      "id": "b1ef4874107526b7",
+      "text": "The train to Florence was amazing. What views. I wish I had not been rocked to sleep. My hostel in Florence is better than a 4 star hotel. Mosi is its name - truly incredible host and beautifully decorated. My bunk room overlooks a small olive orchard at 30 euros a night!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 April 2017",
+        "story": []
+      },
+      "date": 1492791232722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7351b607cf798b92"
+      },
+      "id": "7351b607cf798b92",
+      "type": "add",
+      "date": 1492791234632
+    },
+    {
+      "type": "edit",
+      "id": "7351b607cf798b92",
+      "item": {
+        "type": "paragraph",
+        "id": "7351b607cf798b92",
+        "text": "Rome is old. It was n empire. It fell. They built a new Rome on top. Several times. I wonder what will be built on top next."
+      },
+      "date": 1492791264202
+    },
+    {
+      "type": "add",
+      "id": "e8167241ca365050",
+      "item": {
+        "type": "paragraph",
+        "id": "e8167241ca365050",
+        "text": "Far fewer large dogs than in Naples. Much cleaner than in Naples. I love Rome, except for the earthquake risk. Such a beautiful city with so much amazing history surrounded by beautiful people and beautiful food."
+      },
+      "after": "7351b607cf798b92",
+      "date": 1492791322882
+    },
+    {
+      "type": "add",
+      "id": "b1ef4874107526b7",
+      "item": {
+        "type": "paragraph",
+        "id": "b1ef4874107526b7",
+        "text": "The train to Florence was amazing. What views. I ended up "
+      },
+      "after": "e8167241ca365050",
+      "date": 1492791367289
+    },
+    {
+      "type": "edit",
+      "id": "7351b607cf798b92",
+      "item": {
+        "type": "paragraph",
+        "id": "7351b607cf798b92",
+        "text": "Rome is old. It was an empire. It fell. They built a new Rome on top. Several times. I wonder what will be built on top next."
+      },
+      "date": 1492791375059
+    },
+    {
+      "type": "add",
+      "id": "74e5e97e20170fca",
+      "item": {
+        "type": "paragraph",
+        "id": "74e5e97e20170fca",
+        "text": "The colosseum and palatino were amazing, but could have skipped the internal tour of the colosseum. The views from the palatino made it worth it. Same for the 20th century monument for the former king of Italy - amazing views."
+      },
+      "after": "7351b607cf798b92",
+      "date": 1492791442313
+    },
+    {
+      "type": "edit",
+      "id": "b1ef4874107526b7",
+      "item": {
+        "type": "paragraph",
+        "id": "b1ef4874107526b7",
+        "text": "The train to Florence was amazing. What views. I wish I had not been rocked to sleep. My hostel in Florence is better than a 4 star hotel. Mosi is its name - truly incredible host and beautifully decorated."
+      },
+      "date": 1492791487012
+    },
+    {
+      "type": "add",
+      "id": "0c54df4c359da439",
+      "item": {
+        "type": "paragraph",
+        "id": "0c54df4c359da439",
+        "text": "I went out for beers with the group from the Rome hostel and we had a blast chatting with the local Italians (who were very nice). I probably had too many drinks, but made some new friends - so happy to be meeting people everywhere I go."
+      },
+      "after": "e8167241ca365050",
+      "date": 1492791581362
+    },
+    {
+      "type": "edit",
+      "id": "b1ef4874107526b7",
+      "item": {
+        "type": "paragraph",
+        "id": "b1ef4874107526b7",
+        "text": "The train to Florence was amazing. What views. I wish I had not been rocked to sleep. My hostel in Florence is better than a 4 star hotel. Mosi is its name - truly incredible host and beautifully decorated. My bunk room overlooks a small olive orchard at 30 euros a night!"
+      },
+      "date": 1492791610715
+    }
+  ]
+}

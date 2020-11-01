@@ -1,0 +1,39 @@
+{
+  "title": "metabolic processes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "50b70c374cc6b156",
+      "text": "See [[Metabolism]] in the [[Glossary]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "metabolic processes",
+        "story": []
+      },
+      "date": 1502091627280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50b70c374cc6b156"
+      },
+      "id": "50b70c374cc6b156",
+      "type": "add",
+      "date": 1502091628611
+    },
+    {
+      "type": "edit",
+      "id": "50b70c374cc6b156",
+      "item": {
+        "type": "paragraph",
+        "id": "50b70c374cc6b156",
+        "text": "See [[Metabolism]] in the [[Glossary]]."
+      },
+      "date": 1502091645623
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "4 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "575d133095db84b0",
+      "text": "[[Peace]] can only be achieved by understanding."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "4 September 2017",
+        "story": []
+      },
+      "date": 1504553240342
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "575d133095db84b0"
+      },
+      "id": "575d133095db84b0",
+      "type": "add",
+      "date": 1504553241521
+    },
+    {
+      "type": "edit",
+      "id": "575d133095db84b0",
+      "item": {
+        "type": "paragraph",
+        "id": "575d133095db84b0",
+        "text": "[[Peace]] can only be achieved by understanding."
+      },
+      "date": 1504553265352
+    }
+  ]
+}

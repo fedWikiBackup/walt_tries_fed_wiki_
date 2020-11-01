@@ -1,0 +1,345 @@
+{
+  "title": "Walter's Research and Writing",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "fb641460c618e20b",
+      "text": "Highlights"
+    },
+    {
+      "type": "paragraph",
+      "id": "d58a7c1ba7273232",
+      "text": "[[Glossary]] of terms."
+    },
+    {
+      "type": "paragraph",
+      "id": "27fba070e13d0967",
+      "text": "[[Scaling Laws]] were invented by [[Geoffrey West]]. Those laws are generating a paradigm shift in the [[City]]."
+    },
+    {
+      "type": "pagefold",
+      "id": "3538ed0550a95a82",
+      "text": "To Be Read"
+    },
+    {
+      "type": "paragraph",
+      "id": "b26212c52e0a6923",
+      "text": "[https://medium.com/@coinscrum/the-fractal-relationship-between-bitcoins-first-two-bubbles-and-what-they-might-tell-us-about-a-7c8df5fb9613 Blockchains and fractality]"
+    },
+    {
+      "type": "pagefold",
+      "id": "e09d933bb98ea752",
+      "text": "Everything Else"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee10e12f401fec2e",
+      "text": "[[Walter's Journal]] of thoughts."
+    },
+    {
+      "type": "paragraph",
+      "id": "2dbb098c346c5a51",
+      "text": "[[Walter's Research]] of other people's thoughts."
+    },
+    {
+      "type": "paragraph",
+      "id": "d2f77874a66451ae",
+      "text": "[[Walter's Offline Library]] for your online viewing."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter's Research and Writing",
+        "story": []
+      },
+      "date": 1502070440414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb641460c618e20b"
+      },
+      "id": "fb641460c618e20b",
+      "type": "add",
+      "date": 1502070441553
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d58a7c1ba7273232",
+        "text": "[[Glossary]] of terms."
+      },
+      "id": "d58a7c1ba7273232",
+      "date": 1502070443641
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee10e12f401fec2e",
+        "text": "[[Walter's Journal]] of thoughts."
+      },
+      "after": "d58a7c1ba7273232",
+      "id": "ee10e12f401fec2e",
+      "date": 1502070447040
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2dbb098c346c5a51",
+        "text": "[[Walter's Research]] of other people's thoughts."
+      },
+      "after": "ee10e12f401fec2e",
+      "id": "2dbb098c346c5a51",
+      "date": 1502070449243
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d2f77874a66451ae",
+        "text": "[[Walter's Offline Library]] for your online viewing."
+      },
+      "after": "2dbb098c346c5a51",
+      "id": "d2f77874a66451ae",
+      "date": 1502070451461
+    },
+    {
+      "type": "add",
+      "id": "27fba070e13d0967",
+      "item": {
+        "type": "paragraph",
+        "id": "27fba070e13d0967",
+        "text": "[[Scaling Laws]] were invented by Geoffrey West. They are really important."
+      },
+      "after": "d2f77874a66451ae",
+      "date": 1502080646807
+    },
+    {
+      "type": "edit",
+      "id": "fb641460c618e20b",
+      "item": {
+        "type": "pagefold",
+        "id": "fb641460c618e20b",
+        "text": "Highlights"
+      },
+      "date": 1502080659751
+    },
+    {
+      "type": "move",
+      "order": [
+        "d58a7c1ba7273232",
+        "ee10e12f401fec2e",
+        "2dbb098c346c5a51",
+        "d2f77874a66451ae",
+        "fb641460c618e20b",
+        "27fba070e13d0967"
+      ],
+      "id": "fb641460c618e20b",
+      "date": 1502080661190
+    },
+    {
+      "type": "edit",
+      "id": "27fba070e13d0967",
+      "item": {
+        "type": "paragraph",
+        "id": "27fba070e13d0967",
+        "text": "[[Scaling Laws]] were invented by [[Geoffrey West]]. They are really important."
+      },
+      "date": 1502080674647
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3538ed0550a95a82"
+      },
+      "id": "3538ed0550a95a82",
+      "type": "add",
+      "after": "27fba070e13d0967",
+      "date": 1502089205426
+    },
+    {
+      "type": "edit",
+      "id": "3538ed0550a95a82",
+      "item": {
+        "type": "pagefold",
+        "id": "3538ed0550a95a82",
+        "text": "To Be Read"
+      },
+      "date": 1502089211939
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b26212c52e0a6923"
+      },
+      "id": "b26212c52e0a6923",
+      "type": "add",
+      "after": "3538ed0550a95a82",
+      "date": 1502089213850
+    },
+    {
+      "type": "edit",
+      "id": "b26212c52e0a6923",
+      "item": {
+        "type": "paragraph",
+        "id": "b26212c52e0a6923",
+        "text": "[[https://medium.com/@coinscrum/the-fractal-relationship-between-bitcoins-first-two-bubbles-and-what-they-might-tell-us-about-a-7c8df5fb9613 Blockchains and fractality]"
+      },
+      "date": 1502089234331
+    },
+    {
+      "type": "edit",
+      "id": "b26212c52e0a6923",
+      "item": {
+        "type": "paragraph",
+        "id": "b26212c52e0a6923",
+        "text": "[https://medium.com/@coinscrum/the-fractal-relationship-between-bitcoins-first-two-bubbles-and-what-they-might-tell-us-about-a-7c8df5fb9613 Blockchains and fractality]"
+      },
+      "date": 1502089238659
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "transport",
+        "id": "10ea2af363e51a5f",
+        "text": "POST https://rest.livecode.world/mediawiki"
+      },
+      "after": "b26212c52e0a6923",
+      "id": "10ea2af363e51a5f",
+      "date": 1502090479317
+    },
+    {
+      "type": "remove",
+      "id": "10ea2af363e51a5f",
+      "date": 1502090484079
+    },
+    {
+      "type": "add",
+      "id": "0b5b7f1ade445aca",
+      "item": {
+        "type": "paragraph",
+        "id": "0b5b7f1ade445aca",
+        "text": "Those laws are generating a paradigm shift in the [[City]]"
+      },
+      "after": "27fba070e13d0967",
+      "date": 1502092076756
+    },
+    {
+      "type": "edit",
+      "id": "0b5b7f1ade445aca",
+      "item": {
+        "type": "paragraph",
+        "id": "0b5b7f1ade445aca",
+        "text": "Those laws are generating a paradigm shift in the [[City]]."
+      },
+      "date": 1502092081020
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee10e12f401fec2e",
+        "2dbb098c346c5a51",
+        "d2f77874a66451ae",
+        "fb641460c618e20b",
+        "d58a7c1ba7273232",
+        "27fba070e13d0967",
+        "0b5b7f1ade445aca",
+        "3538ed0550a95a82",
+        "b26212c52e0a6923"
+      ],
+      "id": "d58a7c1ba7273232",
+      "date": 1502094191203
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e09d933bb98ea752"
+      },
+      "id": "e09d933bb98ea752",
+      "type": "add",
+      "after": "b26212c52e0a6923",
+      "date": 1502094196808
+    },
+    {
+      "type": "edit",
+      "id": "e09d933bb98ea752",
+      "item": {
+        "type": "pagefold",
+        "id": "e09d933bb98ea752",
+        "text": "Everything Else"
+      },
+      "date": 1502094227576
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee10e12f401fec2e",
+        "2dbb098c346c5a51",
+        "fb641460c618e20b",
+        "d58a7c1ba7273232",
+        "27fba070e13d0967",
+        "0b5b7f1ade445aca",
+        "3538ed0550a95a82",
+        "b26212c52e0a6923",
+        "e09d933bb98ea752",
+        "d2f77874a66451ae"
+      ],
+      "id": "d2f77874a66451ae",
+      "date": 1502094230518
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee10e12f401fec2e",
+        "fb641460c618e20b",
+        "d58a7c1ba7273232",
+        "27fba070e13d0967",
+        "0b5b7f1ade445aca",
+        "3538ed0550a95a82",
+        "b26212c52e0a6923",
+        "e09d933bb98ea752",
+        "2dbb098c346c5a51",
+        "d2f77874a66451ae"
+      ],
+      "id": "2dbb098c346c5a51",
+      "date": 1502094233198
+    },
+    {
+      "type": "move",
+      "order": [
+        "fb641460c618e20b",
+        "d58a7c1ba7273232",
+        "27fba070e13d0967",
+        "0b5b7f1ade445aca",
+        "3538ed0550a95a82",
+        "b26212c52e0a6923",
+        "e09d933bb98ea752",
+        "ee10e12f401fec2e",
+        "2dbb098c346c5a51",
+        "d2f77874a66451ae"
+      ],
+      "id": "ee10e12f401fec2e",
+      "date": 1502094235924
+    },
+    {
+      "type": "remove",
+      "id": "0b5b7f1ade445aca",
+      "date": 1502143801557
+    },
+    {
+      "type": "edit",
+      "id": "27fba070e13d0967",
+      "item": {
+        "type": "paragraph",
+        "id": "27fba070e13d0967",
+        "text": "[[Scaling Laws]] were invented by [[Geoffrey West]]. Those laws are generating a paradigm shift in the [[City]]."
+      },
+      "date": 1502143808866
+    }
+  ]
+}

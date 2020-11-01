@@ -1,0 +1,65 @@
+{
+  "title": "6 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "72dee8d34e025a5a",
+      "text": "The fight of might and bread not made but won"
+    },
+    {
+      "type": "paragraph",
+      "id": "36cf9c6bad616dc3",
+      "text": "the son of gold grows mold up thy priestly hold"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 February 2018",
+        "story": []
+      },
+      "date": 1517940374254
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72dee8d34e025a5a"
+      },
+      "id": "72dee8d34e025a5a",
+      "type": "add",
+      "date": 1517950094590
+    },
+    {
+      "type": "edit",
+      "id": "72dee8d34e025a5a",
+      "item": {
+        "type": "paragraph",
+        "id": "72dee8d34e025a5a",
+        "text": "The fight of lillies "
+      },
+      "date": 1517950116565
+    },
+    {
+      "type": "edit",
+      "id": "72dee8d34e025a5a",
+      "item": {
+        "type": "paragraph",
+        "id": "72dee8d34e025a5a",
+        "text": "The fight of might and bread not made but won"
+      },
+      "date": 1517950166513
+    },
+    {
+      "type": "add",
+      "id": "36cf9c6bad616dc3",
+      "item": {
+        "type": "paragraph",
+        "id": "36cf9c6bad616dc3",
+        "text": "the son of gold grows mold up thy priestly hold"
+      },
+      "after": "72dee8d34e025a5a",
+      "date": 1517950200617
+    }
+  ]
+}

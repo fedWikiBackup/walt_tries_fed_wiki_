@@ -1,0 +1,39 @@
+{
+  "title": "20 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a7dfe655bfb19b7b",
+      "text": "Life does not get much better than the last 4 days. I am so very thankful. I should remember to say thanks every day. Give grace every day. Meditate every day. Exercise every day. Love every day. Breathe every day. Learn every day."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 February 2018",
+        "story": []
+      },
+      "date": 1519142536672
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7dfe655bfb19b7b"
+      },
+      "id": "a7dfe655bfb19b7b",
+      "type": "add",
+      "date": 1519142537586
+    },
+    {
+      "type": "edit",
+      "id": "a7dfe655bfb19b7b",
+      "item": {
+        "type": "paragraph",
+        "id": "a7dfe655bfb19b7b",
+        "text": "Life does not get much better than the last 4 days. I am so very thankful. I should remember to say thanks every day. Give grace every day. Meditate every day. Exercise every day. Love every day. Breathe every day. Learn every day."
+      },
+      "date": 1519142680278
+    }
+  ]
+}

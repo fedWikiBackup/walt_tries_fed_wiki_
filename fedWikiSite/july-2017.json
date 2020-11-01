@@ -1,0 +1,508 @@
+{
+  "title": "July 2017",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "73bf64a53ecf440f",
+      "text": "[[3 July 2017]] was a rough day. "
+    },
+    {
+      "type": "paragraph",
+      "id": "24630b3013eedb61",
+      "text": "[[4 July 2017]] was a day of reflection and Frank Lloyd Wright. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2ace8089474f159e",
+      "text": "[[5 July 2017]] is second to last day in the City."
+    },
+    {
+      "type": "paragraph",
+      "id": "639a2f323080cf8e",
+      "text": "[[6 July 2017]] is last day in the City."
+    },
+    {
+      "type": "paragraph",
+      "id": "652ec84273d99e5a",
+      "text": "[[10 July 2017]] is back in MT and Maine recap."
+    },
+    {
+      "type": "paragraph",
+      "id": "a8330e5a042572ae",
+      "text": "[[11 July 2017]] is Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "d7c40a2423ab748b",
+      "text": "[[12 July 2017]] is Tippet."
+    },
+    {
+      "type": "paragraph",
+      "id": "30bfd194149b9d92",
+      "text": "[[13 July 2017]] is feeling a bit sluggish."
+    },
+    {
+      "type": "paragraph",
+      "id": "fdfb71f59140779b",
+      "text": "[[14 July 2017]] is a bit sick, but good day."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d491aba1cb3c622",
+      "text": "[[17 July 2017]] is Monday after the best weekend of my life."
+    },
+    {
+      "type": "paragraph",
+      "id": "8a22b704ecbe7dff",
+      "text": "[[18 July 2017]] is Fossil fun day."
+    },
+    {
+      "type": "paragraph",
+      "id": "6efb4e479a0c9c1f",
+      "text": "[[19 July 2017]] is still sick."
+    },
+    {
+      "type": "paragraph",
+      "id": "4ad13d856cbc030c",
+      "text": "[[20 July 2017]] is feeling much better."
+    },
+    {
+      "type": "paragraph",
+      "id": "887f54a15c17d381",
+      "text": "[[21 July 2017]] was work and search."
+    },
+    {
+      "type": "paragraph",
+      "id": "53840ca68ede0873",
+      "text": "[[22 July 2017]] was Fort Nye work."
+    },
+    {
+      "type": "paragraph",
+      "id": "20930bac798b88d9",
+      "text": "[[25 July 2017]] is back to the grind."
+    },
+    {
+      "type": "paragraph",
+      "id": "3911667bf1bf5391",
+      "text": "[[26 July 2017]] is travel to Missoula."
+    },
+    {
+      "type": "paragraph",
+      "id": "358efc8de8b653de",
+      "text": "[[28 July 2017]] is Missoula."
+    },
+    {
+      "type": "paragraph",
+      "id": "7d4b7844c2d0b141",
+      "text": "[[30 July 2017]] is Kamila joins federated wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "2986f5257fd4bbb3",
+      "text": "[[31 July 2017]] is back to work and Kerr in Nye."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "July 2017",
+        "story": []
+      },
+      "date": 1499116629414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e056d05b8eff6ce6"
+      },
+      "id": "e056d05b8eff6ce6",
+      "type": "add",
+      "date": 1499116630369
+    },
+    {
+      "type": "edit",
+      "id": "e056d05b8eff6ce6",
+      "item": {
+        "type": "paragraph",
+        "id": "e056d05b8eff6ce6",
+        "text": "Today was a supremely unproductive day. I blame Saturday's Rose. Too many sulfites create a continual oppression of my mental functioning. "
+      },
+      "date": 1499116666098
+    },
+    {
+      "type": "add",
+      "id": "91620c7c5237f000",
+      "item": {
+        "type": "paragraph",
+        "id": "91620c7c5237f000",
+        "text": "Tomorrow, I must meditate and exercise. Why on earth did I not bring some athletic clothes? I feel trapped in a cage and it is killing me."
+      },
+      "after": "e056d05b8eff6ce6",
+      "date": 1499116701566
+    },
+    {
+      "type": "add",
+      "id": "019a7fefe75144c3",
+      "item": {
+        "type": "paragraph",
+        "id": "019a7fefe75144c3",
+        "text": "Cannot wait to get out of the city and back to Montana - a first for me. "
+      },
+      "after": "91620c7c5237f000",
+      "date": 1499116718593
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4b7252af5f518ea1"
+      },
+      "id": "4b7252af5f518ea1",
+      "type": "add",
+      "after": "019a7fefe75144c3",
+      "date": 1499207086072
+    },
+    {
+      "type": "edit",
+      "id": "4b7252af5f518ea1",
+      "item": {
+        "type": "markdown",
+        "id": "4b7252af5f518ea1",
+        "text": "[[July 4 2017]] was a day of reflection. "
+      },
+      "date": 1499207127705
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c146f541bd135012"
+      },
+      "id": "c146f541bd135012",
+      "type": "add",
+      "after": "4b7252af5f518ea1",
+      "date": 1499207440512
+    },
+    {
+      "type": "remove",
+      "id": "c146f541bd135012",
+      "date": 1499207451657
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73bf64a53ecf440f"
+      },
+      "id": "73bf64a53ecf440f",
+      "type": "add",
+      "after": "4b7252af5f518ea1",
+      "date": 1499207452894
+    },
+    {
+      "type": "edit",
+      "id": "73bf64a53ecf440f",
+      "item": {
+        "type": "markdown",
+        "id": "73bf64a53ecf440f",
+        "text": "[[3 July 2017]] was a rough day. "
+      },
+      "date": 1499207495005
+    },
+    {
+      "type": "remove",
+      "id": "019a7fefe75144c3",
+      "date": 1499207509723
+    },
+    {
+      "type": "remove",
+      "id": "91620c7c5237f000",
+      "date": 1499207513263
+    },
+    {
+      "type": "remove",
+      "id": "e056d05b8eff6ce6",
+      "date": 1499207516827
+    },
+    {
+      "type": "move",
+      "order": [
+        "73bf64a53ecf440f",
+        "4b7252af5f518ea1"
+      ],
+      "id": "73bf64a53ecf440f",
+      "date": 1499207538157
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24630b3013eedb61"
+      },
+      "id": "24630b3013eedb61",
+      "type": "add",
+      "after": "4b7252af5f518ea1",
+      "date": 1499269839610
+    },
+    {
+      "type": "edit",
+      "id": "24630b3013eedb61",
+      "item": {
+        "type": "paragraph",
+        "id": "24630b3013eedb61",
+        "text": "[[4 July 2017]] was a day of reflection."
+      },
+      "date": 1499269855021
+    },
+    {
+      "type": "remove",
+      "id": "4b7252af5f518ea1",
+      "date": 1499269879689
+    },
+    {
+      "type": "add",
+      "id": "2ace8089474f159e",
+      "item": {
+        "type": "paragraph",
+        "id": "2ace8089474f159e",
+        "text": "[[5 July 2017]] is second to last day in the City."
+      },
+      "after": "24630b3013eedb61",
+      "date": 1499269989846
+    },
+    {
+      "type": "add",
+      "id": "639a2f323080cf8e",
+      "item": {
+        "type": "paragraph",
+        "id": "639a2f323080cf8e",
+        "text": "[[6 July 2017]] is last day in the City."
+      },
+      "after": "2ace8089474f159e",
+      "date": 1499357616887
+    },
+    {
+      "type": "edit",
+      "id": "24630b3013eedb61",
+      "item": {
+        "type": "paragraph",
+        "id": "24630b3013eedb61",
+        "text": "[[4 July 2017]] was a day of reflection and Frank Lloyd Wright. "
+      },
+      "date": 1499357858787
+    },
+    {
+      "type": "add",
+      "id": "652ec84273d99e5a",
+      "item": {
+        "type": "paragraph",
+        "id": "652ec84273d99e5a",
+        "text": "[[10 July 2017]] is back in MT and Maine recap."
+      },
+      "after": "639a2f323080cf8e",
+      "date": 1499703318049
+    },
+    {
+      "type": "add",
+      "id": "a8330e5a042572ae",
+      "item": {
+        "type": "paragraph",
+        "id": "a8330e5a042572ae",
+        "text": "[[11 July 2017]] is Nye."
+      },
+      "after": "652ec84273d99e5a",
+      "date": 1499795320724
+    },
+    {
+      "type": "add",
+      "id": "d7c40a2423ab748b",
+      "item": {
+        "type": "paragraph",
+        "id": "d7c40a2423ab748b",
+        "text": "[[12 July 2017]] is Tippet."
+      },
+      "after": "a8330e5a042572ae",
+      "date": 1499892196714
+    },
+    {
+      "type": "add",
+      "id": "30bfd194149b9d92",
+      "item": {
+        "type": "paragraph",
+        "id": "30bfd194149b9d92",
+        "text": "[[13 July 2017]] is feeling a bit sluggish."
+      },
+      "after": "d7c40a2423ab748b",
+      "date": 1499961685661
+    },
+    {
+      "type": "add",
+      "id": "fdfb71f59140779b",
+      "item": {
+        "type": "paragraph",
+        "id": "fdfb71f59140779b",
+        "text": "[[14 July 2017]] is a bit sick, but good day."
+      },
+      "after": "30bfd194149b9d92",
+      "date": 1500070772795
+    },
+    {
+      "type": "add",
+      "id": "3d491aba1cb3c622",
+      "item": {
+        "type": "paragraph",
+        "id": "3d491aba1cb3c622",
+        "text": "[[17 July 2017]] is Monday after the best weekend of my life."
+      },
+      "after": "fdfb71f59140779b",
+      "date": 1500325016734
+    },
+    {
+      "type": "add",
+      "id": "8a22b704ecbe7dff",
+      "item": {
+        "type": "paragraph",
+        "id": "8a22b704ecbe7dff",
+        "text": "[[18 July 2017]] is Fossil fun day."
+      },
+      "after": "3d491aba1cb3c622",
+      "date": 1500421172327
+    },
+    {
+      "type": "add",
+      "id": "6efb4e479a0c9c1f",
+      "item": {
+        "type": "paragraph",
+        "id": "6efb4e479a0c9c1f",
+        "text": "[[19 July 2017]] is still sick."
+      },
+      "after": "8a22b704ecbe7dff",
+      "date": 1500504973467
+    },
+    {
+      "type": "add",
+      "id": "4ad13d856cbc030c",
+      "item": {
+        "type": "paragraph",
+        "id": "4ad13d856cbc030c",
+        "text": "[[20 July 2017]] is feeling much better."
+      },
+      "after": "6efb4e479a0c9c1f",
+      "date": 1500571758216
+    },
+    {
+      "type": "add",
+      "id": "887f54a15c17d381",
+      "item": {
+        "type": "paragraph",
+        "id": "887f54a15c17d381",
+        "text": "[[21 July 2017]] was work and search."
+      },
+      "after": "4ad13d856cbc030c",
+      "date": 1500792972079
+    },
+    {
+      "type": "add",
+      "id": "53840ca68ede0873",
+      "item": {
+        "type": "paragraph",
+        "id": "53840ca68ede0873",
+        "text": "[[22 July 2017]] was Fort Nye work."
+      },
+      "after": "887f54a15c17d381",
+      "date": 1500792996937
+    },
+    {
+      "type": "add",
+      "id": "20930bac798b88d9",
+      "item": {
+        "type": "paragraph",
+        "id": "20930bac798b88d9",
+        "text": "[[25 July 2017]] is back to the grind."
+      },
+      "after": "53840ca68ede0873",
+      "date": 1500996093542
+    },
+    {
+      "type": "add",
+      "id": "3911667bf1bf5391",
+      "item": {
+        "type": "paragraph",
+        "id": "3911667bf1bf5391",
+        "text": "[[26 July 2017]] is travel to Missoula."
+      },
+      "after": "20930bac798b88d9",
+      "date": 1501099387946
+    },
+    {
+      "type": "add",
+      "id": "358efc8de8b653de",
+      "item": {
+        "type": "paragraph",
+        "id": "358efc8de8b653de",
+        "text": "[[28 July 2017]] is Missoula."
+      },
+      "after": "3911667bf1bf5391",
+      "date": 1501276868851
+    },
+    {
+      "type": "add",
+      "id": "7d4b7844c2d0b141",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b7844c2d0b141",
+        "text": "[[30 July 2017]] is Kamila joins [kamila.tries.fed.wiki with her own federated wiki page."
+      },
+      "after": "358efc8de8b653de",
+      "date": 1501441065914
+    },
+    {
+      "type": "edit",
+      "id": "7d4b7844c2d0b141",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b7844c2d0b141",
+        "text": "[[30 July 2017]] is Kamila joins [kamila.tries.fed.wiki with her own federated wiki page.]"
+      },
+      "date": 1501441070723
+    },
+    {
+      "type": "edit",
+      "id": "7d4b7844c2d0b141",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b7844c2d0b141",
+        "text": "[[30 July 2017]] is Kamila joins [kamila.tries.fed.wiki with her own federated wiki page]"
+      },
+      "date": 1501441078266
+    },
+    {
+      "type": "edit",
+      "id": "7d4b7844c2d0b141",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b7844c2d0b141",
+        "text": "[[30 July 2017]] is Kamila joins [kamila.tries.fed.wiki] with her own federated wiki page"
+      },
+      "date": 1501441088457
+    },
+    {
+      "type": "edit",
+      "id": "7d4b7844c2d0b141",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b7844c2d0b141",
+        "text": "[[30 July 2017]] is Kamila joins federated wiki."
+      },
+      "date": 1501441122698
+    },
+    {
+      "type": "add",
+      "id": "2986f5257fd4bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2986f5257fd4bbb3",
+        "text": "[[31 July 2017]] is back to work and Kerr in Nye."
+      },
+      "after": "7d4b7844c2d0b141",
+      "date": 1501556887642
+    }
+  ]
+}

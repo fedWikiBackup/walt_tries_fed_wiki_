@@ -1,0 +1,71 @@
+{
+  "title": "28 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e7e137ee82022260",
+      "text": "Got sworn into the Montana Bar yesterday! Whoop! I am glad I was here this weekend to help out Kerr with her breakup with Eric. I think this has been a very rough time for her."
+    },
+    {
+      "type": "paragraph",
+      "id": "9e6c5a1a91ca11ab",
+      "text": "Today I am feeling sick again - this has been the cold from hell. I wonder if I have cancer or something crazy. Probably just need to lay off life for a min. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b724185724a929d3",
+      "text": "So smokey in Missoula. I hope climate change brings more moisture to the mountain west. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 July 2017",
+        "story": []
+      },
+      "date": 1501276874144
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7e137ee82022260"
+      },
+      "id": "e7e137ee82022260",
+      "type": "add",
+      "date": 1501276875500
+    },
+    {
+      "type": "edit",
+      "id": "e7e137ee82022260",
+      "item": {
+        "type": "paragraph",
+        "id": "e7e137ee82022260",
+        "text": "Got sworn into the Montana Bar yesterday! Whoop! I am glad I was here this weekend to help out Kerr with her breakup with Eric. I think this has been a very rough time for her."
+      },
+      "date": 1501276923812
+    },
+    {
+      "type": "add",
+      "id": "9e6c5a1a91ca11ab",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6c5a1a91ca11ab",
+        "text": "Today I am feeling sick again - this has been the cold from hell. I wonder if I have cancer or something crazy. Probably just need to lay off life for a min. "
+      },
+      "after": "e7e137ee82022260",
+      "date": 1501276957366
+    },
+    {
+      "type": "add",
+      "id": "b724185724a929d3",
+      "item": {
+        "type": "paragraph",
+        "id": "b724185724a929d3",
+        "text": "So smokey in Missoula. I hope climate change brings more moisture to the mountain west. "
+      },
+      "after": "9e6c5a1a91ca11ab",
+      "date": 1501276980304
+    }
+  ]
+}

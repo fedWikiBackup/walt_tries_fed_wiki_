@@ -1,0 +1,90 @@
+{
+  "title": "Congressional Apportionment Amendment",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Congressional Apportionment Amendment"
+      },
+      "date": 1503543960112,
+      "source": {
+        "pageTitle": "Congressional Apportionment Amendment",
+        "pageSlug": "Congressional_Apportionment_Amendment",
+        "url": "https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment",
+        "date": 1503543960112,
+        "link_dictionary": {
+          "wiki_links": {
+            "Background": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Text": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "External links": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "References": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "See also": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Legislative and ratification history": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 787749586,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1503543967565
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "79db9b8f-5d31-4bc1-b017-e20a51fff465",
+      "text": "The Congressional Apportionment Amendment (originally titled Article the First) is a proposed amendment to the United States Constitution, one of twelve proposed amendments to the United States Constitution approved by the 1st Congress on September 25, 1789, and sent to the legislatures of the several states for ratification. If adopted, it would establish a formula for determining the appropriate size of the House of Representatives following each constitutionally mandated decennial census. It is the only one of the twelve that has not been adopted, as it has not been ratified by enough states for it to become part of the Constitution. Ten of the proposed amendments (numbers 3 through 12) were adopted in 1791, becoming the First through Tenth Amendments to the Constitution, and collectively known as the Bill of Rights. The second of the twelve proposed amendments was adopted in 1992, becoming the Twenty-seventh Amendment - [https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bef2a9d-696d-42be-a1bb-0308a2801c58",
+      "text": "On January 28, 1790, the Delaware General Assembly ratified eleven of the articles of amendment, rejecting only this proposed amendment. Following the 1791 ratifications of Vermont and Virginia, the amendment was one state short of the required three-fourths threshold for most of the period until 1803. Afterwards, it fell further behind as more and more states entered the Union."
+    },
+    {
+      "type": "paragraph",
+      "id": "58638f3f-5e02-45f6-9ed1-a67a28bfd1d9",
+      "text": "As Congress did not set a time limit for its ratification, the Congressional Apportionment Amendment is still technically pending before the states. Ratification by an additional 27 states is necessary for this amendment to be adopted."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a252455-740c-4a90-baad-10ca519c377b",
+      "text": "In lieu of such an amendment, the size of the House has been determined by various apportionment bills passed by Congress over the decades, such as the Reapportionment Act of 1929, which capped the number of members to 435."
+    },
+    {
+      "type": "markdown",
+      "id": "a0a9832c-e609-4c4b-818c-d9b509c93750",
+      "text": "# See also\n* [[Text]]\n* [[Background]]\n* [[Legislative and ratification history]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

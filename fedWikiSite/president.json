@@ -1,0 +1,28 @@
+{
+  "title": "president",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "president",
+        "story": []
+      },
+      "date": 1502088007898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d6cba4074d93a8e"
+      },
+      "id": "6d6cba4074d93a8e",
+      "type": "add",
+      "date": 1502088009132
+    },
+    {
+      "type": "remove",
+      "id": "6d6cba4074d93a8e",
+      "date": 1502088019242
+    }
+  ]
+}

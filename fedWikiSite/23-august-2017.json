@@ -1,0 +1,39 @@
+{
+  "title": "23 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8592b2d6ca65d8fe",
+      "text": "Hopefully I can spend most of Saturday on the project? Is this 10 words? So much pressure!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "23 August 2017",
+        "story": []
+      },
+      "date": 1503518024764
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8592b2d6ca65d8fe"
+      },
+      "id": "8592b2d6ca65d8fe",
+      "type": "add",
+      "date": 1503518026438
+    },
+    {
+      "type": "edit",
+      "id": "8592b2d6ca65d8fe",
+      "item": {
+        "type": "paragraph",
+        "id": "8592b2d6ca65d8fe",
+        "text": "Hopefully I can spend most of Saturday on the project? Is this 10 words? So much pressure!"
+      },
+      "date": 1503518051330
+    }
+  ]
+}

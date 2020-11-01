@@ -1,0 +1,39 @@
+{
+  "title": "7 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6d9638e3ceced349",
+      "text": "A deposition day. One of my favorites. I really enjoy the art of asking people questions to discover information that is not readily available to the average questioner."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 March 2018",
+        "story": []
+      },
+      "date": 1520442259982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d9638e3ceced349"
+      },
+      "id": "6d9638e3ceced349",
+      "type": "add",
+      "date": 1520442261069
+    },
+    {
+      "type": "edit",
+      "id": "6d9638e3ceced349",
+      "item": {
+        "type": "paragraph",
+        "id": "6d9638e3ceced349",
+        "text": "A deposition day. One of my favorites. I really enjoy the art of asking people questions to discover information that is not readily available to the average questioner."
+      },
+      "date": 1520442298731
+    }
+  ]
+}

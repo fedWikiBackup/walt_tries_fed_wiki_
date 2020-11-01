@@ -1,0 +1,59 @@
+{
+  "title": "module",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b838ef1ca5923c8a",
+      "text": "A group of nodes that scales sub-linearly, and thus gains efficiency with exponential increases in size."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "module",
+        "story": []
+      },
+      "date": 1502091336910
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b838ef1ca5923c8a"
+      },
+      "id": "b838ef1ca5923c8a",
+      "type": "add",
+      "date": 1502091338155
+    },
+    {
+      "type": "edit",
+      "id": "b838ef1ca5923c8a",
+      "item": {
+        "type": "paragraph",
+        "id": "b838ef1ca5923c8a",
+        "text": "a group of nodes."
+      },
+      "date": 1502091359248
+    },
+    {
+      "type": "edit",
+      "id": "b838ef1ca5923c8a",
+      "item": {
+        "type": "paragraph",
+        "id": "b838ef1ca5923c8a",
+        "text": "A group of nodes that scales sub-linearly, and thus gains efficiency exponentially with increases in size."
+      },
+      "date": 1502091856726
+    },
+    {
+      "type": "edit",
+      "id": "b838ef1ca5923c8a",
+      "item": {
+        "type": "paragraph",
+        "id": "b838ef1ca5923c8a",
+        "text": "A group of nodes that scales sub-linearly, and thus gains efficiency with exponential increases in size."
+      },
+      "date": 1502091879965
+    }
+  ]
+}

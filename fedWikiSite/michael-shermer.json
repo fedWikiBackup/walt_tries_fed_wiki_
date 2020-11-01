@@ -1,0 +1,110 @@
+{
+  "title": "Michael Shermer",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Michael Shermer"
+      },
+      "date": 1502383688554,
+      "source": {
+        "pageTitle": "Michael Shermer",
+        "pageSlug": "Michael_Shermer",
+        "url": "https://en.wikipedia.org/wiki/Michael_Shermer",
+        "date": 1502383688554,
+        "link_dictionary": {
+          "wiki_links": {
+            "External links": {
+              "section_number": 19,
+              "section_level": 2,
+              "dot_number": 11
+            },
+            "References": {
+              "section_number": 18,
+              "section_level": 2,
+              "dot_number": 10
+            },
+            "Early life": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Graduate studies and change of beliefs": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Media work and appearances": {
+              "section_number": 13,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Personal life": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Awards and honors": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Bibliography": {
+              "section_number": 10,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Competitive cycling": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "Scientific skepticism": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Earning his PhD and teaching": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 793751958,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502383651680
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8edc4b57-2803-4404-b2ec-f8ba9d93b343",
+      "text": "Michael Brant Shermer (born September 8, 1954) is an American science writer, historian of science, founder of The Skeptics Society, and editor-in-chief of its magazine Skeptic, which is largely devoted to investigating pseudoscientific and supernatural claims. The Skeptics Society currently has over 55,000 members. Shermer engages in debates on topics pertaining to pseudoscience and religion in which he emphasizes scientific skepticism - [https://en.wikipedia.org/wiki/Michael_Shermer wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fa082619-efb4-4213-aeb8-e7b6e3125067",
+      "text": "Shermer is producer and co-host of the 13-hour Fox Family television series Exploring the Unknown which was broadcast in 1999. Since April 2001, he has been a monthly columnist for Scientific American magazine with his Skeptic column. He is also a scientific advisor to the American Council on Science and Health (ACSH)."
+    },
+    {
+      "type": "paragraph",
+      "id": "af3eda84-f66c-4684-bf64-e6912a7c3d78",
+      "text": "Shermer was once a fundamentalist Christian, but ceased to believe in the existence of God during his graduate studies. He accepts the labels agnostic, nontheist, atheist and others. He has expressed reservations about such labels for his lack of belief in a God, however, as he sees them being used in the service of \"pigeonholing\", and prefers to simply be called a skeptic. He also describes himself as an advocate for humanist philosophy as well as the science of morality."
+    },
+    {
+      "type": "markdown",
+      "id": "d3a15e41-51a7-467a-b3de-cc044b23a197",
+      "text": "# See also\n* [[Early life]]\n* [[Graduate studies and change of beliefs]]\n* [[Competitive cycling]]\n* [[Earning his PhD and teaching]]\n* [[Scientific skepticism]]\n* [[Personal life]]\n* [[Awards and honors]]\n* [[Bibliography]]\n* [[Media work and appearances]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

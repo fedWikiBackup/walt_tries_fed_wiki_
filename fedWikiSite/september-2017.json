@@ -1,0 +1,229 @@
+{
+  "title": "september-2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c57a449127c1e756",
+      "text": "[[1 September 2017]] was the day the smoke cleared."
+    },
+    {
+      "type": "paragraph",
+      "id": "2dd58f5a2615b1fd",
+      "text": "[[4 September 2017]] was a cool day."
+    },
+    {
+      "type": "paragraph",
+      "id": "efb42705efedf6c0",
+      "text": "[[5 September 2017]] was the day Kamila's arrival!"
+    },
+    {
+      "type": "paragraph",
+      "id": "29643296b1b7dff5",
+      "text": "[[6 September 2017]] was New Shape day."
+    },
+    {
+      "type": "paragraph",
+      "id": "d78bdddf7f8ce51f",
+      "text": "[[7 September 2017]] was a Thursday."
+    },
+    {
+      "type": "paragraph",
+      "id": "73a1bb8d39c07e2a",
+      "text": "[[8 September 2017]] is the day of the Brief."
+    },
+    {
+      "type": "paragraph",
+      "id": "0d339b1bc4c70fe0",
+      "text": "[[11 September 2017]] was a Monday."
+    },
+    {
+      "type": "paragraph",
+      "id": "39cdcf5c4e719857",
+      "text": "[[12 September 2017]] was a productive day."
+    },
+    {
+      "type": "paragraph",
+      "id": "62ec137a49cfc765",
+      "text": "[[13 September 2017]] was tired."
+    },
+    {
+      "type": "paragraph",
+      "id": "6791bdb112d74ad0",
+      "text": "[[18 September 2017]] is a Monday, back in the swing."
+    },
+    {
+      "type": "paragraph",
+      "id": "dddd3dc5e36046ab",
+      "text": "[[22 September 2017]] is Friday, a week flown by."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "september-2017",
+        "story": []
+      },
+      "date": 1504277673207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c57a449127c1e756"
+      },
+      "id": "c57a449127c1e756",
+      "type": "add",
+      "date": 1504277675146
+    },
+    {
+      "type": "edit",
+      "id": "c57a449127c1e756",
+      "item": {
+        "type": "paragraph",
+        "id": "c57a449127c1e756",
+        "text": "[[1 September 2017]] was the day the smoke cleared."
+      },
+      "date": 1504277694838
+    },
+    {
+      "type": "add",
+      "id": "2dd58f5a2615b1fd",
+      "item": {
+        "type": "paragraph",
+        "id": "2dd58f5a2615b1fd",
+        "text": "[[4 September 2017]] was a cool day."
+      },
+      "after": "c57a449127c1e756",
+      "date": 1504553237549
+    },
+    {
+      "type": "add",
+      "id": "efb42705efedf6c0",
+      "item": {
+        "type": "paragraph",
+        "id": "efb42705efedf6c0",
+        "text": "[[5 September 2017]] was the day Kamila's arrival!"
+      },
+      "after": "2dd58f5a2615b1fd",
+      "date": 1504628654621
+    },
+    {
+      "type": "add",
+      "id": "29643296b1b7dff5",
+      "item": {
+        "type": "paragraph",
+        "id": "29643296b1b7dff5",
+        "text": "[[6 September 2017]] was New Shape day."
+      },
+      "after": "efb42705efedf6c0",
+      "date": 1504716673480
+    },
+    {
+      "type": "add",
+      "id": "d78bdddf7f8ce51f",
+      "item": {
+        "type": "paragraph",
+        "id": "d78bdddf7f8ce51f",
+        "text": "[[7 September 2017]] was re"
+      },
+      "after": "29643296b1b7dff5",
+      "date": 1504805681421
+    },
+    {
+      "type": "edit",
+      "id": "d78bdddf7f8ce51f",
+      "item": {
+        "type": "paragraph",
+        "id": "d78bdddf7f8ce51f",
+        "text": "[[7 September 2017]] was a Thursday."
+      },
+      "date": 1504805695848
+    },
+    {
+      "type": "add",
+      "id": "73a1bb8d39c07e2a",
+      "item": {
+        "type": "paragraph",
+        "id": "73a1bb8d39c07e2a",
+        "text": "[[8 August 2017]] is the day of the Brief."
+      },
+      "after": "d78bdddf7f8ce51f",
+      "date": 1504908647294
+    },
+    {
+      "type": "edit",
+      "id": "73a1bb8d39c07e2a",
+      "item": {
+        "type": "paragraph",
+        "id": "73a1bb8d39c07e2a",
+        "text": "[[8 September 2017]] is the day of the Brief."
+      },
+      "date": 1504908658757
+    },
+    {
+      "type": "add",
+      "id": "0d339b1bc4c70fe0",
+      "item": {
+        "type": "paragraph",
+        "id": "0d339b1bc4c70fe0",
+        "text": "[[11 September 2017]] was a great day."
+      },
+      "after": "73a1bb8d39c07e2a",
+      "date": 1505151357189
+    },
+    {
+      "type": "edit",
+      "id": "0d339b1bc4c70fe0",
+      "item": {
+        "type": "paragraph",
+        "id": "0d339b1bc4c70fe0",
+        "text": "[[11 September 2017]] was a Monday."
+      },
+      "date": 1505151365766
+    },
+    {
+      "type": "add",
+      "id": "39cdcf5c4e719857",
+      "item": {
+        "type": "paragraph",
+        "id": "39cdcf5c4e719857",
+        "text": "[[12 September 2017]] was a productive day."
+      },
+      "after": "0d339b1bc4c70fe0",
+      "date": 1505256401139
+    },
+    {
+      "type": "add",
+      "id": "62ec137a49cfc765",
+      "item": {
+        "type": "paragraph",
+        "id": "62ec137a49cfc765",
+        "text": "[[13 September 2017]] was tired."
+      },
+      "after": "39cdcf5c4e719857",
+      "date": 1505342941429
+    },
+    {
+      "type": "add",
+      "id": "6791bdb112d74ad0",
+      "item": {
+        "type": "paragraph",
+        "id": "6791bdb112d74ad0",
+        "text": "[[18 September 2017]] is a Monday, back in the swing."
+      },
+      "after": "62ec137a49cfc765",
+      "date": 1505756401045
+    },
+    {
+      "type": "add",
+      "id": "dddd3dc5e36046ab",
+      "item": {
+        "type": "paragraph",
+        "id": "dddd3dc5e36046ab",
+        "text": "[[22 September 2017]] is Friday, a week flown by."
+      },
+      "after": "6791bdb112d74ad0",
+      "date": 1506101330935
+    }
+  ]
+}

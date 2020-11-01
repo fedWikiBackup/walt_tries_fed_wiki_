@@ -1,0 +1,202 @@
+{
+  "title": "Community Adaptation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e6345d8c3505b72b",
+      "text": "[http://www.communityadaptation.com/ Community Adaptation] was created to help deal with [[Existential Risk]] in an enjoyable yet profitable way. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1ade2a389c6f52ce",
+      "text": "The importance of [[Randomness]] in cities that is lacking in small towns. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b6e1e2fb50928148",
+      "text": "Large [http://unofficialnetworks.com/2016/12/the-compaines-that-run-americas-ski-resorts resort owners.]"
+    },
+    {
+      "type": "paragraph",
+      "id": "415b7d24bd7dae39",
+      "text": "[[Modularity]] is key."
+    },
+    {
+      "type": "paragraph",
+      "id": "50d8633f810e9b09",
+      "text": "[[Funding Sources]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e71a1c13ab8f1d78",
+      "text": "[[Interesting People]] in the field."
+    },
+    {
+      "type": "paragraph",
+      "id": "d88afc25337b8529",
+      "text": "[[Water]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "25275af3ba6d4511",
+      "text": "[[Cryogenic storage]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd8b0b92828aab0b",
+      "text": "[[Biosphere]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "144338ea53b7bace",
+      "text": "[[Data Centers]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Community Adaptation",
+        "story": []
+      },
+      "date": 1488930635547
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6345d8c3505b72b"
+      },
+      "id": "e6345d8c3505b72b",
+      "type": "add",
+      "date": 1488930637366
+    },
+    {
+      "type": "edit",
+      "id": "e6345d8c3505b72b",
+      "item": {
+        "type": "paragraph",
+        "id": "e6345d8c3505b72b",
+        "text": "[http://www.communityadaptation.com/ Community Adaptation]"
+      },
+      "date": 1488930639714
+    },
+    {
+      "type": "add",
+      "id": "50d8633f810e9b09",
+      "item": {
+        "type": "paragraph",
+        "id": "50d8633f810e9b09",
+        "text": "[[Funding Sources]]"
+      },
+      "after": "e6345d8c3505b72b",
+      "date": 1488930660930
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e71a1c13ab8f1d78"
+      },
+      "id": "e71a1c13ab8f1d78",
+      "type": "add",
+      "after": "50d8633f810e9b09",
+      "date": 1489008263182
+    },
+    {
+      "type": "edit",
+      "id": "e71a1c13ab8f1d78",
+      "item": {
+        "type": "paragraph",
+        "id": "e71a1c13ab8f1d78",
+        "text": "[[Interesting People]] in the field."
+      },
+      "date": 1489008279900
+    },
+    {
+      "type": "add",
+      "id": "d88afc25337b8529",
+      "item": {
+        "type": "paragraph",
+        "id": "d88afc25337b8529",
+        "text": "[[Water]]"
+      },
+      "after": "e71a1c13ab8f1d78",
+      "date": 1489008337978
+    },
+    {
+      "type": "add",
+      "id": "25275af3ba6d4511",
+      "item": {
+        "type": "paragraph",
+        "id": "25275af3ba6d4511",
+        "text": "[[Cryogenic storage]]"
+      },
+      "after": "d88afc25337b8529",
+      "date": 1489008350394
+    },
+    {
+      "type": "add",
+      "id": "dd8b0b92828aab0b",
+      "item": {
+        "type": "paragraph",
+        "id": "dd8b0b92828aab0b",
+        "text": "[[Biosphere]]"
+      },
+      "after": "25275af3ba6d4511",
+      "date": 1489008361410
+    },
+    {
+      "type": "add",
+      "id": "144338ea53b7bace",
+      "item": {
+        "type": "paragraph",
+        "id": "144338ea53b7bace",
+        "text": "[[Data Centers]]"
+      },
+      "after": "dd8b0b92828aab0b",
+      "date": 1489008378462
+    },
+    {
+      "type": "edit",
+      "id": "e6345d8c3505b72b",
+      "item": {
+        "type": "paragraph",
+        "id": "e6345d8c3505b72b",
+        "text": "[http://www.communityadaptation.com/ Community Adaptation] was created to help deal with [[Existential Risk]] in an enjoyable yet profitable way. "
+      },
+      "date": 1489008922689
+    },
+    {
+      "type": "add",
+      "id": "1ade2a389c6f52ce",
+      "item": {
+        "type": "paragraph",
+        "id": "1ade2a389c6f52ce",
+        "text": "The importance of [[Randomness]] in cities that is lacking in small towns. "
+      },
+      "after": "e6345d8c3505b72b",
+      "date": 1489268740907
+    },
+    {
+      "type": "add",
+      "id": "b6e1e2fb50928148",
+      "item": {
+        "type": "paragraph",
+        "id": "b6e1e2fb50928148",
+        "text": "Large [http://unofficialnetworks.com/2016/12/the-compaines-that-run-americas-ski-resorts resort owners.]"
+      },
+      "after": "1ade2a389c6f52ce",
+      "date": 1489272298362
+    },
+    {
+      "type": "add",
+      "id": "415b7d24bd7dae39",
+      "item": {
+        "type": "paragraph",
+        "id": "415b7d24bd7dae39",
+        "text": "[[Modularity]] is key."
+      },
+      "after": "b6e1e2fb50928148",
+      "date": 1489785046327
+    }
+  ]
+}

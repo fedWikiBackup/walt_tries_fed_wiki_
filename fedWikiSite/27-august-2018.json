@@ -1,0 +1,39 @@
+{
+  "title": "27 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "580148d08cc2f2d8",
+      "text": "[[Honor Coin]] came to mind today. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 August 2018",
+        "story": []
+      },
+      "date": 1535395743098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "580148d08cc2f2d8"
+      },
+      "id": "580148d08cc2f2d8",
+      "type": "add",
+      "date": 1535395744269
+    },
+    {
+      "type": "edit",
+      "id": "580148d08cc2f2d8",
+      "item": {
+        "type": "paragraph",
+        "id": "580148d08cc2f2d8",
+        "text": "[[Honor Coin]] came to mind today. "
+      },
+      "date": 1535395978293
+    }
+  ]
+}

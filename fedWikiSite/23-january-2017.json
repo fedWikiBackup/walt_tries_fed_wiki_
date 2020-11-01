@@ -1,0 +1,39 @@
+{
+  "title": "23 January 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "06b863467602cfbc",
+      "text": "Did not end up writing as much as I should have yesterday. Had first risk management committee meeting today. It was okay. More about money than actual risks. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "23 January 2017",
+        "story": []
+      },
+      "date": 1516750163114
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "06b863467602cfbc"
+      },
+      "id": "06b863467602cfbc",
+      "type": "add",
+      "date": 1516750164210
+    },
+    {
+      "type": "edit",
+      "id": "06b863467602cfbc",
+      "item": {
+        "type": "paragraph",
+        "id": "06b863467602cfbc",
+        "text": "Did not end up writing as much as I should have yesterday. Had first risk management committee meeting today. It was okay. More about money than actual risks. "
+      },
+      "date": 1516750265988
+    }
+  ]
+}

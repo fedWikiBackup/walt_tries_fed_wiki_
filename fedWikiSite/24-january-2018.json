@@ -1,0 +1,129 @@
+{
+  "title": "24 January 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48fd2e89ab83d02f",
+      "text": "Just realized that I used 2017 for many of those dates. Luckily I started journaling late and those dates will never be replicated. Lucky me. Have a mediation today. Also investigating how I can sue Sibanye-Stillwater. "
+    },
+    {
+      "type": "paragraph",
+      "id": "787b74ed26ea4d9a",
+      "text": "Dear Leigh,"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6bf6c9a3bb2129d",
+      "text": "I miss your considerate touch. Your gentle life force. Your strong sense of right and wrong. I do not miss your loss of control in a bad situation. I understand your anger - but do not appreciate your inability to control your anger in any meaningful way. I think it is your dad coming out. That is just a guess. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6bcc7bef5c04516d",
+      "text": "I hope we can soon find a communication channel through which we can talk and support one another. More than anything, I seek your blessing on my journey and my path."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1269162dca3011a",
+      "text": "Love, "
+    },
+    {
+      "type": "paragraph",
+      "id": "cb99953811c6d965",
+      "text": "Walter"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "24 January 2018",
+        "story": []
+      },
+      "date": 1516815024810
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48fd2e89ab83d02f"
+      },
+      "id": "48fd2e89ab83d02f",
+      "type": "add",
+      "date": 1516815025669
+    },
+    {
+      "type": "edit",
+      "id": "48fd2e89ab83d02f",
+      "item": {
+        "type": "paragraph",
+        "id": "48fd2e89ab83d02f",
+        "text": "Just realized that I used 2017 for many of those dates. Luckily I started journaling late and those dates will never be replicated. Lucky me. Have a mediation today. Also investigating how I can sue Sibanye-Stillwater. "
+      },
+      "date": 1516815092358
+    },
+    {
+      "type": "add",
+      "id": "787b74ed26ea4d9a",
+      "item": {
+        "type": "paragraph",
+        "id": "787b74ed26ea4d9a",
+        "text": "Dear Leigh,"
+      },
+      "after": "48fd2e89ab83d02f",
+      "date": 1516815101612
+    },
+    {
+      "type": "add",
+      "id": "d6bf6c9a3bb2129d",
+      "item": {
+        "type": "paragraph",
+        "id": "d6bf6c9a3bb2129d",
+        "text": "I miss your considerate touch. Your gentle life force. Your strong sense of right and wrong. I do not miss your loss of control in a bad situation. I understand your anger - but do not appreciate your inability to control your anger in any meaningful way. I think it is your dad coming out. That is just a guess. "
+      },
+      "after": "787b74ed26ea4d9a",
+      "date": 1516815183670
+    },
+    {
+      "type": "add",
+      "id": "6bcc7bef5c04516d",
+      "item": {
+        "type": "paragraph",
+        "id": "6bcc7bef5c04516d",
+        "text": "I hope we can soon "
+      },
+      "after": "d6bf6c9a3bb2129d",
+      "date": 1516815190061
+    },
+    {
+      "type": "edit",
+      "id": "6bcc7bef5c04516d",
+      "item": {
+        "type": "paragraph",
+        "id": "6bcc7bef5c04516d",
+        "text": "I hope we can soon find a communication channel through which we can talk and support one another. More than anything, I seek your blessing on my journey and my path."
+      },
+      "date": 1516815237293
+    },
+    {
+      "type": "add",
+      "id": "d1269162dca3011a",
+      "item": {
+        "type": "paragraph",
+        "id": "d1269162dca3011a",
+        "text": "Love, "
+      },
+      "after": "6bcc7bef5c04516d",
+      "date": 1516815240534
+    },
+    {
+      "type": "add",
+      "id": "cb99953811c6d965",
+      "item": {
+        "type": "paragraph",
+        "id": "cb99953811c6d965",
+        "text": "Walter"
+      },
+      "after": "d1269162dca3011a",
+      "date": 1516815443848
+    }
+  ]
+}

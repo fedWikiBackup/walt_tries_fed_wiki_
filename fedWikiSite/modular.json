@@ -1,0 +1,39 @@
+{
+  "title": "modular",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b9869b4d042715d9",
+      "text": "[[Fractal]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "modular",
+        "story": []
+      },
+      "date": 1502081410900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b9869b4d042715d9"
+      },
+      "id": "b9869b4d042715d9",
+      "type": "add",
+      "date": 1502081411883
+    },
+    {
+      "type": "edit",
+      "id": "b9869b4d042715d9",
+      "item": {
+        "type": "paragraph",
+        "id": "b9869b4d042715d9",
+        "text": "[[Fractal]]."
+      },
+      "date": 1502081422425
+    }
+  ]
+}

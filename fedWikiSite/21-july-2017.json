@@ -1,0 +1,55 @@
+{
+  "title": "21 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a5d8068de39c78d5",
+      "text": "Writing this a day late. I worked hard at the lawyering. Also saw some Billings apartment potential."
+    },
+    {
+      "type": "paragraph",
+      "id": "92fefbcc48c9b1c9",
+      "text": "Not to shabby. Need income producing properties tomorrow."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 July 2017",
+        "story": []
+      },
+      "date": 1500793000074
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5d8068de39c78d5"
+      },
+      "id": "a5d8068de39c78d5",
+      "type": "add",
+      "date": 1500793001750
+    },
+    {
+      "type": "edit",
+      "id": "a5d8068de39c78d5",
+      "item": {
+        "type": "paragraph",
+        "id": "a5d8068de39c78d5",
+        "text": "Writing this a day late. I worked hard at the lawyering. Also saw some Billings apartment potential."
+      },
+      "date": 1500793070074
+    },
+    {
+      "type": "add",
+      "id": "92fefbcc48c9b1c9",
+      "item": {
+        "type": "paragraph",
+        "id": "92fefbcc48c9b1c9",
+        "text": "Not to shabby. Need income producing properties tomorrow."
+      },
+      "after": "a5d8068de39c78d5",
+      "date": 1500793091896
+    }
+  ]
+}

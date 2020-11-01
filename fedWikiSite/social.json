@@ -1,0 +1,65 @@
+{
+  "title": "social",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8ff6cfcddeadfb0e",
+      "text": "The [[social contract]] is a contract between friends and neighbors."
+    },
+    {
+      "type": "paragraph",
+      "id": "61b5093fe3003fc0",
+      "text": "[[honest]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "social",
+        "story": []
+      },
+      "date": 1502082544728
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ff6cfcddeadfb0e"
+      },
+      "id": "8ff6cfcddeadfb0e",
+      "type": "add",
+      "date": 1502082546404
+    },
+    {
+      "type": "edit",
+      "id": "8ff6cfcddeadfb0e",
+      "item": {
+        "type": "paragraph",
+        "id": "8ff6cfcddeadfb0e",
+        "text": "The social contract is a contract between friends and neighbors."
+      },
+      "date": 1502082567796
+    },
+    {
+      "type": "edit",
+      "id": "8ff6cfcddeadfb0e",
+      "item": {
+        "type": "paragraph",
+        "id": "8ff6cfcddeadfb0e",
+        "text": "The [[social contract]] is a contract between friends and neighbors."
+      },
+      "date": 1502092502786
+    },
+    {
+      "type": "add",
+      "id": "61b5093fe3003fc0",
+      "item": {
+        "type": "paragraph",
+        "id": "61b5093fe3003fc0",
+        "text": "[[honest]]"
+      },
+      "after": "8ff6cfcddeadfb0e",
+      "date": 1503543401407
+    }
+  ]
+}

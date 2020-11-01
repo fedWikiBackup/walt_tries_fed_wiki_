@@ -1,0 +1,39 @@
+{
+  "title": "17 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c3eed903bfded053",
+      "text": "Went to Great Falls, then back. Horseback riding today. Still exhausted. I need a 12 hour night and it will not be happening anytime soon (maybe Sunday). I cannot remember the last time I was this tired. Perhaps last summer. Need to work on new shape for a solid day - but no days available. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 August 2017",
+        "story": []
+      },
+      "date": 1503009362353
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3eed903bfded053"
+      },
+      "id": "c3eed903bfded053",
+      "type": "add",
+      "date": 1503009363500
+    },
+    {
+      "type": "edit",
+      "id": "c3eed903bfded053",
+      "item": {
+        "type": "paragraph",
+        "id": "c3eed903bfded053",
+        "text": "Went to Great Falls, then back. Horseback riding today. Still exhausted. I need a 12 hour night and it will not be happening anytime soon (maybe Sunday). I cannot remember the last time I was this tired. Perhaps last summer. Need to work on new shape for a solid day - but no days available. "
+      },
+      "date": 1503009447617
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "7 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "950fbf70fd5494bd",
+      "text": "Working at home today. AMS brief nearly there!"
+    },
+    {
+      "type": "paragraph",
+      "id": "ac4554878d29834f",
+      "text": "Yesterday Kamila and ANna met - sort of. Kamila is still uncomfortable, but I am confident they will be friends someday soon."
+    },
+    {
+      "type": "paragraph",
+      "id": "81a3522fc32ba136",
+      "text": "Good Nye-Hollywood session yesterday on top of the hill. Definitely want to look into additional development up there with pond, etc. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 September 2017",
+        "story": []
+      },
+      "date": 1504805698570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "950fbf70fd5494bd"
+      },
+      "id": "950fbf70fd5494bd",
+      "type": "add",
+      "date": 1504805699916
+    },
+    {
+      "type": "edit",
+      "id": "950fbf70fd5494bd",
+      "item": {
+        "type": "paragraph",
+        "id": "950fbf70fd5494bd",
+        "text": "Working at home today. AMS brief nearly there!"
+      },
+      "date": 1504805710279
+    },
+    {
+      "type": "add",
+      "id": "ac4554878d29834f",
+      "item": {
+        "type": "paragraph",
+        "id": "ac4554878d29834f",
+        "text": "Yesterday Kamila and ANna met - sort of. Kamila is still uncomfortable, but I am confident they will be friends someday soon."
+      },
+      "after": "950fbf70fd5494bd",
+      "date": 1504805735872
+    },
+    {
+      "type": "add",
+      "id": "81a3522fc32ba136",
+      "item": {
+        "type": "paragraph",
+        "id": "81a3522fc32ba136",
+        "text": "Good Nye hollywood session yesterday on tom of the hill."
+      },
+      "after": "ac4554878d29834f",
+      "date": 1504805762103
+    },
+    {
+      "type": "edit",
+      "id": "81a3522fc32ba136",
+      "item": {
+        "type": "paragraph",
+        "id": "81a3522fc32ba136",
+        "text": "Good Nye-Hollywood session yesterday on top of the hill. Definitely want to look into "
+      },
+      "date": 1504805798383
+    },
+    {
+      "type": "edit",
+      "id": "81a3522fc32ba136",
+      "item": {
+        "type": "paragraph",
+        "id": "81a3522fc32ba136",
+        "text": "Good Nye-Hollywood session yesterday on top of the hill. Definitely want to look into additional development up there with pond, etc. "
+      },
+      "date": 1504806201643
+    }
+  ]
+}

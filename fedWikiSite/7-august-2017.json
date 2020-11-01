@@ -1,0 +1,55 @@
+{
+  "title": "7 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a3df8a6dcc9c537b",
+      "text": "Working on supreme court brief. Ben is picking me up from Billings and we will get to have a chat. Happy about that."
+    },
+    {
+      "type": "paragraph",
+      "id": "cb97c553ee99f4a3",
+      "text": "I hope this brief turns out as perfect as possible. And I hope that my submission to the New Shape Prize is equally perfect."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 August 2017",
+        "story": []
+      },
+      "date": 1502147436662
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3df8a6dcc9c537b"
+      },
+      "id": "a3df8a6dcc9c537b",
+      "type": "add",
+      "date": 1502147437597
+    },
+    {
+      "type": "edit",
+      "id": "a3df8a6dcc9c537b",
+      "item": {
+        "type": "paragraph",
+        "id": "a3df8a6dcc9c537b",
+        "text": "Working on supreme court brief. Ben is picking me up from Billings and we will get to have a chat. Happy about that."
+      },
+      "date": 1502147465491
+    },
+    {
+      "type": "add",
+      "id": "cb97c553ee99f4a3",
+      "item": {
+        "type": "paragraph",
+        "id": "cb97c553ee99f4a3",
+        "text": "I hope this brief turns out as perfect as possible. And I hope that my submission to the New Shape Prize is equally perfect."
+      },
+      "after": "a3df8a6dcc9c537b",
+      "date": 1502147523193
+    }
+  ]
+}

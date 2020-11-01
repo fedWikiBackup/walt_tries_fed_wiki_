@@ -1,0 +1,426 @@
+{
+  "title": "June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "77ff2147f11b46fd",
+      "text": "[[1 June 2017]] working on habits."
+    },
+    {
+      "type": "paragraph",
+      "id": "2ebad24045229dd7",
+      "text": "[[2 June 2017]] is working on working in an office."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d8e30d770e2fbf9",
+      "text": "[[5 June 2017]] is back to work after a good weekend."
+    },
+    {
+      "type": "paragraph",
+      "id": "600a586fd3e91d1f",
+      "text": "[[6 June 2017]] is me frustrated."
+    },
+    {
+      "type": "paragraph",
+      "id": "71fccbbb016d5f55",
+      "text": "[[7 June 2017]] is first day of remote work!"
+    },
+    {
+      "type": "paragraph",
+      "id": "4afc84fe6c795828",
+      "text": "[[8 June 2017]] is second day of remote work."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ca774215d8996af",
+      "text": "[[9 June 2017]] is back to Billings and picking up Kamila's friend, Amanda."
+    },
+    {
+      "type": "paragraph",
+      "id": "0d12d5c4163b5610",
+      "text": "[[12 June 2017]] is new office."
+    },
+    {
+      "type": "paragraph",
+      "id": "1f11f2a5b5229e1b",
+      "text": "[[13 June 2017]] is back in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "651f1da706dcb429",
+      "text": "[[14 June 2017]] is a tired day."
+    },
+    {
+      "type": "paragraph",
+      "id": "a7986adf05ee7151",
+      "text": "[[15 June 2017]] is a busy day."
+    },
+    {
+      "type": "paragraph",
+      "id": "52e3afea12753998",
+      "text": "[[16 June 2017]] is Friday!!!"
+    },
+    {
+      "type": "paragraph",
+      "id": "0dc02479a3417bd2",
+      "text": "[[18 June 2017]] is recovery."
+    },
+    {
+      "type": "paragraph",
+      "id": "94de41e5740f9acc",
+      "text": "[[19 June 217]] is sickness?"
+    },
+    {
+      "type": "paragraph",
+      "id": "99e8ed46c56fec2c",
+      "text": "[[20 June 2017]] is recovery and a productive day."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b3d6751ae3512b5",
+      "text": "[[21 June 2017]] is sickness back?"
+    },
+    {
+      "type": "paragraph",
+      "id": "99fe8e5e74a43579",
+      "text": "[[22 June 2017]] is Nye - and the whitetail deer."
+    },
+    {
+      "type": "paragraph",
+      "id": "8bce146a8a03790a",
+      "text": "[[23 June 2017]] is rumor of a whore deer."
+    },
+    {
+      "type": "paragraph",
+      "id": "5cd315c77fc93838",
+      "text": "[[26 June 2017]] is NY for swearing in."
+    },
+    {
+      "type": "paragraph",
+      "id": "051bf6d7c762f7f1",
+      "text": "[[27 June 2017]] is actual interview."
+    },
+    {
+      "type": "paragraph",
+      "id": "067f913aaf3b5733",
+      "text": "[[28 June 2017]] is member of bar in good standing."
+    },
+    {
+      "type": "paragraph",
+      "id": "57af140da5029d76",
+      "text": "[[29 June 2017]] is a long day."
+    },
+    {
+      "type": "paragraph",
+      "id": "fe924e233513ef8d",
+      "text": "[[30 June 2017]] is a complete week."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "June 2017",
+        "story": []
+      },
+      "date": 1497021644338
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4afc84fe6c795828",
+        "text": "[[8 June 2017]] is second day of remote work."
+      },
+      "id": "4afc84fe6c795828",
+      "date": 1497021649141
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "71fccbbb016d5f55",
+        "text": "[[7 June 2017]] is first day of remote work!"
+      },
+      "id": "71fccbbb016d5f55",
+      "date": 1497021651648
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "600a586fd3e91d1f",
+        "text": "[[6 June 2017]] is me frustrated."
+      },
+      "id": "600a586fd3e91d1f",
+      "date": 1497021653987
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2d8e30d770e2fbf9",
+        "text": "[[5 June 2017]] is back to work after a good weekend."
+      },
+      "id": "2d8e30d770e2fbf9",
+      "date": 1497021655907
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ebad24045229dd7",
+        "text": "[[2 June 2017]] is working on working in an office."
+      },
+      "id": "2ebad24045229dd7",
+      "date": 1497021657821
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "77ff2147f11b46fd",
+        "text": "[[1 June 2017]] working on habits."
+      },
+      "id": "77ff2147f11b46fd",
+      "date": 1497021660702
+    },
+    {
+      "type": "add",
+      "id": "5ca774215d8996af",
+      "item": {
+        "type": "paragraph",
+        "id": "5ca774215d8996af",
+        "text": "[[9 June 2017]] is back to Billings and picking up Kamila's friend, Amanda."
+      },
+      "after": "4afc84fe6c795828",
+      "date": 1497021895019
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d12d5c4163b5610"
+      },
+      "id": "0d12d5c4163b5610",
+      "type": "add",
+      "after": "5ca774215d8996af",
+      "date": 1497295017271
+    },
+    {
+      "type": "edit",
+      "id": "0d12d5c4163b5610",
+      "item": {
+        "type": "paragraph",
+        "id": "0d12d5c4163b5610",
+        "text": "[[12 June 2017]] is new office."
+      },
+      "date": 1497295040210
+    },
+    {
+      "type": "add",
+      "id": "1f11f2a5b5229e1b",
+      "item": {
+        "type": "paragraph",
+        "id": "1f11f2a5b5229e1b",
+        "text": "[[13 June 2017]] is back in Billings."
+      },
+      "after": "0d12d5c4163b5610",
+      "date": 1497367938191
+    },
+    {
+      "type": "add",
+      "id": "651f1da706dcb429",
+      "item": {
+        "type": "paragraph",
+        "id": "651f1da706dcb429",
+        "text": "[[14 June 2017]] is a tired day."
+      },
+      "after": "1f11f2a5b5229e1b",
+      "date": 1497482928814
+    },
+    {
+      "type": "add",
+      "id": "a7986adf05ee7151",
+      "item": {
+        "type": "paragraph",
+        "id": "a7986adf05ee7151",
+        "text": "[[15 June 2017]] is a busy day."
+      },
+      "after": "651f1da706dcb429",
+      "date": 1497553209622
+    },
+    {
+      "type": "add",
+      "id": "52e3afea12753998",
+      "item": {
+        "type": "paragraph",
+        "id": "52e3afea12753998",
+        "text": "[[16 June 2017]] is Friday!!!"
+      },
+      "after": "a7986adf05ee7151",
+      "date": 1497643673785
+    },
+    {
+      "type": "add",
+      "id": "0dc02479a3417bd2",
+      "item": {
+        "type": "paragraph",
+        "id": "0dc02479a3417bd2",
+        "text": "[[18"
+      },
+      "after": "52e3afea12753998",
+      "date": 1497805813586
+    },
+    {
+      "type": "edit",
+      "id": "0dc02479a3417bd2",
+      "item": {
+        "type": "paragraph",
+        "id": "0dc02479a3417bd2",
+        "text": "[[18 June 2017]] is recovery]]"
+      },
+      "date": 1497805826811
+    },
+    {
+      "type": "edit",
+      "id": "0dc02479a3417bd2",
+      "item": {
+        "type": "paragraph",
+        "id": "0dc02479a3417bd2",
+        "text": "[[18 June 2017]] is recovery."
+      },
+      "date": 1497805832395
+    },
+    {
+      "type": "add",
+      "id": "94de41e5740f9acc",
+      "item": {
+        "type": "paragraph",
+        "id": "94de41e5740f9acc",
+        "text": "[[19 June 217]] is sickness?"
+      },
+      "after": "0dc02479a3417bd2",
+      "date": 1497912666641
+    },
+    {
+      "type": "add",
+      "id": "99e8ed46c56fec2c",
+      "item": {
+        "type": "paragraph",
+        "id": "99e8ed46c56fec2c",
+        "text": "[[20 June 2017]]"
+      },
+      "after": "94de41e5740f9acc",
+      "date": 1497979757872
+    },
+    {
+      "type": "edit",
+      "id": "99e8ed46c56fec2c",
+      "item": {
+        "type": "paragraph",
+        "id": "99e8ed46c56fec2c",
+        "text": "[[20 June 2017]] is recovery and a productive day."
+      },
+      "date": 1497979767615
+    },
+    {
+      "type": "add",
+      "id": "1b3d6751ae3512b5",
+      "item": {
+        "type": "paragraph",
+        "id": "1b3d6751ae3512b5",
+        "text": "[[21 June 2017]] is sickness back?"
+      },
+      "after": "99e8ed46c56fec2c",
+      "date": 1498062526478
+    },
+    {
+      "type": "add",
+      "id": "99fe8e5e74a43579",
+      "item": {
+        "type": "paragraph",
+        "id": "99fe8e5e74a43579",
+        "text": "[[22 June 2017]] is Nye - and the whitetail deer."
+      },
+      "after": "1b3d6751ae3512b5",
+      "date": 1498156438663
+    },
+    {
+      "type": "add",
+      "id": "8bce146a8a03790a",
+      "item": {
+        "type": "paragraph",
+        "id": "8bce146a8a03790a",
+        "text": "[[23 June 2017]] is rumor of a whore deer."
+      },
+      "after": "99fe8e5e74a43579",
+      "date": 1498244362099
+    },
+    {
+      "type": "add",
+      "id": "5cd315c77fc93838",
+      "item": {
+        "type": "paragraph",
+        "id": "5cd315c77fc93838",
+        "text": "[[26 June 2017]] is NY for swearing in."
+      },
+      "after": "8bce146a8a03790a",
+      "date": 1498513512048
+    },
+    {
+      "type": "add",
+      "id": "051bf6d7c762f7f1",
+      "item": {
+        "type": "paragraph",
+        "id": "051bf6d7c762f7f1",
+        "text": "[[27 June 2017]] is actual interview."
+      },
+      "after": "5cd315c77fc93838",
+      "date": 1498568260811
+    },
+    {
+      "type": "add",
+      "id": "067f913aaf3b5733",
+      "item": {
+        "type": "paragraph",
+        "id": "067f913aaf3b5733",
+        "text": "[[28 June 2017]] is member of bar in good standing."
+      },
+      "after": "051bf6d7c762f7f1",
+      "date": 1498654508562
+    },
+    {
+      "type": "add",
+      "id": "57af140da5029d76",
+      "item": {
+        "type": "paragraph",
+        "id": "57af140da5029d76",
+        "text": "[[29 June 2017]] is a"
+      },
+      "after": "067f913aaf3b5733",
+      "date": 1498756865867
+    },
+    {
+      "type": "edit",
+      "id": "57af140da5029d76",
+      "item": {
+        "type": "paragraph",
+        "id": "57af140da5029d76",
+        "text": "[[29 June 2017]] is a long day."
+      },
+      "date": 1498756874698
+    },
+    {
+      "type": "add",
+      "id": "fe924e233513ef8d",
+      "item": {
+        "type": "paragraph",
+        "id": "fe924e233513ef8d",
+        "text": "[[30 June 2017]] is a complete week."
+      },
+      "after": "57af140da5029d76",
+      "date": 1498856138238
+    }
+  ]
+}

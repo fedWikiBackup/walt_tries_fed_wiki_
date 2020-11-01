@@ -1,0 +1,39 @@
+{
+  "title": "7 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1ed391c902305692",
+      "text": "Anna and I are now \"just friends.\" Relief. The struggle continues, but with brighter lines of expectation. Love her. Love life. Love living. Cannot wait to play in the tides of tomorrow."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 December 2017",
+        "story": []
+      },
+      "date": 1512682955607
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ed391c902305692"
+      },
+      "id": "1ed391c902305692",
+      "type": "add",
+      "date": 1512682956331
+    },
+    {
+      "type": "edit",
+      "id": "1ed391c902305692",
+      "item": {
+        "type": "paragraph",
+        "id": "1ed391c902305692",
+        "text": "Anna and I are now \"just friends.\" Relief. The struggle continues, but with brighter lines of expectation. Love her. Love life. Love living. Cannot wait to play in the tides of tomorrow."
+      },
+      "date": 1512683005072
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "title": "February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd93194dad8870f5",
+      "text": "[[1 February 2018]] is Thursday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "ea5d71b5a7a26707",
+      "text": "[[2 February 2018]] is Friday in Cody."
+    },
+    {
+      "type": "paragraph",
+      "id": "556a1d27fe8860a5",
+      "text": "[[5 February 2018]] in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "7adeec120f5b53ea",
+      "text": "[[6 February 2018]] in Billings again."
+    },
+    {
+      "type": "paragraph",
+      "id": "8743be55ba061d05",
+      "text": "[[7 February 2018]] is working in RL. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d7c7d8a31003abfe",
+      "text": "[[8 February 2018]] is working in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "8ad7ddaa873fac03",
+      "text": "[[9 February 2018]] is Friday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "3152be945f9fc2cb",
+      "text": "[[12 February 2018]] is Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "d695244a28d60b8e",
+      "text": "[[13 February 2018]] is Tuesday revelation."
+    },
+    {
+      "type": "paragraph",
+      "id": "eea2cc6173d26fbd",
+      "text": "[[14 February 2018]] is a Wednesday in Cody."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ecc42e9699e3d62",
+      "text": "[[15 February 2018]] is Thursday in RL."
+    },
+    {
+      "type": "paragraph",
+      "id": "2892fe584e2dabd1",
+      "text": "[[16 February 2018]] is FriYAY in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "038a5b726999be3c",
+      "text": "[[19 February 2018]] is Monday in Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "bb705cc4b9c68314",
+      "text": "[[20 February 2018]] is Tuesday in Nye."
+    },
+    {
+      "type": "paragraph",
+      "id": "26677c8772a5b07a",
+      "text": "[[21 February 2018]] is Wednesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "eee4f219b20478f1",
+      "text": "[[22 February 2018]] is Thursday in Billings/Great Falls."
+    },
+    {
+      "type": "paragraph",
+      "id": "c2084084c89b30fa",
+      "text": "[[26 February 2018]] is Monday in Billings. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6c87c8966aa8ba90",
+      "text": "[[27 February 2018]] is Tuesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "36ccb74776629f1e",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "a0cfb0615e644b45",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "February 2018",
+        "story": []
+      },
+      "date": 1517507336011
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd93194dad8870f5"
+      },
+      "id": "dd93194dad8870f5",
+      "type": "add",
+      "date": 1517507337040
+    },
+    {
+      "type": "edit",
+      "id": "dd93194dad8870f5",
+      "item": {
+        "type": "paragraph",
+        "id": "dd93194dad8870f5",
+        "text": "[1 February 2018]] is Thursday in Billings."
+      },
+      "date": 1517507394743
+    },
+    {
+      "type": "add",
+      "id": "a0cfb0615e644b45",
+      "item": {
+        "type": "paragraph",
+        "id": "a0cfb0615e644b45",
+        "text": " "
+      },
+      "after": "dd93194dad8870f5",
+      "date": 1517507396869
+    },
+    {
+      "type": "edit",
+      "id": "dd93194dad8870f5",
+      "item": {
+        "type": "paragraph",
+        "id": "dd93194dad8870f5",
+        "text": "[[1 February 2018]] is Thursday in Billings."
+      },
+      "date": 1517507399471
+    },
+    {
+      "type": "add",
+      "id": "ea5d71b5a7a26707",
+      "item": {
+        "type": "paragraph",
+        "id": "ea5d71b5a7a26707",
+        "text": "[[2 February 2018]] is Friday in Cody."
+      },
+      "after": "dd93194dad8870f5",
+      "date": 1517595910607
+    },
+    {
+      "type": "add",
+      "id": "556a1d27fe8860a5",
+      "item": {
+        "type": "paragraph",
+        "id": "556a1d27fe8860a5",
+        "text": "[[5 February 2018]] in Billings."
+      },
+      "after": "ea5d71b5a7a26707",
+      "date": 1517857637567
+    },
+    {
+      "type": "add",
+      "id": "7adeec120f5b53ea",
+      "item": {
+        "type": "paragraph",
+        "id": "7adeec120f5b53ea",
+        "text": "[[6 February 2018]] in Billings again."
+      },
+      "after": "556a1d27fe8860a5",
+      "date": 1517940372379
+    },
+    {
+      "type": "add",
+      "id": "36ccb74776629f1e",
+      "item": {
+        "type": "paragraph",
+        "id": "36ccb74776629f1e",
+        "text": " "
+      },
+      "after": "7adeec120f5b53ea",
+      "date": 1517940374140
+    },
+    {
+      "type": "add",
+      "id": "8743be55ba061d05",
+      "item": {
+        "type": "paragraph",
+        "id": "8743be55ba061d05",
+        "text": "[[7 February 2018]] is working in RL. "
+      },
+      "after": "7adeec120f5b53ea",
+      "date": 1518019054821
+    },
+    {
+      "type": "add",
+      "id": "d7c7d8a31003abfe",
+      "item": {
+        "type": "paragraph",
+        "id": "d7c7d8a31003abfe",
+        "text": "[[8 February 2018]] is working in RL."
+      },
+      "after": "8743be55ba061d05",
+      "date": 1518124134104
+    },
+    {
+      "type": "add",
+      "id": "8ad7ddaa873fac03",
+      "item": {
+        "type": "paragraph",
+        "id": "8ad7ddaa873fac03",
+        "text": "[[9 February 2018]] is Friday in Billings."
+      },
+      "after": "d7c7d8a31003abfe",
+      "date": 1518194384312
+    },
+    {
+      "type": "add",
+      "id": "3152be945f9fc2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "3152be945f9fc2cb",
+        "text": "[[12 February 2018]]"
+      },
+      "after": "8ad7ddaa873fac03",
+      "date": 1518461885925
+    },
+    {
+      "type": "edit",
+      "id": "3152be945f9fc2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "3152be945f9fc2cb",
+        "text": "[[12 February 2018]] is Monday in Billings."
+      },
+      "date": 1518462333359
+    },
+    {
+      "type": "add",
+      "id": "d695244a28d60b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "d695244a28d60b8e",
+        "text": "[[13 February 2018]] is Tuesday revelation."
+      },
+      "after": "3152be945f9fc2cb",
+      "date": 1518540834142
+    },
+    {
+      "type": "add",
+      "id": "eea2cc6173d26fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "eea2cc6173d26fbd",
+        "text": "[[14 February 2018]] is a Wednesday in Cody."
+      },
+      "after": "d695244a28d60b8e",
+      "date": 1518622455636
+    },
+    {
+      "type": "add",
+      "id": "5ecc42e9699e3d62",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecc42e9699e3d62",
+        "text": "[[15 February 2018]] is Thursday in RL."
+      },
+      "after": "eea2cc6173d26fbd",
+      "date": 1518716103282
+    },
+    {
+      "type": "add",
+      "id": "2892fe584e2dabd1",
+      "item": {
+        "type": "paragraph",
+        "id": "2892fe584e2dabd1",
+        "text": "[[16 February 2018]] is FriYAY in Billings."
+      },
+      "after": "5ecc42e9699e3d62",
+      "date": 1518800251217
+    },
+    {
+      "type": "add",
+      "id": "038a5b726999be3c",
+      "item": {
+        "type": "paragraph",
+        "id": "038a5b726999be3c",
+        "text": "[[19 February 2018]] is Monday in Nye."
+      },
+      "after": "2892fe584e2dabd1",
+      "date": 1519090123247
+    },
+    {
+      "type": "add",
+      "id": "bb705cc4b9c68314",
+      "item": {
+        "type": "paragraph",
+        "id": "bb705cc4b9c68314",
+        "text": "[[20 February 2018]] is Tuesday in Nye."
+      },
+      "after": "038a5b726999be3c",
+      "date": 1519142533733
+    },
+    {
+      "type": "add",
+      "id": "26677c8772a5b07a",
+      "item": {
+        "type": "paragraph",
+        "id": "26677c8772a5b07a",
+        "text": "[[21 February 2018]] is Wednesday in Billings.  "
+      },
+      "after": "bb705cc4b9c68314",
+      "date": 1519245965933
+    },
+    {
+      "type": "edit",
+      "id": "26677c8772a5b07a",
+      "item": {
+        "type": "paragraph",
+        "id": "26677c8772a5b07a",
+        "text": "[[21 February 2018]] is Wednesday in Billings."
+      },
+      "date": 1519318387731
+    },
+    {
+      "type": "add",
+      "id": "eee4f219b20478f1",
+      "item": {
+        "type": "paragraph",
+        "id": "eee4f219b20478f1",
+        "text": "[[22 February 2018]] is Thursday in Billings/Great Falls"
+      },
+      "after": "26677c8772a5b07a",
+      "date": 1519318412237
+    },
+    {
+      "type": "edit",
+      "id": "eee4f219b20478f1",
+      "item": {
+        "type": "paragraph",
+        "id": "eee4f219b20478f1",
+        "text": "[[22 February 2018]] is Thursday in Billings/Great Falls."
+      },
+      "date": 1519318415798
+    },
+    {
+      "type": "add",
+      "id": "c2084084c89b30fa",
+      "item": {
+        "type": "paragraph",
+        "id": "c2084084c89b30fa",
+        "text": "[[26 February 2018]] is Monday in Billings. "
+      },
+      "after": "eee4f219b20478f1",
+      "date": 1519665402022
+    },
+    {
+      "type": "add",
+      "id": "6c87c8966aa8ba90",
+      "item": {
+        "type": "paragraph",
+        "id": "6c87c8966aa8ba90",
+        "text": "[[27 February 2018]] is Tuesday in Billings."
+      },
+      "after": "c2084084c89b30fa",
+      "date": 1519746947193
+    }
+  ]
+}

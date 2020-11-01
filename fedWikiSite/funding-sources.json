@@ -1,0 +1,149 @@
+{
+  "title": "Funding Sources",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "327b1cee289670da",
+      "text": "[https://www.scionasset.com/contact Scion Capital]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d318c9820496cf46",
+      "text": "[http://www.cornwallcapital.com/ Cornwall Capital][https://en.wikipedia.org/wiki/Cornwall_Capital Cornwall Wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "de544090c1d1f312",
+      "text": "[http://www.keweenaw.com/index.htm Keweenaw Land]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd94593acde1ae0e",
+      "text": "[https://www.iqt.org/ In-Q-Tel]"
+    },
+    {
+      "type": "paragraph",
+      "id": "368650246b85e4f5",
+      "text": "[http://www.bloomberg.com/news/articles/2014-07-29/elliott-sees-most-significant-danger-in-electromagnetic-pulse Paul Singer]\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "cb3c456f87732930",
+      "text": "[http://www.sidewalkinc.com/ Sidewalk Labs]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Funding Sources",
+        "story": []
+      },
+      "date": 1488930663934
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "327b1cee289670da"
+      },
+      "id": "327b1cee289670da",
+      "type": "add",
+      "date": 1488930665417
+    },
+    {
+      "type": "edit",
+      "id": "327b1cee289670da",
+      "item": {
+        "type": "paragraph",
+        "id": "327b1cee289670da",
+        "text": "[https://www.scionasset.com/contact Scion Capital]"
+      },
+      "date": 1488930674004
+    },
+    {
+      "type": "add",
+      "id": "d318c9820496cf46",
+      "item": {
+        "type": "paragraph",
+        "id": "d318c9820496cf46",
+        "text": "[http://www.cornwallcapital.com/ Cornwall Capital]"
+      },
+      "after": "327b1cee289670da",
+      "date": 1488930695499
+    },
+    {
+      "type": "add",
+      "id": "de544090c1d1f312",
+      "item": {
+        "type": "paragraph",
+        "id": "de544090c1d1f312",
+        "text": "[http://www.keweenaw.com/index.htm Keweenaw Land]"
+      },
+      "after": "d318c9820496cf46",
+      "date": 1488930716708
+    },
+    {
+      "type": "edit",
+      "id": "d318c9820496cf46",
+      "item": {
+        "type": "paragraph",
+        "id": "d318c9820496cf46",
+        "text": "[http://www.cornwallcapital.com/ Cornwall Capital][https://en.wikipedia.org/wiki/Cornwall_Capital Cornwall Wiki]"
+      },
+      "date": 1488930765060
+    },
+    {
+      "type": "add",
+      "id": "dd94593acde1ae0e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd94593acde1ae0e",
+        "text": "[https://www.iqt.org/"
+      },
+      "after": "de544090c1d1f312",
+      "date": 1489008056934
+    },
+    {
+      "type": "edit",
+      "id": "dd94593acde1ae0e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd94593acde1ae0e",
+        "text": "[https://www.iqt.org/ In"
+      },
+      "date": 1489008064554
+    },
+    {
+      "type": "edit",
+      "id": "dd94593acde1ae0e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd94593acde1ae0e",
+        "text": "[https://www.iqt.org/ In-Q-Tel]"
+      },
+      "date": 1489008071661
+    },
+    {
+      "type": "add",
+      "id": "368650246b85e4f5",
+      "item": {
+        "type": "paragraph",
+        "id": "368650246b85e4f5",
+        "text": "[http://www.bloomberg.com/news/articles/2014-07-29/elliott-sees-most-significant-danger-in-electromagnetic-pulse Paul Singer]\n"
+      },
+      "after": "dd94593acde1ae0e",
+      "date": 1489008107536
+    },
+    {
+      "type": "add",
+      "id": "cb3c456f87732930",
+      "item": {
+        "type": "paragraph",
+        "id": "cb3c456f87732930",
+        "text": "[http://www.sidewalkinc.com/ Sidewalk Labs]\n"
+      },
+      "after": "368650246b85e4f5",
+      "date": 1489008165173
+    }
+  ]
+}

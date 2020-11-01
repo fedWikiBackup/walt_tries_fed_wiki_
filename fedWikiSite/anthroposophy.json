@@ -1,0 +1,110 @@
+{
+  "title": "Anthroposophy",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Anthroposophy"
+      },
+      "date": 1502383744470,
+      "source": {
+        "pageTitle": "Anthroposophy",
+        "pageSlug": "Anthroposophy",
+        "url": "https://en.wikipedia.org/wiki/Anthroposophy",
+        "date": 1502383744470,
+        "link_dictionary": {
+          "wiki_links": {
+            "Applications": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "History": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Relationship to religion": {
+              "section_number": 27,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "References": {
+              "section_number": 38,
+              "section_level": 2,
+              "dot_number": 10
+            },
+            "External links": {
+              "section_number": 39,
+              "section_level": 2,
+              "dot_number": 11
+            },
+            "Social goals": {
+              "section_number": 20,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Central ideas": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "See also": {
+              "section_number": 37,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Reception": {
+              "section_number": 32,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Place in Western philosophy": {
+              "section_number": 25,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Esoteric path": {
+              "section_number": 21,
+              "section_level": 2,
+              "dot_number": 5
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 794228938,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502383700595
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c370b268-8376-48c5-bbbe-a75ff035c905",
+      "text": "Anthroposophy is a philosophy founded by Rudolf Steiner that postulates the existence of an objective, intellectually comprehensible spiritual world that is accessible by direct experience through inner development. More specifically, it aims to develop faculties of perceptive imagination, inspiration and intuition through the cultivation of a form of thinking independent of sensory experience, and to present the results thus derived in a manner subject to rational verification. Anthroposophy aims to attain in its study of spiritual experience the precision and clarity attained by the natural sciences in their investigations of the physical world. The philosophy has double roots in German idealism and German mysticism and was initially expressed in language drawn from Theosophy - [https://en.wikipedia.org/wiki/Anthroposophy wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "06a2f5e2-896a-4035-92cb-36ac25c43aaa",
+      "text": "Anthroposophical ideas have been applied practically in many areas including Steiner/Waldorf education, special education (most prominently through the Camphill Movement), biodynamic agriculture, medicine, ethical banking, organizational development, and the arts. The Anthroposophical Society has its international center at the Goetheanum in Dornach, Switzerland."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0bd2ce8-0691-4346-8de0-ece3bdbd6485",
+      "text": "Modern critics, particularly Michael Shermer, have termed anthroposophy's application in areas such as medicine, biology, and biodynamic agriculture to be pseudoscience. Anthroposophy has also been termed \"the most important esoteric society in European history.\""
+    },
+    {
+      "type": "markdown",
+      "id": "9372a84f-77c0-42bd-948e-4ce03d414305",
+      "text": "# See also\n* [[History]]\n* [[Central ideas]]\n* [[Applications]]\n* [[Social goals]]\n* [[Esoteric path]]\n* [[Place in Western philosophy]]\n* [[Relationship to religion]]\n* [[Reception]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

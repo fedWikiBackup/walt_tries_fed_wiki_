@@ -1,0 +1,39 @@
+{
+  "title": "11 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "98302e3bc88bbcdc",
+      "text": "Well. Tired. Fun weekend. Good memories. Back to work. Back to work. Back to work. Back to work. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11 September 2017",
+        "story": []
+      },
+      "date": 1505151366539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98302e3bc88bbcdc"
+      },
+      "id": "98302e3bc88bbcdc",
+      "type": "add",
+      "date": 1505151368771
+    },
+    {
+      "type": "edit",
+      "id": "98302e3bc88bbcdc",
+      "item": {
+        "type": "paragraph",
+        "id": "98302e3bc88bbcdc",
+        "text": "Well. Tired. Fun weekend. Good memories. Back to work. Back to work. Back to work. Back to work. "
+      },
+      "date": 1505151394507
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "21 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "29573fe43fff904b",
+      "text": "Kamila upset this morning. Tomorrow another day. Bored with work. Feeling restless. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 December 2017",
+        "story": []
+      },
+      "date": 1513878509966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29573fe43fff904b"
+      },
+      "id": "29573fe43fff904b",
+      "type": "add",
+      "date": 1513878511469
+    },
+    {
+      "type": "edit",
+      "id": "29573fe43fff904b",
+      "item": {
+        "type": "paragraph",
+        "id": "29573fe43fff904b",
+        "text": "Kamila upset this morning. Tomorrow another day. Bored with work. Feeling restless. "
+      },
+      "date": 1513878545017
+    }
+  ]
+}

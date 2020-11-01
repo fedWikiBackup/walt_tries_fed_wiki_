@@ -1,0 +1,39 @@
+{
+  "title": "29 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ad4a10bd620e844d",
+      "text": "Another day in paradise. Except I cannot wear shorts and flip flops. But, that makes me stronger, right?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 November 2017",
+        "story": []
+      },
+      "date": 1511970801667
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad4a10bd620e844d"
+      },
+      "id": "ad4a10bd620e844d",
+      "type": "add",
+      "date": 1511970802873
+    },
+    {
+      "type": "edit",
+      "id": "ad4a10bd620e844d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad4a10bd620e844d",
+        "text": "Another day in paradise. Except I cannot wear shorts and flip flops. But, that makes me stronger, right?"
+      },
+      "date": 1511970824315
+    }
+  ]
+}

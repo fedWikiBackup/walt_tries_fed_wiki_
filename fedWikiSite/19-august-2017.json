@@ -1,0 +1,71 @@
+{
+  "title": "19 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c3186608801e108c",
+      "text": "Slept well, saw Mom off to the airport, went down to the river with Liz, Sarah, Cynthia, Carissa, Sam, Ruby, and Pearl. Kids love riding around in the Jet and hanging down at the river. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ac25cf776926614b",
+      "text": "The parents shelter the kids too much. imho. Oh well."
+    },
+    {
+      "type": "paragraph",
+      "id": "7848dc39eb8f647f",
+      "text": "Finished most of scale - the work on corporations is interesting in that corporations are more similar to biological systems (sub-linear scaling) than cities are (super-linear scaling). I need to re-read that portion."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 August 2017",
+        "story": []
+      },
+      "date": 1503184983489
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3186608801e108c"
+      },
+      "id": "c3186608801e108c",
+      "type": "add",
+      "date": 1503184984460
+    },
+    {
+      "type": "edit",
+      "id": "c3186608801e108c",
+      "item": {
+        "type": "paragraph",
+        "id": "c3186608801e108c",
+        "text": "Slept well, saw Mom off to the airport, went down to the river with Liz, Sarah, Cynthia, Carissa, Sam, Ruby, and Pearl. Kids love riding around in the Jet and hanging down at the river. "
+      },
+      "date": 1503185050711
+    },
+    {
+      "type": "add",
+      "id": "ac25cf776926614b",
+      "item": {
+        "type": "paragraph",
+        "id": "ac25cf776926614b",
+        "text": "The parents shelter the kids too much. imho. Oh well."
+      },
+      "after": "c3186608801e108c",
+      "date": 1503185072404
+    },
+    {
+      "type": "add",
+      "id": "7848dc39eb8f647f",
+      "item": {
+        "type": "paragraph",
+        "id": "7848dc39eb8f647f",
+        "text": "Finished most of scale - the work on corporations is interesting in that corporations are more similar to biological systems (sub-linear scaling) than cities are (super-linear scaling). I need to re-read that portion."
+      },
+      "after": "ac25cf776926614b",
+      "date": 1503185125118
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "26 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8dfbcc59813648d8",
+      "text": "Tesla was supposed to be here at noon. Over two hours late at this moment. I honestly do not know if it is going to show up at all. We will see. Yesterday in Nye was a shitshow. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 October 2017",
+        "story": []
+      },
+      "date": 1509048358890
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dfbcc59813648d8"
+      },
+      "id": "8dfbcc59813648d8",
+      "type": "add",
+      "date": 1509048359935
+    },
+    {
+      "type": "edit",
+      "id": "8dfbcc59813648d8",
+      "item": {
+        "type": "paragraph",
+        "id": "8dfbcc59813648d8",
+        "text": "Tesla was supposed to be here at noon. Over two hours late at this moment. I honestly do not know if it is going to show up at all. We will see. Yesterday in Nye was a shitshow. "
+      },
+      "date": 1509048405164
+    }
+  ]
+}

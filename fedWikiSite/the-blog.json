@@ -1,0 +1,156 @@
+{
+  "title": "The Blog",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0f3c6fee8b22d881",
+      "text": "[[Writings]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea8c6903c8217962",
+      "text": "[[Photos]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "67d1e122a2031f5b",
+      "text": "[[Videos]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Blog",
+        "story": []
+      },
+      "date": 1488182169131,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "836abcbf84550728"
+      },
+      "id": "836abcbf84550728",
+      "type": "add",
+      "date": 1488182170592,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "836abcbf84550728",
+      "item": {
+        "type": "paragraph",
+        "id": "836abcbf84550728",
+        "text": "[[Writings]]"
+      },
+      "date": 1488182180035,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "ea8c6903c8217962",
+      "item": {
+        "type": "paragraph",
+        "id": "ea8c6903c8217962",
+        "text": "[[Photos]]"
+      },
+      "after": "836abcbf84550728",
+      "date": 1488182186500,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "67d1e122a2031f5b",
+      "item": {
+        "type": "paragraph",
+        "id": "67d1e122a2031f5b",
+        "text": "[[Videos]]"
+      },
+      "after": "ea8c6903c8217962",
+      "date": 1488182191708,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "836abcbf84550728",
+      "item": {
+        "type": "paragraph",
+        "id": "836abcbf84550728",
+        "text": "Exploring the Present"
+      },
+      "date": 1488183006470,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "0f3c6fee8b22d881",
+      "item": {
+        "type": "paragraph",
+        "id": "0f3c6fee8b22d881",
+        "text": "[[Writings]]"
+      },
+      "after": "836abcbf84550728",
+      "date": 1488183009475,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "836abcbf84550728",
+      "item": {
+        "type": "paragraph",
+        "id": "836abcbf84550728",
+        "text": "[Heading] Exploring the Present"
+      },
+      "date": 1488183018972,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "836abcbf84550728",
+      "date": 1488183037929,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489430239004
+    }
+  ]
+}

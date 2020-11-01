@@ -1,0 +1,39 @@
+{
+  "title": "12 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd673785e62d6c1a",
+      "text": "Lots got done today. Most of them cost money. Hope Tom comes around to support me. We will see. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 September 2017",
+        "story": []
+      },
+      "date": 1505256404268
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd673785e62d6c1a"
+      },
+      "id": "dd673785e62d6c1a",
+      "type": "add",
+      "date": 1505256405356
+    },
+    {
+      "type": "edit",
+      "id": "dd673785e62d6c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "dd673785e62d6c1a",
+        "text": "Lots got done today. Most of them cost money. Hope Tom comes around to support me. We will see. "
+      },
+      "date": 1505256430375
+    }
+  ]
+}

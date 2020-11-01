@@ -1,0 +1,120 @@
+{
+  "title": "Scale (music)",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Scale (music)"
+      },
+      "date": 1502094432046,
+      "source": {
+        "pageTitle": "Scale (music)",
+        "pageSlug": "Scale_(music)",
+        "url": "https://en.wikipedia.org/wiki/Scale_(music)",
+        "date": 1502094432046,
+        "link_dictionary": {
+          "wiki_links": {
+            "Jazz and blues": {
+              "section_number": 10,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Note names": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "Background": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "External links": {
+              "section_number": 19,
+              "section_level": 2,
+              "dot_number": 11
+            },
+            "References": {
+              "section_number": 17,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Non-Western scales": {
+              "section_number": 11,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "See also": {
+              "section_number": 16,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Transposition and modulation": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Western music": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Microtonal scales": {
+              "section_number": 15,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Further reading": {
+              "section_number": 18,
+              "section_level": 2,
+              "dot_number": 10
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 794318887,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502094434549
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a277c567-15ef-4f0d-8b5f-f44e0e61ec31",
+      "text": "In music theory, a scale is any set of musical notes ordered by fundamental frequency or pitch. A scale ordered by increasing pitch is an ascending scale, and a scale ordered by decreasing pitch is a descending scale. Some scales contain different pitches when ascending than when descending, for example, the melodic minor scale - [https://en.wikipedia.org/wiki/Scale_(music) wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0532af8b-7fe4-4eec-8413-7371db248c3e",
+      "text": "Often, especially in the context of the common practice period, most or all of the melody and harmony of a musical work is built using the notes of a single scale, which can be conveniently represented on a staff with a standard key signature."
+    },
+    {
+      "type": "paragraph",
+      "id": "fb90b5ea-4d2f-49f0-942f-3f31bc8d3561",
+      "text": "Due to the principle of octave equivalence, scales are generally considered to span a single octave, with higher or lower octaves simply repeating the pattern. A musical scale represents a division of the octave space into a certain number of scale steps, a scale step being the recognizable distance (or interval) between two successive notes of the scale. However, there is no need for scale steps to be equal within any scale and, particularly as demonstrated by microtonal music, there is no limit to how many notes can be injected within any given musical interval."
+    },
+    {
+      "type": "paragraph",
+      "id": "ce622f6a-55fb-4785-ae00-8df48fb83a52",
+      "text": "A measure of the width of each scale step provides a method to classify scales. For instance, in a chromatic scale each scale step represents a semitone interval, while a major scale is defined by the interval pattern T–T–S–T–T–T–S, where T stands for whole tone (an interval spanning two semitones), and S stands for semitone. Based on their interval patterns, scales are put into categories including diatonic, chromatic, major, minor, and others."
+    },
+    {
+      "type": "paragraph",
+      "id": "56e4f12d-f4ed-4ff9-8228-0b76edad3c07",
+      "text": "A specific scale is defined by its characteristic interval pattern and by a special note, known as its first degree (or tonic). The tonic of a scale is the note selected as the beginning of the octave, and therefore as the beginning of the adopted interval pattern. Typically, the name of the scale specifies both its tonic and its interval pattern. For example, C major indicates a major scale with a C tonic."
+    },
+    {
+      "type": "markdown",
+      "id": "5b863826-8695-406b-8cc8-1f7d8e6f8f1c",
+      "text": "# See also\n* [[Background]]\n* [[Western music]]\n* [[Note names]]\n* [[Transposition and modulation]]\n* [[Jazz and blues]]\n* [[Non-Western scales]]\n* [[Microtonal scales]]\n* [[See also]]\n* [[References]]\n* [[Further reading]]\n* [[External links]]"
+    }
+  ]
+}

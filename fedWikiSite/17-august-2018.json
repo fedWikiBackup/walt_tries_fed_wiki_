@@ -1,0 +1,39 @@
+{
+  "title": "17 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e544c8c35ebd12a2",
+      "text": "Four days this week in Billings. It was too many. The financial pressure is crushing my heart. I feel the flicker of bankruptcy spin before my very eyes. Must sell car. Musk."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 August 2018",
+        "story": []
+      },
+      "date": 1534528033975
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e544c8c35ebd12a2"
+      },
+      "id": "e544c8c35ebd12a2",
+      "type": "add",
+      "date": 1534528034925
+    },
+    {
+      "type": "edit",
+      "id": "e544c8c35ebd12a2",
+      "item": {
+        "type": "paragraph",
+        "id": "e544c8c35ebd12a2",
+        "text": "Four days this week in Billings. It was too many. The financial pressure is crushing my heart. I feel the flicker of bankruptcy spin before my very eyes. Must sell car. Musk."
+      },
+      "date": 1534528078685
+    }
+  ]
+}

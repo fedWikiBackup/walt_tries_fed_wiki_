@@ -1,0 +1,90 @@
+{
+  "title": "Modularity (networks)",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Modularity (networks)"
+      },
+      "date": 1501696693883,
+      "source": {
+        "pageTitle": "Modularity (networks)",
+        "pageSlug": "Modularity_(networks)",
+        "url": "https://en.wikipedia.org/wiki/Modularity_(networks)",
+        "date": 1501696693883,
+        "link_dictionary": {
+          "wiki_links": {
+            "Resolution limit": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "See also": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Multiresolution methods": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Motivation": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Definition": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "External links": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "References": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Matrix formulation": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Example of multiple community detection": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 751888052,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1501696549592
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "51e25c74-19fc-4a71-8b08-c8ec16b285d9",
+      "text": "Modularity is one measure of the structure of networks or graphs. It was designed to measure the strength of division of a network into modules (also called groups, clusters or communities). Networks with high modularity have dense connections between the nodes within modules but sparse connections between nodes in different modules. Modularity is often used in optimization methods for detecting community structure in networks. However, it has been shown that modularity suffers a resolution limit and, therefore, it is unable to detect small communities. Biological networks, including animal brains, exhibit a high degree of modularity - [https://en.wikipedia.org/wiki/Modularity_(networks) wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "748f31de-e69a-4ede-9b2b-821cc61ded35",
+      "text": "# See also\n* [[Motivation]]\n* [[Definition]]\n* [[Example of multiple community detection]]\n* [[Matrix formulation]]\n* [[Resolution limit]]\n* [[Multiresolution methods]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "13 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d5f549c5e20daf2c",
+      "text": "Woke up midway through the night with a tickle in my throat - a little less severe in the morning. Not sure why - I have been sleeping well. But alas, the body is a mystery. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7ed4de3f6a750148",
+      "text": "I think things are going well with my life. I am happy with the progress of life. With my job - and with the prospects that lie ahead. With New Shape, Tippet, Red Lodge, Stillwater, and the legal field. "
+    },
+    {
+      "type": "paragraph",
+      "id": "113a6bee53104ae8",
+      "text": "If love is the answer, then love is the answer. I hope that I love humans as much as I love humanity. I hope that I love humanity as much as I love the survival of humanity."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 July 2017",
+        "story": []
+      },
+      "date": 1499961693673
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5f549c5e20daf2c"
+      },
+      "id": "d5f549c5e20daf2c",
+      "type": "add",
+      "date": 1499961694905
+    },
+    {
+      "type": "edit",
+      "id": "d5f549c5e20daf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "d5f549c5e20daf2c",
+        "text": "Work up midway through the night with a tickle in my throat - a little less severe in the morning. Not sure why - I have been sleeping well. But alas, the body is a mystery. "
+      },
+      "date": 1499961755911
+    },
+    {
+      "type": "add",
+      "id": "7ed4de3f6a750148",
+      "item": {
+        "type": "paragraph",
+        "id": "7ed4de3f6a750148",
+        "text": "I think things are going well "
+      },
+      "after": "d5f549c5e20daf2c",
+      "date": 1499961776256
+    },
+    {
+      "type": "edit",
+      "id": "7ed4de3f6a750148",
+      "item": {
+        "type": "paragraph",
+        "id": "7ed4de3f6a750148",
+        "text": "I think things are going well with my life. I am happy with the progress of life. "
+      },
+      "date": 1499962282465
+    },
+    {
+      "type": "edit",
+      "id": "d5f549c5e20daf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "d5f549c5e20daf2c",
+        "text": "Woke up midway through the night with a tickle in my throat - a little less severe in the morning. Not sure why - I have been sleeping well. But alas, the body is a mystery. "
+      },
+      "date": 1499962286711
+    },
+    {
+      "type": "edit",
+      "id": "7ed4de3f6a750148",
+      "item": {
+        "type": "paragraph",
+        "id": "7ed4de3f6a750148",
+        "text": "I think things are going well with my life. I am happy with the progress of life. With my job - and with the prospects that lie ahead. With New Shape, Tippet, Red Lodge, Stillwater, and the legal field. "
+      },
+      "date": 1499962479250
+    },
+    {
+      "type": "add",
+      "id": "113a6bee53104ae8",
+      "item": {
+        "type": "paragraph",
+        "id": "113a6bee53104ae8",
+        "text": "If love is the answer, then love is the answer. I hope that I love humans as much as I love humanity. I hope that I love humanity as much as I love the survival of humanity."
+      },
+      "after": "7ed4de3f6a750148",
+      "date": 1499962521642
+    }
+  ]
+}

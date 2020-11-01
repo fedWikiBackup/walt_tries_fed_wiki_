@@ -1,0 +1,105 @@
+{
+  "title": "10 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f8a60a49243fd61f",
+      "text": "Reading about the [[Waldorf Education]] system, its philosophical system, [[Anthroposophy]], and it's critic, [[Michael Shermer]]. Leigh is considering becoming a teacher. I think it sounds like mostly good, with some problems."
+    },
+    {
+      "type": "paragraph",
+      "id": "7b4f89c13b6de708",
+      "text": "Meeting Ward later today and need to prepare for that. Music, movie, or food tonight?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "10 August 2017",
+        "story": []
+      },
+      "date": 1502383620969
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8a60a49243fd61f"
+      },
+      "id": "f8a60a49243fd61f",
+      "type": "add",
+      "date": 1502383623321
+    },
+    {
+      "type": "edit",
+      "id": "f8a60a49243fd61f",
+      "item": {
+        "type": "paragraph",
+        "id": "f8a60a49243fd61f",
+        "text": "Reading about the Waldorf School system and it's critic, [[Michael Shermer]]."
+      },
+      "date": 1502383680164
+    },
+    {
+      "type": "edit",
+      "id": "f8a60a49243fd61f",
+      "item": {
+        "type": "paragraph",
+        "id": "f8a60a49243fd61f",
+        "text": "Reading about the Waldorf School system, its philosophical system, [[Anthroposophy]] and it's critic, [[Michael Shermer]]."
+      },
+      "date": 1502383737557
+    },
+    {
+      "type": "edit",
+      "id": "f8a60a49243fd61f",
+      "item": {
+        "type": "paragraph",
+        "id": "f8a60a49243fd61f",
+        "text": "Reading about the [[Waldorf Education]] system, its philosophical system, [[Anthroposophy]] and it's critic, [[Michael Shermer]]. Leigh is considering becoming a teacher. I think it sounds like mostly good, with some problems."
+      },
+      "date": 1502383783906
+    },
+    {
+      "type": "add",
+      "id": "7b4f89c13b6de708",
+      "item": {
+        "type": "paragraph",
+        "id": "7b4f89c13b6de708",
+        "text": "Meeting Ward later today and need to prepare for that. Music, movie, or "
+      },
+      "after": "f8a60a49243fd61f",
+      "date": 1502383812774
+    },
+    {
+      "type": "edit",
+      "id": "f8a60a49243fd61f",
+      "item": {
+        "type": "paragraph",
+        "id": "f8a60a49243fd61f",
+        "text": "Reading about the [[Waldorf Education]] system, its philosophical system, [[Anthroposophy]], and it's critic, [[Michael Shermer]]. Leigh is considering becoming a teacher. I think it sounds like mostly good, with some problems."
+      },
+      "date": 1502384560295
+    },
+    {
+      "type": "edit",
+      "id": "7b4f89c13b6de708",
+      "item": {
+        "type": "paragraph",
+        "id": "7b4f89c13b6de708",
+        "text": "Meeting Ward later today and need to prepare for that. Music, movie, or food?"
+      },
+      "date": 1502384565028
+    },
+    {
+      "type": "edit",
+      "id": "7b4f89c13b6de708",
+      "item": {
+        "type": "paragraph",
+        "id": "7b4f89c13b6de708",
+        "text": "Meeting Ward later today and need to prepare for that. Music, movie, or food tonight?"
+      },
+      "date": 1502384627660
+    }
+  ]
+}

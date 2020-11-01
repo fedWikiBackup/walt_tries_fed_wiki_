@@ -1,0 +1,113 @@
+{
+  "title": "5 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d81176adf153dad3",
+      "text": "New York definitely suits me to a certain extent. The will of the people here is extraordinary - people have opportunities and they seize them. If it were not for her inherent vulnerability, I would move here. But, I think I will join a club in the city and stay here more often."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5d41d95ac7cceda",
+      "text": "Perhaps Kamilla will get a place here. Or perhaps I will split a place with someone else. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e6e4a7fce1249dd2",
+      "text": "I want to export a bit of New York and a bit of San Francisco to New Switzerland. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9502eb6605d102b3",
+      "text": "The biggest burden of the city is the food. Finding a solution to the food and water problem without electricity is key."
+    },
+    {
+      "type": "paragraph",
+      "id": "252821278af0aaf8",
+      "text": "The tiny city must be able to function with computer and without computers. Swappable Manual for Automatic transmission. This will be one of the more important innovations. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 July 2017",
+        "story": []
+      },
+      "date": 1499269991808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d81176adf153dad3"
+      },
+      "id": "d81176adf153dad3",
+      "type": "add",
+      "date": 1499269992632
+    },
+    {
+      "type": "edit",
+      "id": "d81176adf153dad3",
+      "item": {
+        "type": "paragraph",
+        "id": "d81176adf153dad3",
+        "text": "New York definitely suits me to a certain extent. The will of the people here is extraordinary - people have opportunities and they seize them. If it were not for her inherent vulnerability, I would move here. But, I think I will join a club in the city and stay here more often."
+      },
+      "date": 1499270079356
+    },
+    {
+      "type": "add",
+      "id": "e5d41d95ac7cceda",
+      "item": {
+        "type": "paragraph",
+        "id": "e5d41d95ac7cceda",
+        "text": "Perhaps Kamilla will get a place here. Or perhaps I will split a place with someone else. "
+      },
+      "after": "d81176adf153dad3",
+      "date": 1499270098601
+    },
+    {
+      "type": "add",
+      "id": "e6e4a7fce1249dd2",
+      "item": {
+        "type": "paragraph",
+        "id": "e6e4a7fce1249dd2",
+        "text": "I want to export a bit of New York and a bit of San Francisco to New Switzerland. "
+      },
+      "after": "e5d41d95ac7cceda",
+      "date": 1499270136441
+    },
+    {
+      "type": "add",
+      "id": "9502eb6605d102b3",
+      "item": {
+        "type": "paragraph",
+        "id": "9502eb6605d102b3",
+        "text": "The biggest burden of the city is the food. "
+      },
+      "after": "e6e4a7fce1249dd2",
+      "date": 1499270171774
+    },
+    {
+      "type": "edit",
+      "id": "9502eb6605d102b3",
+      "item": {
+        "type": "paragraph",
+        "id": "9502eb6605d102b3",
+        "text": "The biggest burden of the city is the food. Finding a solution to the food and water problem without electricity is key."
+      },
+      "date": 1499270241809
+    },
+    {
+      "type": "add",
+      "id": "252821278af0aaf8",
+      "item": {
+        "type": "paragraph",
+        "id": "252821278af0aaf8",
+        "text": "The tiny city must be able to function with computer and without computers. Swappable Manual for Automatic transmission. This will be one of the more important innovations. "
+      },
+      "after": "9502eb6605d102b3",
+      "date": 1499270313544
+    }
+  ]
+}

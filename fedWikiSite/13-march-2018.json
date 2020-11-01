@@ -1,0 +1,39 @@
+{
+  "title": "13 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "33715ed4f222824c",
+      "text": "Exhausted. But still putting one foot in front of the other. But still. This house we are going to buy is almost perfect. Almost. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 March 2018",
+        "story": []
+      },
+      "date": 1520983327156
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "33715ed4f222824c"
+      },
+      "id": "33715ed4f222824c",
+      "type": "add",
+      "date": 1520983328111
+    },
+    {
+      "type": "edit",
+      "id": "33715ed4f222824c",
+      "item": {
+        "type": "paragraph",
+        "id": "33715ed4f222824c",
+        "text": "Exhausted. But still putting one foot in front of the other. But still. This house we are going to buy is almost perfect. Almost. "
+      },
+      "date": 1520983364255
+    }
+  ]
+}

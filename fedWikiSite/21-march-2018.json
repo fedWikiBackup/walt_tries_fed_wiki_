@@ -1,0 +1,39 @@
+{
+  "title": "21 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dedffac9abdcd602",
+      "text": "What an absolute shit slog of a week. Just everything feels like shit even though it is beautiful spring. Why? Idk. But I am hopeful that next week will be better. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "21 March 2018",
+        "story": []
+      },
+      "date": 1521671804859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dedffac9abdcd602"
+      },
+      "id": "dedffac9abdcd602",
+      "type": "add",
+      "date": 1521671805873
+    },
+    {
+      "type": "edit",
+      "id": "dedffac9abdcd602",
+      "item": {
+        "type": "paragraph",
+        "id": "dedffac9abdcd602",
+        "text": "What an absolute shit slog of a week. Just everything feels like shit even though it is beautiful spring. Why? Idk. But I am hopeful that next week will be better. "
+      },
+      "date": 1521671851487
+    }
+  ]
+}

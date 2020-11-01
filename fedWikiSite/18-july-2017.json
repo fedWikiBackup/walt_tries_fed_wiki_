@@ -1,0 +1,55 @@
+{
+  "title": "18 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "25773ce3879a7176",
+      "text": "Jimmy is here and finding all sorts of ammonites and other fossils. Sooooo cool. Still sick. Sad face. Need to get to sleep earlier today. I love these two. I hope they decide to buy a place in the valley before it gets stupid expensive."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ce59876100a92b1",
+      "text": "Also, headache but I don't care. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 July 2017",
+        "story": []
+      },
+      "date": 1500421175581
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25773ce3879a7176"
+      },
+      "id": "25773ce3879a7176",
+      "type": "add",
+      "date": 1500421176451
+    },
+    {
+      "type": "edit",
+      "id": "25773ce3879a7176",
+      "item": {
+        "type": "paragraph",
+        "id": "25773ce3879a7176",
+        "text": "Jimmy is here and finding all sorts of ammonites and other fossils. Sooooo cool. Still sick. Sad face. Need to get to sleep earlier today. I love these two. I hope they decide to buy a place in the valley before it gets stupid expensive."
+      },
+      "date": 1500421231652
+    },
+    {
+      "type": "add",
+      "id": "0ce59876100a92b1",
+      "item": {
+        "type": "paragraph",
+        "id": "0ce59876100a92b1",
+        "text": "Also, headache but I don't care. "
+      },
+      "after": "25773ce3879a7176",
+      "date": 1500421246004
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "28 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bf3dee7157d4e9ea",
+      "text": "A beautiful day. Car day. A day for the ages. House cleaning day. Brief writing day. A hay day of work and play. A day of life. A day of death. A day of garage sales, a day of barrage and nails.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 July 2018",
+        "story": []
+      },
+      "date": 1532807432194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf3dee7157d4e9ea"
+      },
+      "id": "bf3dee7157d4e9ea",
+      "type": "add",
+      "date": 1532807433159
+    },
+    {
+      "type": "edit",
+      "id": "bf3dee7157d4e9ea",
+      "item": {
+        "type": "paragraph",
+        "id": "bf3dee7157d4e9ea",
+        "text": "A beautiful day. Car day. A day for the ages. House cleaning day. Brief writing day. A hay day of work and play. A day of life. A day of death. A day of garage sales, a day of barrage and nails.  "
+      },
+      "date": 1532807534403
+    }
+  ]
+}

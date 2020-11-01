@@ -1,0 +1,631 @@
+{
+  "title": "Article I",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "915d47b5d4218093",
+      "text": "The legislative branch shall be composed of three bodies. [[The Houses]], [[The Senate]], and the [[General Assembly]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "4d861dce0ebd0c60",
+      "text": "Collectively, they write the laws."
+    },
+    {
+      "type": "paragraph",
+      "id": "c078a100d72b27c3",
+      "text": "The Senate and Houses draft legislation that is then presented to the General Assembly for voting up or down. Only the General Assembly may lobby the House or the Senate."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Article I",
+        "story": []
+      },
+      "date": 1502085292149
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37f1ac728d3eb54e"
+      },
+      "id": "37f1ac728d3eb54e",
+      "type": "add",
+      "date": 1502085293319
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. "
+      },
+      "date": 1502085325490
+    },
+    {
+      "type": "add",
+      "id": "aebb56c7b5b8b23f",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "The senate is dynastic. "
+      },
+      "after": "37f1ac728d3eb54e",
+      "date": 1502085381753
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit."
+      },
+      "date": 1502085418653
+    },
+    {
+      "type": "edit",
+      "id": "aebb56c7b5b8b23f",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "The senate will be elected by the bodies of each of the three houses. There will be  Terms will be 9 years."
+      },
+      "date": 1502085465721
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals, each house will contain 184 members."
+      },
+      "date": 1502085763775
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 members."
+      },
+      "date": 1502085866438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f24c6ab7e01ba089"
+      },
+      "id": "f24c6ab7e01ba089",
+      "type": "add",
+      "after": "aebb56c7b5b8b23f",
+      "date": 1502085873097
+    },
+    {
+      "type": "edit",
+      "id": "f24c6ab7e01ba089",
+      "item": {
+        "type": "paragraph",
+        "id": "f24c6ab7e01ba089",
+        "text": "<h3>[[The Houses]]<h3>"
+      },
+      "date": 1502085887318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2666014d533b72c9"
+      },
+      "id": "2666014d533b72c9",
+      "type": "add",
+      "after": "f24c6ab7e01ba089",
+      "date": 1502085894650
+    },
+    {
+      "type": "remove",
+      "id": "f24c6ab7e01ba089",
+      "date": 1502085895777
+    },
+    {
+      "type": "edit",
+      "id": "2666014d533b72c9",
+      "item": {
+        "type": "html",
+        "id": "2666014d533b72c9",
+        "text": "<h3>[[The Houses]]<h3>"
+      },
+      "date": 1502085897622
+    },
+    {
+      "type": "move",
+      "order": [
+        "2666014d533b72c9",
+        "37f1ac728d3eb54e",
+        "aebb56c7b5b8b23f"
+      ],
+      "id": "2666014d533b72c9",
+      "date": 1502085899485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3cc775ee3dc83145"
+      },
+      "id": "3cc775ee3dc83145",
+      "type": "add",
+      "after": "aebb56c7b5b8b23f",
+      "date": 1502085904292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84a5569a232352df"
+      },
+      "id": "84a5569a232352df",
+      "type": "add",
+      "after": "3cc775ee3dc83145",
+      "date": 1502085909353
+    },
+    {
+      "type": "edit",
+      "id": "3cc775ee3dc83145",
+      "item": {
+        "type": "html",
+        "id": "3cc775ee3dc83145",
+        "text": "<h3>[[The Houses]]<h3>"
+      },
+      "date": 1502085910776
+    },
+    {
+      "type": "edit",
+      "id": "84a5569a232352df",
+      "item": {
+        "type": "html",
+        "id": "84a5569a232352df",
+        "text": "<h3>[[The Houses]]<h3>"
+      },
+      "date": 1502085913995
+    },
+    {
+      "type": "edit",
+      "id": "3cc775ee3dc83145",
+      "item": {
+        "type": "html",
+        "id": "3cc775ee3dc83145",
+        "text": "<h3>[[The Senate]]<h3>"
+      },
+      "date": 1502085918501
+    },
+    {
+      "type": "edit",
+      "id": "84a5569a232352df",
+      "item": {
+        "type": "html",
+        "id": "84a5569a232352df",
+        "text": "<h3>[[The Houses]]<h3>\n"
+      },
+      "date": 1502085921750
+    },
+    {
+      "type": "edit",
+      "id": "84a5569a232352df",
+      "item": {
+        "type": "html",
+        "id": "84a5569a232352df",
+        "text": "<h3>[[The General Assembly]]<h3>\n"
+      },
+      "date": 1502085942302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e851adaa5c459174"
+      },
+      "id": "e851adaa5c459174",
+      "type": "add",
+      "after": "84a5569a232352df",
+      "date": 1502085990508
+    },
+    {
+      "type": "edit",
+      "id": "e851adaa5c459174",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/3 of the World's voting age individuals. "
+      },
+      "date": 1502086014669
+    },
+    {
+      "type": "move",
+      "order": [
+        "2666014d533b72c9",
+        "37f1ac728d3eb54e",
+        "3cc775ee3dc83145",
+        "aebb56c7b5b8b23f",
+        "84a5569a232352df",
+        "e851adaa5c459174"
+      ],
+      "id": "3cc775ee3dc83145",
+      "date": 1502086022120
+    },
+    {
+      "type": "edit",
+      "id": "aebb56c7b5b8b23f",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "There will be four senators. The senate will be elected by the bodies of each of the three houses, plus one elected by the the houses collectively. The term will be 9 years, with 1 week campaign season limit."
+      },
+      "date": 1502086138350
+    },
+    {
+      "type": "edit",
+      "id": "e851adaa5c459174",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/3 of the World's voting age individuals. They "
+      },
+      "date": 1502086146552
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 members. They will be elected by the general assembly."
+      },
+      "date": 1502086162149
+    },
+    {
+      "type": "edit",
+      "id": "e851adaa5c459174",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/3 of the World's voting age individuals."
+      },
+      "date": 1502086271301
+    },
+    {
+      "type": "edit",
+      "id": "e851adaa5c459174",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/4 of the World's voting age individuals."
+      },
+      "date": 1502086342803
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 (1/3 scaling) or 171 (1/4 scaling) members. They will be elected by the general assembly."
+      },
+      "date": 1502086401356
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 (1/3 scaling) or 171 (1/4 scaling) members. They will be elected by the general assemb"
+      },
+      "date": 1502086416288
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 (1/3 scaling) or 171 (1/4 scaling) members. They will be elected by the general assembly."
+      },
+      "date": 1502086611915
+    },
+    {
+      "type": "add",
+      "id": "c86068f49f74d79e",
+      "item": {
+        "type": "paragraph",
+        "id": "c86068f49f74d79e",
+        "text": "House Size = (Gvp*(1/3))^(1/4)"
+      },
+      "after": "37f1ac728d3eb54e",
+      "date": 1502086615966
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With global population of [[voting age]] individuals at 3.5 billion, each [[house]] will contain 184 members. They will be elected by the general assembly."
+      },
+      "date": 1502086625594
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With [[global voting-age population]] (\"Gvp\") of individuals at 3.5 billion, each [[house]] will contain 184 members. They will be elected by the general assembly."
+      },
+      "date": 1502086687634
+    },
+    {
+      "type": "add",
+      "id": "908a1f3b138e4516",
+      "item": {
+        "type": "paragraph",
+        "id": "908a1f3b138e4516",
+        "text": "Senate Size = House Size^(.25)"
+      },
+      "after": "aebb56c7b5b8b23f",
+      "date": 1502086842656
+    },
+    {
+      "type": "edit",
+      "id": "c86068f49f74d79e",
+      "item": {
+        "type": "paragraph",
+        "id": "c86068f49f74d79e",
+        "text": "House Size = (Gvp*(1/3))^(.25)"
+      },
+      "date": 1502086849832
+    },
+    {
+      "type": "edit",
+      "id": "e851adaa5c459174",
+      "item": {
+        "type": "paragraph",
+        "id": "e851adaa5c459174",
+        "text": "Composed of 1/3 of the World's voting age individuals."
+      },
+      "date": 1502086858361
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The four houses will represent each of Asia, Europe, and The Americas. Terms will be 3 years, with 1 month campaign season limit. With [[global voting-age population]] (\"Gvp\") of individuals at 3.5 billion, each [[house]] will contain 184 members. They will be elected by the general assembly."
+      },
+      "date": 1502086930786
+    },
+    {
+      "type": "edit",
+      "id": "37f1ac728d3eb54e",
+      "item": {
+        "type": "paragraph",
+        "id": "37f1ac728d3eb54e",
+        "text": "The three houses will represent each of Northern Hemisphere voting populations, Southern Hemisphere voting populations, and Global voting populations. "
+      },
+      "date": 1502087031337
+    },
+    {
+      "type": "add",
+      "id": "669524d10339a8fb",
+      "item": {
+        "type": "paragraph",
+        "id": "669524d10339a8fb",
+        "text": "Terms will be 3 years, with 1 month campaign season limit. "
+      },
+      "after": "37f1ac728d3eb54e",
+      "date": 1502087057288
+    },
+    {
+      "type": "add",
+      "id": "e37bd44afd3f0c61",
+      "item": {
+        "type": "paragraph",
+        "id": "e37bd44afd3f0c61",
+        "text": "Each [[house]] will contain 184 members with [[global voting-age population]] (\"Gvp\") of individuals at 3.5 billion."
+      },
+      "after": "669524d10339a8fb",
+      "date": 1502087103288
+    },
+    {
+      "type": "add",
+      "id": "f00c7242c9172561",
+      "item": {
+        "type": "paragraph",
+        "id": "f00c7242c9172561",
+        "text": "Representatives will be elected by the general assembly."
+      },
+      "after": "e37bd44afd3f0c61",
+      "date": 1502087110751
+    },
+    {
+      "type": "edit",
+      "id": "f00c7242c9172561",
+      "item": {
+        "type": "paragraph",
+        "id": "f00c7242c9172561",
+        "text": "[[Representatives]] will be elected by the general assembly."
+      },
+      "date": 1502087117047
+    },
+    {
+      "type": "edit",
+      "id": "c86068f49f74d79e",
+      "item": {
+        "type": "paragraph",
+        "id": "c86068f49f74d79e",
+        "text": "House Size = (Voters*(1/3))^(.25)"
+      },
+      "date": 1502087508310
+    },
+    {
+      "type": "remove",
+      "id": "37f1ac728d3eb54e",
+      "date": 1502088191470
+    },
+    {
+      "type": "remove",
+      "id": "669524d10339a8fb",
+      "date": 1502088193041
+    },
+    {
+      "type": "remove",
+      "id": "e37bd44afd3f0c61",
+      "date": 1502088194799
+    },
+    {
+      "type": "remove",
+      "id": "f00c7242c9172561",
+      "date": 1502088197766
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "915d47b5d4218093",
+        "text": "The legislative branch shall be composed of three bodies. [[The Houses]], [[The Senate]], and the [[General Assembly]]."
+      },
+      "id": "915d47b5d4218093",
+      "date": 1502088211253
+    },
+    {
+      "type": "remove",
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088215890
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "f41206abf6f3b87c",
+        "type": "future",
+        "text": "We could not find this page.",
+        "title": "The Senate",
+        "create": {
+          "type": "create",
+          "item": {
+            "title": "Article I",
+            "story": []
+          },
+          "date": 1502085292149
+        }
+      },
+      "after": "3cc775ee3dc83145",
+      "id": "f41206abf6f3b87c",
+      "date": 1502088238696
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "aebb56c7b5b8b23f",
+        "text": "There will be four senators. The senate will be elected by the bodies of each of the three houses, plus one elected by the the houses collectively. The term will be 9 years, with 1 week campaign season limit."
+      },
+      "after": "3cc775ee3dc83145",
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088242118
+    },
+    {
+      "type": "remove",
+      "id": "aebb56c7b5b8b23f",
+      "date": 1502088249742
+    },
+    {
+      "type": "remove",
+      "id": "f41206abf6f3b87c",
+      "date": 1502088254320
+    },
+    {
+      "type": "remove",
+      "id": "2666014d533b72c9",
+      "date": 1502088278859
+    },
+    {
+      "type": "edit",
+      "id": "3cc775ee3dc83145",
+      "item": {
+        "type": "html",
+        "id": "3cc775ee3dc83145",
+        "text": "<h4>[[The Senate]]<h4>"
+      },
+      "date": 1502088305088
+    },
+    {
+      "type": "remove",
+      "id": "3cc775ee3dc83145",
+      "date": 1502088307359
+    },
+    {
+      "type": "edit",
+      "id": "84a5569a232352df",
+      "item": {
+        "type": "html",
+        "id": "84a5569a232352df",
+        "text": "<h4>[[The General Assembly]]<h4>\n"
+      },
+      "date": 1502088318408
+    },
+    {
+      "type": "remove",
+      "id": "84a5569a232352df",
+      "date": 1502088321984
+    },
+    {
+      "type": "remove",
+      "id": "c86068f49f74d79e",
+      "date": 1502088330735
+    },
+    {
+      "type": "remove",
+      "id": "908a1f3b138e4516",
+      "date": 1502088337538
+    },
+    {
+      "type": "remove",
+      "id": "e851adaa5c459174",
+      "date": 1502088353740
+    },
+    {
+      "type": "add",
+      "id": "4d861dce0ebd0c60",
+      "item": {
+        "type": "paragraph",
+        "id": "4d861dce0ebd0c60",
+        "text": "Collectively, they write the laws."
+      },
+      "after": "915d47b5d4218093",
+      "date": 1502088372120
+    },
+    {
+      "type": "add",
+      "id": "c078a100d72b27c3",
+      "item": {
+        "type": "paragraph",
+        "id": "c078a100d72b27c3",
+        "text": "The Senate and Houses draft legislation that is then presented to the General Assembly for voting up or down. "
+      },
+      "after": "4d861dce0ebd0c60",
+      "date": 1502088455407
+    },
+    {
+      "type": "edit",
+      "id": "c078a100d72b27c3",
+      "item": {
+        "type": "paragraph",
+        "id": "c078a100d72b27c3",
+        "text": "The Senate and Houses draft legislation that is then presented to the General Assembly for voting up or down. Only the General Assembly may lobby the House or the Senate."
+      },
+      "date": 1502088553430
+    }
+  ]
+}

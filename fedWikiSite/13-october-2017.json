@@ -1,0 +1,39 @@
+{
+  "title": "13 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2dc4a288f4e1657d",
+      "text": "Hi world. Things are going well. Work remains interesting. Doing some good in the world which always feels good. ALso. Tesla Model X coming my way!!!!!!! OMG. Cannot wait!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 October 2017",
+        "story": []
+      },
+      "date": 1507918658950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2dc4a288f4e1657d"
+      },
+      "id": "2dc4a288f4e1657d",
+      "type": "add",
+      "date": 1507918660462
+    },
+    {
+      "type": "edit",
+      "id": "2dc4a288f4e1657d",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc4a288f4e1657d",
+        "text": "Hi world. Things are going well. Work remains interesting. Doing some good in the world which always feels good. ALso. Tesla Model X coming my way!!!!!!! OMG. Cannot wait!"
+      },
+      "date": 1507918707754
+    }
+  ]
+}

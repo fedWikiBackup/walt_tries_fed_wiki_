@@ -1,0 +1,39 @@
+{
+  "title": "4 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e0d4c79165d33a3c",
+      "text": "What a night. Caroline's flight diverted to Bozeman. Home at 4 am. Exhausted. Deposition from 9am till forever."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "4 April 2018",
+        "story": []
+      },
+      "date": 1522857132553
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0d4c79165d33a3c"
+      },
+      "id": "e0d4c79165d33a3c",
+      "type": "add",
+      "date": 1522857134048
+    },
+    {
+      "type": "edit",
+      "id": "e0d4c79165d33a3c",
+      "item": {
+        "type": "paragraph",
+        "id": "e0d4c79165d33a3c",
+        "text": "What a night. Caroline's flight diverted to Bozeman. Home at 4 am. Exhausted. Deposition from 9am till forever."
+      },
+      "date": 1522857570997
+    }
+  ]
+}

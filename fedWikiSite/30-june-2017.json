@@ -1,0 +1,107 @@
+{
+  "title": "30 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4e87123120a53ca0",
+      "text": "Traveled all over the USA this week. Finally settled at Spenny's. Feels pretty good. He is a good dude - obsessed with Tennis, but still a great dude."
+    },
+    {
+      "type": "paragraph",
+      "id": "da601d4eb013c5a1",
+      "text": "Going to hang with Kamila and Chloe tonight - so that will be interesting. Hoping to set Chloe and Spenny up. Might work - but Spenny is so much more into sports than women. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0ecb2992be38e165",
+      "text": "Work is going well. Really fascinating cases. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 June 2017",
+        "story": []
+      },
+      "date": 1498856140763
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e87123120a53ca0"
+      },
+      "id": "4e87123120a53ca0",
+      "type": "add",
+      "date": 1498856141680
+    },
+    {
+      "type": "edit",
+      "id": "4e87123120a53ca0",
+      "item": {
+        "type": "paragraph",
+        "id": "4e87123120a53ca0",
+        "text": "Traveled all over the USA this week. Finally settled at Spenny"
+      },
+      "date": 1498856155663
+    },
+    {
+      "type": "add",
+      "id": "4b6aadcc803d2ec4",
+      "item": {
+        "type": "paragraph",
+        "id": "4b6aadcc803d2ec4",
+        "text": "s"
+      },
+      "after": "4e87123120a53ca0",
+      "date": 1498856157345
+    },
+    {
+      "type": "edit",
+      "id": "4e87123120a53ca0",
+      "item": {
+        "type": "paragraph",
+        "id": "4e87123120a53ca0",
+        "text": "Traveled all over the USA this week. Finally settled at Spenny's. Feels pretty good. He is a good dude - obsessed with Tennis, but still a great dude."
+      },
+      "date": 1498856179524
+    },
+    {
+      "type": "add",
+      "id": "da601d4eb013c5a1",
+      "item": {
+        "type": "paragraph",
+        "id": "da601d4eb013c5a1",
+        "text": "Going to hang with Kamila and Chloe tonight - so that will be interesting. Hoping to set Chloe and Spenny up. Might work - but Spenny is so much more into sports than women. "
+      },
+      "after": "4e87123120a53ca0",
+      "date": 1498856234035
+    },
+    {
+      "type": "add",
+      "id": "0ecb2992be38e165",
+      "item": {
+        "type": "paragraph",
+        "id": "0ecb2992be38e165",
+        "text": "Work is going well. "
+      },
+      "after": "da601d4eb013c5a1",
+      "date": 1498856240485
+    },
+    {
+      "type": "remove",
+      "id": "4b6aadcc803d2ec4",
+      "date": 1498856621728
+    },
+    {
+      "type": "edit",
+      "id": "0ecb2992be38e165",
+      "item": {
+        "type": "paragraph",
+        "id": "0ecb2992be38e165",
+        "text": "Work is going well. Really fascinating cases. "
+      },
+      "date": 1498856626876
+    }
+  ]
+}

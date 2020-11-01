@@ -1,0 +1,39 @@
+{
+  "title": "Supreme Court",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7411f95964a4dfda",
+      "text": "The Supreme Court will be in charge of interpreting this document. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Supreme Court",
+        "story": []
+      },
+      "date": 1502087636779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7411f95964a4dfda"
+      },
+      "id": "7411f95964a4dfda",
+      "type": "add",
+      "date": 1502087637535
+    },
+    {
+      "type": "edit",
+      "id": "7411f95964a4dfda",
+      "item": {
+        "type": "paragraph",
+        "id": "7411f95964a4dfda",
+        "text": "The Supreme Court will be in charge of interpreting this document. "
+      },
+      "date": 1502087659189
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "History of Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1a9d31e111cecff3",
+      "text": "[http://ward.bay.wiki.org/ Ward Cunningham] started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\" in the search bar below."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "History of Federated Wiki",
+        "story": []
+      },
+      "date": 1488051656915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a9d31e111cecff3"
+      },
+      "id": "1a9d31e111cecff3",
+      "type": "add",
+      "date": 1488051659240
+    },
+    {
+      "type": "edit",
+      "id": "1a9d31e111cecff3",
+      "item": {
+        "type": "paragraph",
+        "id": "1a9d31e111cecff3",
+        "text": ".Ward Cunningham started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\" in the search bar below."
+      },
+      "date": 1488051662022
+    },
+    {
+      "type": "edit",
+      "id": "1a9d31e111cecff3",
+      "item": {
+        "type": "paragraph",
+        "id": "1a9d31e111cecff3",
+        "text": "[ward.bay.wiki.org Ward Cunningham] started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\" in the search bar below."
+      },
+      "date": 1489005179685
+    },
+    {
+      "type": "edit",
+      "id": "1a9d31e111cecff3",
+      "item": {
+        "type": "paragraph",
+        "id": "1a9d31e111cecff3",
+        "text": "[http://ward.bay.wiki.org/ Ward Cunningham] started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\" in the search bar below."
+      },
+      "date": 1489005192486
+    }
+  ]
+}

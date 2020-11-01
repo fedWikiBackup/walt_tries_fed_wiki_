@@ -1,0 +1,71 @@
+{
+  "title": "9 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2b0fe85d63a8f280",
+      "text": "Going to watch Wonder Woman tonight in 3D. Wooooo. Should be fun. Wish I had my contacts. Oh wait, I do. Because I am always prepared ;). "
+    },
+    {
+      "type": "paragraph",
+      "id": "135d5b33c969726c",
+      "text": "Rough chat with Leigh last night. I tried to explain that I cannot force myself to enjoy time with people who do not support my drive in life - what more can I say. She misses the old me. I like the new me, and wish she would adapt, if she truly loves me."
+    },
+    {
+      "type": "paragraph",
+      "id": "0243315dea495033",
+      "text": "Kamila gets me. It is nice. Comfortable. I hope that I do not disappoint her. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 June 2017",
+        "story": []
+      },
+      "date": 1497021898839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b0fe85d63a8f280"
+      },
+      "id": "2b0fe85d63a8f280",
+      "type": "add",
+      "date": 1497021900227
+    },
+    {
+      "type": "edit",
+      "id": "2b0fe85d63a8f280",
+      "item": {
+        "type": "paragraph",
+        "id": "2b0fe85d63a8f280",
+        "text": "Going to watch Wonder Woman tonight in 3D. Wooooo. Should be fun. Wish I had my contacts. Oh wait, I do. Because I am always prepared ;). "
+      },
+      "date": 1497021941603
+    },
+    {
+      "type": "add",
+      "id": "135d5b33c969726c",
+      "item": {
+        "type": "paragraph",
+        "id": "135d5b33c969726c",
+        "text": "Rough chat with Leigh last night. I tried to explain that I cannot force myself to enjoy time with people who do not support my drive in life - what more can I say. She misses the old me. I like the new me, and wish she would adapt, if she truly loves me."
+      },
+      "after": "2b0fe85d63a8f280",
+      "date": 1497022002660
+    },
+    {
+      "type": "add",
+      "id": "0243315dea495033",
+      "item": {
+        "type": "paragraph",
+        "id": "0243315dea495033",
+        "text": "Kamila gets me. It is nice. Comfortable. I hope that I do not disappoint her. "
+      },
+      "after": "135d5b33c969726c",
+      "date": 1497022033876
+    }
+  ]
+}

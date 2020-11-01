@@ -1,0 +1,53 @@
+{
+  "title": "potentially-interested-parties",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4c35796324923dab",
+      "text": "[https://en.wikipedia.org/wiki/Jigsaw_(company) Jigsaw], a subsidiary of Alphabet."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "potentially-interested-parties",
+        "story": []
+      },
+      "date": 1489008193707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1275efee3db02136"
+      },
+      "id": "1275efee3db02136",
+      "type": "add",
+      "date": 1489008195281
+    },
+    {
+      "type": "remove",
+      "id": "1275efee3db02136",
+      "date": 1489008198258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c35796324923dab"
+      },
+      "id": "4c35796324923dab",
+      "type": "add",
+      "date": 1489008221786
+    },
+    {
+      "type": "edit",
+      "id": "4c35796324923dab",
+      "item": {
+        "type": "paragraph",
+        "id": "4c35796324923dab",
+        "text": "[https://en.wikipedia.org/wiki/Jigsaw_(company) Jigsaw], a subsidiary of Alphabet."
+      },
+      "date": 1489008243341
+    }
+  ]
+}

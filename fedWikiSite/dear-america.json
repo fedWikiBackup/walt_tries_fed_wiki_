@@ -1,0 +1,133 @@
+{
+  "title": "Dear America",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d3f7ee7e01bffd0",
+      "text": "I was born a republican. I was, for a time, healing from a bleeding heart. Now, I realize, I am registered to vote in a country that is losing the Cyber War."
+    },
+    {
+      "type": "paragraph",
+      "id": "57af66b57a034e55",
+      "text": "Contemporaneously, the rest of the world hates our failing bully of a republic. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6f4cd549bf99d4dc",
+      "text": "I am building a castle in response."
+    },
+    {
+      "type": "paragraph",
+      "id": "751e7669dca8cad0",
+      "text": "Smarter, not harder."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dear America",
+        "story": []
+      },
+      "date": 1497083868356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d3f7ee7e01bffd0"
+      },
+      "id": "7d3f7ee7e01bffd0",
+      "type": "add",
+      "date": 1497083869751
+    },
+    {
+      "type": "edit",
+      "id": "7d3f7ee7e01bffd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f7ee7e01bffd0",
+        "text": "I was born a republican. I was, for a time, healing from a bleeding heart. Now I realize, I am registered to vote in a country that is losing the Cyber battle."
+      },
+      "date": 1497083931620
+    },
+    {
+      "type": "add",
+      "id": "57af66b57a034e55",
+      "item": {
+        "type": "paragraph",
+        "id": "57af66b57a034e55",
+        "text": "Russia, has shaped your thought. Has always sought to do so. "
+      },
+      "after": "7d3f7ee7e01bffd0",
+      "date": 1497083962571
+    },
+    {
+      "type": "add",
+      "id": "6f4cd549bf99d4dc",
+      "item": {
+        "type": "paragraph",
+        "id": "6f4cd549bf99d4dc",
+        "text": "Lets put a stop to that. Lets fight this fight."
+      },
+      "after": "57af66b57a034e55",
+      "date": 1497083992739
+    },
+    {
+      "type": "add",
+      "id": "751e7669dca8cad0",
+      "item": {
+        "type": "paragraph",
+        "id": "751e7669dca8cad0",
+        "text": "Smarter, not harder."
+      },
+      "after": "6f4cd549bf99d4dc",
+      "date": 1497083999225
+    },
+    {
+      "type": "edit",
+      "id": "57af66b57a034e55",
+      "item": {
+        "type": "paragraph",
+        "id": "57af66b57a034e55",
+        "text": "Contemporaneously, the rest of the world hates our failing bully of a republic. "
+      },
+      "date": 1497084039499
+    },
+    {
+      "type": "add",
+      "id": "645f3a00e819d301",
+      "item": {
+        "type": "paragraph",
+        "id": "645f3a00e819d301",
+        "text": "Love someone. Even if only yourself."
+      },
+      "after": "6f4cd549bf99d4dc",
+      "date": 1497084093444
+    },
+    {
+      "type": "edit",
+      "id": "7d3f7ee7e01bffd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f7ee7e01bffd0",
+        "text": "I was born a republican. I was, for a time, healing from a bleeding heart. Now, I realize, I am registered to vote in a country that is losing the Cyber War."
+      },
+      "date": 1497086101264
+    },
+    {
+      "type": "edit",
+      "id": "6f4cd549bf99d4dc",
+      "item": {
+        "type": "paragraph",
+        "id": "6f4cd549bf99d4dc",
+        "text": "I am building a castle in response."
+      },
+      "date": 1497086137764
+    },
+    {
+      "type": "remove",
+      "id": "645f3a00e819d301",
+      "date": 1497086882238
+    }
+  ]
+}

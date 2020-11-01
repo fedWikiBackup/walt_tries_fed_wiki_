@@ -1,0 +1,91 @@
+{
+  "title": "20 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "324b76885020db7c",
+      "text": "Well. I feel better. Amazing what it is to turn a corner of good health. Thanks to the universe. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d80f4a3333f5c4bb",
+      "text": "More fossil digging and lawyer writing today - what a good day."
+    },
+    {
+      "type": "paragraph",
+      "id": "1edf91ee9e10b8f2",
+      "text": "The podcast is sounding really good. I am starting to get my hopes up that we might pull this off!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 July 2017",
+        "story": []
+      },
+      "date": 1500571761173
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "324b76885020db7c"
+      },
+      "id": "324b76885020db7c",
+      "type": "add",
+      "date": 1500571762288
+    },
+    {
+      "type": "edit",
+      "id": "324b76885020db7c",
+      "item": {
+        "type": "paragraph",
+        "id": "324b76885020db7c",
+        "text": "Well. I feel better. Amazing what it is to turn a corner of good health. Thanks to the universe. "
+      },
+      "date": 1500571788015
+    },
+    {
+      "type": "add",
+      "id": "d80f4a3333f5c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "d80f4a3333f5c4bb",
+        "text": "More fossil digging and lawer qriting today - what a good day."
+      },
+      "after": "324b76885020db7c",
+      "date": 1500571799855
+    },
+    {
+      "type": "add",
+      "id": "1edf91ee9e10b8f2",
+      "item": {
+        "type": "paragraph",
+        "id": "1edf91ee9e10b8f2",
+        "text": "THe "
+      },
+      "after": "d80f4a3333f5c4bb",
+      "date": 1500571802370
+    },
+    {
+      "type": "edit",
+      "id": "d80f4a3333f5c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "d80f4a3333f5c4bb",
+        "text": "More fossil digging and lawyer writing today - what a good day."
+      },
+      "date": 1500571816552
+    },
+    {
+      "type": "edit",
+      "id": "1edf91ee9e10b8f2",
+      "item": {
+        "type": "paragraph",
+        "id": "1edf91ee9e10b8f2",
+        "text": "The podcast is sounding really good. I am starting to get my hopes up that we might pull this off!"
+      },
+      "date": 1500571833038
+    }
+  ]
+}

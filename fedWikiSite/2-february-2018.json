@@ -1,0 +1,113 @@
+{
+  "title": "2 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "98269bfdfc16ab4a",
+      "text": "Feeling happy today. Good rest. Good friend. Good deal. More than just a measly meal. A group of women worth the steal. Make you reel. I. need. to move. to. iambic pentameter."
+    },
+    {
+      "type": "paragraph",
+      "id": "7d525ba143e9c3d9",
+      "text": "To walk to be, with me forever or never."
+    },
+    {
+      "type": "paragraph",
+      "id": "5431ba748c542ee5",
+      "text": "I can't be more than what I am you see?"
+    },
+    {
+      "type": "paragraph",
+      "id": "5dc17485f71a0b0f",
+      "text": "We are but friends wrapped up in cosmic time."
+    },
+    {
+      "type": "paragraph",
+      "id": "10e3fe3dd807a14a",
+      "text": "It almost rhymed."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 February 2018",
+        "story": []
+      },
+      "date": 1517595913519
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98269bfdfc16ab4a"
+      },
+      "id": "98269bfdfc16ab4a",
+      "type": "add",
+      "date": 1517595914615
+    },
+    {
+      "type": "edit",
+      "id": "98269bfdfc16ab4a",
+      "item": {
+        "type": "paragraph",
+        "id": "98269bfdfc16ab4a",
+        "text": "Feeling "
+      },
+      "date": 1517595921976
+    },
+    {
+      "type": "edit",
+      "id": "98269bfdfc16ab4a",
+      "item": {
+        "type": "paragraph",
+        "id": "98269bfdfc16ab4a",
+        "text": "Feeling happy today. Good rest. Good friend. Good deal. More than just a measly meal. A group of women worth the steal. Make you reel. I. need. to move. to. iambic pentameter."
+      },
+      "date": 1517602134740
+    },
+    {
+      "type": "add",
+      "id": "7d525ba143e9c3d9",
+      "item": {
+        "type": "paragraph",
+        "id": "7d525ba143e9c3d9",
+        "text": "To walk to be, with me forever or never."
+      },
+      "after": "98269bfdfc16ab4a",
+      "date": 1517602164181
+    },
+    {
+      "type": "add",
+      "id": "5431ba748c542ee5",
+      "item": {
+        "type": "paragraph",
+        "id": "5431ba748c542ee5",
+        "text": "I can't be more than what I am you see?"
+      },
+      "after": "7d525ba143e9c3d9",
+      "date": 1517602194979
+    },
+    {
+      "type": "add",
+      "id": "5dc17485f71a0b0f",
+      "item": {
+        "type": "paragraph",
+        "id": "5dc17485f71a0b0f",
+        "text": "We are but friends wrapped up in cosmic time."
+      },
+      "after": "5431ba748c542ee5",
+      "date": 1517602308243
+    },
+    {
+      "type": "add",
+      "id": "10e3fe3dd807a14a",
+      "item": {
+        "type": "paragraph",
+        "id": "10e3fe3dd807a14a",
+        "text": "It almost rhymed."
+      },
+      "after": "5dc17485f71a0b0f",
+      "date": 1517602316017
+    }
+  ]
+}

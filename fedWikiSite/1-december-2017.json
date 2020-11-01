@@ -1,0 +1,39 @@
+{
+  "title": "1 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9532de05a91060d8",
+      "text": "Christmas stroll coming soon. Headed home. Sleep and rest for the weekend. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 December 2017",
+        "story": []
+      },
+      "date": 1512168165598
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9532de05a91060d8"
+      },
+      "id": "9532de05a91060d8",
+      "type": "add",
+      "date": 1512168166802
+    },
+    {
+      "type": "edit",
+      "id": "9532de05a91060d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9532de05a91060d8",
+        "text": "Christmas stroll coming soon. Headed home. Sleep and rest for the weekend. "
+      },
+      "date": 1512168181094
+    }
+  ]
+}

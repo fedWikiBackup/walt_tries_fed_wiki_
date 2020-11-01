@@ -1,0 +1,160 @@
+{
+  "title": "Reliable Collective Decisions",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bb8f67b9e45503a6",
+      "text": "We consider how one might employ the unique properties of federated wiki to make binding decisions in our collective best interest."
+    },
+    {
+      "type": "paragraph",
+      "id": "768c7e1af6e092c2",
+      "text": "We have a model of collaboration where individuals are free to choose from others without others choosing for them. One can pull but not push."
+    },
+    {
+      "type": "paragraph",
+      "id": "9dda6f677f09cadd",
+      "text": "[[Biological Inspiration]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "66a41a71da16ced7",
+      "text": "We need effective ways of making collectively binding, long-term decisions that take into account the interests of all those affected, including future generations. [https://www.globalchallenges.org/en/the-prize/criteria page]"
+    },
+    {
+      "type": "paragraph",
+      "id": "76a8f29e9627d57c",
+      "text": "How might we layer upon this additional machinery of governance? We require good decisions made in a timely way and with sufficient representation that they are accepted by the whole."
+    },
+    {
+      "type": "paragraph",
+      "id": "e2399aaa721184a5",
+      "text": "We have no means of coercion except those outside of wiki such as peer pressure or a police force."
+    },
+    {
+      "type": "paragraph",
+      "id": "a8285373eea787ae",
+      "text": "[[Conversations With Ward]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reliable Collective Decisions",
+        "story": []
+      },
+      "date": 1488047382486
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb8f67b9e45503a6"
+      },
+      "id": "bb8f67b9e45503a6",
+      "type": "add",
+      "date": 1488047402555
+    },
+    {
+      "type": "edit",
+      "id": "bb8f67b9e45503a6",
+      "item": {
+        "type": "paragraph",
+        "id": "bb8f67b9e45503a6",
+        "text": "We consider how one might employ the unique properties of federated wiki to make binding decisions in our collective best interest."
+      },
+      "date": 1488047594001
+    },
+    {
+      "type": "add",
+      "id": "768c7e1af6e092c2",
+      "item": {
+        "type": "paragraph",
+        "id": "768c7e1af6e092c2",
+        "text": "We have a model of collaboration where individuals are free to choose from others without others choosing for them. One can pull but not push."
+      },
+      "after": "bb8f67b9e45503a6",
+      "date": 1488047755605
+    },
+    {
+      "type": "add",
+      "id": "76a8f29e9627d57c",
+      "item": {
+        "type": "paragraph",
+        "id": "76a8f29e9627d57c",
+        "text": "How might we layer upon this additional machinery of governance? We require good decisions made in a timely way and with sufficient representation that they are accepted by the whole. We have no means of coercion except those outside of wiki such as peer pressure or a police force."
+      },
+      "after": "768c7e1af6e092c2",
+      "date": 1488048191287
+    },
+    {
+      "type": "edit",
+      "id": "76a8f29e9627d57c",
+      "item": {
+        "type": "paragraph",
+        "id": "76a8f29e9627d57c",
+        "text": "How might we layer upon this additional machinery of governance? We require good decisions made in a timely way and with sufficient representation that they are accepted by the whole."
+      },
+      "date": 1488048210246
+    },
+    {
+      "type": "add",
+      "id": "e2399aaa721184a5",
+      "item": {
+        "type": "paragraph",
+        "id": "e2399aaa721184a5",
+        "text": "We have no means of coercion except those outside of wiki such as peer pressure or a police force."
+      },
+      "after": "76a8f29e9627d57c",
+      "date": 1488048217622
+    },
+    {
+      "type": "add",
+      "id": "66a41a71da16ced7",
+      "item": {
+        "type": "paragraph",
+        "id": "66a41a71da16ced7",
+        "text": "We need effective ways of making collectively binding, long-term decisions that take into account the interests of all those affected, including future generations."
+      },
+      "after": "768c7e1af6e092c2",
+      "date": 1488050795536
+    },
+    {
+      "type": "edit",
+      "id": "66a41a71da16ced7",
+      "item": {
+        "type": "paragraph",
+        "id": "66a41a71da16ced7",
+        "text": "We need effective ways of making collectively binding, long-term decisions that take into account the interests of all those affected, including future generations. [https://www.globalchallenges.org/en/the-prize/criteria page]"
+      },
+      "date": 1488050810380
+    },
+    {
+      "type": "add",
+      "id": "9dda6f677f09cadd",
+      "item": {
+        "type": "paragraph",
+        "id": "9dda6f677f09cadd",
+        "text": "[[Biological Inspiration]]"
+      },
+      "after": "768c7e1af6e092c2",
+      "date": 1488343668702
+    },
+    {
+      "type": "fork",
+      "site": "ward.walt.tries.fed.wiki",
+      "date": 1489003354438
+    },
+    {
+      "type": "add",
+      "id": "a8285373eea787ae",
+      "item": {
+        "type": "paragraph",
+        "id": "a8285373eea787ae",
+        "text": "[[Conversations With Ward]]"
+      },
+      "after": "e2399aaa721184a5",
+      "date": 1489003659905
+    }
+  ]
+}

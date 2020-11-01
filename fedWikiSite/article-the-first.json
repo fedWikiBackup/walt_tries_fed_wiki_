@@ -1,0 +1,71 @@
+{
+  "title": "Article the First",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b7b9f7d1044db616",
+      "text": "The first proposed amendment to the Constitution was never passed. That is right, there were actually twelve amendments in the bill of rights. The second also did not pass until 1995. "
+    },
+    {
+      "type": "paragraph",
+      "id": "63921a6c9162638d",
+      "text": "[https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment Article the First] tried to appropriate the correct ratio of population to representatives in the house. That number was artificially fixed in 1929."
+    },
+    {
+      "type": "paragraph",
+      "id": "0d5305ea9e8febee",
+      "text": "Walter has an article forthcoming on this topic."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Article the First",
+        "story": []
+      },
+      "date": 1489007686881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7b9f7d1044db616"
+      },
+      "id": "b7b9f7d1044db616",
+      "type": "add",
+      "date": 1489008489472
+    },
+    {
+      "type": "edit",
+      "id": "b7b9f7d1044db616",
+      "item": {
+        "type": "paragraph",
+        "id": "b7b9f7d1044db616",
+        "text": "The first proposed amendment to the Constitution was never passed. That is right, there were actually twelve amendments in the bill of rights. The second also did not pass until 1995. "
+      },
+      "date": 1489008559709
+    },
+    {
+      "type": "add",
+      "id": "63921a6c9162638d",
+      "item": {
+        "type": "paragraph",
+        "id": "63921a6c9162638d",
+        "text": "[https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment Article the First] tried to appropriate the correct ratio of population to representatives in the house. That number was artificially fixed in 1929."
+      },
+      "after": "b7b9f7d1044db616",
+      "date": 1489008631234
+    },
+    {
+      "type": "add",
+      "id": "0d5305ea9e8febee",
+      "item": {
+        "type": "paragraph",
+        "id": "0d5305ea9e8febee",
+        "text": "Walter has an article forthcoming on this topic."
+      },
+      "after": "63921a6c9162638d",
+      "date": 1489008647708
+    }
+  ]
+}

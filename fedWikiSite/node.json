@@ -1,0 +1,244 @@
+{
+  "title": "node",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f4447ae55710d5a6",
+      "text": "The smallest unit of [[modular]] networking. For purposes of designing the human social network, the Node is [[City]], of which there are several sizes."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5c7c36f7be16730",
+      "text": "A TinyCity is a node, and a Polis, which is made up of several TinyCities, is a module of nodes. Likewise, a Polis is also a node, and a Metropolis, which is made up of several Poli, is also a module of nodes."
+    },
+    {
+      "type": "paragraph",
+      "id": "943bfa009acb492e",
+      "text": "Like a square and a rectangle, a module is also a node, but a node is not a module."
+    },
+    {
+      "type": "paragraph",
+      "id": "1f91cbf744e9b482",
+      "text": "Self-sufficient human created organism of the network that can be joined together into exponentially (1/4 power)more efficient self-sufficient organism, called module."
+    },
+    {
+      "type": "pagefold",
+      "id": "b2c2f2cf01a4409f",
+      "text": "Wikipedia Definition"
+    },
+    {
+      "type": "paragraph",
+      "id": "6165830f-7390-41ed-a193-5b5c7b296544",
+      "text": "In communication networks, a node (Latin nodus, ‘knot’) is either a redistribution point (e.g. data communications equipment), or a communication endpoint (e.g. data terminal equipment). The definition of a node depends on the network and protocol layer referred to. A physical network node is an active electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a communications channel. A passive distribution point such as a distribution frame or patch panel is consequently not a node - [https://en.wikipedia.org/wiki/Node_(networking) wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "bab84a8c-6205-4add-9db2-2f6464cb1e4b",
+      "text": "# See also\n* [[Computer network nodes]]\n* [[Telecommunication network nodes]]\n* [[Distributed system nodes]]\n* [[See also]]\n* [[References]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "node",
+        "story": []
+      },
+      "date": 1502089829585
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5c7c36f7be16730"
+      },
+      "id": "e5c7c36f7be16730",
+      "type": "add",
+      "date": 1502089830518
+    },
+    {
+      "type": "edit",
+      "id": "e5c7c36f7be16730",
+      "item": {
+        "type": "paragraph",
+        "id": "e5c7c36f7be16730",
+        "text": "A module is also a node, but a node is not a module."
+      },
+      "date": 1502089873431
+    },
+    {
+      "type": "edit",
+      "id": "e5c7c36f7be16730",
+      "item": {
+        "type": "paragraph",
+        "id": "e5c7c36f7be16730",
+        "text": "Like a square and a rectangle, a module is also a node, but a node is not a module."
+      },
+      "date": 1502089888560
+    },
+    {
+      "type": "add",
+      "id": "678a502250b6740c",
+      "item": {
+        "type": "paragraph",
+        "id": "678a502250b6740c",
+        "text": "A several nodes make up a module. "
+      },
+      "after": "e5c7c36f7be16730",
+      "date": 1502089910196
+    },
+    {
+      "type": "remove",
+      "id": "678a502250b6740c",
+      "date": 1502089957254
+    },
+    {
+      "type": "edit",
+      "id": "e5c7c36f7be16730",
+      "item": {
+        "type": "paragraph",
+        "id": "e5c7c36f7be16730",
+        "text": "A TinyCity is a Node, and a Polis, which is made up of several TinyCities, is a module of nodes. Likewise, a Polis is also a node, and a Metropolis, which is made up of several Poli, is also a module of nodes."
+      },
+      "date": 1502090083495
+    },
+    {
+      "type": "add",
+      "id": "943bfa009acb492e",
+      "item": {
+        "type": "paragraph",
+        "id": "943bfa009acb492e",
+        "text": "Like a square and a rectangle, a module is also a node, but a node is not a module."
+      },
+      "after": "e5c7c36f7be16730",
+      "date": 1502090086689
+    },
+    {
+      "type": "edit",
+      "id": "e5c7c36f7be16730",
+      "item": {
+        "type": "paragraph",
+        "id": "e5c7c36f7be16730",
+        "text": "A TinyCity is a node, and a Polis, which is made up of several TinyCities, is a module of nodes. Likewise, a Polis is also a node, and a Metropolis, which is made up of several Poli, is also a module of nodes."
+      },
+      "date": 1502090100476
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1f91cbf744e9b482",
+        "text": "Self-sufficient human created organism of the network that can be joined together into exponentially (1/4 power)more efficient self-sufficient organism, called module."
+      },
+      "id": "1f91cbf744e9b482",
+      "date": 1502090109780
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4447ae55710d5a6"
+      },
+      "id": "f4447ae55710d5a6",
+      "type": "add",
+      "after": "943bfa009acb492e",
+      "date": 1502090195600
+    },
+    {
+      "type": "edit",
+      "id": "f4447ae55710d5a6",
+      "item": {
+        "type": "paragraph",
+        "id": "f4447ae55710d5a6",
+        "text": "is the smallest unit of [[modular]] networking. For purposes of designing the human social network, the Node is [[City]], of which there are several sizes."
+      },
+      "date": 1502090199590
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4447ae55710d5a6",
+        "1f91cbf744e9b482",
+        "e5c7c36f7be16730",
+        "943bfa009acb492e"
+      ],
+      "id": "f4447ae55710d5a6",
+      "date": 1502090201043
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4447ae55710d5a6",
+        "e5c7c36f7be16730",
+        "943bfa009acb492e",
+        "1f91cbf744e9b482"
+      ],
+      "id": "1f91cbf744e9b482",
+      "date": 1502090211848
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6165830f-7390-41ed-a193-5b5c7b296544",
+        "text": "In communication networks, a node (Latin nodus, ‘knot’) is either a redistribution point (e.g. data communications equipment), or a communication endpoint (e.g. data terminal equipment). The definition of a node depends on the network and protocol layer referred to. A physical network node is an active electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a communications channel. A passive distribution point such as a distribution frame or patch panel is consequently not a node - [https://en.wikipedia.org/wiki/Node_(networking) wikipedia]"
+      },
+      "after": "1f91cbf744e9b482",
+      "id": "6165830f-7390-41ed-a193-5b5c7b296544",
+      "date": 1502090282262
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "bab84a8c-6205-4add-9db2-2f6464cb1e4b",
+        "text": "# See also\n* [[Computer network nodes]]\n* [[Telecommunication network nodes]]\n* [[Distributed system nodes]]\n* [[See also]]\n* [[References]]"
+      },
+      "after": "6165830f-7390-41ed-a193-5b5c7b296544",
+      "id": "bab84a8c-6205-4add-9db2-2f6464cb1e4b",
+      "date": 1502090285335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b2c2f2cf01a4409f"
+      },
+      "id": "b2c2f2cf01a4409f",
+      "type": "add",
+      "after": "bab84a8c-6205-4add-9db2-2f6464cb1e4b",
+      "date": 1502090286984
+    },
+    {
+      "type": "edit",
+      "id": "b2c2f2cf01a4409f",
+      "item": {
+        "type": "pagefold",
+        "id": "b2c2f2cf01a4409f",
+        "text": "Wikipedia Definition"
+      },
+      "date": 1502090296894
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4447ae55710d5a6",
+        "e5c7c36f7be16730",
+        "943bfa009acb492e",
+        "1f91cbf744e9b482",
+        "b2c2f2cf01a4409f",
+        "6165830f-7390-41ed-a193-5b5c7b296544",
+        "bab84a8c-6205-4add-9db2-2f6464cb1e4b"
+      ],
+      "id": "b2c2f2cf01a4409f",
+      "date": 1502090303260
+    },
+    {
+      "type": "edit",
+      "id": "f4447ae55710d5a6",
+      "item": {
+        "type": "paragraph",
+        "id": "f4447ae55710d5a6",
+        "text": "The smallest unit of [[modular]] networking. For purposes of designing the human social network, the Node is [[City]], of which there are several sizes."
+      },
+      "date": 1502091284239
+    }
+  ]
+}

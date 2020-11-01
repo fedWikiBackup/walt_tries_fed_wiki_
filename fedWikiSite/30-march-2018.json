@@ -1,0 +1,39 @@
+{
+  "title": "30 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d5be05def3ab346",
+      "text": "Another day of land and ranch. Interesting head space for today and the the impending resolution of the log cabin sale. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 March 2018",
+        "story": []
+      },
+      "date": 1522430425393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d5be05def3ab346"
+      },
+      "id": "7d5be05def3ab346",
+      "type": "add",
+      "date": 1522430426738
+    },
+    {
+      "type": "edit",
+      "id": "7d5be05def3ab346",
+      "item": {
+        "type": "paragraph",
+        "id": "7d5be05def3ab346",
+        "text": "Another day of land and ranch. Interesting head space for today and the the impending resolution of the log cabin sale. "
+      },
+      "date": 1522430451875
+    }
+  ]
+}

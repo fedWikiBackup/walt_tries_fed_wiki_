@@ -1,0 +1,119 @@
+{
+  "title": "2 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1a86bed155001ee9",
+      "text": "Had a breakthrough with my boss. Need him to see my time in Red Lodge as an investment for the firm. That I am going to build up Red Lodge into something world renowned, and Axilon with it."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a6e5e4860e381e1",
+      "text": "Need to focus on slow and steady growth of the firm. In that respect, I want to focus on Professor Stevenson and finding a youngish IP attorney."
+    },
+    {
+      "type": "paragraph",
+      "id": "d114b21212ea4051",
+      "text": "The firm lacks some substantive knowledge, but not terribly so. Really looking forward to the future."
+    },
+    {
+      "type": "paragraph",
+      "id": "2c2cd7ba685a268f",
+      "text": "Also, Kamila is an amazing person, and feeling really lucky to have her in my life."
+    },
+    {
+      "type": "paragraph",
+      "id": "56b2e1004e7e78aa",
+      "text": "Got the last two days wrong, as May 31 swam by. So this is a new day. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e02be2db0ac415ce",
+      "text": "Went dancing last night after the firm dinner. Had lots of fun. Really excited for the future. Firm talked tech today and they are in dire need of an update. Looking forward to making that push. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2 June 2017",
+        "story": []
+      },
+      "date": 1496342451514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a86bed155001ee9"
+      },
+      "id": "1a86bed155001ee9",
+      "type": "add",
+      "date": 1496342452730
+    },
+    {
+      "type": "edit",
+      "id": "1a86bed155001ee9",
+      "item": {
+        "type": "paragraph",
+        "id": "1a86bed155001ee9",
+        "text": "Had a breakthrough with my boss. Need him to see my time in Red Lodge as an investment for the firm. That I am going to build up Red Lodge into something world renowned, and Axilon with it."
+      },
+      "date": 1496342511211
+    },
+    {
+      "type": "add",
+      "id": "9a6e5e4860e381e1",
+      "item": {
+        "type": "paragraph",
+        "id": "9a6e5e4860e381e1",
+        "text": "Need to focus on slow and steady growth of the firm. In that respect, I want to focus on Professor Stevenson and finding a youngish IP attorney."
+      },
+      "after": "1a86bed155001ee9",
+      "date": 1496342557154
+    },
+    {
+      "type": "add",
+      "id": "d114b21212ea4051",
+      "item": {
+        "type": "paragraph",
+        "id": "d114b21212ea4051",
+        "text": "The firm lacks some substantive knowledge, but not terribly so. Really looking forward to the future."
+      },
+      "after": "9a6e5e4860e381e1",
+      "date": 1496342594485
+    },
+    {
+      "type": "add",
+      "id": "2c2cd7ba685a268f",
+      "item": {
+        "type": "paragraph",
+        "id": "2c2cd7ba685a268f",
+        "text": "Also, Kamila is an amazing person, and feeling really lucky to have her in my life."
+      },
+      "after": "d114b21212ea4051",
+      "date": 1496342609468
+    },
+    {
+      "type": "add",
+      "id": "56b2e1004e7e78aa",
+      "item": {
+        "type": "paragraph",
+        "id": "56b2e1004e7e78aa",
+        "text": "Got the last two days wrong, as May 31 swam by. So this is a new day. "
+      },
+      "after": "2c2cd7ba685a268f",
+      "date": 1496426996838
+    },
+    {
+      "type": "add",
+      "id": "e02be2db0ac415ce",
+      "item": {
+        "type": "paragraph",
+        "id": "e02be2db0ac415ce",
+        "text": "Went dancing last night after the firm dinner. Had lots of fun. Really excited for the future. Firm talked tech today and they are in dire need of an update. Looking forward to making that push. "
+      },
+      "after": "56b2e1004e7e78aa",
+      "date": 1496427090096
+    }
+  ]
+}

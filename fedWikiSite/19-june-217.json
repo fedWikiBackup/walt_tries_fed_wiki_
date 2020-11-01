@@ -1,0 +1,71 @@
+{
+  "title": "19 June 217",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2b2979131d7d900d",
+      "text": "Throat feels a tingle - hopefully not a sickness. Things are well at work and my trip to NYC is shaping up well. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5b5469530fd63383",
+      "text": "Excited to hang out with Ben, Brittany and the Kids soon!"
+    },
+    {
+      "type": "paragraph",
+      "id": "f55907a29b307295",
+      "text": "I had a tough time this weekend missing my family. I hate that they are so set on wasting away in Texas - but so be it."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 June 217",
+        "story": []
+      },
+      "date": 1497912671872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b2979131d7d900d"
+      },
+      "id": "2b2979131d7d900d",
+      "type": "add",
+      "date": 1497912672901
+    },
+    {
+      "type": "edit",
+      "id": "2b2979131d7d900d",
+      "item": {
+        "type": "paragraph",
+        "id": "2b2979131d7d900d",
+        "text": "Throat feels a tingle - hopefully not a sickness. Things are well at work and my trip to NYC is shaping up well. "
+      },
+      "date": 1497912712035
+    },
+    {
+      "type": "add",
+      "id": "5b5469530fd63383",
+      "item": {
+        "type": "paragraph",
+        "id": "5b5469530fd63383",
+        "text": "Excited to hang out with Ben, Brittany and the Kids soon!"
+      },
+      "after": "2b2979131d7d900d",
+      "date": 1497912727379
+    },
+    {
+      "type": "add",
+      "id": "f55907a29b307295",
+      "item": {
+        "type": "paragraph",
+        "id": "f55907a29b307295",
+        "text": "I had a tough time this weekend missing my family. I hate that they are so set on wasting away in Texas - but so be it."
+      },
+      "after": "5b5469530fd63383",
+      "date": 1497912757398
+    }
+  ]
+}

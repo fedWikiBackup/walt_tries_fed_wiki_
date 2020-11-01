@@ -1,0 +1,65 @@
+{
+  "title": "14 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9235211db46f02a5",
+      "text": "Not sleeping enough. Must sleep more."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1f6a5c80742ba8e",
+      "text": "Tom is back. Yay. He is such a jolly old man - glad he is my mentor."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 June 2017",
+        "story": []
+      },
+      "date": 1497482932751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9235211db46f02a5"
+      },
+      "id": "9235211db46f02a5",
+      "type": "add",
+      "date": 1497482934443
+    },
+    {
+      "type": "edit",
+      "id": "9235211db46f02a5",
+      "item": {
+        "type": "paragraph",
+        "id": "9235211db46f02a5",
+        "text": "Not sleeping enough. Must sleep more."
+      },
+      "date": 1497482943263
+    },
+    {
+      "type": "add",
+      "id": "d1f6a5c80742ba8e",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f6a5c80742ba8e",
+        "text": "Tom is back. Yay. he is sucha jolly old man - glad he is my mentor."
+      },
+      "after": "9235211db46f02a5",
+      "date": 1497482957815
+    },
+    {
+      "type": "edit",
+      "id": "d1f6a5c80742ba8e",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f6a5c80742ba8e",
+        "text": "Tom is back. Yay. He is such a jolly old man - glad he is my mentor."
+      },
+      "date": 1497482968879
+    }
+  ]
+}

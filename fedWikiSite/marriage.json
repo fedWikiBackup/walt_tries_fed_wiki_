@@ -1,0 +1,39 @@
+{
+  "title": "marriage",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "672906b64efe8d93",
+      "text": "Block-chain can support marriages too, as they can solidify the expectations of the married parties, however innumerable the colony may be."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "marriage",
+        "story": []
+      },
+      "date": 1502088713847
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "672906b64efe8d93"
+      },
+      "id": "672906b64efe8d93",
+      "type": "add",
+      "date": 1502088714975
+    },
+    {
+      "type": "edit",
+      "id": "672906b64efe8d93",
+      "item": {
+        "type": "paragraph",
+        "id": "672906b64efe8d93",
+        "text": "Block-chain can support marriages too, as they can solidify the expectations of the married parties, however innumerable the colony may be."
+      },
+      "date": 1502088753685
+    }
+  ]
+}

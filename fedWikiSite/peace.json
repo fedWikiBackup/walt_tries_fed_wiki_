@@ -1,0 +1,39 @@
+{
+  "title": "Peace",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "26def878e5c2d8b5",
+      "text": "A state of human existence achieved through understanding which provides the optimal state of our social metabolism. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Peace",
+        "story": []
+      },
+      "date": 1504553271612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26def878e5c2d8b5"
+      },
+      "id": "26def878e5c2d8b5",
+      "type": "add",
+      "date": 1504553272565
+    },
+    {
+      "type": "edit",
+      "id": "26def878e5c2d8b5",
+      "item": {
+        "type": "paragraph",
+        "id": "26def878e5c2d8b5",
+        "text": "A state of human existence achieved through understanding which provides the optimal state of our social metabolism. "
+      },
+      "date": 1504553307591
+    }
+  ]
+}

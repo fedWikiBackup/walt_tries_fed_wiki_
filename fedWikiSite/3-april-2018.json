@@ -1,0 +1,39 @@
+{
+  "title": "3 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8a3c931a70965502",
+      "text": "Absolute whiteout yesterday. On April 2. Woof. Now I remember the lashing whip of winter's end. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3 April 2018",
+        "story": []
+      },
+      "date": 1522772757655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a3c931a70965502"
+      },
+      "id": "8a3c931a70965502",
+      "type": "add",
+      "date": 1522772758829
+    },
+    {
+      "type": "edit",
+      "id": "8a3c931a70965502",
+      "item": {
+        "type": "paragraph",
+        "id": "8a3c931a70965502",
+        "text": "Absolute whiteout yesterday. On April 2. Woof. Now I remember the lashing whip of winter's end. "
+      },
+      "date": 1522772789851
+    }
+  ]
+}

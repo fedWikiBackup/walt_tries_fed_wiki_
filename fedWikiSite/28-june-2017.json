@@ -1,0 +1,81 @@
+{
+  "title": "28 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e11e8fd94c1efde5",
+      "text": "Totally did it. Celebrated last night. Kind of a pathetic celebration. But. Very happy to be able to call myself a lawyer."
+    },
+    {
+      "type": "paragraph",
+      "id": "d44d5031d757070d",
+      "text": "I am sitting in a coffee shop called 3 Fish. Had the most amazing avocado toast. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6c50b99c1bcba175",
+      "text": "Tiny Cities is coming along really really well. Cannot wait to listen to it."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 June 2017",
+        "story": []
+      },
+      "date": 1498654513797
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e11e8fd94c1efde5"
+      },
+      "id": "e11e8fd94c1efde5",
+      "type": "add",
+      "date": 1498654514903
+    },
+    {
+      "type": "edit",
+      "id": "e11e8fd94c1efde5",
+      "item": {
+        "type": "paragraph",
+        "id": "e11e8fd94c1efde5",
+        "text": "Totally did it. Celebrated last night. Kind of a pathetic celebration. But. Very happy to be able to call myself a lawyer."
+      },
+      "date": 1498654576083
+    },
+    {
+      "type": "add",
+      "id": "d44d5031d757070d",
+      "item": {
+        "type": "paragraph",
+        "id": "d44d5031d757070d",
+        "text": "I am sitting in a coffee shop called 3 Fish. Had the most amazing avocado toast. "
+      },
+      "after": "e11e8fd94c1efde5",
+      "date": 1498654604035
+    },
+    {
+      "type": "add",
+      "id": "6c50b99c1bcba175",
+      "item": {
+        "type": "paragraph",
+        "id": "6c50b99c1bcba175",
+        "text": "Tiny Cities is coming along really really well."
+      },
+      "after": "d44d5031d757070d",
+      "date": 1498654629122
+    },
+    {
+      "type": "edit",
+      "id": "6c50b99c1bcba175",
+      "item": {
+        "type": "paragraph",
+        "id": "6c50b99c1bcba175",
+        "text": "Tiny Cities is coming along really really well. Cannot wait to listen to it."
+      },
+      "date": 1498654648143
+    }
+  ]
+}

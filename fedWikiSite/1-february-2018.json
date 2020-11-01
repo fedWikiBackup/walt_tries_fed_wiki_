@@ -1,0 +1,65 @@
+{
+  "title": "1 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c788b70af0a0059e",
+      "text": "Frustrating indeed. Today is a day of need. Tweed or trees of semetic polemic ancient texts of vast following. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3d0f9a833fd3a247",
+      "text": "Today. I hate my job. I wish it were not so. But I do. Tomorrow will be better. I hope. But what a dote. Float.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 February 2018",
+        "story": []
+      },
+      "date": 1517507401605
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c788b70af0a0059e"
+      },
+      "id": "c788b70af0a0059e",
+      "type": "add",
+      "date": 1517507402599
+    },
+    {
+      "type": "edit",
+      "id": "c788b70af0a0059e",
+      "item": {
+        "type": "paragraph",
+        "id": "c788b70af0a0059e",
+        "text": "Frustrating indeed. Today is a day of need. Tweed or trees of semetic polemic ancient texts of vast following. "
+      },
+      "date": 1517507457126
+    },
+    {
+      "type": "add",
+      "id": "3d0f9a833fd3a247",
+      "item": {
+        "type": "paragraph",
+        "id": "3d0f9a833fd3a247",
+        "text": "Today. I hate my job. I wish it were not so. But I do. TOmorrow will be better. "
+      },
+      "after": "c788b70af0a0059e",
+      "date": 1517507489267
+    },
+    {
+      "type": "edit",
+      "id": "3d0f9a833fd3a247",
+      "item": {
+        "type": "paragraph",
+        "id": "3d0f9a833fd3a247",
+        "text": "Today. I hate my job. I wish it were not so. But I do. Tomorrow will be better. I hope. But what a dote. Float.  "
+      },
+      "date": 1517507571646
+    }
+  ]
+}

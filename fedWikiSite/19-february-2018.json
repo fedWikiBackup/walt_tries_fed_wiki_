@@ -1,0 +1,39 @@
+{
+  "title": "19 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f916d4587581610e",
+      "text": "Yesterday was the ski into Sioux Charley lake. Absolutely amazing. Today was relaxing. Got important work done while lying on the couch. Amazing. So beautiful even though bitterly cold."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 February 2018",
+        "story": []
+      },
+      "date": 1519090125918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f916d4587581610e"
+      },
+      "id": "f916d4587581610e",
+      "type": "add",
+      "date": 1519090127000
+    },
+    {
+      "type": "edit",
+      "id": "f916d4587581610e",
+      "item": {
+        "type": "paragraph",
+        "id": "f916d4587581610e",
+        "text": "Yesterday was the ski into Sioux Charley lake. Absolutely amazing. Today was relaxing. Got important work done while lying on the couch. Amazing. So beautiful even though bitterly cold."
+      },
+      "date": 1519090191223
+    }
+  ]
+}

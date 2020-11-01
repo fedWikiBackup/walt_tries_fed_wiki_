@@ -1,0 +1,39 @@
+{
+  "title": "27 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b98cb6df4349ca90",
+      "text": "Had to ski up to Nye cabin last night after almost getting very stuck. Back to Billings this morning. busy. Forging new ground."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 February 2018",
+        "story": []
+      },
+      "date": 1519746949881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b98cb6df4349ca90"
+      },
+      "id": "b98cb6df4349ca90",
+      "type": "add",
+      "date": 1519746951206
+    },
+    {
+      "type": "edit",
+      "id": "b98cb6df4349ca90",
+      "item": {
+        "type": "paragraph",
+        "id": "b98cb6df4349ca90",
+        "text": "Had to ski up to Nye cabin last night after almost getting very stuck. Back to Billings this morning. busy. Forging new ground."
+      },
+      "date": 1519747056943
+    }
+  ]
+}

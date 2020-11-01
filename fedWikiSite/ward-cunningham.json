@@ -1,0 +1,80 @@
+{
+  "title": "Ward Cunningham",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Ward Cunningham"
+      },
+      "date": 1502092278890,
+      "source": {
+        "pageTitle": "Ward Cunningham",
+        "pageSlug": "Ward_Cunningham",
+        "url": "https://en.wikipedia.org/wiki/Ward_Cunningham",
+        "date": 1502092278890,
+        "link_dictionary": {
+          "wiki_links": {
+            "See also": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "External links": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "References": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Ideas and inventions": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Personal history": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 788477564,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502092281202
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dfd01833-c842-49db-bcc2-2f022fa959d0",
+      "text": "Howard G. \"Ward\" Cunningham (born May 26, 1949) is an American computer programmer who developed the first wiki. A pioneer in both design patterns and extreme programming, he started programming the software WikiWikiWeb in 1994 and installed it on the website of his software consultancy, Cunningham & Cunningham (commonly known by its domain name, c2.com), on March 25, 1995, as an add-on to the Portland Pattern Repository. He is one of the 17 original signatories of the Agile Manifesto - [https://en.wikipedia.org/wiki/Ward_Cunningham wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a05a4d89-b24e-4c24-b664-2773cdaa9805",
+      "text": "He currently lives in Beaverton, Oregon, and is a programmer at New Relic. Previously he was the Co-Creation Czar for CitizenGlobal. He is Nike's first Code for a Better World Fellow."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9ddcc35-8a85-490d-863f-4e8acca992f4",
+      "text": "He has authored a book about wikis, titled The Wiki Way, and also invented Framework for Integrated Tests. He was a keynote speaker at the first three instances of the WikiSym conference series on wiki research and practice as well as a keynote speaker at the Wikimedia Developer Summit 2017."
+    },
+    {
+      "type": "markdown",
+      "id": "b3e0eee2-8d3e-4f10-ad86-987ae89c218c",
+      "text": "# See also\n* [[Personal history]]\n* [[Ideas and inventions]]\n* [[See also]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

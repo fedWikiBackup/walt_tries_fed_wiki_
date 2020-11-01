@@ -1,0 +1,49 @@
+{
+  "title": "TinyCities",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1212099d0e3772af",
+      "text": "Plural of [[Tiny City]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "TinyCities",
+        "story": []
+      },
+      "date": 1502091439303
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1212099d0e3772af"
+      },
+      "id": "1212099d0e3772af",
+      "type": "add",
+      "date": 1502091440652
+    },
+    {
+      "type": "edit",
+      "id": "1212099d0e3772af",
+      "item": {
+        "type": "paragraph",
+        "id": "1212099d0e3772af",
+        "text": "See [[Tiny City]]"
+      },
+      "date": 1502091458200
+    },
+    {
+      "type": "edit",
+      "id": "1212099d0e3772af",
+      "item": {
+        "type": "paragraph",
+        "id": "1212099d0e3772af",
+        "text": "Plural of [[Tiny City]]."
+      },
+      "date": 1502091562447
+    }
+  ]
+}

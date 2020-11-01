@@ -1,0 +1,71 @@
+{
+  "title": "1 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "84dbb1688348ce94",
+      "text": "Failed to wake up this morning and work out. Tomorrow is another day. I enjoy the commute so far, but need to work on being comfortable driving well under the speed limit. "
+    },
+    {
+      "type": "paragraph",
+      "id": "747fb627faaa2abb",
+      "text": "Time to set up the home office - need to decide if I will have an office in Nye and Red Lodge, or just the latter. Will need to buy screens, etc for each place."
+    },
+    {
+      "type": "paragraph",
+      "id": "6dde70a1b670ace0",
+      "text": "Excited to see the future of E2. It helps me, I hope it can help others. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 June 2017",
+        "story": []
+      },
+      "date": 1496251857843
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84dbb1688348ce94"
+      },
+      "id": "84dbb1688348ce94",
+      "type": "add",
+      "date": 1496251859344
+    },
+    {
+      "type": "edit",
+      "id": "84dbb1688348ce94",
+      "item": {
+        "type": "paragraph",
+        "id": "84dbb1688348ce94",
+        "text": "Failed to wake up this morning and work out. Tomorrow is another day. I enjoy the commute so far, but need to work on being comfortable driving well under the speed limit. "
+      },
+      "date": 1496251899000
+    },
+    {
+      "type": "add",
+      "id": "747fb627faaa2abb",
+      "item": {
+        "type": "paragraph",
+        "id": "747fb627faaa2abb",
+        "text": "Time to set up the home office - need to decide if I will have an office in Nye and Red Lodge, or just the latter. Will need to buy screens, etc for each place."
+      },
+      "after": "84dbb1688348ce94",
+      "date": 1496251943465
+    },
+    {
+      "type": "add",
+      "id": "6dde70a1b670ace0",
+      "item": {
+        "type": "paragraph",
+        "id": "6dde70a1b670ace0",
+        "text": "Excited to see the future of E2. It helps me, I hope it can help others. "
+      },
+      "after": "747fb627faaa2abb",
+      "date": 1496251961249
+    }
+  ]
+}

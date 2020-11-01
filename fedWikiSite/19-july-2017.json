@@ -1,0 +1,71 @@
+{
+  "title": "19 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7339bf7ccf9264bf",
+      "text": "Still sick. Even went to the doctor. Fairly certain they misdiagnosed me, but not much of a way to tell. I suppose only time can do that. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2baecc54680bd94a",
+      "text": "Going to eat with Elissa and Jimmy tonight in Red Lodge. Yippee. Hope I can withstand the pressure to have wine. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6958dbaa3e525c7d",
+      "text": "Also. Carol is pissed at me. Oops."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 July 2017",
+        "story": []
+      },
+      "date": 1500504977597
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7339bf7ccf9264bf"
+      },
+      "id": "7339bf7ccf9264bf",
+      "type": "add",
+      "date": 1500504978810
+    },
+    {
+      "type": "edit",
+      "id": "7339bf7ccf9264bf",
+      "item": {
+        "type": "paragraph",
+        "id": "7339bf7ccf9264bf",
+        "text": "Still sick. Even went to the doctor. Fairly certain they misdiagnosed me, but not much of a way to tell. I suppose only time can do that. "
+      },
+      "date": 1500505018722
+    },
+    {
+      "type": "add",
+      "id": "2baecc54680bd94a",
+      "item": {
+        "type": "paragraph",
+        "id": "2baecc54680bd94a",
+        "text": "Going to eat with Elissa and Jimmy tonight in Red Lodge. Yippee. Hope I can withstand the pressure to have wine. "
+      },
+      "after": "7339bf7ccf9264bf",
+      "date": 1500505045626
+    },
+    {
+      "type": "add",
+      "id": "6958dbaa3e525c7d",
+      "item": {
+        "type": "paragraph",
+        "id": "6958dbaa3e525c7d",
+        "text": "Also. Carol is pissed at me. Oops."
+      },
+      "after": "2baecc54680bd94a",
+      "date": 1500505056128
+    }
+  ]
+}

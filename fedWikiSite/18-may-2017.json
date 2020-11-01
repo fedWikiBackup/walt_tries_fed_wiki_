@@ -1,0 +1,81 @@
+{
+  "title": "18 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d6650e92a4021e70",
+      "text": "Came to NYC yesterday on a whim to see a dear friend graduate. It was a great time, but exhausting. Got good work done today, which is nice. I like my new job - but it is still not my passion. But I think I see it playing into my passion. Regardless, I am going to stick with it for at least three years (unless Tom should die/retire). "
+    },
+    {
+      "type": "paragraph",
+      "id": "b60112270b3dd191",
+      "text": "I think I am creating an underground power structure, which I need to distinguish from the mafia. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4b9df8962a73807e",
+      "text": "Last night, committed an act not out of love but out of jealousy. It was terrifyingly gratifying. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 May 2017",
+        "story": []
+      },
+      "date": 1495121496770
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6650e92a4021e70"
+      },
+      "id": "d6650e92a4021e70",
+      "type": "add",
+      "date": 1495121498397
+    },
+    {
+      "type": "edit",
+      "id": "d6650e92a4021e70",
+      "item": {
+        "type": "paragraph",
+        "id": "d6650e92a4021e70",
+        "text": "Came to NYC yesterday on a whim to see a dear friend graduate. It was a great time, but exhausting. Got good work done today, which is nice. "
+      },
+      "date": 1495121548659
+    },
+    {
+      "type": "edit",
+      "id": "d6650e92a4021e70",
+      "item": {
+        "type": "paragraph",
+        "id": "d6650e92a4021e70",
+        "text": "Came to NYC yesterday on a whim to see a dear friend graduate. It was a great time, but exhausting. Got good work done today, which is nice. I like my new job - but it is still not my passion. But I think I see it playing into my passion. Regardless, I am going to stick with it for at least three years (unless Tom should die/retire). "
+      },
+      "date": 1495121614659
+    },
+    {
+      "type": "add",
+      "id": "b60112270b3dd191",
+      "item": {
+        "type": "paragraph",
+        "id": "b60112270b3dd191",
+        "text": "I think I am creating an underground power structure, which I need to distinguish from the mafia. "
+      },
+      "after": "d6650e92a4021e70",
+      "date": 1495121657515
+    },
+    {
+      "type": "add",
+      "id": "4b9df8962a73807e",
+      "item": {
+        "type": "paragraph",
+        "id": "4b9df8962a73807e",
+        "text": "Last night, committed an act not out of love but out of jealousy. It was terrifyingly gratifying. "
+      },
+      "after": "b60112270b3dd191",
+      "date": 1495121685794
+    }
+  ]
+}

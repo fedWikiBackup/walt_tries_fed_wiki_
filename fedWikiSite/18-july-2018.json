@@ -1,0 +1,39 @@
+{
+  "title": "18 July 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b033f5e1c8ed3194",
+      "text": "Made it to the big city for an ice cream social with the newest Judge of our land. A woman destined to make decisions, good and bad, that will forever affect the lives of our residents."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 July 2018",
+        "story": []
+      },
+      "date": 1531933463564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b033f5e1c8ed3194"
+      },
+      "id": "b033f5e1c8ed3194",
+      "type": "add",
+      "date": 1531933464811
+    },
+    {
+      "type": "edit",
+      "id": "b033f5e1c8ed3194",
+      "item": {
+        "type": "paragraph",
+        "id": "b033f5e1c8ed3194",
+        "text": "Made it to the big city for an ice cream social with the newest Judge of our land. A woman destined to make decisions, good and bad, that will forever affect the lives of our residents."
+      },
+      "date": 1531933515453
+    }
+  ]
+}

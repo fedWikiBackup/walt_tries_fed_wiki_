@@ -1,0 +1,123 @@
+{
+  "title": "19 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9dbde6e1c86be599",
+      "text": "So I failed to journal yesterday. My b."
+    },
+    {
+      "type": "paragraph",
+      "id": "27b7c2acd869604f",
+      "text": "I go up at the crack of dawn yesterday and trained from Naples to Rome. They never checked my ticket - it was weird. I then went to the Vatican (which was cool, but not worth the wait - there are plenty of churches that are just as cool). After that, I wandered past castles and down the river in town to the [https://it.wikipedia.org/wiki/Galleria_nazionale_d%27arte_moderna_e_contemporanea Modern Art Museum] - which was great, but not as good as the one in Naples (it did have a Klimt, Monet, Van Gogh, Rodin, and others, but the contemporary area was not very emotionally appealing). Naples modern art is more my taste."
+    },
+    {
+      "type": "paragraph",
+      "id": "ad7660519a468ccb",
+      "text": "After some modern art, I wandered through the villa de bolongese, a park on which Villa de Medici sits. It was nice, even with a couple rain showers - and a climb to the top of villa Medici made it all worth it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6648ed22642c2d0b",
+      "text": "Today was a day of churches. I buddied up with a fellow hostel goer, and we toured many of the churches around Rome. They are all amazing. We started with the famous fountain (which provided a lovely sound) then went to the Pantheon (which, IMHO, had the best energy). And then just wandered around into and out of innumerable exquisite edifices of God. (Which, if I were to provide a guess, \"God\" would not appreciate the turn toward the worship of symbols and buildings over providing for the masses, but, I digress). We found the circus and after we split up, I wound up touring the ancient Baths (101AD), now a park.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "047d3ea8155a6837",
+      "text": "I was surprised how much I like Rome. It surprises me in the way that my slow love for Manhattan surprised me. I imagine that I will wind up back here."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 April 2017",
+        "story": []
+      },
+      "date": 1492608582924
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9dbde6e1c86be599"
+      },
+      "id": "9dbde6e1c86be599",
+      "type": "add",
+      "date": 1492608584914
+    },
+    {
+      "type": "edit",
+      "id": "9dbde6e1c86be599",
+      "item": {
+        "type": "paragraph",
+        "id": "9dbde6e1c86be599",
+        "text": "So I failed to journal yesterday. My b."
+      },
+      "date": 1492608600333
+    },
+    {
+      "type": "add",
+      "id": "27b7c2acd869604f",
+      "item": {
+        "type": "paragraph",
+        "id": "27b7c2acd869604f",
+        "text": "I go up at the crack of dawn yesterday and trained from Naples to Rome. They never checked my ticket - it was weird. I then went to the Vatican (which was cool, but not worth the wait - there are plenty of churches that are just as cool). After that, I wandered past castles and down the river in town to the Modern Art Museum - which was great, but not as good as the one in Naples. Naples modern art is "
+      },
+      "after": "9dbde6e1c86be599",
+      "date": 1492608929019
+    },
+    {
+      "type": "edit",
+      "id": "27b7c2acd869604f",
+      "item": {
+        "type": "paragraph",
+        "id": "27b7c2acd869604f",
+        "text": "I go up at the crack of dawn yesterday and trained from Naples to Rome. They never checked my ticket - it was weird. I then went to the Vatican (which was cool, but not worth the wait - there are plenty of churches that are just as cool). After that, I wandered past castles and down the river in town to the [https://it.wikipedia.org/wiki/Galleria_nazionale_d%27arte_moderna_e_contemporanea Modern Art Museum] - which was great, but not as good as the one in Naples. Naples modern art is "
+      },
+      "date": 1492609138219
+    },
+    {
+      "type": "edit",
+      "id": "27b7c2acd869604f",
+      "item": {
+        "type": "paragraph",
+        "id": "27b7c2acd869604f",
+        "text": "I go up at the crack of dawn yesterday and trained from Naples to Rome. They never checked my ticket - it was weird. I then went to the Vatican (which was cool, but not worth the wait - there are plenty of churches that are just as cool). After that, I wandered past castles and down the river in town to the [https://it.wikipedia.org/wiki/Galleria_nazionale_d%27arte_moderna_e_contemporanea Modern Art Museum] - which was great, but not as good as the one in Naples (it did have a Klimt, Monet, Van Gogh, Rodin, and others, but the contemporary area was not very emotionally appealing). Naples modern art is more my taste."
+      },
+      "date": 1492609207842
+    },
+    {
+      "type": "add",
+      "id": "ad7660519a468ccb",
+      "item": {
+        "type": "paragraph",
+        "id": "ad7660519a468ccb",
+        "text": "After some modern art, I wandered through the villa de bolongese, a park on which Villa de Medici sits. It was nice, even with a couple rain showers - and a climb to the top of villa Medici made it all worth it. "
+      },
+      "after": "27b7c2acd869604f",
+      "date": 1492609277010
+    },
+    {
+      "type": "add",
+      "id": "6648ed22642c2d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "6648ed22642c2d0b",
+        "text": "Today was a day of churches. I buddied up with a fellow hostel goer, and we toured many of the churches around Rome. They are all amazing. We started with the famous fountain (which provided a lovely sound) then went to the Pantheon (which, IMHO, had the best energy). And then just wandered around into and out of innumerable exquisite edifices of God. (Which, if I were to provide a guess, \"God\" would not appreciate the turn toward the worship of symbols and buildings over providing for the masses, but, I digress). We found the circus and after we split up, I wound up touring the ancient Baths (101AD), now a park.  "
+      },
+      "after": "ad7660519a468ccb",
+      "date": 1492609536062
+    },
+    {
+      "type": "add",
+      "id": "047d3ea8155a6837",
+      "item": {
+        "type": "paragraph",
+        "id": "047d3ea8155a6837",
+        "text": "I was surprised how much I like Rome. It surprises me in the way that my slow love for Manhattan surprised me. I imagine that I will wind up back here."
+      },
+      "after": "6648ed22642c2d0b",
+      "date": 1492609650950
+    }
+  ]
+}

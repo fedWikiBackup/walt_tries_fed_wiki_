@@ -1,0 +1,49 @@
+{
+  "title": "Poli",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "98f5b5823f8f843b",
+      "text": "Plural of [[Polis]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Poli",
+        "story": []
+      },
+      "date": 1502091524539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98f5b5823f8f843b"
+      },
+      "id": "98f5b5823f8f843b",
+      "type": "add",
+      "date": 1502091526026
+    },
+    {
+      "type": "edit",
+      "id": "98f5b5823f8f843b",
+      "item": {
+        "type": "paragraph",
+        "id": "98f5b5823f8f843b",
+        "text": "Plural of Polis."
+      },
+      "date": 1502091531879
+    },
+    {
+      "type": "edit",
+      "id": "98f5b5823f8f843b",
+      "item": {
+        "type": "paragraph",
+        "id": "98f5b5823f8f843b",
+        "text": "Plural of [[Polis]]."
+      },
+      "date": 1502091578430
+    }
+  ]
+}

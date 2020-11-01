@@ -1,0 +1,65 @@
+{
+  "title": "Widom scaling",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Widom scaling"
+      },
+      "date": 1502094477846,
+      "source": {
+        "pageTitle": "Widom scaling",
+        "pageSlug": "Widom_scaling",
+        "url": "https://en.wikipedia.org/wiki/Widom_scaling",
+        "date": 1502094477846,
+        "link_dictionary": {
+          "wiki_links": {
+            "Definitions": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Derivation": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "References": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 788983139,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502094485901
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "06cfe354-1916-4df3-ac15-dcdeb5d33a01",
+      "text": "Widom scaling (after Benjamin Widom) is a hypothesis in statistical mechanics regarding the free energy of a magnetic system near its critical point which leads to the critical exponents becoming no longer independent so that they can be parameterized in terms of two values. The hypothesis can be seen to arise as a natural consequence of the block-spin renormalization procedure, when the block size is chosen to be of the same size as the correlation length - [https://en.wikipedia.org/wiki/Widom_scaling wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "031a03be-145e-4022-b86e-b4faa497ae50",
+      "text": "Widom scaling is an example of universality."
+    },
+    {
+      "type": "markdown",
+      "id": "3574bf86-7632-4107-8a91-dad09a0f349d",
+      "text": "# See also\n* [[Definitions]]\n* [[Derivation]]\n* [[References]]"
+    }
+  ]
+}

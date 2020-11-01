@@ -1,0 +1,75 @@
+{
+  "title": "angel",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e884484d37010ead",
+      "text": "Mythical creature. Opposite of a dragon. Perhaps you are one. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d481564c81b53712",
+      "text": "Support Walter [Here]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "angel",
+        "story": []
+      },
+      "date": 1502081653000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e884484d37010ead"
+      },
+      "id": "e884484d37010ead",
+      "type": "add",
+      "date": 1502081654765
+    },
+    {
+      "type": "edit",
+      "id": "e884484d37010ead",
+      "item": {
+        "type": "paragraph",
+        "id": "e884484d37010ead",
+        "text": "Mythical creature. Opposite of a dragon. Perhaps you are one. "
+      },
+      "date": 1502081680224
+    },
+    {
+      "type": "add",
+      "id": "d481564c81b53712",
+      "item": {
+        "type": "paragraph",
+        "id": "d481564c81b53712",
+        "text": "Support Walter Here."
+      },
+      "after": "e884484d37010ead",
+      "date": 1502081702394
+    },
+    {
+      "type": "edit",
+      "id": "d481564c81b53712",
+      "item": {
+        "type": "paragraph",
+        "id": "d481564c81b53712",
+        "text": "Support Walter [[Here]]."
+      },
+      "date": 1502081716999
+    },
+    {
+      "type": "edit",
+      "id": "d481564c81b53712",
+      "item": {
+        "type": "paragraph",
+        "id": "d481564c81b53712",
+        "text": "Support Walter [Here]."
+      },
+      "date": 1502081807135
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Lifeboat City",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lifeboat City",
+        "story": []
+      },
+      "date": 1488061558131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4b2d6f00677f98e"
+      },
+      "id": "c4b2d6f00677f98e",
+      "type": "add",
+      "date": 1488061560155
+    },
+    {
+      "type": "edit",
+      "id": "c4b2d6f00677f98e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "A city within a city, or a secondary city related to, but physically distant from the primary city. The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "date": 1488061570882
+    },
+    {
+      "type": "remove",
+      "id": "c4b2d6f00677f98e",
+      "date": 1502089700942
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c4b2d6f00677f98e",
+        "text": "A city within a city, or a secondary city related to, but physically distant from the primary city. The purpose of a lifeboat city is the same as a lifeboat's purpose for a ship - to provide a haven for life should a set of technological preconditions be met to sink the ship (or the city)."
+      },
+      "id": "c4b2d6f00677f98e",
+      "date": 1502089708060
+    },
+    {
+      "type": "remove",
+      "id": "c4b2d6f00677f98e",
+      "date": 1502089712832
+    }
+  ]
+}

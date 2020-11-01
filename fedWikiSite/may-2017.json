@@ -1,0 +1,136 @@
+{
+  "title": "May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "29fac9064fdc8ea8",
+      "text": "[[5 May 2017]] recaps days 2-4 in Budapest and travel to Germany."
+    },
+    {
+      "type": "paragraph",
+      "id": "2ff79320d83c47c0",
+      "text": "[[8 May 2017]] recaps a weekend in Berlin and travel to Scotland."
+    },
+    {
+      "type": "paragraph",
+      "id": "a1477f508f87e5ce",
+      "text": "[[9 May 2017]] recaps a fine day in Scotland."
+    },
+    {
+      "type": "paragraph",
+      "id": "c55d59ca4f273313",
+      "text": "[[10 May 2017]] recaps a day meeting the Earl of Annandale."
+    },
+    {
+      "type": "paragraph",
+      "id": "bd6537d8f7149926",
+      "text": "[[15 May 2017]] recaps the termination of my travels. "
+    },
+    {
+      "type": "paragraph",
+      "id": "34207bbca01e3a34",
+      "text": "[[16 May 2017]] is just normal life."
+    },
+    {
+      "type": "paragraph",
+      "id": "cec0dabb0445aa58",
+      "text": "[[18 May 2017]] is NYC to DC."
+    },
+    {
+      "type": "paragraph",
+      "id": "41ec18b547ea8a47",
+      "text": "[[30 May 2017]] is back in Montana."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "May 2017",
+        "story": []
+      },
+      "date": 1497021744851
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "41ec18b547ea8a47",
+        "text": "[[30 May 2017]] is back in Montana."
+      },
+      "id": "41ec18b547ea8a47",
+      "date": 1497021747429
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "cec0dabb0445aa58",
+        "text": "[[18 May 2017]] is NYC to DC."
+      },
+      "id": "cec0dabb0445aa58",
+      "date": 1497021749632
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "34207bbca01e3a34",
+        "text": "[[16 May 2017]] is just normal life."
+      },
+      "id": "34207bbca01e3a34",
+      "date": 1497021752865
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bd6537d8f7149926",
+        "text": "[[15 May 2017]] recaps the termination of my travels. "
+      },
+      "id": "bd6537d8f7149926",
+      "date": 1497021754613
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c55d59ca4f273313",
+        "text": "[[10 May 2017]] recaps a day meeting the Earl of Annandale."
+      },
+      "id": "c55d59ca4f273313",
+      "date": 1497021756628
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ff79320d83c47c0",
+        "text": "[[8 May 2017]] recaps a weekend in Berlin and travel to Scotland."
+      },
+      "id": "2ff79320d83c47c0",
+      "date": 1497021767558
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a1477f508f87e5ce",
+        "text": "[[9 May 2017]] recaps a fine day in Scotland."
+      },
+      "after": "2ff79320d83c47c0",
+      "id": "a1477f508f87e5ce",
+      "date": 1497021769579
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "29fac9064fdc8ea8",
+        "text": "[[5 May 2017]] recaps days 2-4 in Budapest and travel to Germany."
+      },
+      "id": "29fac9064fdc8ea8",
+      "date": 1497021777583
+    }
+  ]
+}

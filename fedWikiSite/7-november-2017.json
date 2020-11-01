@@ -1,0 +1,39 @@
+{
+  "title": "7 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "85873d74553aefda",
+      "text": "This job is a juggling act. And it is difficult. I want to handle one immense case and let the rest of the little things go. One great piece of litigation at a time. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 November 2017",
+        "story": []
+      },
+      "date": 1510094745702
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85873d74553aefda"
+      },
+      "id": "85873d74553aefda",
+      "type": "add",
+      "date": 1510094746804
+    },
+    {
+      "type": "edit",
+      "id": "85873d74553aefda",
+      "item": {
+        "type": "paragraph",
+        "id": "85873d74553aefda",
+        "text": "This job is a juggling act. And it is difficult. I want to handle one immense case and let the rest of the little things go. One great piece of litigation at a time. "
+      },
+      "date": 1510094780730
+    }
+  ]
+}

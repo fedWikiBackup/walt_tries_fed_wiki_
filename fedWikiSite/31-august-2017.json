@@ -1,0 +1,39 @@
+{
+  "title": "31 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f54d400fb5bfaa57",
+      "text": "First hearing was today. Pretty exciting.Finishing up tomorrrow morning and then ending around lunch."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "31 August 2017",
+        "story": []
+      },
+      "date": 1504211623276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f54d400fb5bfaa57"
+      },
+      "id": "f54d400fb5bfaa57",
+      "type": "add",
+      "date": 1504211624610
+    },
+    {
+      "type": "edit",
+      "id": "f54d400fb5bfaa57",
+      "item": {
+        "type": "paragraph",
+        "id": "f54d400fb5bfaa57",
+        "text": "First hearing was today. Pretty exciting.Finishing up tomorrrow morning and then ending around lunch."
+      },
+      "date": 1504211659725
+    }
+  ]
+}

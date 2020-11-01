@@ -1,0 +1,179 @@
+{
+  "title": "Conversations With Ward",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be75d5040d5d00e2",
+      "text": "Questions [[To Ward]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "26983d5bf74ae182",
+      "text": "[[The Solution]] for driving slow and steady adoption of Federated Wiki. The Solution is just the beginning of the conversation Think of The Solution as my assertion that Ward's law is correct. Think I am wrong, why?"
+    },
+    {
+      "type": "paragraph",
+      "id": "2739c546422ebe9a",
+      "text": "How many hours of human activity are necessary before a mobile version can be made ready? Mobile is necessary. The distinction between Desktop, laptop, and mobile is false. They are all merging. With the advent of AR - expect them to do that almost completely. Tim Ferris famously writes his blog on his iPhone using a logitech bluetooth keyboard. I need to be able to access and use my library on all platforms. Your creating of the wiki button has facilitated this almost entirely. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7b2a9fb421c976d0",
+      "text": "We need an easy way to make pages public v. private. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Conversations With Ward",
+        "story": []
+      },
+      "date": 1488898117956
+    },
+    {
+      "type": "fork",
+      "date": 1488898128212
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be75d5040d5d00e2"
+      },
+      "id": "be75d5040d5d00e2",
+      "type": "add",
+      "date": 1488898130105
+    },
+    {
+      "type": "edit",
+      "id": "be75d5040d5d00e2",
+      "item": {
+        "type": "paragraph",
+        "id": "be75d5040d5d00e2",
+        "text": "3/7/2016"
+      },
+      "date": 1488898138050
+    },
+    {
+      "type": "edit",
+      "id": "be75d5040d5d00e2",
+      "item": {
+        "type": "paragraph",
+        "id": "be75d5040d5d00e2",
+        "text": "[[3/7/2016]]"
+      },
+      "date": 1488898145687
+    },
+    {
+      "type": "edit",
+      "id": "be75d5040d5d00e2",
+      "item": {
+        "type": "paragraph",
+        "id": "be75d5040d5d00e2",
+        "text": "[[To Ward]]"
+      },
+      "date": 1489004058479
+    },
+    {
+      "type": "edit",
+      "id": "be75d5040d5d00e2",
+      "item": {
+        "type": "paragraph",
+        "id": "be75d5040d5d00e2",
+        "text": "Questions [[To Ward]]"
+      },
+      "date": 1489004066708
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26983d5bf74ae182"
+      },
+      "id": "26983d5bf74ae182",
+      "type": "add",
+      "after": "be75d5040d5d00e2",
+      "date": 1489004229263
+    },
+    {
+      "type": "edit",
+      "id": "26983d5bf74ae182",
+      "item": {
+        "type": "paragraph",
+        "id": "26983d5bf74ae182",
+        "text": "[[The Solution]]"
+      },
+      "date": 1489004231728
+    },
+    {
+      "type": "edit",
+      "id": "26983d5bf74ae182",
+      "item": {
+        "type": "paragraph",
+        "id": "26983d5bf74ae182",
+        "text": "[[The Solution]] for driving slow and steady adoption of Federated Wiki."
+      },
+      "date": 1489004261963
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2739c546422ebe9a",
+        "text": "How many hours of human activity are necessary before a mobile version can be made ready?"
+      },
+      "after": "26983d5bf74ae182",
+      "id": "2739c546422ebe9a",
+      "date": 1489175704445,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489175725315
+    },
+    {
+      "type": "edit",
+      "id": "26983d5bf74ae182",
+      "item": {
+        "type": "paragraph",
+        "id": "26983d5bf74ae182",
+        "text": "[[The Solution]] for driving slow and steady adoption of Federated Wiki. The Solution is "
+      },
+      "date": 1498511985331
+    },
+    {
+      "type": "edit",
+      "id": "26983d5bf74ae182",
+      "item": {
+        "type": "paragraph",
+        "id": "26983d5bf74ae182",
+        "text": "[[The Solution]] for driving slow and steady adoption of Federated Wiki. The Solution is just the beginning of the conversation Think of The Solution as my assertion that Ward's law is correct. Think I am wrong, why?"
+      },
+      "date": 1498512032856
+    },
+    {
+      "type": "edit",
+      "id": "2739c546422ebe9a",
+      "item": {
+        "type": "paragraph",
+        "id": "2739c546422ebe9a",
+        "text": "How many hours of human activity are necessary before a mobile version can be made ready? Mobile is necessary. The distinction between Desktop, laptop, and mobile is false. They are all merging. With the advent of AR - expect them to do that almost completely. Tim Ferris famously writes his blog on his iPhone using a logitech bluetooth keyboard. I need to be able to access and use my library on all platforms. Your creating of the wiki button has facilitated this almost entirely. "
+      },
+      "date": 1498512191341
+    },
+    {
+      "type": "add",
+      "id": "7b2a9fb421c976d0",
+      "item": {
+        "type": "paragraph",
+        "id": "7b2a9fb421c976d0",
+        "text": "We need an easy way to make pages public v. private. "
+      },
+      "after": "2739c546422ebe9a",
+      "date": 1498512330733
+    }
+  ]
+}

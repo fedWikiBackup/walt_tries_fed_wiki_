@@ -1,0 +1,143 @@
+{
+  "title": "15 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a1be5888c1fd95b8",
+      "text": "Meeting with Ward was fascinating. We did not have any particular breakthrough, but it was really nice to meet in person. He is a gregarious fellow, who showed me around his place of work, and bought me lunch. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3f6555199936c8ac",
+      "text": "It is time to buckle down on the New Shape application. I am going to send draft 1 to Viraj and Ward on August 30th. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a0555edbd7d52b0e",
+      "text": "Speaking of Viraj, I got to hang out with that amazing man for 3 days, and that was a blast - truly an amazing guy.\\"
+    },
+    {
+      "type": "paragraph",
+      "id": "16df2d665b0e981a",
+      "text": "Okay. Back to Portland for a min. Whoa. Talk about an exhausting Saturday. I almost bought a Tesla, but then ended up driving through the night in Leigh's rental car after she abandoned me at the last minute. It was a rough rough Saturday night. Once I get some distance, she and I definitely need to have a conversation about our future as friends. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3e5c5f7a66b7aa2e",
+      "text": "I really still love her. But I love the world more. She refuses to love how I love the world. That makes our love relatively untenable. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 August 2017",
+        "story": []
+      },
+      "date": 1502816302931
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1be5888c1fd95b8"
+      },
+      "id": "a1be5888c1fd95b8",
+      "type": "add",
+      "date": 1502816303893
+    },
+    {
+      "type": "edit",
+      "id": "a1be5888c1fd95b8",
+      "item": {
+        "type": "paragraph",
+        "id": "a1be5888c1fd95b8",
+        "text": "Meeting with Ward was fascinating. We did not have any particular breakthrough, but it was really nice to meet in person. He is a gregarious fellow, who showed me around his place of work, and bought me lunch. "
+      },
+      "date": 1502816362040
+    },
+    {
+      "type": "add",
+      "id": "3f6555199936c8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "3f6555199936c8ac",
+        "text": "It is time to buckle down on the New Shape Applicaiton. "
+      },
+      "after": "a1be5888c1fd95b8",
+      "date": 1502816385762
+    },
+    {
+      "type": "edit",
+      "id": "3f6555199936c8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "3f6555199936c8ac",
+        "text": "It is time to buckle down on the New Shape applicaiton. "
+      },
+      "date": 1502816405981
+    },
+    {
+      "type": "edit",
+      "id": "3f6555199936c8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "3f6555199936c8ac",
+        "text": "It is time to buckle down on the New Shape application. I am going to send draft 1 to Viraj and Ward on August 30th. "
+      },
+      "date": 1502816430686
+    },
+    {
+      "type": "add",
+      "id": "a0555edbd7d52b0e",
+      "item": {
+        "type": "paragraph",
+        "id": "a0555edbd7d52b0e",
+        "text": "Speaking of Viraj, I got to hang out with that amazing man for 3 days, and that was a blast - truly an amazing guy.\\"
+      },
+      "after": "3f6555199936c8ac",
+      "date": 1502816458391
+    },
+    {
+      "type": "add",
+      "id": "16df2d665b0e981a",
+      "item": {
+        "type": "paragraph",
+        "id": "16df2d665b0e981a",
+        "text": "Okay. Back to Portland for a min. Whoa. Talk about an exhausting Saturday. I almost bought a Tesla, but then ended up driving through the night in Leigh's rent car after she abandoned me at the last minute. It was a rough rough Saturday night. "
+      },
+      "after": "a0555edbd7d52b0e",
+      "date": 1502816524450
+    },
+    {
+      "type": "edit",
+      "id": "16df2d665b0e981a",
+      "item": {
+        "type": "paragraph",
+        "id": "16df2d665b0e981a",
+        "text": "Okay. Back to Portland for a min. Whoa. Talk about an exhausting Saturday. I almost bought a Tesla, but then ended up driving through the night in Leigh's rental car after she abandoned me at the last minute. It was a rough rough Saturday night. Once I get some distance, she and I definitely need to have a conversation about our future as friends. "
+      },
+      "date": 1502816577175
+    },
+    {
+      "type": "add",
+      "id": "3e5c5f7a66b7aa2e",
+      "item": {
+        "type": "paragraph",
+        "id": "3e5c5f7a66b7aa2e",
+        "text": "I really still love her. But I love the world more."
+      },
+      "after": "16df2d665b0e981a",
+      "date": 1502816598047
+    },
+    {
+      "type": "edit",
+      "id": "3e5c5f7a66b7aa2e",
+      "item": {
+        "type": "paragraph",
+        "id": "3e5c5f7a66b7aa2e",
+        "text": "I really still love her. But I love the world more. She refuses to love how I love the world. That makes our love relatively untenable. "
+      },
+      "date": 1502816629948
+    }
+  ]
+}

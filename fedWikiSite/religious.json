@@ -1,0 +1,49 @@
+{
+  "title": "religious",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7e82d3a5c0ec0b5e",
+      "text": "The pact of certain individuals with humanity, or larger systems can be created in block-chain, so as to guarantee the deposit of certain funds into perpetual trusts for what that individual believes to be the public good. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "religious",
+        "story": []
+      },
+      "date": 1502088669839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e82d3a5c0ec0b5e"
+      },
+      "id": "7e82d3a5c0ec0b5e",
+      "type": "add",
+      "date": 1502088670881
+    },
+    {
+      "type": "edit",
+      "id": "7e82d3a5c0ec0b5e",
+      "item": {
+        "type": "paragraph",
+        "id": "7e82d3a5c0ec0b5e",
+        "text": "The pact of certain individuals with humanity, or larger systems can be created in block-chain, so as to guarantee the deposit of certain funds into perpetual trusts. "
+      },
+      "date": 1502088710846
+    },
+    {
+      "type": "edit",
+      "id": "7e82d3a5c0ec0b5e",
+      "item": {
+        "type": "paragraph",
+        "id": "7e82d3a5c0ec0b5e",
+        "text": "The pact of certain individuals with humanity, or larger systems can be created in block-chain, so as to guarantee the deposit of certain funds into perpetual trusts for what that individual believes to be the public good. "
+      },
+      "date": 1502088785477
+    }
+  ]
+}

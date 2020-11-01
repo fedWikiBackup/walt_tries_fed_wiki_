@@ -1,0 +1,110 @@
+{
+  "title": "Autopoiesis",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Autopoiesis"
+      },
+      "date": 1502089280061,
+      "source": {
+        "pageTitle": "Autopoiesis",
+        "pageSlug": "Autopoiesis",
+        "url": "https://en.wikipedia.org/wiki/Autopoiesis",
+        "date": 1502089280061,
+        "link_dictionary": {
+          "wiki_links": {
+            "Notes and references": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Relation to complexity": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Relation to cognition": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "External links": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Meaning": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Further reading": {
+              "section_number": 8,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "See also": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Criticism": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Relation to consciousness": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 782585795,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502089303060
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bc5c1938-f6e3-48f8-abb2-20beb8deee7b",
+      "text": "The term \"autopoiesis\" (from Greek αὐτo- (auto-), meaning 'self', and ποίησις (poiesis), meaning 'creation, production') refers to a system capable of reproducing and maintaining itself. The term was introduced in 1972 by Chilean biologists Humberto Maturana and Francisco Varela to define the self-maintaining chemistry of living cells. Since then the concept has been also applied to the fields of systems theory and sociology - [https://en.wikipedia.org/wiki/Autopoiesis wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d68b5425-4d61-4114-bba3-95ccda7a319c",
+      "text": "The original definition can be found in Autopoiesis and Cognition: the Realization of the Living (1st edition 1973, 2nd 1980):"
+    },
+    {
+      "type": "paragraph",
+      "id": "40a65173-6e42-466e-8222-391061c76b24",
+      "text": "Page 16: It was in these circumstances ... in which he analyzed Don Quixote's dilemma of whether to follow the path of arms (praxis, action) or the path of letters (poiesis, creation, production), I understood for the first time the power of the word \"poiesis\" and invented the word that we needed: autopoiesis. This was a word without a history, a word that could directly mean what takes place in the dynamics of the autonomy proper to living systems."
+    },
+    {
+      "type": "paragraph",
+      "id": "f56e5e70-be53-46ac-8ecf-45431c3d19a0",
+      "text": "Page 78: An autopoietic machine is a machine organized (defined as a unity) as a network of processes of production (transformation and destruction) of components which: (i) through their interactions and transformations continuously regenerate and realize the network of processes (relations) that produced them; and (ii) constitute it (the machine) as a concrete unity in space in which they (the components) exist by specifying the topological domain of its realization as such a network."
+    },
+    {
+      "type": "paragraph",
+      "id": "907cd4e2-aa2e-4fc6-92e9-df89f9d943dd",
+      "text": "Page 89: ... the space defined by an autopoietic system is self-contained and cannot be described by using dimensions that define another space. When we refer to our interactions with a concrete autopoietic system, however, we project this system on the space of our manipulations and make a description of this projection."
+    },
+    {
+      "type": "markdown",
+      "id": "28865051-b8ad-485b-996c-57dcc463619b",
+      "text": "# See also\n* [[Meaning]]\n* [[Relation to complexity]]\n* [[Relation to cognition]]\n* [[Relation to consciousness]]\n* [[Criticism]]\n* [[See also]]\n* [[Notes and references]]\n* [[Further reading]]\n* [[External links]]"
+    }
+  ]
+}

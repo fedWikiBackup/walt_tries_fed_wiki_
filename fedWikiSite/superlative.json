@@ -1,0 +1,39 @@
+{
+  "title": "Superlative",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "66068dd94cc9c479",
+      "text": "Except within artificially bound systems (such as geographic or time), a useless piece of the English language. There is no biggest tree, as we have not yet investigated all of the trees in the universe. We could, however, state that Tree X is the physically tallest tree in Washington State as of Y date."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Superlative",
+        "story": []
+      },
+      "date": 1488061785679
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "66068dd94cc9c479"
+      },
+      "id": "66068dd94cc9c479",
+      "type": "add",
+      "date": 1488061788587
+    },
+    {
+      "type": "edit",
+      "id": "66068dd94cc9c479",
+      "item": {
+        "type": "paragraph",
+        "id": "66068dd94cc9c479",
+        "text": "Except within artificially bound systems (such as geographic or time), a useless piece of the English language. There is no biggest tree, as we have not yet investigated all of the trees in the universe. We could, however, state that Tree X is the physically tallest tree in Washington State as of Y date."
+      },
+      "date": 1488061911105
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "heads of state",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "989115519cb5314d",
+      "text": "A hybrid of a [[president]] of the houses, [[royal leader]] of the senate, and a [[prime minister]] of the general assembly."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "heads of state",
+        "story": []
+      },
+      "date": 1502084489012
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "989115519cb5314d"
+      },
+      "id": "989115519cb5314d",
+      "type": "add",
+      "date": 1502084490051
+    },
+    {
+      "type": "edit",
+      "id": "989115519cb5314d",
+      "item": {
+        "type": "paragraph",
+        "id": "989115519cb5314d",
+        "text": "A hybrid of a president and a prime minister"
+      },
+      "date": 1502084523944
+    },
+    {
+      "type": "edit",
+      "id": "989115519cb5314d",
+      "item": {
+        "type": "paragraph",
+        "id": "989115519cb5314d",
+        "text": "A hybrid of a president (of the house), royal leader  (of the senate), a prime minister of the general assembly."
+      },
+      "date": 1502084572119
+    },
+    {
+      "type": "edit",
+      "id": "989115519cb5314d",
+      "item": {
+        "type": "paragraph",
+        "id": "989115519cb5314d",
+        "text": "A hybrid of a president (of the houses), royal leader  (of the senate), a prime minister of the general assembly."
+      },
+      "date": 1502084583822
+    },
+    {
+      "type": "edit",
+      "id": "989115519cb5314d",
+      "item": {
+        "type": "paragraph",
+        "id": "989115519cb5314d",
+        "text": "A hybrid of a president of the houses, royal leader  of the senate, and a prime minister of the general assembly."
+      },
+      "date": 1502087982442
+    },
+    {
+      "type": "edit",
+      "id": "989115519cb5314d",
+      "item": {
+        "type": "paragraph",
+        "id": "989115519cb5314d",
+        "text": "A hybrid of a [[president]] of the houses, [[royal leader]] of the senate, and a [[prime minister]] of the general assembly."
+      },
+      "date": 1502088005665
+    }
+  ]
+}

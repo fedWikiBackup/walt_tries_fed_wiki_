@@ -1,0 +1,39 @@
+{
+  "title": "28 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fa3317b7bc433c15",
+      "text": "Supreme Court argument in Helena in the morning, status conference in Great Falls in the afternoon, then back to Billings this evening for a 7am breakfast. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 March 2018",
+        "story": []
+      },
+      "date": 1522267413925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa3317b7bc433c15"
+      },
+      "id": "fa3317b7bc433c15",
+      "type": "add",
+      "date": 1522267415466
+    },
+    {
+      "type": "edit",
+      "id": "fa3317b7bc433c15",
+      "item": {
+        "type": "paragraph",
+        "id": "fa3317b7bc433c15",
+        "text": "Supreme Court argument in Helena in the morning, status conference in Great Falls in the afternoon, then back to Billings this evening for a 7am breakfast. "
+      },
+      "date": 1522267530199
+    }
+  ]
+}

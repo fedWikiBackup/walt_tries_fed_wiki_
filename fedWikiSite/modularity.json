@@ -1,0 +1,49 @@
+{
+  "title": "Modularity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c0eda4b983ff5377",
+      "text": "[https://en.wikipedia.org/wiki/Constructal_law Constructal Law] is a theory in physics concerning the generation of design (configurations, patterns, geometry) in nature. According to this theory, natural design and the constructal law unite all animate and inanimate systems. The constructal law was stated by Adrian Bejan in 1996 as follows: \"For a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed currents that flow through it.\" \"Constructal\" was coined by Bejan to describe the natural tendency of flow systems (e.g. rivers, trees and branches, lungs, tectonic plates and engineered forms) to generate and evolve structures that increase flow access."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Modularity",
+        "story": []
+      },
+      "date": 1489785049101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c0eda4b983ff5377"
+      },
+      "id": "c0eda4b983ff5377",
+      "type": "add",
+      "date": 1489785050634
+    },
+    {
+      "type": "edit",
+      "id": "c0eda4b983ff5377",
+      "item": {
+        "type": "paragraph",
+        "id": "c0eda4b983ff5377",
+        "text": "[https://en.wikipedia.org/wiki/Constructal_law Constructal Law,] But "
+      },
+      "date": 1489785074522
+    },
+    {
+      "type": "edit",
+      "id": "c0eda4b983ff5377",
+      "item": {
+        "type": "paragraph",
+        "id": "c0eda4b983ff5377",
+        "text": "[https://en.wikipedia.org/wiki/Constructal_law Constructal Law] is a theory in physics concerning the generation of design (configurations, patterns, geometry) in nature. According to this theory, natural design and the constructal law unite all animate and inanimate systems. The constructal law was stated by Adrian Bejan in 1996 as follows: \"For a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed currents that flow through it.\" \"Constructal\" was coined by Bejan to describe the natural tendency of flow systems (e.g. rivers, trees and branches, lungs, tectonic plates and engineered forms) to generate and evolve structures that increase flow access."
+      },
+      "date": 1489785136619
+    }
+  ]
+}

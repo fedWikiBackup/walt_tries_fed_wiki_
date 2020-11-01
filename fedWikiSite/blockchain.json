@@ -1,0 +1,219 @@
+{
+  "title": "Blockchain",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Blockchain"
+      },
+      "date": 1502094614647,
+      "source": {
+        "pageTitle": "Blockchain",
+        "pageSlug": "Blockchain",
+        "url": "https://en.wikipedia.org/wiki/Blockchain",
+        "date": 1502094614647,
+        "link_dictionary": {
+          "wiki_links": {
+            "Projects": {
+              "section_number": 19,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "External links": {
+              "section_number": 25,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "References": {
+              "section_number": 23,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Academic research": {
+              "section_number": 17,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "National currencies": {
+              "section_number": 16,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "History": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Description": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "See also": {
+              "section_number": 22,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Further reading": {
+              "section_number": 24,
+              "section_level": 2,
+              "dot_number": 8
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 794156224,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502094617127
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c5ed5116034f381"
+      },
+      "id": "6c5ed5116034f381",
+      "type": "add",
+      "after": "7aad56a3-1a1a-4e42-97bc-4e071170defb",
+      "date": 1502094623739
+    },
+    {
+      "type": "edit",
+      "id": "6c5ed5116034f381",
+      "item": {
+        "type": "pagefold",
+        "id": "6c5ed5116034f381",
+        "text": "Wikipedia Definition"
+      },
+      "date": 1502094633662
+    },
+    {
+      "type": "move",
+      "order": [
+        "6c5ed5116034f381",
+        "8f8e5002-10e2-43d0-9019-cdca8eeb7603",
+        "8d01d5f9-e571-4378-a7de-baa6cd71f0f0",
+        "0613e663-edb0-4b78-928e-2a4972b26b84",
+        "7aad56a3-1a1a-4e42-97bc-4e071170defb"
+      ],
+      "id": "6c5ed5116034f381",
+      "date": 1502094636345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c87f2dff9035b728"
+      },
+      "id": "c87f2dff9035b728",
+      "type": "add",
+      "after": "7aad56a3-1a1a-4e42-97bc-4e071170defb",
+      "date": 1502094648615
+    },
+    {
+      "type": "edit",
+      "id": "c87f2dff9035b728",
+      "item": {
+        "type": "pagefold",
+        "id": "c87f2dff9035b728",
+        "text": "Research\n"
+      },
+      "date": 1502094661373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "339929fa08f9250b"
+      },
+      "id": "339929fa08f9250b",
+      "type": "add",
+      "after": "c87f2dff9035b728",
+      "date": 1502094663560
+    },
+    {
+      "type": "edit",
+      "id": "339929fa08f9250b",
+      "item": {
+        "type": "paragraph",
+        "id": "339929fa08f9250b",
+        "text": "See [https://blog.p2pfoundation.net/arthur-brock-blockchains-major-design-flaw/2016/03/15 this]"
+      },
+      "date": 1502094675829
+    },
+    {
+      "type": "add",
+      "id": "e0220e2828bb51d1",
+      "item": {
+        "type": "paragraph",
+        "id": "e0220e2828bb51d1",
+        "text": "And [https://medium.com/@coinscrum/the-fractal-relationship-between-bitcoins-first-two-bubbles-and-what-they-might-tell-us-about-a-7c8df5fb9613 this]"
+      },
+      "after": "339929fa08f9250b",
+      "date": 1502094707133
+    },
+    {
+      "type": "add",
+      "id": "da8e0d9054d2dbbf",
+      "item": {
+        "type": "paragraph",
+        "id": "da8e0d9054d2dbbf",
+        "text": "And reach out to [https://twitter.com/john_mathon?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fcloudramblings.me%2F2014%2F11%2F04%2Fa-simple-guide-to-to-blockchain-and-a-compelling-use-case-voting-election-democracy-worldwide-zero-fraud%2F him]."
+      },
+      "after": "e0220e2828bb51d1",
+      "date": 1502094731302
+    }
+  ],
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "6c5ed5116034f381",
+      "text": "Wikipedia Definition"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f8e5002-10e2-43d0-9019-cdca8eeb7603",
+      "text": "A blockchain – originally block chain – is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block contains typically a hash pointer as a link to a previous block, a timestamp and transaction data. By design, blockchains are inherently resistant to modification of the data. Functionally, a blockchain can serve as \"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.\" For use as a distributed ledger a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and a collusion of the network majority - [https://en.wikipedia.org/wiki/Blockchain wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d01d5f9-e571-4378-a7de-baa6cd71f0f0",
+      "text": "Blockchains are secure by design and are an example of a distributed computing system with high Byzantine fault tolerance. Decentralized consensus has therefore been achieved with a blockchain. This makes blockchains potentially suitable for the recording of events, medical records, and other records management activities, such as identity management, transaction processing, and documenting provenance."
+    },
+    {
+      "type": "paragraph",
+      "id": "0613e663-edb0-4b78-928e-2a4972b26b84",
+      "text": "The first distributed blockchain was conceptualised by Satoshi Nakamoto in 2008 and implemented the following year as a core component of the digital currency bitcoin, where it serves as the public ledger for all transactions. The invention of the blockchain for bitcoin made it the first digital currency to solve the double spending problem, without the use of a trusted authority or central server. The bitcoin design has been the inspiration for other applications."
+    },
+    {
+      "type": "markdown",
+      "id": "7aad56a3-1a1a-4e42-97bc-4e071170defb",
+      "text": "# See also\n* [[History]]\n* [[Description]]\n* [[National currencies]]\n* [[Academic research]]\n* [[Projects]]\n* [[See also]]\n* [[References]]\n* [[Further reading]]\n* [[External links]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "c87f2dff9035b728",
+      "text": "Research\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "339929fa08f9250b",
+      "text": "See [https://blog.p2pfoundation.net/arthur-brock-blockchains-major-design-flaw/2016/03/15 this]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0220e2828bb51d1",
+      "text": "And [https://medium.com/@coinscrum/the-fractal-relationship-between-bitcoins-first-two-bubbles-and-what-they-might-tell-us-about-a-7c8df5fb9613 this]"
+    },
+    {
+      "type": "paragraph",
+      "id": "da8e0d9054d2dbbf",
+      "text": "And reach out to [https://twitter.com/john_mathon?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fcloudramblings.me%2F2014%2F11%2F04%2Fa-simple-guide-to-to-blockchain-and-a-compelling-use-case-voting-election-democracy-worldwide-zero-fraud%2F him]."
+    }
+  ]
+}

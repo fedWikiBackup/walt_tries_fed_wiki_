@@ -1,0 +1,71 @@
+{
+  "title": "6 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0cb5b55aef1089dc",
+      "text": "I will undoubtedly miss this place. The smell, the machine, the fury. But, I will export the good of this city and leave the bad. But, I will miss it all. For without the darkness, I could not see the light. "
+    },
+    {
+      "type": "paragraph",
+      "id": "828c1bb9ec2a16a8",
+      "text": "TinyCities must continue to hold the darkness at bay, but accessible to those who need to experience that which is not light. For, truly, without the dark, there would be nothing called light. "
+    },
+    {
+      "type": "paragraph",
+      "id": "50dd6e22526a5117",
+      "text": "The darkness is the smell of petroleum, the lack of eye-contact, the noise of the machine. We must retain that in some immersive experience to cast in relief to Utopia. Without purgatory, without hell, there is no Utopia. We must have the opportunity to orient ourselves, and to strive for a more perfect Utopia. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 July 2017",
+        "story": []
+      },
+      "date": 1499357619284
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cb5b55aef1089dc"
+      },
+      "id": "0cb5b55aef1089dc",
+      "type": "add",
+      "date": 1499357620435
+    },
+    {
+      "type": "edit",
+      "id": "0cb5b55aef1089dc",
+      "item": {
+        "type": "paragraph",
+        "id": "0cb5b55aef1089dc",
+        "text": "I will undoubtedly miss this place. The smell, the machine, the fury. But, I will export the good of this city and leave the bad. But, I will miss it all. For without the darkness, I could not see the light. "
+      },
+      "date": 1499357668822
+    },
+    {
+      "type": "add",
+      "id": "828c1bb9ec2a16a8",
+      "item": {
+        "type": "paragraph",
+        "id": "828c1bb9ec2a16a8",
+        "text": "TinyCities must continue to hold the darkness at bay, but accessible to those who need to experience that which is not light. For, truly, without the dark, there would be nothing called light. "
+      },
+      "after": "0cb5b55aef1089dc",
+      "date": 1499357715530
+    },
+    {
+      "type": "add",
+      "id": "50dd6e22526a5117",
+      "item": {
+        "type": "paragraph",
+        "id": "50dd6e22526a5117",
+        "text": "The darkness is the smell of petroleum, the lack of eye-contact, the noise of the machine. We must retain that in some immersive experience to cast in relief to Utopia. Without purgatory, without hell, there is no Utopia. We must have the opportunity to orient ourselves, and to strive for a more perfect Utopia. "
+      },
+      "after": "828c1bb9ec2a16a8",
+      "date": 1499357838072
+    }
+  ]
+}

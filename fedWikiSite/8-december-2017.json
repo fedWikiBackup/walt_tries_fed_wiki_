@@ -1,0 +1,39 @@
+{
+  "title": "8 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "17572ebc11302c88",
+      "text": "Fridays are difficult. I am impatient with boredom. And I am a bit bored. I do not like being bored. But, I like meditation, which is boredom. So I just need to re-frame the slow days to be opportunities to meditate. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 December 2017",
+        "story": []
+      },
+      "date": 1512755421195
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "17572ebc11302c88"
+      },
+      "id": "17572ebc11302c88",
+      "type": "add",
+      "date": 1512755422111
+    },
+    {
+      "type": "edit",
+      "id": "17572ebc11302c88",
+      "item": {
+        "type": "paragraph",
+        "id": "17572ebc11302c88",
+        "text": "Fridays are difficult. I am impatient with boredom. And I am a bit bored. I do not like being bored. But, I like meditation, which is boredom. So I just need to re-frame the slow days to be opportunities to meditate. "
+      },
+      "date": 1512755476737
+    }
+  ]
+}

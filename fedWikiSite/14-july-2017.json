@@ -1,0 +1,71 @@
+{
+  "title": "14 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c567900cfeef9825",
+      "text": "Tom is back after us not seeing eachother for three weeks. He is a good boss - happy to be back in the passenger seat with him mostly at the wheel."
+    },
+    {
+      "type": "paragraph",
+      "id": "d548e47f0f250cfe",
+      "text": "Still have a sore throat - not sure what it up. Hope it is gone shortly. It's Friday!!!!! YAYAYAYA."
+    },
+    {
+      "type": "paragraph",
+      "id": "a1a98b514a67ce2f",
+      "text": "Really in love with Montana and so damn happy to be here - I am one lucky man."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 July 2017",
+        "story": []
+      },
+      "date": 1500070775717
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c567900cfeef9825"
+      },
+      "id": "c567900cfeef9825",
+      "type": "add",
+      "date": 1500070776698
+    },
+    {
+      "type": "edit",
+      "id": "c567900cfeef9825",
+      "item": {
+        "type": "paragraph",
+        "id": "c567900cfeef9825",
+        "text": "Tom is back after us not seeing eachother for three weeks. He is a good boss - happy to be back in the passenger seat with him mostly at the wheel."
+      },
+      "date": 1500070823239
+    },
+    {
+      "type": "add",
+      "id": "d548e47f0f250cfe",
+      "item": {
+        "type": "paragraph",
+        "id": "d548e47f0f250cfe",
+        "text": "Still have a sore throat - not sure what it up. Hope it is gone shortly. It's Friday!!!!! YAYAYAYA."
+      },
+      "after": "c567900cfeef9825",
+      "date": 1500070853531
+    },
+    {
+      "type": "add",
+      "id": "a1a98b514a67ce2f",
+      "item": {
+        "type": "paragraph",
+        "id": "a1a98b514a67ce2f",
+        "text": "Really in love with Montana and so damn happy to be here - I am one lucky man."
+      },
+      "after": "d548e47f0f250cfe",
+      "date": 1500070872102
+    }
+  ]
+}

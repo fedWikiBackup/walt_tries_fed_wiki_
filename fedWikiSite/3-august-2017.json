@@ -1,0 +1,289 @@
+{
+  "title": "3 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "98df04efcdfa5da4",
+      "text": "Well, back in the Billings office for today and tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "id": "4a55bea1a59a49da",
+      "text": "Still have outstanding issues on the Deck that need to be resolved. "
+    },
+    {
+      "type": "paragraph",
+      "id": "01b159a015492b35",
+      "text": "Still have outstanding issues on social contract that need to be resolved."
+    },
+    {
+      "type": "paragraph",
+      "id": "85b22419f8359aa2",
+      "text": "Still have outstanding issues on Truck that need to be resolved."
+    },
+    {
+      "type": "paragraph",
+      "id": "037324ca195e368d",
+      "text": "Still have outstanding issues on New Shape Application that need to be resolved."
+    },
+    {
+      "type": "paragraph",
+      "id": "17fe8fc039c1c75f",
+      "text": "Still have outstanding issues on Supreme Court that need to be resolved."
+    },
+    {
+      "type": "paragraph",
+      "id": "dd9ae54ac1ae72e1",
+      "text": "Lots of issues. Here is what is going right:"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f3a24729643707b",
+      "text": "Love waking up in the house I built."
+    },
+    {
+      "type": "paragraph",
+      "id": "4efeee1fab8c0aa6",
+      "text": "Love having cousin Kerr nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "049d73fdadf85f42",
+      "text": "Love having my goddaughter and her family nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "d50959abd9638be6",
+      "text": "Love inventing. Love exploring. Love helping people through lawyering."
+    },
+    {
+      "type": "paragraph",
+      "id": "d2e5c373d9cce1b9",
+      "text": "Love the Mountains."
+    },
+    {
+      "type": "paragraph",
+      "id": "12c317d8f612d643",
+      "text": "Love my commute."
+    },
+    {
+      "type": "paragraph",
+      "id": "4b02e024ce3c5522",
+      "text": "Love my family."
+    },
+    {
+      "type": "paragraph",
+      "id": "52ed0f34d50e226b",
+      "text": "Love my friends."
+    },
+    {
+      "type": "paragraph",
+      "id": "e351a24c08980b27",
+      "text": "Love woodworking."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3 August 2017",
+        "story": []
+      },
+      "date": 1501776058862
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98df04efcdfa5da4"
+      },
+      "id": "98df04efcdfa5da4",
+      "type": "add",
+      "date": 1501776059988
+    },
+    {
+      "type": "edit",
+      "id": "98df04efcdfa5da4",
+      "item": {
+        "type": "paragraph",
+        "id": "98df04efcdfa5da4",
+        "text": "Well, back in the Billings office for today and tomorrow."
+      },
+      "date": 1501776074991
+    },
+    {
+      "type": "add",
+      "id": "4a55bea1a59a49da",
+      "item": {
+        "type": "paragraph",
+        "id": "4a55bea1a59a49da",
+        "text": "Still have outstanding issues on the Deck that need to be resolved. "
+      },
+      "after": "98df04efcdfa5da4",
+      "date": 1501776144569
+    },
+    {
+      "type": "add",
+      "id": "01b159a015492b35",
+      "item": {
+        "type": "paragraph",
+        "id": "01b159a015492b35",
+        "text": "Still have outstanding issues on social contract that need to be resolved."
+      },
+      "after": "4a55bea1a59a49da",
+      "date": 1501776159462
+    },
+    {
+      "type": "add",
+      "id": "85b22419f8359aa2",
+      "item": {
+        "type": "paragraph",
+        "id": "85b22419f8359aa2",
+        "text": "Still have outstanding issues on Truck that need to be resolved."
+      },
+      "after": "01b159a015492b35",
+      "date": 1501776169982
+    },
+    {
+      "type": "add",
+      "id": "037324ca195e368d",
+      "item": {
+        "type": "paragraph",
+        "id": "037324ca195e368d",
+        "text": "Still have outstanding issues on New Shape Application that need to be resolved."
+      },
+      "after": "85b22419f8359aa2",
+      "date": 1501776184878
+    },
+    {
+      "type": "add",
+      "id": "17fe8fc039c1c75f",
+      "item": {
+        "type": "paragraph",
+        "id": "17fe8fc039c1c75f",
+        "text": "Still have outstanding issues on Supreme Court that need to be resolved."
+      },
+      "after": "037324ca195e368d",
+      "date": 1501776197670
+    },
+    {
+      "type": "add",
+      "id": "dd9ae54ac1ae72e1",
+      "item": {
+        "type": "paragraph",
+        "id": "dd9ae54ac1ae72e1",
+        "text": "Lots of issues. Here is what is going right:"
+      },
+      "after": "17fe8fc039c1c75f",
+      "date": 1501776214742
+    },
+    {
+      "type": "add",
+      "id": "3f3a24729643707b",
+      "item": {
+        "type": "paragraph",
+        "id": "3f3a24729643707b",
+        "text": "Love waking up in the house I built."
+      },
+      "after": "dd9ae54ac1ae72e1",
+      "date": 1501776227782
+    },
+    {
+      "type": "add",
+      "id": "4efeee1fab8c0aa6",
+      "item": {
+        "type": "paragraph",
+        "id": "4efeee1fab8c0aa6",
+        "text": "Love having cousin Kerr nearby."
+      },
+      "after": "3f3a24729643707b",
+      "date": 1501776239142
+    },
+    {
+      "type": "add",
+      "id": "049d73fdadf85f42",
+      "item": {
+        "type": "paragraph",
+        "id": "049d73fdadf85f42",
+        "text": "Love having my goddaughter and"
+      },
+      "after": "4efeee1fab8c0aa6",
+      "date": 1501776263520
+    },
+    {
+      "type": "edit",
+      "id": "049d73fdadf85f42",
+      "item": {
+        "type": "paragraph",
+        "id": "049d73fdadf85f42",
+        "text": "Love having my goddaughter and her family nearby."
+      },
+      "date": 1501776334417
+    },
+    {
+      "type": "add",
+      "id": "d50959abd9638be6",
+      "item": {
+        "type": "paragraph",
+        "id": "d50959abd9638be6",
+        "text": "Love inventing. Love exploring. Love helping people through lawyering."
+      },
+      "after": "049d73fdadf85f42",
+      "date": 1501776356820
+    },
+    {
+      "type": "add",
+      "id": "d2e5c373d9cce1b9",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e5c373d9cce1b9",
+        "text": "Love the Mountains."
+      },
+      "after": "d50959abd9638be6",
+      "date": 1501776363249
+    },
+    {
+      "type": "add",
+      "id": "12c317d8f612d643",
+      "item": {
+        "type": "paragraph",
+        "id": "12c317d8f612d643",
+        "text": "Love my commute."
+      },
+      "after": "d2e5c373d9cce1b9",
+      "date": 1501776368965
+    },
+    {
+      "type": "add",
+      "id": "4b02e024ce3c5522",
+      "item": {
+        "type": "paragraph",
+        "id": "4b02e024ce3c5522",
+        "text": "Love my family."
+      },
+      "after": "12c317d8f612d643",
+      "date": 1501776374637
+    },
+    {
+      "type": "add",
+      "id": "52ed0f34d50e226b",
+      "item": {
+        "type": "paragraph",
+        "id": "52ed0f34d50e226b",
+        "text": "Love my friends."
+      },
+      "after": "4b02e024ce3c5522",
+      "date": 1501776379152
+    },
+    {
+      "type": "add",
+      "id": "e351a24c08980b27",
+      "item": {
+        "type": "paragraph",
+        "id": "e351a24c08980b27",
+        "text": "Love woodworking."
+      },
+      "after": "52ed0f34d50e226b",
+      "date": 1501776395333
+    }
+  ]
+}

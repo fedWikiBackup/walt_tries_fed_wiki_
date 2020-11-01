@@ -1,0 +1,87 @@
+{
+  "title": "30 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a48f74844acb9c35",
+      "text": "I am in love with Montana. There is genuinely no place better that I have been. The people are friendly, rough, real, and ready. Though I will struggle to prove myself as a true Montanan, I am sure that I will succeed. Today is my first day of work at the Axilon Law Group, PLLC. I am excited for the road ahead. I plan to spend three days a week in Billings, at first, then less and less as time goes on and I establish my own practice in Red Lodge and Nye. (Red Lodge is where I will spend the rest of my time in Winter, and Nye in Summer.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "7324ebf206c5e071",
+      "text": "The plan is to join the RL fire department, buy real estate there, thoroughly ingrain myself into the community, and then organize a future for the community that will please everyone."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab58a463e4da2cd4",
+      "text": "One thing of particular interest is the creation of a startup community. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e8e5523513975268",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 May 2017",
+        "story": []
+      },
+      "date": 1496172227048
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a48f74844acb9c35"
+      },
+      "id": "a48f74844acb9c35",
+      "type": "add",
+      "date": 1496172228094
+    },
+    {
+      "type": "edit",
+      "id": "a48f74844acb9c35",
+      "item": {
+        "type": "paragraph",
+        "id": "a48f74844acb9c35",
+        "text": "I am in love with Montana. There is genuinely no place better that I have been. The people are friendly, rough, real, and ready. Though I will struggle to prove myself as a true Montanan, I am sure that I will succeed. Today is my first day of work at the Axilon Law Group, PLLC. I am excited for the road ahead. I plan to spend three days a week in Billings, at first, then less and less as time goes on and I establish my own practice in Red Lodge and Nye. (Red Lodge is where I will spend the rest of my time in Winter, and Nye in Summer.)"
+      },
+      "date": 1496172492752
+    },
+    {
+      "type": "add",
+      "id": "7324ebf206c5e071",
+      "item": {
+        "type": "paragraph",
+        "id": "7324ebf206c5e071",
+        "text": "The plan is to join the RL fire department, buy real estate there, thoroughly ingrain myself into the community, and then organize a future for the community that will please everyone."
+      },
+      "after": "a48f74844acb9c35",
+      "date": 1496172551305
+    },
+    {
+      "type": "add",
+      "id": "ab58a463e4da2cd4",
+      "item": {
+        "type": "paragraph",
+        "id": "ab58a463e4da2cd4",
+        "text": "One thing of particular interest is the creation of a startup community. "
+      },
+      "after": "7324ebf206c5e071",
+      "date": 1496172566901
+    },
+    {
+      "type": "add",
+      "id": "e8e5523513975268",
+      "item": {
+        "type": "paragraph",
+        "id": "e8e5523513975268",
+        "text": " "
+      },
+      "after": "ab58a463e4da2cd4",
+      "date": 1496172570379
+    }
+  ]
+}

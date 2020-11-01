@@ -1,0 +1,87 @@
+{
+  "title": "8 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4cd76bb613658fec",
+      "text": "Traveling to Missoula tonight."
+    },
+    {
+      "type": "paragraph",
+      "id": "f93b5ae7dea077ec",
+      "text": "Truck is dead - $$$."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d74d7fbb0fddc52",
+      "text": "Had lots of good ideas today, and Tom seems happy. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0ba2a07a91e80792",
+      "text": "Shirt ripped in elbow - send swatch Chris."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 August 2017",
+        "story": []
+      },
+      "date": 1502234099066
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cd76bb613658fec"
+      },
+      "id": "4cd76bb613658fec",
+      "type": "add",
+      "date": 1502234099931
+    },
+    {
+      "type": "edit",
+      "id": "4cd76bb613658fec",
+      "item": {
+        "type": "paragraph",
+        "id": "4cd76bb613658fec",
+        "text": "Traveling to Missoula tonight."
+      },
+      "date": 1502234109015
+    },
+    {
+      "type": "add",
+      "id": "f93b5ae7dea077ec",
+      "item": {
+        "type": "paragraph",
+        "id": "f93b5ae7dea077ec",
+        "text": "Truck is dead - $$$."
+      },
+      "after": "4cd76bb613658fec",
+      "date": 1502234116857
+    },
+    {
+      "type": "add",
+      "id": "2d74d7fbb0fddc52",
+      "item": {
+        "type": "paragraph",
+        "id": "2d74d7fbb0fddc52",
+        "text": "Had lots of good ideas today, and Tom seems happy. "
+      },
+      "after": "f93b5ae7dea077ec",
+      "date": 1502234130062
+    },
+    {
+      "type": "add",
+      "id": "0ba2a07a91e80792",
+      "item": {
+        "type": "paragraph",
+        "id": "0ba2a07a91e80792",
+        "text": "Shirt ripped in elbow - send swatch Chris."
+      },
+      "after": "2d74d7fbb0fddc52",
+      "date": 1502234156383
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "20 August 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8574534c410c8370",
+      "text": "In Billings - headed to GF for Mitchell mediation. Was sick on Sunday - still a little ill. Feeling better now."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 August 2018",
+        "story": []
+      },
+      "date": 1534790062452
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8574534c410c8370"
+      },
+      "id": "8574534c410c8370",
+      "type": "add",
+      "date": 1534790063409
+    },
+    {
+      "type": "edit",
+      "id": "8574534c410c8370",
+      "item": {
+        "type": "paragraph",
+        "id": "8574534c410c8370",
+        "text": "In Billings - headed to GF for Mitchell mediation. Was sick on Sunday - still a little ill. Feeling better now."
+      },
+      "date": 1534790116461
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5fc249ea4b85d828"
+      },
+      "id": "5fc249ea4b85d828",
+      "type": "add",
+      "after": "8574534c410c8370",
+      "date": 1535395691083
+    },
+    {
+      "type": "remove",
+      "id": "5fc249ea4b85d828",
+      "date": 1535395713639
+    }
+  ]
+}

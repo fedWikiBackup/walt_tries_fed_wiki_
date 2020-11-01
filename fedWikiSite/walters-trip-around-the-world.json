@@ -1,0 +1,300 @@
+{
+  "title": "Walter's Trip Around the World",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d7803bb43ac31921",
+      "text": "Walter is going to take 2.5 months to physically explore humanity's past, present, and future. Below are his research and results."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac268b452d6024f5",
+      "text": "[[Exploring the Past]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0562b3959b13940f",
+      "text": "[[Exploring the Present]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d92ec98d68526072",
+      "text": "[[Exploring the Future]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d79f6475fffd8e1a",
+      "text": "[[Walter's Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b1878d87c70f3027",
+      "text": "[[The Toolbox]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter's Trip Around the World",
+        "story": []
+      },
+      "date": 1488182035183,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7803bb43ac31921"
+      },
+      "id": "d7803bb43ac31921",
+      "type": "add",
+      "date": 1488182036562,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d7803bb43ac31921",
+      "item": {
+        "type": "paragraph",
+        "id": "d7803bb43ac31921",
+        "text": "Walter is going to take 2.5 months to see as much of the world as he can. Below is his research to put the trip together."
+      },
+      "date": 1488182079572,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "ac268b452d6024f5",
+      "item": {
+        "type": "paragraph",
+        "id": "ac268b452d6024f5",
+        "text": "https://en.wikipedia.org/wiki/Dunderave_Castle"
+      },
+      "after": "d7803bb43ac31921",
+      "date": 1488182081899,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ac268b452d6024f5",
+      "item": {
+        "type": "paragraph",
+        "id": "ac268b452d6024f5",
+        "text": "[https://en.wikipedia.org/wiki/Dunderave_Castle Ancient Heritage]"
+      },
+      "date": 1488182104728,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "b1878d87c70f3027",
+      "item": {
+        "type": "paragraph",
+        "id": "b1878d87c70f3027",
+        "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map]"
+      },
+      "after": "ac268b452d6024f5",
+      "date": 1488182132484,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "b8d03a25329983b9",
+      "item": {
+        "type": "paragraph",
+        "id": "b8d03a25329983b9",
+        "text": "[[The Blog]]"
+      },
+      "after": "b1878d87c70f3027",
+      "date": 1488182163120,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ac268b452d6024f5",
+      "item": {
+        "type": "paragraph",
+        "id": "ac268b452d6024f5",
+        "text": "[[Exploring the Past]]"
+      },
+      "date": 1488182227953,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "d92ec98d68526072",
+      "item": {
+        "type": "paragraph",
+        "id": "d92ec98d68526072",
+        "text": "[[Exploring the Future]]"
+      },
+      "after": "ac268b452d6024f5",
+      "date": 1488182240194,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b1878d87c70f3027",
+      "item": {
+        "type": "paragraph",
+        "id": "b1878d87c70f3027",
+        "text": "[[The Plan]]"
+      },
+      "date": 1488182377814,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b1878d87c70f3027",
+      "item": {
+        "type": "paragraph",
+        "id": "b1878d87c70f3027",
+        "text": "[[The Toolbox]]"
+      },
+      "date": 1488182778294,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "b8d03a25329983b9",
+      "date": 1488182965996,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "d79f6475fffd8e1a",
+      "item": {
+        "type": "paragraph",
+        "id": "d79f6475fffd8e1a",
+        "text": "[[The Blog]]"
+      },
+      "after": "d92ec98d68526072",
+      "date": 1488182979607,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "62fb7eaf697d7db0",
+      "item": {
+        "type": "paragraph",
+        "id": "62fb7eaf697d7db0",
+        "text": "[[Exploring the Present]]"
+      },
+      "after": "d92ec98d68526072",
+      "date": 1488183050315,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d7803bb43ac31921",
+      "item": {
+        "type": "paragraph",
+        "id": "d7803bb43ac31921",
+        "text": "Walter is going to take 2.5 months to physically explore humanity's past, present, and future. Below are his research and results."
+      },
+      "date": 1488183135700,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "62fb7eaf697d7db0",
+      "date": 1488183140736,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "0562b3959b13940f",
+      "item": {
+        "type": "paragraph",
+        "id": "0562b3959b13940f",
+        "text": "[[Exploring the Present]]"
+      },
+      "after": "ac268b452d6024f5",
+      "date": 1488183143509,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488307231828
+    },
+    {
+      "type": "edit",
+      "id": "d79f6475fffd8e1a",
+      "item": {
+        "type": "paragraph",
+        "id": "d79f6475fffd8e1a",
+        "text": "[[Walter's Journal]]"
+      },
+      "date": 1489004987453
+    }
+  ]
+}

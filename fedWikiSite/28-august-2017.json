@@ -1,0 +1,84 @@
+{
+  "title": "28 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4c1518a941093ddd",
+      "text": "Adelaide's birthday. Good Day. Exhausted. Contract writing. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9bd65fc45a3a10a4",
+      "text": "Actually wrote that last night. Exhausted when trying to solve the world's problems. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 August 2017",
+        "story": []
+      },
+      "date": 1503901865006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c1518a941093ddd"
+      },
+      "id": "4c1518a941093ddd",
+      "type": "add",
+      "date": 1503901866562
+    },
+    {
+      "type": "edit",
+      "id": "4c1518a941093ddd",
+      "item": {
+        "type": "paragraph",
+        "id": "4c1518a941093ddd",
+        "text": "Adelaide's birthday. Good Day. Exhausted. Contract writing. "
+      },
+      "date": 1503901905302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bd65fc45a3a10a4"
+      },
+      "id": "9bd65fc45a3a10a4",
+      "type": "add",
+      "after": "4c1518a941093ddd",
+      "date": 1503949961998
+    },
+    {
+      "type": "edit",
+      "id": "9bd65fc45a3a10a4",
+      "item": {
+        "type": "paragraph",
+        "id": "9bd65fc45a3a10a4",
+        "text": "Actually wrote that "
+      },
+      "date": 1503949972310
+    },
+    {
+      "type": "edit",
+      "id": "9bd65fc45a3a10a4",
+      "item": {
+        "type": "paragraph",
+        "id": "9bd65fc45a3a10a4",
+        "text": "Actually wrote that last night. Exhausted trying to solve the world's problems. "
+      },
+      "date": 1503950007057
+    },
+    {
+      "type": "edit",
+      "id": "9bd65fc45a3a10a4",
+      "item": {
+        "type": "paragraph",
+        "id": "9bd65fc45a3a10a4",
+        "text": "Actually wrote that last night. Exhausted when trying to solve the world's problems. "
+      },
+      "date": 1503979210967
+    }
+  ]
+}

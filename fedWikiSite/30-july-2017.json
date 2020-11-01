@@ -1,0 +1,154 @@
+{
+  "title": "30 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bc5bfde19fea62e1",
+      "text": "Ward is teaching Kamila today. Very exciting day of progress! You can find her library below in the roster."
+    },
+    {
+      "type": "paragraph",
+      "id": "deea3c773a727a4e",
+      "text": "Met Anna and Cameron last night. It was awesome. Can't wait to hang out more."
+    },
+    {
+      "type": "roster",
+      "id": "fd931e4a643f1d50",
+      "text": "Kamila Kudelska's Library \nkamila.tries.fed.wiki"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 July 2017",
+        "story": []
+      },
+      "date": 1501441349626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc5bfde19fea62e1"
+      },
+      "id": "bc5bfde19fea62e1",
+      "type": "add",
+      "date": 1501441350577
+    },
+    {
+      "type": "edit",
+      "id": "bc5bfde19fea62e1",
+      "item": {
+        "type": "paragraph",
+        "id": "bc5bfde19fea62e1",
+        "text": "You can find her library at kamila.tries.fed.wiki"
+      },
+      "date": 1501441369082
+    },
+    {
+      "type": "edit",
+      "id": "bc5bfde19fea62e1",
+      "item": {
+        "type": "paragraph",
+        "id": "bc5bfde19fea62e1",
+        "text": "You can find her library at [kamila.tries.fed.wiki]"
+      },
+      "date": 1501441376059
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27fc4b3476b563e2"
+      },
+      "id": "27fc4b3476b563e2",
+      "type": "add",
+      "after": "7dc1f4177fb8fbb4",
+      "date": 1501441378235
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd931e4a643f1d50"
+      },
+      "id": "fd931e4a643f1d50",
+      "type": "add",
+      "after": "27fc4b3476b563e2",
+      "date": 1501441416946
+    },
+    {
+      "type": "remove",
+      "id": "27fc4b3476b563e2",
+      "date": 1501441419690
+    },
+    {
+      "type": "edit",
+      "id": "fd931e4a643f1d50",
+      "item": {
+        "type": "roster",
+        "id": "fd931e4a643f1d50",
+        "text": "kamila.tries.fed.wiki"
+      },
+      "date": 1501441443517
+    },
+    {
+      "type": "edit",
+      "id": "bc5bfde19fea62e1",
+      "item": {
+        "type": "paragraph",
+        "id": "bc5bfde19fea62e1",
+        "text": "You can find her library below in the roster."
+      },
+      "date": 1501441465348
+    },
+    {
+      "type": "edit",
+      "id": "fd931e4a643f1d50",
+      "item": {
+        "type": "roster",
+        "id": "fd931e4a643f1d50",
+        "text": "kamila.tries.fed.wiki Kamila Kudelska's Library"
+      },
+      "date": 1501441486986
+    },
+    {
+      "type": "edit",
+      "id": "fd931e4a643f1d50",
+      "item": {
+        "type": "roster",
+        "id": "fd931e4a643f1d50",
+        "text": "Kamila Kudelska's Library \nkamila.tries.fed.wiki"
+      },
+      "date": 1501441502659
+    },
+    {
+      "type": "move",
+      "order": [
+        "bc5bfde19fea62e1",
+        "fd931e4a643f1d50"
+      ],
+      "id": "bc5bfde19fea62e1",
+      "date": 1501441521062
+    },
+    {
+      "type": "edit",
+      "id": "bc5bfde19fea62e1",
+      "item": {
+        "type": "paragraph",
+        "id": "bc5bfde19fea62e1",
+        "text": "Ward is teaching Kamila today. Very exciting day of progress! You can find her library below in the roster."
+      },
+      "date": 1501441638579
+    },
+    {
+      "type": "add",
+      "id": "deea3c773a727a4e",
+      "item": {
+        "type": "paragraph",
+        "id": "deea3c773a727a4e",
+        "text": "Met Anna and Cameron last night. It was awesome. Can't wait to hang out more."
+      },
+      "after": "bc5bfde19fea62e1",
+      "date": 1502080223354
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "title": "December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a59068bc35855f8d",
+      "text": "[[1 December 2017]] is the beginning."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa2378e3b2beb208",
+      "text": "[[2 December 2017]] is Monday."
+    },
+    {
+      "type": "paragraph",
+      "id": "470319c324502bde",
+      "text": "[[5 December 2017]] is Tuesday. The above post was actually from the 4th."
+    },
+    {
+      "type": "paragraph",
+      "id": "877eb1f86525db3d",
+      "text": "[[6 December 2017]] is Wednesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "8143caacbd6823ec",
+      "text": "[[7 December 2017]] is Thursday in Nye with Anna."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ba916db3a33bc15",
+      "text": "[[8 December 2017]] is Friday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b06d983d684371a",
+      "text": "[[11 December 2017]] is Monday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "017ef1253e919cbf",
+      "text": "[[12 December 2017]] is Tuesday in Billings."
+    },
+    {
+      "type": "paragraph",
+      "id": "c5dfbdb782e83884",
+      "text": "[[13 December 2017]] is Wednesday in RL. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a87d0bfb4ef8a6aa",
+      "text": "[[18 December 2017]] is Monday back at it."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e766f3a8b069b7b",
+      "text": "[[19 December 2017]] was hearing day."
+    },
+    {
+      "type": "paragraph",
+      "id": "4c65262fd5819599",
+      "text": "[[20 December 2017]] was RL day with xcountry skiing."
+    },
+    {
+      "type": "paragraph",
+      "id": "09a7f8ea8789a0b6",
+      "text": "[[21 December 2017]] is RL again."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "December 2017",
+        "story": []
+      },
+      "date": 1512153178598
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0263d752f8d335d1"
+      },
+      "id": "0263d752f8d335d1",
+      "type": "add",
+      "date": 1512153179784
+    },
+    {
+      "type": "remove",
+      "id": "0263d752f8d335d1",
+      "date": 1512153225427
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a59068bc35855f8d"
+      },
+      "id": "a59068bc35855f8d",
+      "type": "add",
+      "date": 1512168134715
+    },
+    {
+      "type": "edit",
+      "id": "a59068bc35855f8d",
+      "item": {
+        "type": "paragraph",
+        "id": "a59068bc35855f8d",
+        "text": "[[1 December 2017]] is the beginning."
+      },
+      "date": 1512168162886
+    },
+    {
+      "type": "add",
+      "id": "fa2378e3b2beb208",
+      "item": {
+        "type": "paragraph",
+        "id": "fa2378e3b2beb208",
+        "text": "[[2 December 2017]] is Monday."
+      },
+      "after": "a59068bc35855f8d",
+      "date": 1512403770911
+    },
+    {
+      "type": "add",
+      "id": "470319c324502bde",
+      "item": {
+        "type": "paragraph",
+        "id": "470319c324502bde",
+        "text": "[[5 December 2017]] is Tuesday. The above post was actually from the 4th."
+      },
+      "after": "fa2378e3b2beb208",
+      "date": 1512506919749
+    },
+    {
+      "type": "add",
+      "id": "877eb1f86525db3d",
+      "item": {
+        "type": "paragraph",
+        "id": "877eb1f86525db3d",
+        "text": "[[6 December 2017]] is Wednesday in Billings."
+      },
+      "after": "470319c324502bde",
+      "date": 1512579151247
+    },
+    {
+      "type": "add",
+      "id": "8143caacbd6823ec",
+      "item": {
+        "type": "paragraph",
+        "id": "8143caacbd6823ec",
+        "text": "[[7 December 2017]] is Thursday in Nye with Anna."
+      },
+      "after": "877eb1f86525db3d",
+      "date": 1512682953097
+    },
+    {
+      "type": "add",
+      "id": "1ba916db3a33bc15",
+      "item": {
+        "type": "paragraph",
+        "id": "1ba916db3a33bc15",
+        "text": "[[8 December 2017]] is Friday in Billings."
+      },
+      "after": "8143caacbd6823ec",
+      "date": 1512755417305
+    },
+    {
+      "type": "add",
+      "id": "1b06d983d684371a",
+      "item": {
+        "type": "paragraph",
+        "id": "1b06d983d684371a",
+        "text": "[[11 December 2017]] is Monday in Billings."
+      },
+      "after": "1ba916db3a33bc15",
+      "date": 1513014942723
+    },
+    {
+      "type": "add",
+      "id": "017ef1253e919cbf",
+      "item": {
+        "type": "paragraph",
+        "id": "017ef1253e919cbf",
+        "text": "[[12 December 2017]] is Tuesday in Billings."
+      },
+      "after": "1b06d983d684371a",
+      "date": 1513112199010
+    },
+    {
+      "type": "add",
+      "id": "c5dfbdb782e83884",
+      "item": {
+        "type": "paragraph",
+        "id": "c5dfbdb782e83884",
+        "text": "[[13 December 2017]] is Wednesday in RL. "
+      },
+      "after": "017ef1253e919cbf",
+      "date": 1513205073524
+    },
+    {
+      "type": "add",
+      "id": "a87d0bfb4ef8a6aa",
+      "item": {
+        "type": "paragraph",
+        "id": "a87d0bfb4ef8a6aa",
+        "text": "[[18 December 2017]] is Monday back at it."
+      },
+      "after": "c5dfbdb782e83884",
+      "date": 1513633479542
+    },
+    {
+      "type": "add",
+      "id": "6e766f3a8b069b7b",
+      "item": {
+        "type": "paragraph",
+        "id": "6e766f3a8b069b7b",
+        "text": "[[19 December 2017]] was hearing day."
+      },
+      "after": "a87d0bfb4ef8a6aa",
+      "date": 1513718552352
+    },
+    {
+      "type": "add",
+      "id": "4c65262fd5819599",
+      "item": {
+        "type": "paragraph",
+        "id": "4c65262fd5819599",
+        "text": "[[20 December 2017]] was RL day with xcountry skiing."
+      },
+      "after": "6e766f3a8b069b7b",
+      "date": 1513813663722
+    },
+    {
+      "type": "add",
+      "id": "09a7f8ea8789a0b6",
+      "item": {
+        "type": "paragraph",
+        "id": "09a7f8ea8789a0b6",
+        "text": "[[21 December 2017]] is RL again."
+      },
+      "after": "4c65262fd5819599",
+      "date": 1513878506683
+    }
+  ]
+}

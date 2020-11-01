@@ -1,0 +1,354 @@
+{
+  "title": "Metropolis",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Metropolis"
+      },
+      "date": 1502090499104,
+      "source": {
+        "pageTitle": "Metropolis",
+        "pageSlug": "Metropolis",
+        "url": "https://en.wikipedia.org/wiki/Metropolis",
+        "date": 1502090499104,
+        "link_dictionary": {
+          "wiki_links": {
+            "South America": {
+              "section_number": 40,
+              "section_level": 2,
+              "dot_number": 9
+            },
+            "Metropolis as a mainland area": {
+              "section_number": 44,
+              "section_level": 2,
+              "dot_number": 10
+            },
+            "Europe": {
+              "section_number": 23,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Asia": {
+              "section_number": 9,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "See also": {
+              "section_number": 45,
+              "section_level": 2,
+              "dot_number": 11
+            },
+            "Global city": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "Further reading": {
+              "section_number": 47,
+              "section_level": 2,
+              "dot_number": 13
+            },
+            "References": {
+              "section_number": 46,
+              "section_level": 2,
+              "dot_number": 12
+            },
+            "Africa": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Oceania": {
+              "section_number": 38,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "History": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "Etymology and modern usage": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "North America": {
+              "section_number": 34,
+              "section_level": 2,
+              "dot_number": 7
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 794260765,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502090503319
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13099239ea001172"
+      },
+      "id": "13099239ea001172",
+      "type": "add",
+      "after": "c0c6144b-928c-40ab-8332-63e80eb48cd7",
+      "date": 1502090755019
+    },
+    {
+      "type": "edit",
+      "id": "13099239ea001172",
+      "item": {
+        "type": "pagefold",
+        "id": "13099239ea001172",
+        "text": "Wikipedia Definition"
+      },
+      "date": 1502090764459
+    },
+    {
+      "type": "move",
+      "order": [
+        "13099239ea001172",
+        "dfd0ebfa-7af2-4adf-94c0-c235cfcf197c",
+        "49a1cad8-a3d9-441b-a07a-343eb515021f",
+        "3cb01519-4c5c-476b-9263-b25afcfec20d",
+        "c0c6144b-928c-40ab-8332-63e80eb48cd7"
+      ],
+      "id": "13099239ea001172",
+      "date": 1502090775741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d65ab0052df90478"
+      },
+      "id": "d65ab0052df90478",
+      "type": "add",
+      "after": "c0c6144b-928c-40ab-8332-63e80eb48cd7",
+      "date": 1502090777501
+    },
+    {
+      "type": "move",
+      "order": [
+        "d65ab0052df90478",
+        "13099239ea001172",
+        "dfd0ebfa-7af2-4adf-94c0-c235cfcf197c",
+        "49a1cad8-a3d9-441b-a07a-343eb515021f",
+        "3cb01519-4c5c-476b-9263-b25afcfec20d",
+        "c0c6144b-928c-40ab-8332-63e80eb48cd7"
+      ],
+      "id": "d65ab0052df90478",
+      "date": 1502090778922
+    },
+    {
+      "type": "edit",
+      "id": "d65ab0052df90478",
+      "item": {
+        "type": "paragraph",
+        "id": "d65ab0052df90478",
+        "text": "Metropolis = Polis^(5/4)"
+      },
+      "date": 1502090797135
+    },
+    {
+      "type": "edit",
+      "id": "d65ab0052df90478",
+      "item": {
+        "type": "paragraph",
+        "id": "d65ab0052df90478",
+        "text": "Metropolis = Polis^(5/4) = 8.4 Million = "
+      },
+      "date": 1502090852926
+    },
+    {
+      "type": "edit",
+      "id": "d65ab0052df90478",
+      "item": {
+        "type": "paragraph",
+        "id": "d65ab0052df90478",
+        "text": "Metropolis = Polis^(5/4)"
+      },
+      "date": 1502091019482
+    },
+    {
+      "type": "add",
+      "id": "4ef57aa3a2be4f7c",
+      "item": {
+        "type": "paragraph",
+        "id": "4ef57aa3a2be4f7c",
+        "text": "8.4 Million = 346,000^1.25"
+      },
+      "after": "d65ab0052df90478",
+      "date": 1502091065001
+    },
+    {
+      "type": "add",
+      "id": "3d23745f99c92591",
+      "item": {
+        "type": "paragraph",
+        "id": "3d23745f99c92591",
+        "text": "~"
+      },
+      "after": "4ef57aa3a2be4f7c",
+      "date": 1502091083861
+    },
+    {
+      "type": "edit",
+      "id": "3d23745f99c92591",
+      "item": {
+        "type": "paragraph",
+        "id": "3d23745f99c92591",
+        "text": "~24 Poli combined"
+      },
+      "date": 1502091111058
+    },
+    {
+      "type": "add",
+      "id": "8fe6af41f88fd42b",
+      "item": {
+        "type": "paragraph",
+        "id": "8fe6af41f88fd42b",
+        "text": "~311"
+      },
+      "after": "3d23745f99c92591",
+      "date": 1502091139882
+    },
+    {
+      "type": "edit",
+      "id": "8fe6af41f88fd42b",
+      "item": {
+        "type": "paragraph",
+        "id": "8fe6af41f88fd42b",
+        "text": "~311 TinyCities"
+      },
+      "date": 1502091147146
+    },
+    {
+      "type": "edit",
+      "id": "8fe6af41f88fd42b",
+      "item": {
+        "type": "paragraph",
+        "id": "8fe6af41f88fd42b",
+        "text": "~311 Networked TinyCities"
+      },
+      "date": 1502091159922
+    },
+    {
+      "type": "edit",
+      "id": "3d23745f99c92591",
+      "item": {
+        "type": "paragraph",
+        "id": "3d23745f99c92591",
+        "text": "~24 Networked Poli"
+      },
+      "date": 1502091171264
+    },
+    {
+      "type": "remove",
+      "id": "8fe6af41f88fd42b",
+      "date": 1502091178768
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3731f3f210468b14"
+      },
+      "id": "3731f3f210468b14",
+      "type": "add",
+      "after": "c0c6144b-928c-40ab-8332-63e80eb48cd7",
+      "date": 1502091498446
+    },
+    {
+      "type": "move",
+      "order": [
+        "3731f3f210468b14",
+        "d65ab0052df90478",
+        "4ef57aa3a2be4f7c",
+        "3d23745f99c92591",
+        "13099239ea001172",
+        "dfd0ebfa-7af2-4adf-94c0-c235cfcf197c",
+        "49a1cad8-a3d9-441b-a07a-343eb515021f",
+        "3cb01519-4c5c-476b-9263-b25afcfec20d",
+        "c0c6144b-928c-40ab-8332-63e80eb48cd7"
+      ],
+      "id": "3731f3f210468b14",
+      "date": 1502091500590
+    },
+    {
+      "type": "edit",
+      "id": "3731f3f210468b14",
+      "item": {
+        "type": "paragraph",
+        "id": "3731f3f210468b14",
+        "text": "A [[node]], and also a module of [[Poli]]."
+      },
+      "date": 1502091521319
+    },
+    {
+      "type": "edit",
+      "id": "3731f3f210468b14",
+      "item": {
+        "type": "paragraph",
+        "id": "3731f3f210468b14",
+        "text": "A [[node]], and also a [[module]] of [[Poli]]."
+      },
+      "date": 1502091891989
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3731f3f210468b14",
+      "text": "A [[node]], and also a [[module]] of [[Poli]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "d65ab0052df90478",
+      "text": "Metropolis = Polis^(5/4)"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ef57aa3a2be4f7c",
+      "text": "8.4 Million = 346,000^1.25"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d23745f99c92591",
+      "text": "~24 Networked Poli"
+    },
+    {
+      "type": "pagefold",
+      "id": "13099239ea001172",
+      "text": "Wikipedia Definition"
+    },
+    {
+      "type": "paragraph",
+      "id": "dfd0ebfa-7af2-4adf-94c0-c235cfcf197c",
+      "text": "A metropolis () is a large city or conurbation which is a significant economic, political, and cultural center for a country or region, and an important hub for regional or international connections, commerce, and communications. The term is Greek (Greek: μητρόπολη) and means the \"mother city\" of a colony (in the ancient sense), that is, the city which sent out settlers. This was later generalized to a city regarded as a center of a specified activity, or any large, important city in a nation - [https://en.wikipedia.org/wiki/Metropolis wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "49a1cad8-a3d9-441b-a07a-343eb515021f",
+      "text": "A big city belonging to a larger urban agglomeration, but which is not the core of that agglomeration, is not generally considered a metropolis but a part of it. The plural of the word is metropolises, although the Latin plural is \"metropoles\", from the Greek \"metropoleis\" (Greek: μητρoπόλεις)."
+    },
+    {
+      "type": "paragraph",
+      "id": "3cb01519-4c5c-476b-9263-b25afcfec20d",
+      "text": "For urban centers outside metropolitan areas that generate a similar attraction at smaller scale for their region, the concept of the regiopolis, short regio, was introduced by German professors in 2006."
+    },
+    {
+      "type": "markdown",
+      "id": "c0c6144b-928c-40ab-8332-63e80eb48cd7",
+      "text": "# See also\n* [[History]]\n* [[Etymology and modern usage]]\n* [[Global city]]\n* [[Africa]]\n* [[Asia]]\n* [[Europe]]\n* [[North America]]\n* [[Oceania]]\n* [[South America]]\n* [[Metropolis as a mainland area]]\n* [[See also]]\n* [[References]]\n* [[Further reading]]"
+    }
+  ]
+}

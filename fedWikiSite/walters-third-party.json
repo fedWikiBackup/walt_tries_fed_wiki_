@@ -1,0 +1,28 @@
+{
+  "title": "Walter's Third Party",
+  "story": [
+    {
+      "type": "factory",
+      "id": "77d4e88d917fa7b1"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter's Third Party",
+        "story": []
+      },
+      "date": 1489006814149
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77d4e88d917fa7b1"
+      },
+      "id": "77d4e88d917fa7b1",
+      "type": "add",
+      "date": 1489006816497
+    }
+  ]
+}

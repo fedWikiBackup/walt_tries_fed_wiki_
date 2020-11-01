@@ -1,0 +1,55 @@
+{
+  "title": "7 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "de4ae30db80ac4a0",
+      "text": "In a world of apathy, technological dependence, and science - humans are in a spiritual vacuum. Promises of science and simplicity have been rewarded with pollution and additional layers of complexity. Of nuclear weapons. Of the destruction of our humanity."
+    },
+    {
+      "type": "paragraph",
+      "id": "7915d3967c1a82d2",
+      "text": "Or not. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "7 February 2018",
+        "story": []
+      },
+      "date": 1518019074227
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de4ae30db80ac4a0"
+      },
+      "id": "de4ae30db80ac4a0",
+      "type": "add",
+      "date": 1518019075704
+    },
+    {
+      "type": "edit",
+      "id": "de4ae30db80ac4a0",
+      "item": {
+        "type": "paragraph",
+        "id": "de4ae30db80ac4a0",
+        "text": "In a world of apathy, technological dependence, and science - humans are in a spiritual vacuum. Promises of science and simplicity have been rewarded with pollution and additional layers of complexity. Of nuclear weapons. Of the destruction of our humanity."
+      },
+      "date": 1518019217568
+    },
+    {
+      "type": "add",
+      "id": "7915d3967c1a82d2",
+      "item": {
+        "type": "paragraph",
+        "id": "7915d3967c1a82d2",
+        "text": "Or not. "
+      },
+      "after": "de4ae30db80ac4a0",
+      "date": 1518019220323
+    }
+  ]
+}

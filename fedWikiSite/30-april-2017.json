@@ -1,0 +1,156 @@
+{
+  "title": "30 April 2017",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "9f48e7d0ab30d421",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "8a6deae18172858a",
+      "text": "To Do: Casino and Hostel in Red Lodge."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac496b624ddf6a04",
+      "text": "Well. The former Yugoslav Republic of Macedonia is a weird place. It is all either brand new kitsch, communist era crumbling buildings, or ancient ruins. I enjoyed my time there - it was informative, but not sure if I will need to return. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6d2a78de89348d31",
+      "text": "I think I am still processing my time there - living like a seeming king. I do not know how I feel about my time and actions there."
+    },
+    {
+      "type": "paragraph",
+      "id": "92494e4b03fc5814",
+      "text": "David and I met a hungarian woman on the plane who is a sugarbaby. Her name is Alexandra. Still processing this as well. Communism is a fucking nightmare. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 April 2017",
+        "story": []
+      },
+      "date": 1493580710658
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac496b624ddf6a04"
+      },
+      "id": "ac496b624ddf6a04",
+      "type": "add",
+      "date": 1493580734388
+    },
+    {
+      "type": "edit",
+      "id": "ac496b624ddf6a04",
+      "item": {
+        "type": "paragraph",
+        "id": "ac496b624ddf6a04",
+        "text": "Well. F"
+      },
+      "date": 1493580777272
+    },
+    {
+      "type": "edit",
+      "id": "ac496b624ddf6a04",
+      "item": {
+        "type": "paragraph",
+        "id": "ac496b624ddf6a04",
+        "text": "Well. The former Yugoslav Republic of Macedonia is a weird place. It is all either brand new kitsch, communist era crumbling buildings, or ancient ruins. I enjoyed my time there - it was informative, but not sure if I will need to return. "
+      },
+      "date": 1493580887584
+    },
+    {
+      "type": "add",
+      "id": "6d2a78de89348d31",
+      "item": {
+        "type": "paragraph",
+        "id": "6d2a78de89348d31",
+        "text": "I think I am still processing my time there - living like a seeming king. I do not know how I feel about my time and actions there."
+      },
+      "after": "ac496b624ddf6a04",
+      "date": 1493581448131
+    },
+    {
+      "type": "add",
+      "id": "92494e4b03fc5814",
+      "item": {
+        "type": "paragraph",
+        "id": "92494e4b03fc5814",
+        "text": "David and I met a hungarian woman on the plane who is a sugarbaby. Her name is Alexandra. Still processing this as well. Communism is a fucking nightmare. "
+      },
+      "after": "6d2a78de89348d31",
+      "date": 1493581694776
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c989259c540cc75"
+      },
+      "id": "1c989259c540cc75",
+      "type": "add",
+      "after": "93aa36e355e96cdd",
+      "date": 1493585677952
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f48e7d0ab30d421"
+      },
+      "id": "9f48e7d0ab30d421",
+      "type": "add",
+      "after": "1c989259c540cc75",
+      "date": 1493585680176
+    },
+    {
+      "type": "remove",
+      "id": "1c989259c540cc75",
+      "date": 1493585708861
+    },
+    {
+      "type": "edit",
+      "id": "9f48e7d0ab30d421",
+      "item": {
+        "type": "pagefold",
+        "id": "9f48e7d0ab30d421",
+        "text": "."
+      },
+      "date": 1493585713252
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a6deae18172858a"
+      },
+      "id": "8a6deae18172858a",
+      "type": "add",
+      "after": "9f48e7d0ab30d421",
+      "date": 1493585715133
+    },
+    {
+      "type": "edit",
+      "id": "8a6deae18172858a",
+      "item": {
+        "type": "paragraph",
+        "id": "8a6deae18172858a",
+        "text": "To Do: Casino in Red Lodge."
+      },
+      "date": 1493585755298
+    },
+    {
+      "type": "edit",
+      "id": "8a6deae18172858a",
+      "item": {
+        "type": "paragraph",
+        "id": "8a6deae18172858a",
+        "text": "To Do: Casino and Hostel in Red Lodge."
+      },
+      "date": 1493631995305
+    }
+  ]
+}

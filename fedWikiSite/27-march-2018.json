@@ -1,0 +1,39 @@
+{
+  "title": "27 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f868e8dbd54029da",
+      "text": "On the road again. Headed around Helena and Great Falls, then back to Billings for a whirlwind trip. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 March 2018",
+        "story": []
+      },
+      "date": 1522170017552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f868e8dbd54029da"
+      },
+      "id": "f868e8dbd54029da",
+      "type": "add",
+      "date": 1522170018747
+    },
+    {
+      "type": "edit",
+      "id": "f868e8dbd54029da",
+      "item": {
+        "type": "paragraph",
+        "id": "f868e8dbd54029da",
+        "text": "On the road again. Headed around Helena and Great Falls, then back to Billings for a whirlwind trip. "
+      },
+      "date": 1522170046740
+    }
+  ]
+}

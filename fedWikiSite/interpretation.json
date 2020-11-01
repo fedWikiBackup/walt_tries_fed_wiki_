@@ -1,0 +1,75 @@
+{
+  "title": "interpretation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "81e08bda77a85fc4",
+      "text": "The question of interpretation is perhaps one of the most heated in the under the U.S. Constitution. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c103bab0c83d11ec",
+      "text": "You should use the rest my fed.wiki pages to help discern my intention. But balance that with the generally available knowledge when this constitution is adopted - as I know that not everyone will have had the opportunity to study my thinking at length. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "interpretation",
+        "story": []
+      },
+      "date": 1502082762476
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81e08bda77a85fc4"
+      },
+      "id": "81e08bda77a85fc4",
+      "type": "add",
+      "date": 1502082763480
+    },
+    {
+      "type": "edit",
+      "id": "81e08bda77a85fc4",
+      "item": {
+        "type": "paragraph",
+        "id": "81e08bda77a85fc4",
+        "text": "The question of interpretation is perhaps one of the most heated in the current U.S. Constitution. "
+      },
+      "date": 1502082934553
+    },
+    {
+      "type": "add",
+      "id": "c103bab0c83d11ec",
+      "item": {
+        "type": "paragraph",
+        "id": "c103bab0c83d11ec",
+        "text": "You should use the rest my fed.wiki pages to help discern my intention. But balance that with the generally available knowledge when the constitution is adopted - as I know that not everyone will have had the opportunity to study my thinking at length. "
+      },
+      "after": "81e08bda77a85fc4",
+      "date": 1502083037095
+    },
+    {
+      "type": "edit",
+      "id": "81e08bda77a85fc4",
+      "item": {
+        "type": "paragraph",
+        "id": "81e08bda77a85fc4",
+        "text": "The question of interpretation is perhaps one of the most heated in the under the U.S. Constitution. "
+      },
+      "date": 1502083043346
+    },
+    {
+      "type": "edit",
+      "id": "c103bab0c83d11ec",
+      "item": {
+        "type": "paragraph",
+        "id": "c103bab0c83d11ec",
+        "text": "You should use the rest my fed.wiki pages to help discern my intention. But balance that with the generally available knowledge when this constitution is adopted - as I know that not everyone will have had the opportunity to study my thinking at length. "
+      },
+      "date": 1502083058968
+    }
+  ]
+}

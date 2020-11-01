@@ -1,0 +1,253 @@
+{
+  "title": "Walter's Projects",
+  "story": [
+    {
+      "type": "factory",
+      "id": "02198dd8948fa57c"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Walter's Projects",
+        "story": []
+      },
+      "date": 1502070238224
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02198dd8948fa57c"
+      },
+      "id": "02198dd8948fa57c",
+      "type": "add",
+      "date": 1502070239333
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "[[The Global Challenge]]: Reshaping the UN"
+      },
+      "id": "e15eded54dae0e07",
+      "date": 1502070241725
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "[[Community Adaptation]]: Building Lifeboat Cities"
+      },
+      "after": "e15eded54dae0e07",
+      "id": "43f1dc473e0d34a9",
+      "date": 1502070243267
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "[[Evolution 2.0]]: Upgrading the Human OS"
+      },
+      "after": "43f1dc473e0d34a9",
+      "id": "edd6092a90d037f9",
+      "date": 1502070245260
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "36c2fccb5d9e8b5e",
+        "text": "[[Walter's Trip Around the World]]"
+      },
+      "after": "edd6092a90d037f9",
+      "id": "36c2fccb5d9e8b5e",
+      "date": 1502070247635
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c322c2a94d81bd4d",
+        "text": "[https://oldpeopledictionary.com/home Old People Dictionary.] It's like a dictionary, but better."
+      },
+      "after": "36c2fccb5d9e8b5e",
+      "id": "c322c2a94d81bd4d",
+      "date": 1502070249081
+    },
+    {
+      "type": "remove",
+      "id": "36c2fccb5d9e8b5e",
+      "date": 1502070252688
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "Submitting an application to [[The Global Challenge]]."
+      },
+      "date": 1502070270012
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "[[Community Adaptation]]: Building TinyCities"
+      },
+      "date": 1502070278264
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Working with Konrad Kopczynski on a habit tracking app called [[Evolution 2.0]], where you can upgrade your Human OS."
+      },
+      "date": 1502070318479
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "I started a company called [[Community Adaptation]] about five years ago. We are still bootstrapping."
+      },
+      "date": 1502070369618
+    },
+    {
+      "type": "remove",
+      "id": "c322c2a94d81bd4d",
+      "date": 1502070375784
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "Submitting an proposal to [[The Global Challenge]]."
+      },
+      "date": 1502081501384
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Working with [[Konrad Kopczynski]] on a habit tracking app called [[Evolution 2.0]], where you can upgrade your Human OS."
+      },
+      "date": 1502081542528
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Working with [https://www.linkedin.com/in/kkopczyn/ Konrad Kopczynski] on a habit tracking app called [[Evolution 2.0]], where you can upgrade your Human OS."
+      },
+      "date": 1502081553032
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Working with [https://www.linkedin.com/in/kkopczyn/ Konrad Kopczynski] on a habit tracking app called [Evolution 2.0], where you can upgrade your Human OS."
+      },
+      "date": 1502081587198
+    },
+    {
+      "type": "edit",
+      "id": "edd6092a90d037f9",
+      "item": {
+        "type": "paragraph",
+        "id": "edd6092a90d037f9",
+        "text": "Working with [https://www.linkedin.com/in/kkopczyn/ Konrad Kopczynski] on a habit tracking app called [http://www.impaktlabs.com/evolution2 Evolution 2.0], where you can upgrade your Human OS."
+      },
+      "date": 1502081597232
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "I started a company called [[Community Adaptation]] about five years ago. Currently looking for [[angel]]"
+      },
+      "date": 1502081642480
+    },
+    {
+      "type": "edit",
+      "id": "43f1dc473e0d34a9",
+      "item": {
+        "type": "paragraph",
+        "id": "43f1dc473e0d34a9",
+        "text": "I started a company called [[Community Adaptation]] about five years ago. Currently looking for an [[angel]]"
+      },
+      "date": 1502081649336
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "Other than working with [[Ward Cunningham]] to improve [[Federated Wiki]], I am working on the following:"
+      },
+      "date": 1502092176710
+    },
+    {
+      "type": "add",
+      "id": "3023f2d8abd26c16",
+      "item": {
+        "type": "paragraph",
+        "id": "3023f2d8abd26c16",
+        "text": "Submitting an proposal to [[The Global Challenge]]."
+      },
+      "after": "e15eded54dae0e07",
+      "date": 1502092178107
+    },
+    {
+      "type": "edit",
+      "id": "e15eded54dae0e07",
+      "item": {
+        "type": "paragraph",
+        "id": "e15eded54dae0e07",
+        "text": "Other than working with [[Ward Cunningham]], who intented [[wiki]], to improve this platform, I am working on the following:"
+      },
+      "date": 1502092343435
+    },
+    {
+      "type": "remove",
+      "id": "e15eded54dae0e07",
+      "date": 1502094074484
+    },
+    {
+      "type": "remove",
+      "id": "3023f2d8abd26c16",
+      "date": 1502094075946
+    },
+    {
+      "type": "remove",
+      "id": "43f1dc473e0d34a9",
+      "date": 1502094077368
+    },
+    {
+      "type": "remove",
+      "id": "edd6092a90d037f9",
+      "date": 1502094079875
+    }
+  ]
+}

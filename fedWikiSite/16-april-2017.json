@@ -1,0 +1,79 @@
+{
+  "title": "16 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b515566533785b19",
+      "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle among friends, then umph umph in a club below [https://fr.wikipedia.org/wiki/Pont_Alexandre-III the Pont Alexandre III]. It was the most solidly constructed club I have ever experienced. I sadly determined that at 29, I have reached an age where I no longer enjoy the revelry of a club. This was a good one in which to have that realization. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 April 2017",
+        "story": []
+      },
+      "date": 1492348305484
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b515566533785b19"
+      },
+      "id": "b515566533785b19",
+      "type": "add",
+      "date": 1492348307393
+    },
+    {
+      "type": "edit",
+      "id": "b515566533785b19",
+      "item": {
+        "type": "paragraph",
+        "id": "b515566533785b19",
+        "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle, then umph umph in a club below "
+      },
+      "date": 1492348389954
+    },
+    {
+      "type": "edit",
+      "id": "b515566533785b19",
+      "item": {
+        "type": "paragraph",
+        "id": "b515566533785b19",
+        "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle, then umph umph in a club below [[https://fr.wikipedia.org/wiki/Pont_Alexandre-III the Pont Alexandre III]."
+      },
+      "date": 1492348447651
+    },
+    {
+      "type": "edit",
+      "id": "b515566533785b19",
+      "item": {
+        "type": "paragraph",
+        "id": "b515566533785b19",
+        "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle, then umph umph in a club below [[https://fr.wikipedia.org/wiki/Pont_Alexandre-III the Pont Alexandre III]. It was the most solidly constructed club I have ever experienced. I sadly determined that at 29, I have reached an age where I no longer enjoy the revelry of a club. This was a good one in which to have that realization. "
+      },
+      "date": 1492348554592
+    },
+    {
+      "type": "edit",
+      "id": "b515566533785b19",
+      "item": {
+        "type": "paragraph",
+        "id": "b515566533785b19",
+        "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle among friends, then umph umph in a club below [[https://fr.wikipedia.org/wiki/Pont_Alexandre-III the Pont Alexandre III]. It was the most solidly constructed club I have ever experienced. I sadly determined that at 29, I have reached an age where I no longer enjoy the revelry of a club. This was a good one in which to have that realization. "
+      },
+      "date": 1492349100762
+    },
+    {
+      "type": "edit",
+      "id": "b515566533785b19",
+      "item": {
+        "type": "paragraph",
+        "id": "b515566533785b19",
+        "text": "More sights today. More walking around narrow streets settled and resettled in the 6th and 13th centuries. A bit more wine and cheese. And an evening with Parisians - first chatting in a circle among friends, then umph umph in a club below [https://fr.wikipedia.org/wiki/Pont_Alexandre-III the Pont Alexandre III]. It was the most solidly constructed club I have ever experienced. I sadly determined that at 29, I have reached an age where I no longer enjoy the revelry of a club. This was a good one in which to have that realization. "
+      },
+      "date": 1492349108832
+    }
+  ]
+}

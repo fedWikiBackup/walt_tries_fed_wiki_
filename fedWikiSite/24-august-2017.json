@@ -1,0 +1,39 @@
+{
+  "title": "24 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a6dc766f85c4a369",
+      "text": "Saturday is the day. I will get the draft in working order in 12 hours on Saturday. eek."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "24 August 2017",
+        "story": []
+      },
+      "date": 1503609032187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6dc766f85c4a369"
+      },
+      "id": "a6dc766f85c4a369",
+      "type": "add",
+      "date": 1503609033402
+    },
+    {
+      "type": "edit",
+      "id": "a6dc766f85c4a369",
+      "item": {
+        "type": "paragraph",
+        "id": "a6dc766f85c4a369",
+        "text": "Saturday is the day. I will get the draft in working order in 12 hours on Saturday. eek."
+      },
+      "date": 1503609056449
+    }
+  ]
+}

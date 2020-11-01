@@ -1,0 +1,55 @@
+{
+  "title": "26 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "05473738d0875662",
+      "text": "Operation wedding of Dan Wilkinson complete. Now in REd Lodge after a grueling journey back from the Colorado Rockies. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7401dad11aa14324",
+      "text": "Lord. Too many people in Colorado. Well, not too many people - too many cars. Need to address that for Montana."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 March 2018",
+        "story": []
+      },
+      "date": 1522105851121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05473738d0875662"
+      },
+      "id": "05473738d0875662",
+      "type": "add",
+      "date": 1522105852459
+    },
+    {
+      "type": "edit",
+      "id": "05473738d0875662",
+      "item": {
+        "type": "paragraph",
+        "id": "05473738d0875662",
+        "text": "Operation wedding of Dan Wilkinson complete. Now in REd Lodge after a grueling journey back from the Colorado Rockies. "
+      },
+      "date": 1522105893443
+    },
+    {
+      "type": "add",
+      "id": "7401dad11aa14324",
+      "item": {
+        "type": "paragraph",
+        "id": "7401dad11aa14324",
+        "text": "Lord. Too many people in Colorado. Well, not too many people - too many cars. Need to address that for Montana."
+      },
+      "after": "05473738d0875662",
+      "date": 1522105917303
+    }
+  ]
+}

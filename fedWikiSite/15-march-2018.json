@@ -1,0 +1,39 @@
+{
+  "title": "15 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "575311042fc5c41a",
+      "text": "Family drama continues. I believe I can unit the family. I believe I can unite the family. I believe I can unite the family. I believe. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "15 March 2018",
+        "story": []
+      },
+      "date": 1521135332404
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "575311042fc5c41a"
+      },
+      "id": "575311042fc5c41a",
+      "type": "add",
+      "date": 1521135333980
+    },
+    {
+      "type": "edit",
+      "id": "575311042fc5c41a",
+      "item": {
+        "type": "paragraph",
+        "id": "575311042fc5c41a",
+        "text": "Family drama continues. I believe I can unit the family. I believe I can unite the family. I believe I can unite the family. I believe. "
+      },
+      "date": 1521135426753
+    }
+  ]
+}

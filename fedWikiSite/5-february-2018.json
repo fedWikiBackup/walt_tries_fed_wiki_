@@ -1,0 +1,39 @@
+{
+  "title": "5 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "23ab1239609e3e65",
+      "text": "Oh snowy snowy days. Not a mental haze. But a difficult drive. One must concentrate to arrive. One must concentrate to thrive. One must dive to live. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 February 2018",
+        "story": []
+      },
+      "date": 1517857639290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23ab1239609e3e65"
+      },
+      "id": "23ab1239609e3e65",
+      "type": "add",
+      "date": 1517857640183
+    },
+    {
+      "type": "edit",
+      "id": "23ab1239609e3e65",
+      "item": {
+        "type": "paragraph",
+        "id": "23ab1239609e3e65",
+        "text": "Oh snowy snowy days. Not a mental haze. But a difficult drive. One must concentrate to arrive. One must concentrate to thrive. One must dive to live. "
+      },
+      "date": 1517857680430
+    }
+  ]
+}

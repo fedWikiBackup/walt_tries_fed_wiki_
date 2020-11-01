@@ -1,0 +1,49 @@
+{
+  "title": "16 February 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1eaa2073b04499c9",
+      "text": "Another day, another dollar. Still hooked, still on collar. Collars of dollars and dollars for collars. A cycle of trifle, a bicycle of lifecycles. Tomorrow a brief reprieve. The next another. Then back to the life of collared dollars. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "16 February 2018",
+        "story": []
+      },
+      "date": 1518800253896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1eaa2073b04499c9"
+      },
+      "id": "1eaa2073b04499c9",
+      "type": "add",
+      "date": 1518800254872
+    },
+    {
+      "type": "edit",
+      "id": "1eaa2073b04499c9",
+      "item": {
+        "type": "paragraph",
+        "id": "1eaa2073b04499c9",
+        "text": "Another day, another dollar. Still hooked, still on collar. "
+      },
+      "date": 1518800274702
+    },
+    {
+      "type": "edit",
+      "id": "1eaa2073b04499c9",
+      "item": {
+        "type": "paragraph",
+        "id": "1eaa2073b04499c9",
+        "text": "Another day, another dollar. Still hooked, still on collar. Collars of dollars and dollars for collars. A cycle of trifle, a bicycle of lifecycles. Tomorrow a brief reprieve. The next another. Then back to the life of collared dollars. "
+      },
+      "date": 1518801766703
+    }
+  ]
+}

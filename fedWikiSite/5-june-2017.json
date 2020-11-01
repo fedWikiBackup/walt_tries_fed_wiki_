@@ -1,0 +1,71 @@
+{
+  "title": "5 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bd8fa9f7bc8204dd",
+      "text": "Had a decent weekend in Nye. Somewhat relaxing, though quite sore from all the hiking and rock moving. Decided to call the radio station WNYE, if possible."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b1514d63ad78096",
+      "text": "Also need to get Curtis up here for last ditch effort to get family on board."
+    },
+    {
+      "type": "paragraph",
+      "id": "9f0951b15ecfad49",
+      "text": "I really like my new job!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 June 2017",
+        "story": []
+      },
+      "date": 1496700558165
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bd8fa9f7bc8204dd"
+      },
+      "id": "bd8fa9f7bc8204dd",
+      "type": "add",
+      "date": 1496700559780
+    },
+    {
+      "type": "edit",
+      "id": "bd8fa9f7bc8204dd",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8fa9f7bc8204dd",
+        "text": "Had a decent weekend in Nye. Somewhat relaxing, though quite sore from all the hiking and rock moving. Decided to call the radio station WNYE, if possible."
+      },
+      "date": 1496700605147
+    },
+    {
+      "type": "add",
+      "id": "6b1514d63ad78096",
+      "item": {
+        "type": "paragraph",
+        "id": "6b1514d63ad78096",
+        "text": "Also need to get Curtis up here for last ditch effort to get family on board."
+      },
+      "after": "bd8fa9f7bc8204dd",
+      "date": 1496700646743
+    },
+    {
+      "type": "add",
+      "id": "9f0951b15ecfad49",
+      "item": {
+        "type": "paragraph",
+        "id": "9f0951b15ecfad49",
+        "text": "I really like my new job!"
+      },
+      "after": "6b1514d63ad78096",
+      "date": 1496701114638
+    }
+  ]
+}

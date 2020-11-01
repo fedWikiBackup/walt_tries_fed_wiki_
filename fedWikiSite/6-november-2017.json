@@ -1,0 +1,46 @@
+{
+  "title": "6 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "edc6fedc4968f31c",
+      "text": "I am now 30. It is time to grow up. What does that mean exactly? To grow up? Once you hit 25 and are physiologically developed, what more \"growing\" does one do? "
+    },
+    {
+      "type": "paragraph",
+      "id": "b3af65ad6654363f",
+      "text": "Is it wisdom that we acquire? Hardened habits? Something else entirely? More stuff?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 November 2017",
+        "story": []
+      },
+      "date": 1510094727088
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "edc6fedc4968f31c",
+        "text": "I am now 30. It is time to grow up. What does that mean exactly? To grow up? Once you hit 25 and are physiologically developed, what more \"growing\" does one do? "
+      },
+      "id": "edc6fedc4968f31c",
+      "date": 1510094729996
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b3af65ad6654363f",
+        "text": "Is it wisdom that we acquire? Hardened habits? Something else entirely? More stuff?"
+      },
+      "after": "edc6fedc4968f31c",
+      "id": "b3af65ad6654363f",
+      "date": 1510094731305
+    }
+  ]
+}

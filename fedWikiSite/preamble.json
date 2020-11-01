@@ -1,0 +1,39 @@
+{
+  "title": "Preamble",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2fe154a83fdcdbca",
+      "text": "This preamble should guide the [[interpretation]] of the text this [[Constitution]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Preamble",
+        "story": []
+      },
+      "date": 1502085265565
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2fe154a83fdcdbca"
+      },
+      "id": "2fe154a83fdcdbca",
+      "type": "add",
+      "date": 1502085266660
+    },
+    {
+      "type": "edit",
+      "id": "2fe154a83fdcdbca",
+      "item": {
+        "type": "paragraph",
+        "id": "2fe154a83fdcdbca",
+        "text": "This preamble should guide the [[interpretation]] of the text this [[Constitution]]."
+      },
+      "date": 1502085280698
+    }
+  ]
+}

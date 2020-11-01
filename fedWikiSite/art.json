@@ -1,0 +1,91 @@
+{
+  "title": "Art",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7b909aea20477199",
+      "text": "At the higher end of Maslow's hierarchy of needs, art defines our future."
+    },
+    {
+      "type": "paragraph",
+      "id": "71970f84e42b5f86",
+      "text": "Great friend and local Montana Artist named [http://tomwolfefineart.com/ Tom Wolfe]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ea6963503775908",
+      "text": "[http://dannybroadway.com/ An artist] I met in Memphis."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Art",
+        "story": []
+      },
+      "date": 1489009698751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b909aea20477199"
+      },
+      "id": "7b909aea20477199",
+      "type": "add",
+      "date": 1489009700560
+    },
+    {
+      "type": "edit",
+      "id": "7b909aea20477199",
+      "item": {
+        "type": "paragraph",
+        "id": "7b909aea20477199",
+        "text": "Great friend and local Montana Artist named [http://tomwolfefineart.com/ Tom Wolfe]"
+      },
+      "date": 1489009723602
+    },
+    {
+      "type": "edit",
+      "id": "7b909aea20477199",
+      "item": {
+        "type": "paragraph",
+        "id": "7b909aea20477199",
+        "text": "At the higer ened of Maslow's hirearchy of needs, art defines our future."
+      },
+      "date": 1489009964646
+    },
+    {
+      "type": "add",
+      "id": "71970f84e42b5f86",
+      "item": {
+        "type": "paragraph",
+        "id": "71970f84e42b5f86",
+        "text": "Great friend and local Montana Artist named [http://tomwolfefineart.com/ Tom Wolfe]"
+      },
+      "after": "7b909aea20477199",
+      "date": 1489009966548
+    },
+    {
+      "type": "edit",
+      "id": "7b909aea20477199",
+      "item": {
+        "type": "paragraph",
+        "id": "7b909aea20477199",
+        "text": "At the higher end of Maslow's hierarchy of needs, art defines our future."
+      },
+      "date": 1489009975565
+    },
+    {
+      "type": "add",
+      "id": "5ea6963503775908",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea6963503775908",
+        "text": "[http://dannybroadway.com/ An artist] I met in Memphis."
+      },
+      "after": "71970f84e42b5f86",
+      "date": 1489009998415
+    }
+  ]
+}

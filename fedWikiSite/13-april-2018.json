@@ -1,0 +1,49 @@
+{
+  "title": "13 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1b9a7fb69680921c",
+      "text": "Well. I feel calmer. I have sobbed. I have screamed. I have contemplated my own death. I have contemplated the depravity of man and the unrequited love of some animals - usually not humans. But - I march on with Nigel's memory in my every waking moment. Not something we get through but carry on. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 April 2018",
+        "story": []
+      },
+      "date": 1523642688416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b9a7fb69680921c"
+      },
+      "id": "1b9a7fb69680921c",
+      "type": "add",
+      "date": 1523642689567
+    },
+    {
+      "type": "edit",
+      "id": "1b9a7fb69680921c",
+      "item": {
+        "type": "paragraph",
+        "id": "1b9a7fb69680921c",
+        "text": "Well. I feel calmer. I have sobbed. I have screamed. I have contemplated my own death. I have contemplated the depravity of man and the unrequited love of some animals - usually not humans. But - I march on with Nigel's memory in my every waking moment. Not something we get through but carry on with. "
+      },
+      "date": 1523642762907
+    },
+    {
+      "type": "edit",
+      "id": "1b9a7fb69680921c",
+      "item": {
+        "type": "paragraph",
+        "id": "1b9a7fb69680921c",
+        "text": "Well. I feel calmer. I have sobbed. I have screamed. I have contemplated my own death. I have contemplated the depravity of man and the unrequited love of some animals - usually not humans. But - I march on with Nigel's memory in my every waking moment. Not something we get through but carry on. "
+      },
+      "date": 1523642835239
+    }
+  ]
+}

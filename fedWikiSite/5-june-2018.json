@@ -1,0 +1,39 @@
+{
+  "title": "5 June 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "776891ac3b178d8f",
+      "text": "Today was a very productive day. Mitchell brief is out. Now on to others. My splint comes off tomorrow. Hooray. I head to Glendive for the first time tomorrow. Renting a car. This should be very interesting.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "5 June 2018",
+        "story": []
+      },
+      "date": 1528238793123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "776891ac3b178d8f"
+      },
+      "id": "776891ac3b178d8f",
+      "type": "add",
+      "date": 1528238794177
+    },
+    {
+      "type": "edit",
+      "id": "776891ac3b178d8f",
+      "item": {
+        "type": "paragraph",
+        "id": "776891ac3b178d8f",
+        "text": "Today was a very productive day. Mitchell brief is out. Now on to others. My splint comes off tomorrow. Hooray. I head to Glendive for the first time tomorrow. Renting a car. This should be very interesting.  "
+      },
+      "date": 1528238882975
+    }
+  ]
+}

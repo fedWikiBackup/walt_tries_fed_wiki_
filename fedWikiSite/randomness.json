@@ -1,0 +1,95 @@
+{
+  "title": "Randomness",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "26942baa31e51f66",
+      "text": "Randomness is at the heart of creativity. Cities create more randomness because there are more random interactions. But cities stifle randomness because there are too many random interactions, so people must lock up their emotions. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1c0aa5968c99e46d",
+      "text": "Monte Carlo Algorithms."
+    },
+    {
+      "type": "paragraph",
+      "id": "240bb1e1e7636870",
+      "text": "[https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm Metropolis Algorithm.]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Randomness",
+        "story": []
+      },
+      "date": 1489268757323
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26942baa31e51f66"
+      },
+      "id": "26942baa31e51f66",
+      "type": "add",
+      "date": 1489268758518
+    },
+    {
+      "type": "edit",
+      "id": "26942baa31e51f66",
+      "item": {
+        "type": "paragraph",
+        "id": "26942baa31e51f66",
+        "text": "Randomness is at the heart of creativity. "
+      },
+      "date": 1489268775353
+    },
+    {
+      "type": "edit",
+      "id": "26942baa31e51f66",
+      "item": {
+        "type": "paragraph",
+        "id": "26942baa31e51f66",
+        "text": "Randomness is at the heart of creativity. Cities create more randomness because there are more random interactions. But cities stifle randomness because there are too many random interactions, so people must lock up their emotions. "
+      },
+      "date": 1489277453485
+    },
+    {
+      "type": "add",
+      "id": "1c0aa5968c99e46d",
+      "item": {
+        "type": "paragraph",
+        "id": "1c0aa5968c99e46d",
+        "text": "Monte Carlo Algorithms."
+      },
+      "after": "26942baa31e51f66",
+      "date": 1489608712017,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "240bb1e1e7636870",
+      "item": {
+        "type": "paragraph",
+        "id": "240bb1e1e7636870",
+        "text": "[https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm Metropolis Algorithm."
+      },
+      "after": "1c0aa5968c99e46d",
+      "date": 1489608731453,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489685753177
+    }
+  ]
+}

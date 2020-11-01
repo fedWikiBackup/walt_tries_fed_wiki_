@@ -1,0 +1,49 @@
+{
+  "title": "18 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8af80d61adb72e4e",
+      "text": "Back in Billings after Texas weekend for christmas. Also had hearing last thursday, hence the missed day of journal and E2. Still exhausted. Hoping to catch up a bit tonight. We will see. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 December 2017",
+        "story": []
+      },
+      "date": 1513633484866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8af80d61adb72e4e"
+      },
+      "id": "8af80d61adb72e4e",
+      "type": "add",
+      "date": 1513633485952
+    },
+    {
+      "type": "edit",
+      "id": "8af80d61adb72e4e",
+      "item": {
+        "type": "paragraph",
+        "id": "8af80d61adb72e4e",
+        "text": "Back in Billings after Texas weekend for christmas. Also had "
+      },
+      "date": 1513633506220
+    },
+    {
+      "type": "edit",
+      "id": "8af80d61adb72e4e",
+      "item": {
+        "type": "paragraph",
+        "id": "8af80d61adb72e4e",
+        "text": "Back in Billings after Texas weekend for christmas. Also had hearing last thursday, hence the missed day of journal and E2. Still exhausted. Hoping to catch up a bit tonight. We will see. "
+      },
+      "date": 1513633630731
+    }
+  ]
+}

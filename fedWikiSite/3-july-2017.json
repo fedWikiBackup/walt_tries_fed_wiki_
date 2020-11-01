@@ -1,0 +1,73 @@
+{
+  "title": "3 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e056d05b8eff6ce6",
+      "text": "Today was a supremely unproductive day. I blame Saturday's Rose. Too many sulfites create a continual oppression of my mental functioning. "
+    },
+    {
+      "type": "paragraph",
+      "id": "91620c7c5237f000",
+      "text": "Tomorrow, I must meditate and exercise. Why on earth did I not bring some athletic clothes? I feel trapped in a cage and it is killing me."
+    },
+    {
+      "type": "paragraph",
+      "id": "019a7fefe75144c3",
+      "text": "Cannot wait to get out of the city and back to Montana - a first for me. "
+    },
+    {
+      "type": "factory",
+      "id": "43791dd5fbebc811"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3 July 2017",
+        "story": []
+      },
+      "date": 1499207498601
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43791dd5fbebc811"
+      },
+      "id": "43791dd5fbebc811",
+      "type": "add",
+      "date": 1499207499533
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "019a7fefe75144c3",
+        "text": "Cannot wait to get out of the city and back to Montana - a first for me. "
+      },
+      "id": "019a7fefe75144c3",
+      "date": 1499207509730
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "91620c7c5237f000",
+        "text": "Tomorrow, I must meditate and exercise. Why on earth did I not bring some athletic clothes? I feel trapped in a cage and it is killing me."
+      },
+      "id": "91620c7c5237f000",
+      "date": 1499207513266
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e056d05b8eff6ce6",
+        "text": "Today was a supremely unproductive day. I blame Saturday's Rose. Too many sulfites create a continual oppression of my mental functioning. "
+      },
+      "id": "e056d05b8eff6ce6",
+      "date": 1499207516831
+    }
+  ]
+}

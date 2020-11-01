@@ -1,0 +1,95 @@
+{
+  "title": "Waldorf education",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Waldorf education"
+      },
+      "date": 1502383793880,
+      "source": {
+        "pageTitle": "Waldorf education",
+        "pageSlug": "Waldorf_education#Spirituality",
+        "url": "https://en.wikipedia.org/wiki/Waldorf_education",
+        "date": 1502383793880,
+        "link_dictionary": {
+          "wiki_links": {
+            "Developmental approach": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Origins and history": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "References": {
+              "section_number": 29,
+              "section_level": 2,
+              "dot_number": 7
+            },
+            "Educational theory and practice": {
+              "section_number": 7,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "External links": {
+              "section_number": 32,
+              "section_level": 2,
+              "dot_number": 8
+            },
+            "Social engagement": {
+              "section_number": 21,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Reception": {
+              "section_number": 23,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "Governance": {
+              "section_number": 14,
+              "section_level": 2,
+              "dot_number": 4
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 793854780,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502383750536
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dda4b96a-f7a2-4254-ac34-f9a0c844c864",
+      "text": "Waldorf education, also known as Steiner education, is based on the educational philosophy of Rudolf Steiner, the founder of anthroposophy. Its pedagogy emphasizes the role of imagination in learning, striving to integrate holistically the intellectual, practical, and artistic development of pupils - [https://en.wikipedia.org/wiki/Waldorf_education wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ec7c9641-87b3-4645-bca0-4cc36a8df7f7",
+      "text": "Steiner's division of child development into three major stages is reflected in the schools' approach to early childhood education, which focuses on practical, hands-on activities and creative play; to elementary education, which focuses on developing artistic expression and social capacities; and to secondary education, which focuses on developing critical reasoning and empathic understanding. The overarching goal is to develop free, morally responsible, and integrated individuals equipped with a high degree of social competence. Qualitative assessments of student work are integrated into the daily life of the classroom, with quantitative testing playing a minimal role in primary education and standardized testing usually limited to that required for college entry. Individual teachers and schools have a great deal of autonomy in determining curriculum content, teaching methodology, and governance."
+    },
+    {
+      "type": "paragraph",
+      "id": "5b509a74-d869-4574-bd3c-0d4177ddc044",
+      "text": "The first Waldorf school opened in 1919 in Stuttgart, Germany. At present there are over a thousand independent Waldorf schools, about 2,000 kindergartens and 646 centers for special education, located in 60 countries, constituting one of the largest independent school movements internationally. There are also a number of Waldorf-based public schools, charter schools and academies, and homeschooling environments. In Continental Europe, Waldorf pedagogy has become a well-recognized theory of education that has influenced public schooling and many European Waldorf schools receive state funding. Public funding of Waldorf schools in English-speaking countries is increasingly widespread but has encountered controversy."
+    },
+    {
+      "type": "markdown",
+      "id": "406d02bc-82d1-4a52-a98b-2f40c6de42ec",
+      "text": "# See also\n* [[Origins and history]]\n* [[Developmental approach]]\n* [[Educational theory and practice]]\n* [[Governance]]\n* [[Social engagement]]\n* [[Reception]]\n* [[References]]\n* [[External links]]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "20 March 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "34935c75320fcf46",
+      "text": "I may pick up Tess today. What a beautiful day that would be. I can hope. Sheep and Goats. They don't need no rope - nope, nope."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "20 March 2018",
+        "story": []
+      },
+      "date": 1521575448026
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34935c75320fcf46"
+      },
+      "id": "34935c75320fcf46",
+      "type": "add",
+      "date": 1521575448992
+    },
+    {
+      "type": "edit",
+      "id": "34935c75320fcf46",
+      "item": {
+        "type": "paragraph",
+        "id": "34935c75320fcf46",
+        "text": "I may pick up Tess today. What a beautiful day that would be. I can hope. Sheep and Goats. They don't need no rope - nope, nope."
+      },
+      "date": 1521575491542
+    }
+  ]
+}

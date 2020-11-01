@@ -1,0 +1,55 @@
+{
+  "title": "26 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ef9185fe06d466ca",
+      "text": "Getting sworn into the MT bar tomorrow. Happy days. Traveling to See Kerr tonight. She and E have just broken up so that is sad. But really happy to hang out with her. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7958363536b13b3c",
+      "text": "Also, getting Kamila on boarded onto here soon, so that is awesome."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 July 2017",
+        "story": []
+      },
+      "date": 1501099390733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef9185fe06d466ca"
+      },
+      "id": "ef9185fe06d466ca",
+      "type": "add",
+      "date": 1501099391526
+    },
+    {
+      "type": "edit",
+      "id": "ef9185fe06d466ca",
+      "item": {
+        "type": "paragraph",
+        "id": "ef9185fe06d466ca",
+        "text": "Getting sworn into the MT bar tomorrow. Happy days. Traveling to See Kerr tonight. She and E have just broken up so that is sad. But really happy to hang out with her. "
+      },
+      "date": 1501099570371
+    },
+    {
+      "type": "add",
+      "id": "7958363536b13b3c",
+      "item": {
+        "type": "paragraph",
+        "id": "7958363536b13b3c",
+        "text": "Also, getting Kamila on boarded onto here soon, so that is awesome."
+      },
+      "after": "ef9185fe06d466ca",
+      "date": 1501099586905
+    }
+  ]
+}

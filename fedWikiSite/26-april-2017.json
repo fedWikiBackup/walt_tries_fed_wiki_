@@ -1,0 +1,97 @@
+{
+  "title": "26 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "032b0fa7d8d0f5b5",
+      "text": "A day removed from the city. A relief to find the quiet, the stars, the absence of cars. I think the city I build will take seriously the concept of noise pollution. For a smaller city, I will build more narrow streets, to give a feeling of comfort. Those narrow streets will often open up into small squares for congregation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "952fe21781fa60ae",
+      "text": "The Basilica in Budapest reminds me that we lack a public space where noise is so heavily regulated (perhaps other than a library or judicial courtroom - but the former is being replace by the internet and the latter is not really a public space). We need public buildings, like churches, that are quiet - built for reverence of the unknown, but which can break into song and chatter at specified times. I ran into a practicing symphony in Florence - and this is exactly what I mean. I was dead quiet, and then the silence was broken with beautiful sounds (not a parent yelling at their child, or idle chatter, for example)."
+    },
+    {
+      "type": "paragraph",
+      "id": "940f854231abc867",
+      "text": "Skopje reminds me of Nye. The geography, the remoteness. I love the small dam they have here that turns into a small lake. I do not understand the ecological negativity surrounding small dams. Mystic lake is one of my favorite places on earth."
+    },
+    {
+      "type": "paragraph",
+      "id": "7c10ef773c4a587e",
+      "text": "I love nature. The end. I also love cities. I guess that was not the end. I aim to build a city that marries my two loves. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 April 2017",
+        "story": []
+      },
+      "date": 1493280963499
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "032b0fa7d8d0f5b5"
+      },
+      "id": "032b0fa7d8d0f5b5",
+      "type": "add",
+      "date": 1493280965559
+    },
+    {
+      "type": "edit",
+      "id": "032b0fa7d8d0f5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "032b0fa7d8d0f5b5",
+        "text": "A day removed from the city. A relief to find the quiet, the stars, the absence of cars. I think the city I build will take seriously "
+      },
+      "date": 1493281023608
+    },
+    {
+      "type": "edit",
+      "id": "032b0fa7d8d0f5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "032b0fa7d8d0f5b5",
+        "text": "A day removed from the city. A relief to find the quiet, the stars, the absence of cars. I think the city I build will take seriously the concept of noise pollution. For a smaller city, I will build more narrow streets, to give a feeling of comfort. Those narrow streets will often open up into small squares for congregation. "
+      },
+      "date": 1493281121738
+    },
+    {
+      "type": "add",
+      "id": "952fe21781fa60ae",
+      "item": {
+        "type": "paragraph",
+        "id": "952fe21781fa60ae",
+        "text": "The Basilica in Budapest reminds me that we lack a public space where noise is so heavily regulated (perhaps other than a library or judicial courtroom - but the former is being replace by the internet and the latter is not really a public space). We need public buildings, like churches, that are quiet - built for reverence of the unknown, but which can break into song and chatter at specified times. I ran into a practicing symphony in Florence - and this is exactly what I mean. I was dead quiet, and then the silence was broken with beautiful sounds (not a parent yelling at their child, or idle chatter, for example)."
+      },
+      "after": "032b0fa7d8d0f5b5",
+      "date": 1493281326467
+    },
+    {
+      "type": "add",
+      "id": "940f854231abc867",
+      "item": {
+        "type": "paragraph",
+        "id": "940f854231abc867",
+        "text": "Skopje reminds me of Nye. The geography, the remoteness. I love the small dam they have here that turns into a small lake. I do not understand the ecological negativity surrounding small dams. Mystic lake is one of my favorite places on earth."
+      },
+      "after": "952fe21781fa60ae",
+      "date": 1493281507425
+    },
+    {
+      "type": "add",
+      "id": "7c10ef773c4a587e",
+      "item": {
+        "type": "paragraph",
+        "id": "7c10ef773c4a587e",
+        "text": "I love nature. The end. I also love cities. I guess that was not the end. I aim to build a city that marries my two loves. "
+      },
+      "after": "940f854231abc867",
+      "date": 1493281544223
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "title": "9 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8e137753694cf1d5",
+      "text": "Genuinely one of the most gorgeous days I have ever experienced in Nye. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9d712b6c5f634aa6",
+      "text": "Read this article about [https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia social media]"
+    },
+    {
+      "type": "paragraph",
+      "id": "52a6577765084c99",
+      "text": "The question raised by the article, for me, is whether the first amendment adequately addresses the government's role of regulating the attention economy with respect to kids in light of the advent of t.v. and internet (i.e., early and endless access to easy dopamine hits. See also, internet-based pornography). If we have a basis for preventing young children from mainlining heroin (and most other drugs - and \"obscenity\"), perhaps we (as a society) should take more seriously the threat of the toddler with an iPad. But, the First Amendment protects this \"speech\" even though it is pretty basic psychological manipulation (and very similar to a drug in effect). But, the thought of this federal government regulating speech is terrifying. So I think it (speech) is something that should only be regulated at the local level."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 October 2017",
+        "story": []
+      },
+      "date": 1507575652460
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e137753694cf1d5"
+      },
+      "id": "8e137753694cf1d5",
+      "type": "add",
+      "date": 1507575653507
+    },
+    {
+      "type": "edit",
+      "id": "8e137753694cf1d5",
+      "item": {
+        "type": "paragraph",
+        "id": "8e137753694cf1d5",
+        "text": "Genuinely one of the most gorgeous days I have ever experienced in Nye. "
+      },
+      "date": 1507575685096
+    },
+    {
+      "type": "add",
+      "id": "117fe3707584a53e",
+      "item": {
+        "type": "paragraph",
+        "id": "117fe3707584a53e",
+        "text": "The question raised by the article, for me, is whether the first amendment adequately addresses the government's role of regulating the attention economy with respect to kids in light of the advent of t.v. and internet (i.e., early and endless access to easy dopamine hits. See also, internet-based pornography). If we have a basis for preventing young children from mainlining heroin (and most other drugs - and \"obscenity\"), perhaps we (as a society) should take more seriously the threat of the toddler with an iPad. But, the First Amendment protects this \"speech\" even though it is pretty basic psychological manipulation (and very similar to a drug in effect). But, the thought of this federal government regulating speech is terrifying. So I think it (speech) is something that should only be regulated at the local level."
+      },
+      "after": "8e137753694cf1d5",
+      "date": 1507575692784
+    },
+    {
+      "type": "edit",
+      "id": "117fe3707584a53e",
+      "item": {
+        "type": "paragraph",
+        "id": "117fe3707584a53e",
+        "text": " \nhttps://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia"
+      },
+      "date": 1507575708071
+    },
+    {
+      "type": "add",
+      "id": "9d712b6c5f634aa6",
+      "item": {
+        "type": "paragraph",
+        "id": "9d712b6c5f634aa6",
+        "text": "Read that article and thought: "
+      },
+      "after": "117fe3707584a53e",
+      "date": 1507575719177
+    },
+    {
+      "type": "add",
+      "id": "52a6577765084c99",
+      "item": {
+        "type": "paragraph",
+        "id": "52a6577765084c99",
+        "text": "The question raised by the article, for me, is whether the first amendment adequately addresses the government's role of regulating the attention economy with respect to kids in light of the advent of t.v. and internet (i.e., early and endless access to easy dopamine hits. See also, internet-based pornography). If we have a basis for preventing young children from mainlining heroin (and most other drugs - and \"obscenity\"), perhaps we (as a society) should take more seriously the threat of the toddler with an iPad. But, the First Amendment protects this \"speech\" even though it is pretty basic psychological manipulation (and very similar to a drug in effect). But, the thought of this federal government regulating speech is terrifying. So I think it (speech) is something that should only be regulated at the local level."
+      },
+      "after": "9d712b6c5f634aa6",
+      "date": 1507575722477
+    },
+    {
+      "type": "edit",
+      "id": "117fe3707584a53e",
+      "item": {
+        "type": "paragraph",
+        "id": "117fe3707584a53e",
+        "text": " \n[https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia]"
+      },
+      "date": 1507575728714
+    },
+    {
+      "type": "remove",
+      "id": "117fe3707584a53e",
+      "date": 1507575745793
+    },
+    {
+      "type": "edit",
+      "id": "9d712b6c5f634aa6",
+      "item": {
+        "type": "paragraph",
+        "id": "9d712b6c5f634aa6",
+        "text": "Read this article about [social media  \nhttps://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia]"
+      },
+      "date": 1507575769168
+    },
+    {
+      "type": "edit",
+      "id": "9d712b6c5f634aa6",
+      "item": {
+        "type": "paragraph",
+        "id": "9d712b6c5f634aa6",
+        "text": "Read this article about [\nhttps://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia social media]"
+      },
+      "date": 1507575787037
+    },
+    {
+      "type": "edit",
+      "id": "9d712b6c5f634aa6",
+      "item": {
+        "type": "paragraph",
+        "id": "9d712b6c5f634aa6",
+        "text": "Read this article about [https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia social media]"
+      },
+      "date": 1507575792367
+    }
+  ]
+}

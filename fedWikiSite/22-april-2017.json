@@ -1,0 +1,111 @@
+{
+  "title": "22 April 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "144eef39fdcdd1db",
+      "text": "Fiernze in Italian. It is annoyingly perfect. As a result, riddled with droves of humans seeking perfection. It reminds me of a larger version of Aspen, filled with ancient remains and remnants of vast empires won, lost, and regained - almost all under the reign of one religion or another."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd82fa2fed1353a9",
+      "text": "The Medici family played an immensely important role in the development of Italian society. Among the villas and gardens that remain of them, there are also unending museums of their collections. The [http://www.museogalileo.it/ Galileo Museum] found my eye - but there many others that focus on art, costume, decadence, and other endeavors post medieval aristocracy. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f36817a9d43c7d22",
+      "text": "I am listening alternatively to [https://www.amazon.it/Short-History-Nearly-Everything/dp/076790818X A Brief Hostory of Nearly Everything] and [https://www.amazon.it/Snowball-Warren-Buffett-Business-Life/dp/0553384619/ref=sr_1_5?s=english-books&ie=UTF8&qid=1492880890&sr=1-5&keywords=warren+buffett+biography Warren Buffett's Biography]. It is the history of how I found myself at this moment, plotting course to amass and steward a vast empire that will guide the future of American legacy."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 April 2017",
+        "story": []
+      },
+      "date": 1492880431721
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "144eef39fdcdd1db"
+      },
+      "id": "144eef39fdcdd1db",
+      "type": "add",
+      "date": 1492880433127
+    },
+    {
+      "type": "edit",
+      "id": "144eef39fdcdd1db",
+      "item": {
+        "type": "paragraph",
+        "id": "144eef39fdcdd1db",
+        "text": "Fiernze in Italian. It is annoyingly perfect. As a result, riddled with droves of humans seeking perfection. It reminds me of a larger version of Aspen, filled with ancient remains and remnants of vast empires won, lost, and regained - almost all under the reign of one religion or another."
+      },
+      "date": 1492880543363
+    },
+    {
+      "type": "add",
+      "id": "cd82fa2fed1353a9",
+      "item": {
+        "type": "paragraph",
+        "id": "cd82fa2fed1353a9",
+        "text": "The Medici family played an immensely important role in the development of Italian society. Among the villas and gardens that remain of them, there are also unending museums of their collections. The "
+      },
+      "after": "144eef39fdcdd1db",
+      "date": 1492880613566
+    },
+    {
+      "type": "edit",
+      "id": "cd82fa2fed1353a9",
+      "item": {
+        "type": "paragraph",
+        "id": "cd82fa2fed1353a9",
+        "text": "The Medici family played an immensely important role in the development of Italian society. Among the villas and gardens that remain of them, there are also unending museums of their collections. The [http://www.museogalileo.it/ Galileo museum found my eye - but there many others that focus on art, costume, decadence, and other endeavors post medieval aristocracy. "
+      },
+      "date": 1492880773953
+    },
+    {
+      "type": "edit",
+      "id": "cd82fa2fed1353a9",
+      "item": {
+        "type": "paragraph",
+        "id": "cd82fa2fed1353a9",
+        "text": "The Medici family played an immensely important role in the development of Italian society. Among the villas and gardens that remain of them, there are also unending museums of their collections. The [http://www.museogalileo.it/ Galileo Museum] found my eye - but there many others that focus on art, costume, decadence, and other endeavors post medieval aristocracy. "
+      },
+      "date": 1492880785403
+    },
+    {
+      "type": "add",
+      "id": "f36817a9d43c7d22",
+      "item": {
+        "type": "paragraph",
+        "id": "f36817a9d43c7d22",
+        "text": "I am listening to "
+      },
+      "after": "cd82fa2fed1353a9",
+      "date": 1492880801732
+    },
+    {
+      "type": "edit",
+      "id": "f36817a9d43c7d22",
+      "item": {
+        "type": "paragraph",
+        "id": "f36817a9d43c7d22",
+        "text": "I am listening to [https://www.amazon.it/Short-History-Nearly-Everything/dp/076790818X A Brief Hostory of Nearly Everything] and "
+      },
+      "date": 1492880857702
+    },
+    {
+      "type": "edit",
+      "id": "f36817a9d43c7d22",
+      "item": {
+        "type": "paragraph",
+        "id": "f36817a9d43c7d22",
+        "text": "I am listening alternatively to [https://www.amazon.it/Short-History-Nearly-Everything/dp/076790818X A Brief Hostory of Nearly Everything] and [https://www.amazon.it/Snowball-Warren-Buffett-Business-Life/dp/0553384619/ref=sr_1_5?s=english-books&ie=UTF8&qid=1492880890&sr=1-5&keywords=warren+buffett+biography Warren Buffett's Biography]. It is the history of how I found myself at this moment, plotting course to amass and steward a vast empire that will guide the future of American legacy."
+      },
+      "date": 1492880991631
+    }
+  ]
+}

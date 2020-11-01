@@ -1,0 +1,475 @@
+{
+  "title": "wwwinfinitycom",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6729463023184b2b",
+      "text": "{Ward, can you make the periods show up above?}"
+    },
+    {
+      "type": "paragraph",
+      "id": "4af36cfef7112cc2",
+      "text": "Technology  has made global governance possible. If we can solve the infinite energy problem, utopia  is within reach."
+    },
+    {
+      "type": "paragraph",
+      "id": "5af0778866291005",
+      "text": "This tool enables that possibility - with a little help from you. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bc09ded7069c19ee",
+      "text": "Keep reading and clicking if you want to help. We have created a bit of a puzzle for you, but I am pretty sure you love puzzles."
+    },
+    {
+      "type": "paragraph",
+      "id": "cac4998d80a01e94",
+      "text": "[https://en.wikipedia.org/wiki/SunGard SunGuard] actually owns the website www.infinity.com. Query why own said website."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "wwwinfinitycom",
+        "story": []
+      },
+      "date": 1488074936377,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6729463023184b2b"
+      },
+      "id": "6729463023184b2b",
+      "type": "add",
+      "date": 1488074942551,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6729463023184b2b",
+      "item": {
+        "type": "paragraph",
+        "id": "6729463023184b2b",
+        "text": "Ward, can you make the period show up above?"
+      },
+      "date": 1488074954066,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "The internet has made global governance possible. This tool will enable that possibility. "
+      },
+      "after": "6729463023184b2b",
+      "date": 1488074987002,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "263392e24cbad135",
+      "item": {
+        "type": "paragraph",
+        "id": "263392e24cbad135",
+        "text": "One thing I just did was create a "
+      },
+      "after": "4af36cfef7112cc2",
+      "date": 1488075499345,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6729463023184b2b",
+      "item": {
+        "type": "paragraph",
+        "id": "6729463023184b2b",
+        "text": "Ward, can you make the periods show up above?"
+      },
+      "date": 1488075503229,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "The internet has made global governance possible. All we need to do is solve the infinite energy problem and we are there. Utopia (ahem, heaven, nirvana, etc) is within reach."
+      },
+      "date": 1488075552349,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "5af0778866291005",
+      "item": {
+        "type": "paragraph",
+        "id": "5af0778866291005",
+        "text": "This tool will enable that possibility. "
+      },
+      "after": "4af36cfef7112cc2",
+      "date": 1488075557100,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "bc09ded7069c19ee",
+      "item": {
+        "type": "paragraph",
+        "id": "bc09ded7069c19ee",
+        "text": "With Your Help. We need your help."
+      },
+      "after": "5af0778866291005",
+      "date": 1488075568887,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "a13daf9d778d30d6",
+      "item": {
+        "type": "paragraph",
+        "id": "a13daf9d778d30d6",
+        "text": "I need your help."
+      },
+      "after": "bc09ded7069c19ee",
+      "date": 1488075573147,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "aae1fb2bcfeb48ac",
+      "item": {
+        "type": "paragraph",
+        "id": "aae1fb2bcfeb48ac",
+        "text": "I am asking for you to keep reading."
+      },
+      "after": "a13daf9d778d30d6",
+      "date": 1488075585512,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "263392e24cbad135",
+      "date": 1488075595150,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "The technology has made global governance possible. All we need to do is solve the infinite energy problem and we are there. Utopia (ahem, heaven, nirvana, etc) is within reach."
+      },
+      "date": 1488076179463,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "aae1fb2bcfeb48ac",
+      "date": 1488076191526,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "a13daf9d778d30d6",
+      "date": 1488076194182,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc09ded7069c19ee",
+      "item": {
+        "type": "paragraph",
+        "id": "bc09ded7069c19ee",
+        "text": "With Your Help. Keep reading and clicking if you want to help solve problems. "
+      },
+      "date": 1488076275004,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "Technology has made global governance possible. All we need to do is solve the infinite energy problem and we are there. Utopia (ahem, heaven, nirvana, etc) is within reach."
+      },
+      "date": 1488076296502,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc09ded7069c19ee",
+      "item": {
+        "type": "paragraph",
+        "id": "bc09ded7069c19ee",
+        "text": "With Your Help. Keep reading and clicking if you want to help solve problems. We have created a bit of a puzzle for you, but I am pretty sure you love puzzles."
+      },
+      "date": 1488076332900,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6729463023184b2b",
+      "item": {
+        "type": "paragraph",
+        "id": "6729463023184b2b",
+        "text": "{Ward, can you make the periods show up above?}"
+      },
+      "date": 1488076351512,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "cac4998d80a01e94",
+      "item": {
+        "type": "paragraph",
+        "id": "cac4998d80a01e94",
+        "text": "{"
+      },
+      "after": "bc09ded7069c19ee",
+      "date": 1488076822833,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "cac4998d80a01e94",
+      "item": {
+        "type": "paragraph",
+        "id": "cac4998d80a01e94",
+        "text": "[https://en.wikipedia.org/wiki/SunGard SunGuard] actually owns the website www.infinity.com. Query why they do."
+      },
+      "date": 1488076881161,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5af0778866291005",
+      "item": {
+        "type": "paragraph",
+        "id": "5af0778866291005",
+        "text": "This tool enables that possibility. "
+      },
+      "date": 1488078758500,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc09ded7069c19ee",
+      "item": {
+        "type": "paragraph",
+        "id": "bc09ded7069c19ee",
+        "text": " Keep reading and clicking if you want to help solve problems. We have created a bit of a puzzle for you, but I am pretty sure you love puzzles."
+      },
+      "date": 1488078767287,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5af0778866291005",
+      "item": {
+        "type": "paragraph",
+        "id": "5af0778866291005",
+        "text": "This tool enables that possibility - with a little help from you, my friend. "
+      },
+      "date": 1488078805217,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc09ded7069c19ee",
+      "item": {
+        "type": "paragraph",
+        "id": "bc09ded7069c19ee",
+        "text": "Keep reading and clicking if you want to help. We have created a bit of a puzzle for you, but I am pretty sure you love puzzles."
+      },
+      "date": 1488078820460,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "Technology (and the internet!) has made global governance possible. All we need to do is solve the infinite energy problem and we are there. Utopia (ahem, heaven, nirvana, etc) is within reach."
+      },
+      "date": 1488088252871,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "Technology (and the internet!) has made global governance possible. All we need to do now is solve the infinite energy problem. Utopia (ahem, heaven, nirvana, etc) is within reach."
+      },
+      "date": 1488088274047,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "cac4998d80a01e94",
+      "item": {
+        "type": "paragraph",
+        "id": "cac4998d80a01e94",
+        "text": "[https://en.wikipedia.org/wiki/SunGard SunGuard] actually owns the website www.infinity.com. Query why own said website."
+      },
+      "date": 1488088303020,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4af36cfef7112cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "4af36cfef7112cc2",
+        "text": "Technology  has made global governance possible. If we can solve the infinite energy problem, utopia  is within reach."
+      },
+      "date": 1488263439396,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5af0778866291005",
+      "item": {
+        "type": "paragraph",
+        "id": "5af0778866291005",
+        "text": "This tool enables that possibility - with a little help from you. "
+      },
+      "date": 1488263527206,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488306986305
+    }
+  ]
+}

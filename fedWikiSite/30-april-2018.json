@@ -1,0 +1,39 @@
+{
+  "title": "30 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1f8b584ef3f523df",
+      "text": "Rainy spring Monday. Why five days of work in a row? Why not 3? Just asking for a friend. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 April 2018",
+        "story": []
+      },
+      "date": 1525105783283
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f8b584ef3f523df"
+      },
+      "id": "1f8b584ef3f523df",
+      "type": "add",
+      "date": 1525105784435
+    },
+    {
+      "type": "edit",
+      "id": "1f8b584ef3f523df",
+      "item": {
+        "type": "paragraph",
+        "id": "1f8b584ef3f523df",
+        "text": "Rainy spring Monday. Why five days of work in a row? Why not 3? Just asking for a friend. "
+      },
+      "date": 1525105809401
+    }
+  ]
+}
