@@ -1,0 +1,137 @@
+{
+  "title": "9 May 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6c899773b2c3ce49",
+      "text": "I am over half Scottish/Irish/English. Being in Scotland feels like home (and reminds me on Montana). It is amazing that little over 5 million people live here. But, we were also a nation of barbarous warring tribes. With a guillotine reversed, so that the victim was forced to watch the blade fall (called the maiden)."
+    },
+    {
+      "type": "paragraph",
+      "id": "a0ff6a99622b1b09",
+      "text": "Being here reminds me of the divide between men and women - between those with testicals and those with uteruses. For thousands of years, people of this area would gather together, copulate, build an army, and let an entire generation of men die fighting to defend territory, or usurp more (Women may have survived, but with rape in tow). Women usually did not participate in battle because it was more useful for them to give birth to 4+ warrior men (and future birthing women) than to risk battle themselves. This is the history that modern feminism must contend with. Perhaps this history is why women go to clubs in Berlin to be forcefully grabbed by men they fancy. This trip has opened my eyes to a past I had not yet seen."
+    },
+    {
+      "type": "paragraph",
+      "id": "da1101fab14fbd34",
+      "text": "The past is brutal. The present is less brutal. The future, I hope, is even less brutal. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d897793f09191be5",
+      "text": "Visiting Loch Awe and the old McNaughton ruins and gravesite was amazing. As was the pumped hydro station. But seeing the Campbell's castle, knowing what they had stolen from my ancestors is what hit home the most. We were friends, then at war with one another for hundreds of years. We lost and largely moved to Ireland. Then my ancestors emigrated to Quebec. Then one rebel to Louisiana. And here I am. Back where we started, walking the same paths, brushing the same trees, boating the same lochs as my ancestors. What a world. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 May 2017",
+        "story": []
+      },
+      "date": 1494357599349
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c899773b2c3ce49"
+      },
+      "id": "6c899773b2c3ce49",
+      "type": "add",
+      "date": 1494357601013
+    },
+    {
+      "type": "edit",
+      "id": "6c899773b2c3ce49",
+      "item": {
+        "type": "paragraph",
+        "id": "6c899773b2c3ce49",
+        "text": "I am over half Scottish/Irish/English. Being in Scotland feels like home. It is amazing that little over 5 million people live here. But, we were also a nation of barbarous warring tribes. With a guillotine reversed, so that the victim was forced to watch the blade fall (called the maiden)."
+      },
+      "date": 1494357699591
+    },
+    {
+      "type": "add",
+      "id": "a0ff6a99622b1b09",
+      "item": {
+        "type": "paragraph",
+        "id": "a0ff6a99622b1b09",
+        "text": "Being here reminds me of the divide between men and women - between those with testicals and those with uteruses. For thousands of years, people of this area would gather together, copulate, build an army, and let an entire generation of men die fighting to defend territory, or usurp more. Women usually did not fight because it was more useful for them to give birth to 4+ warrior men than to risk battle themselves. This is the history that modern feminism must contend with. Perhaps this history is why women go to clubs in Berlin to be forcefully grabbed by men they fancy. This trip has opened my eyes to a past I had not yet seen."
+      },
+      "after": "6c899773b2c3ce49",
+      "date": 1494357901241
+    },
+    {
+      "type": "add",
+      "id": "da1101fab14fbd34",
+      "item": {
+        "type": "paragraph",
+        "id": "da1101fab14fbd34",
+        "text": "The past is brutal. The present is less brutal. The future, I hope, is even less brutal. "
+      },
+      "after": "a0ff6a99622b1b09",
+      "date": 1494357927960
+    },
+    {
+      "type": "add",
+      "id": "d897793f09191be5",
+      "item": {
+        "type": "paragraph",
+        "id": "d897793f09191be5",
+        "text": "Visiting Loch Awe and the on=ld McNaughton ruins and gravesite was amazing. As was the pumped hydro station. But seeing the Campbell's castle, knowing what they had stolen from my ancestors is what hit home the most. We were friends, then at war with one another for hundreds of years. We lost and largely moved to Ireland. Then my ancestors emigrated to Quebec. Then one rebel to Louisiana. And here I am. Back where we started, walking the same paths, brushing the same trees, boating the same lochs as my ancestors. What a world. "
+      },
+      "after": "da1101fab14fbd34",
+      "date": 1494358091226
+    },
+    {
+      "type": "edit",
+      "id": "6c899773b2c3ce49",
+      "item": {
+        "type": "paragraph",
+        "id": "6c899773b2c3ce49",
+        "text": "I am over half Scottish/Irish/English. Being in Scotland feels like home (and reminds me on Montana). It is amazing that little over 5 million people live here. But, we were also a nation of barbarous warring tribes. With a guillotine reversed, so that the victim was forced to watch the blade fall (called the maiden)."
+      },
+      "date": 1494358249751
+    },
+    {
+      "type": "edit",
+      "id": "a0ff6a99622b1b09",
+      "item": {
+        "type": "paragraph",
+        "id": "a0ff6a99622b1b09",
+        "text": "Being here reminds me of the divide between men and women - between those with testicals and those with uteruses. For thousands of years, people of this area would gather together, copulate, build an army, and let an entire generation of men die fighting to defend territory, or usurp more (Women may have survived, but with rape in tow) s. Women usually did not fight because it was more useful for them to give birth to 4+ warrior men than to risk battle themselves. This is the history that modern feminism must contend with. Perhaps this history is why women go to clubs in Berlin to be forcefully grabbed by men they fancy. This trip has opened my eyes to a past I had not yet seen."
+      },
+      "date": 1494358269190
+    },
+    {
+      "type": "edit",
+      "id": "a0ff6a99622b1b09",
+      "item": {
+        "type": "paragraph",
+        "id": "a0ff6a99622b1b09",
+        "text": "Being here reminds me of the divide between men and women - between those with testicals and those with uteruses. For thousands of years, people of this area would gather together, copulate, build an army, and let an entire generation of men die fighting to defend territory, or usurp more (Women may have survived, but with rape in tow). Women usually did not participate in battle because it was more useful for them to give birth to 4+ warrior men than to risk battle themselves. This is the history that modern feminism must contend with. Perhaps this history is why women go to clubs in Berlin to be forcefully grabbed by men they fancy. This trip has opened my eyes to a past I had not yet seen."
+      },
+      "date": 1494358282079
+    },
+    {
+      "type": "edit",
+      "id": "a0ff6a99622b1b09",
+      "item": {
+        "type": "paragraph",
+        "id": "a0ff6a99622b1b09",
+        "text": "Being here reminds me of the divide between men and women - between those with testicals and those with uteruses. For thousands of years, people of this area would gather together, copulate, build an army, and let an entire generation of men die fighting to defend territory, or usurp more (Women may have survived, but with rape in tow). Women usually did not participate in battle because it was more useful for them to give birth to 4+ warrior men (and future birthing women) than to risk battle themselves. This is the history that modern feminism must contend with. Perhaps this history is why women go to clubs in Berlin to be forcefully grabbed by men they fancy. This trip has opened my eyes to a past I had not yet seen."
+      },
+      "date": 1494358309905
+    },
+    {
+      "type": "edit",
+      "id": "d897793f09191be5",
+      "item": {
+        "type": "paragraph",
+        "id": "d897793f09191be5",
+        "text": "Visiting Loch Awe and the old McNaughton ruins and gravesite was amazing. As was the pumped hydro station. But seeing the Campbell's castle, knowing what they had stolen from my ancestors is what hit home the most. We were friends, then at war with one another for hundreds of years. We lost and largely moved to Ireland. Then my ancestors emigrated to Quebec. Then one rebel to Louisiana. And here I am. Back where we started, walking the same paths, brushing the same trees, boating the same lochs as my ancestors. What a world. "
+      },
+      "date": 1494358378947
+    }
+  ]
+}
