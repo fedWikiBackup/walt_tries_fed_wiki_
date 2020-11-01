@@ -1,0 +1,39 @@
+{
+  "title": "9 April 2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b7dda1942106745d",
+      "text": "I'm exhausted - pretty sure I failed the test - but Nigel surely passed. He passed on to the next life. He passed the test. He was pure love. I am devastated. Kamila meditated through it. Leigh and I cried our way through it. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "9 April 2018",
+        "story": []
+      },
+      "date": 1523297522954
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7dda1942106745d"
+      },
+      "id": "b7dda1942106745d",
+      "type": "add",
+      "date": 1523297524413
+    },
+    {
+      "type": "edit",
+      "id": "b7dda1942106745d",
+      "item": {
+        "type": "paragraph",
+        "id": "b7dda1942106745d",
+        "text": "I'm exhausted - pretty sure I failed the test - but Nigel surely passed. He passed on to the next life. He passed the test. He was pure love. I am devastated. Kamila meditated through it. Leigh and I cried our way through it. "
+      },
+      "date": 1523297679960
+    }
+  ]
+}
