@@ -1,0 +1,125 @@
+{
+  "title": "social contract",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1122aa7f5d9de92e",
+      "text": "Anna and Walter agree to the following social contract:"
+    },
+    {
+      "type": "paragraph",
+      "id": "0da25b673408be52",
+      "text": "1) We will be [[honest]] with one another."
+    },
+    {
+      "type": "paragraph",
+      "id": "9e9d7365c9d9ac9b",
+      "text": "2) We will provide for each other's [[needs]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "08afe09404077b9f",
+      "text": "3) We will attempt to provide for each other's [[wants]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "social contract",
+        "story": []
+      },
+      "date": 1502092506457
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f304996790e03db1"
+      },
+      "id": "f304996790e03db1",
+      "type": "add",
+      "date": 1502092507364
+    },
+    {
+      "type": "remove",
+      "id": "f304996790e03db1",
+      "date": 1502092522512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fc8922ca6ca2410"
+      },
+      "id": "4fc8922ca6ca2410",
+      "type": "add",
+      "date": 1503543235368
+    },
+    {
+      "type": "remove",
+      "id": "4fc8922ca6ca2410",
+      "date": 1503543242086
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1122aa7f5d9de92e"
+      },
+      "id": "1122aa7f5d9de92e",
+      "type": "add",
+      "date": 1503543244293
+    },
+    {
+      "type": "edit",
+      "id": "1122aa7f5d9de92e",
+      "item": {
+        "type": "paragraph",
+        "id": "1122aa7f5d9de92e",
+        "text": "Anna and Walter agree to the following social contract:"
+      },
+      "date": 1503543260111
+    },
+    {
+      "type": "add",
+      "id": "0da25b673408be52",
+      "item": {
+        "type": "paragraph",
+        "id": "0da25b673408be52",
+        "text": "1) We will be [[honest]] with one another."
+      },
+      "after": "1122aa7f5d9de92e",
+      "date": 1503543273855
+    },
+    {
+      "type": "add",
+      "id": "9e9d7365c9d9ac9b",
+      "item": {
+        "type": "paragraph",
+        "id": "9e9d7365c9d9ac9b",
+        "text": "2) We will provide for each-other's needs."
+      },
+      "after": "0da25b673408be52",
+      "date": 1503543292430
+    },
+    {
+      "type": "edit",
+      "id": "9e9d7365c9d9ac9b",
+      "item": {
+        "type": "paragraph",
+        "id": "9e9d7365c9d9ac9b",
+        "text": "2) We will provide for each other's [[needs]]."
+      },
+      "date": 1503543302503
+    },
+    {
+      "type": "add",
+      "id": "08afe09404077b9f",
+      "item": {
+        "type": "paragraph",
+        "id": "08afe09404077b9f",
+        "text": "3) We will attempt to provide for each other's [[wants]]."
+      },
+      "after": "9e9d7365c9d9ac9b",
+      "date": 1503543328847
+    }
+  ]
+}
