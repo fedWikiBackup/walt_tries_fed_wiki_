@@ -1,0 +1,39 @@
+{
+  "title": "18 September 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e6b995ad6d20ba7d",
+      "text": "Last week was exhausting - but feeling refreshed this Monday. Not much on my plate today, so will be working on New Shape."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "18 September 2017",
+        "story": []
+      },
+      "date": 1505756405084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6b995ad6d20ba7d"
+      },
+      "id": "e6b995ad6d20ba7d",
+      "type": "add",
+      "date": 1505756406359
+    },
+    {
+      "type": "edit",
+      "id": "e6b995ad6d20ba7d",
+      "item": {
+        "type": "paragraph",
+        "id": "e6b995ad6d20ba7d",
+        "text": "Last week was exhausting - but feeling refreshed this Monday. Not much on my plate today, so will be working on New Shape."
+      },
+      "date": 1505756511289
+    }
+  ]
+}
