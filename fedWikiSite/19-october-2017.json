@@ -1,0 +1,39 @@
+{
+  "title": "19 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "40d93d6943e8cf55",
+      "text": "Still haven't scheduled delivery of the Tesla. Very frustrating. I hope this is 10 words. Wrote the beginning of my book today. That is exciting."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "19 October 2017",
+        "story": []
+      },
+      "date": 1508453124644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40d93d6943e8cf55"
+      },
+      "id": "40d93d6943e8cf55",
+      "type": "add",
+      "date": 1508453125784
+    },
+    {
+      "type": "edit",
+      "id": "40d93d6943e8cf55",
+      "item": {
+        "type": "paragraph",
+        "id": "40d93d6943e8cf55",
+        "text": "Still haven't scheduled delivery of the Tesla. Very frustrating. I hope this is 10 words. Wrote the beginning of my book today. That is exciting."
+      },
+      "date": 1508453160783
+    }
+  ]
+}
