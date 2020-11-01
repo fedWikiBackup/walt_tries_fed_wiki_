@@ -1,0 +1,39 @@
+{
+  "title": "6 December 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a3a64cb1a18eb49b",
+      "text": "I think I may have regained a sense of appreciation for the Christmas spirit. Some of it. Not the consumerist bullshit. But for the display of lights."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "6 December 2017",
+        "story": []
+      },
+      "date": 1512579154031
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3a64cb1a18eb49b"
+      },
+      "id": "a3a64cb1a18eb49b",
+      "type": "add",
+      "date": 1512579155081
+    },
+    {
+      "type": "edit",
+      "id": "a3a64cb1a18eb49b",
+      "item": {
+        "type": "paragraph",
+        "id": "a3a64cb1a18eb49b",
+        "text": "I think I may have regained a sense of appreciation for the Christmas spirit. Some of it. Not the consumerist bullshit. But for the display of lights."
+      },
+      "date": 1512579183564
+    }
+  ]
+}
