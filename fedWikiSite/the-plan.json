@@ -1,0 +1,244 @@
+{
+  "title": "The Plan",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fb6bb1377595f049",
+      "text": "[http://www.eurail.com/eurail-passes/global-pass Eurorail Pass]"
+    },
+    {
+      "type": "paragraph",
+      "id": "db0bbe59e4934e4b",
+      "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map] "
+    },
+    {
+      "type": "paragraph",
+      "id": "ef841844ecced410",
+      "text": "[https://nomadlist.com/ Nomad List]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c5144ca773ca1843",
+      "text": "[https://www.icelandair.us/iceweb/app/?action=sessionTimeout Iceland Air]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bc42f88080b65c61",
+      "text": "[https://www.norwegian.com/us/ Norwegian Air]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1c8744f8bed488a7",
+      "text": "[[The Itinerary]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "816121fd29b99dd9",
+      "text": "[[The People]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Plan",
+        "story": []
+      },
+      "date": 1488182380712,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb6bb1377595f049"
+      },
+      "id": "fb6bb1377595f049",
+      "type": "add",
+      "date": 1488182382143,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "fb6bb1377595f049",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6bb1377595f049",
+        "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map]"
+      },
+      "date": 1488182386499,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "fb6bb1377595f049",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6bb1377595f049",
+        "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map]]"
+      },
+      "date": 1488182402747,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "1c8744f8bed488a7",
+      "item": {
+        "type": "paragraph",
+        "id": "1c8744f8bed488a7",
+        "text": "[[The Itinerary]]"
+      },
+      "after": "fb6bb1377595f049",
+      "date": 1488182415806,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "816121fd29b99dd9",
+      "item": {
+        "type": "paragraph",
+        "id": "816121fd29b99dd9",
+        "text": "[[The People]]"
+      },
+      "after": "1c8744f8bed488a7",
+      "date": 1488182442203,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "fb6bb1377595f049",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6bb1377595f049",
+        "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map] "
+      },
+      "date": 1488182740654,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "ef841844ecced410",
+      "item": {
+        "type": "paragraph",
+        "id": "ef841844ecced410",
+        "text": "[https://nomadlist.com/ Nomad List]"
+      },
+      "after": "fb6bb1377595f049",
+      "date": 1488182746234,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "c5144ca773ca1843",
+      "item": {
+        "type": "paragraph",
+        "id": "c5144ca773ca1843",
+        "text": "[https://www.icelandair.us/iceweb/app/?action=sessionTimeout Iceland Air]"
+      },
+      "after": "ef841844ecced410",
+      "date": 1488182797458,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "bc42f88080b65c61",
+      "item": {
+        "type": "paragraph",
+        "id": "bc42f88080b65c61",
+        "text": "[https://www.norwegian.com/us/ Norwegian Air"
+      },
+      "after": "c5144ca773ca1843",
+      "date": 1488182828649,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc42f88080b65c61",
+      "item": {
+        "type": "paragraph",
+        "id": "bc42f88080b65c61",
+        "text": "[https://www.norwegian.com/us/ Norwegian Air]"
+      },
+      "date": 1488182865314,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "fb6bb1377595f049",
+      "item": {
+        "type": "paragraph",
+        "id": "fb6bb1377595f049",
+        "text": "[http://www.eurail.com/eurail-passes/global-pass Eurorail Pass]"
+      },
+      "date": 1488182891687,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "db0bbe59e4934e4b",
+      "item": {
+        "type": "paragraph",
+        "id": "db0bbe59e4934e4b",
+        "text": "[http://www.eurail.com/sites/eurail.com/files/documents/eurail_railway_map_of_europe_2017.pdf Eurorail Map] "
+      },
+      "after": "fb6bb1377595f049",
+      "date": 1488182894299,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1489430246435
+    }
+  ]
+}
