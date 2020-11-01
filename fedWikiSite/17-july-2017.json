@@ -1,0 +1,71 @@
+{
+  "title": "17 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1d2f3a53b7aea569",
+      "text": "The previous best weekend of my life was sailing in the British Virgin Islands last winter, maybe."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c2d821081fc4b42",
+      "text": "I got to see Caroline Goulding play under Domo and then a transformational concert in the Music Barn. That was topped off with incredible horseback riding and conversation on Sunday. Today I am reeling from sickness that has not abated - but certainly not strep throat (yay)."
+    },
+    {
+      "type": "paragraph",
+      "id": "66aeb6449b5d60a3",
+      "text": "Elissa and Jimmy are here, and they are awesome!!!!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "17 July 2017",
+        "story": []
+      },
+      "date": 1500325019528
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d2f3a53b7aea569"
+      },
+      "id": "1d2f3a53b7aea569",
+      "type": "add",
+      "date": 1500325020526
+    },
+    {
+      "type": "edit",
+      "id": "1d2f3a53b7aea569",
+      "item": {
+        "type": "paragraph",
+        "id": "1d2f3a53b7aea569",
+        "text": "The previous best weekend of my life was sailing in the British Virgin Islands last winter, maybe."
+      },
+      "date": 1500325064159
+    },
+    {
+      "type": "add",
+      "id": "3c2d821081fc4b42",
+      "item": {
+        "type": "paragraph",
+        "id": "3c2d821081fc4b42",
+        "text": "I got to see Caroline Goulding play under Domo and then a transformational concert in the Music Barn. That was topped off with incredible horseback riding and conversation on Sunday. Today I am reeling from sickness that has not abated - but certainly not strep throat (yay)."
+      },
+      "after": "1d2f3a53b7aea569",
+      "date": 1500325141272
+    },
+    {
+      "type": "add",
+      "id": "66aeb6449b5d60a3",
+      "item": {
+        "type": "paragraph",
+        "id": "66aeb6449b5d60a3",
+        "text": "Elissa and Jimmy are here, and they are awesome!!!!"
+      },
+      "after": "3c2d821081fc4b42",
+      "date": 1500325155584
+    }
+  ]
+}
