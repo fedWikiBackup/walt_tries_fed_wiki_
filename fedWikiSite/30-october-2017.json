@@ -1,0 +1,59 @@
+{
+  "title": "30 October 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3511e69443f994f3",
+      "text": "At Charles De Gaulle airport on my way to Warsaw. With Kamila - visiting with her grandmother. Other attractions will be Day of the Dead, and the Zoo. Probably a little Vodka as well."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "30 October 2017",
+        "story": []
+      },
+      "date": 1509361099918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3511e69443f994f3"
+      },
+      "id": "3511e69443f994f3",
+      "type": "add",
+      "date": 1509361101227
+    },
+    {
+      "type": "edit",
+      "id": "3511e69443f994f3",
+      "item": {
+        "type": "paragraph",
+        "id": "3511e69443f994f3",
+        "text": "At Charles DeGaulle "
+      },
+      "date": 1509361114975
+    },
+    {
+      "type": "edit",
+      "id": "3511e69443f994f3",
+      "item": {
+        "type": "paragraph",
+        "id": "3511e69443f994f3",
+        "text": "At Charles De Gaulle "
+      },
+      "date": 1509361122785
+    },
+    {
+      "type": "edit",
+      "id": "3511e69443f994f3",
+      "item": {
+        "type": "paragraph",
+        "id": "3511e69443f994f3",
+        "text": "At Charles De Gaulle airport on my way to Warsaw. With Kamila - visiting with her grandmother. Other attractions will be Day of the Dead, and the Zoo. Probably a little Vodka as well."
+      },
+      "date": 1509361195963
+    }
+  ]
+}
