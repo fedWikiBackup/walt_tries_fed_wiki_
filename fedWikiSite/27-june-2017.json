@@ -1,0 +1,65 @@
+{
+  "title": "27 June 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d71cd485e1342365",
+      "text": "The Albany state square is a really cool place. There are several of Alexander Calder's works. The Egg is a really interesting building - the whole modern complex was done surprisingly well. Really appreciate the hard work New York stands for. They are all up-starts, as am I. I don't mind."
+    },
+    {
+      "type": "paragraph",
+      "id": "c764c6e34cb29890",
+      "text": "Sending Tom an email re our technology policy, and I am debating how honest I will be. He is not a tech person - and the tools we use are our competitive advantage. It is silly to tie one hand behind out back - perhaps he revels in such handicapping. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 June 2017",
+        "story": []
+      },
+      "date": 1498568263942
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d71cd485e1342365"
+      },
+      "id": "d71cd485e1342365",
+      "type": "add",
+      "date": 1498568265140
+    },
+    {
+      "type": "edit",
+      "id": "d71cd485e1342365",
+      "item": {
+        "type": "paragraph",
+        "id": "d71cd485e1342365",
+        "text": "The Albany "
+      },
+      "date": 1498568274893
+    },
+    {
+      "type": "edit",
+      "id": "d71cd485e1342365",
+      "item": {
+        "type": "paragraph",
+        "id": "d71cd485e1342365",
+        "text": "The Albany state square is a really cool place. There are several of Alexander Calder's works. The Egg is a really interesting building - the whole modern complex was done surprisingly well. Really appreciate the hard work New York stands for. They are all up-starts, as am I. I don't mind."
+      },
+      "date": 1498568413594
+    },
+    {
+      "type": "add",
+      "id": "c764c6e34cb29890",
+      "item": {
+        "type": "paragraph",
+        "id": "c764c6e34cb29890",
+        "text": "Sending Tom an email re our technology policy, and I am debating how honest I will be. He is not a tech person - and the tools we use are our competitive advantage. It is silly to tie one hand behind out back - perhaps he revels in such handicapping. "
+      },
+      "after": "d71cd485e1342365",
+      "date": 1498568529927
+    }
+  ]
+}
