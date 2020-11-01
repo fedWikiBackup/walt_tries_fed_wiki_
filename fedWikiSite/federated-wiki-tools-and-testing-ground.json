@@ -1,0 +1,227 @@
+{
+  "title": "Federated Wiki Tools and Testing Ground",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "32c058073b11aa9e",
+      "text": "[[Conversations with Ward]] is a development site."
+    },
+    {
+      "type": "paragraph",
+      "id": "37af73cd9ec241f4",
+      "text": "Open [[Local Changes]] to see changes made on your local computer."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "Open [[Recent Changes]] to see the history of the creation of this social library. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d0869779e8063b4b",
+      "text": "Open [[Frequent Changes]] to see the most frequently forked pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "133f1316f58a7435",
+      "text": "Open [[How to Wiki]] to create your own Federated Wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "eac946eb6a88cb4d",
+      "text": "[[Test Page]] of plugins. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e8a9936646546104",
+      "text": "[[Trash]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9dcda04e8a734cf0",
+      "text": "[[Fedwiki Tools]] is David Bovil's hub for transporters."
+    },
+    {
+      "type": "transport",
+      "id": "10ea2af363e51a5f",
+      "text": "POST https://rest.livecode.world/mediawiki"
+    },
+    {
+      "type": "roster",
+      "id": "b521cea96a1b1049",
+      "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\nkamila.tries.fed.wiki\nwiki.parliamentofthings.org\n\nWard's future page and library page\n\nward.asia.wiki.org\nward.bay.wiki.org"
+    },
+    {
+      "type": "factory",
+      "id": "788bb6d1bef8c516"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki Tools and Testing Ground",
+        "story": []
+      },
+      "date": 1502070481064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "788bb6d1bef8c516"
+      },
+      "id": "788bb6d1bef8c516",
+      "type": "add",
+      "date": 1502070481879
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]] of plugins."
+      },
+      "id": "eac946eb6a88cb4d",
+      "date": 1502070483617
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9dcda04e8a734cf0",
+        "text": "[[Fedwiki Tools]] is David Bovil's hub for transporters."
+      },
+      "id": "9dcda04e8a734cf0",
+      "date": 1502070486423
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "133f1316f58a7435",
+        "text": "Open [[How to Wiki]] to create your own Federated Wiki."
+      },
+      "id": "133f1316f58a7435",
+      "date": 1502070495837
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Open [[Recent Changes]] to see the history of the creation of this social library. "
+      },
+      "id": "ee416d431ebf4fb4",
+      "date": 1502070503626
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "37af73cd9ec241f4",
+        "text": "Open [[Local Changes]] to see changes made on your local computer."
+      },
+      "id": "37af73cd9ec241f4",
+      "date": 1502070505587
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d0869779e8063b4b",
+        "text": "Open [[Frequent Changes]] to see the most frequently forked pages."
+      },
+      "after": "ee416d431ebf4fb4",
+      "id": "d0869779e8063b4b",
+      "date": 1502070509186
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "32c058073b11aa9e",
+        "text": "[[Conversations with Ward]] is a development site."
+      },
+      "id": "32c058073b11aa9e",
+      "date": 1502070514156
+    },
+    {
+      "type": "move",
+      "order": [
+        "32c058073b11aa9e",
+        "37af73cd9ec241f4",
+        "ee416d431ebf4fb4",
+        "d0869779e8063b4b",
+        "133f1316f58a7435",
+        "eac946eb6a88cb4d",
+        "9dcda04e8a734cf0",
+        "788bb6d1bef8c516"
+      ],
+      "id": "9dcda04e8a734cf0",
+      "date": 1502070515898
+    },
+    {
+      "type": "add",
+      "id": "e8a9936646546104",
+      "item": {
+        "type": "paragraph",
+        "id": "e8a9936646546104",
+        "text": "[[Trash]]"
+      },
+      "after": "eac946eb6a88cb4d",
+      "date": 1502070548901
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "b521cea96a1b1049",
+        "text": "Study Group\n\nwalt.tries.fed.wiki\nward.walt.tries.fed.wiki\nkamila.tries.fed.wiki\nwiki.parliamentofthings.org\n\nWard's future page and library page\n\nward.asia.wiki.org\nward.bay.wiki.org"
+      },
+      "after": "9dcda04e8a734cf0",
+      "id": "b521cea96a1b1049",
+      "date": 1502071739969
+    },
+    {
+      "type": "edit",
+      "id": "eac946eb6a88cb4d",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]] of plugins. [[dreams and to dos]]"
+      },
+      "date": 1502079893460
+    },
+    {
+      "type": "edit",
+      "id": "eac946eb6a88cb4d",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]] of plugins. [[dreams and todos]]"
+      },
+      "date": 1502079926093
+    },
+    {
+      "type": "edit",
+      "id": "eac946eb6a88cb4d",
+      "item": {
+        "type": "paragraph",
+        "id": "eac946eb6a88cb4d",
+        "text": "[[Test Page]] of plugins. "
+      },
+      "date": 1502079933956
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "transport",
+        "id": "10ea2af363e51a5f",
+        "text": "POST https://rest.livecode.world/mediawiki"
+      },
+      "after": "9dcda04e8a734cf0",
+      "id": "10ea2af363e51a5f",
+      "date": 1502091692771
+    }
+  ]
+}
