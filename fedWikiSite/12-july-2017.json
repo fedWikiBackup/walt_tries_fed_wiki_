@@ -1,0 +1,49 @@
+{
+  "title": "12 July 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9dbeebaa4065991f",
+      "text": "Visited Tippet on Monday night to see old friends. THen again this morning picked up a friend to show around the valley. Was a good day. I really do not love the battle of being a litigator - at least not yet. It is very stressful, and with no wins under my belt, I am anxious to see the fruits of my labor."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 July 2017",
+        "story": []
+      },
+      "date": 1499892199939
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9dbeebaa4065991f"
+      },
+      "id": "9dbeebaa4065991f",
+      "type": "add",
+      "date": 1499892200838
+    },
+    {
+      "type": "edit",
+      "id": "9dbeebaa4065991f",
+      "item": {
+        "type": "paragraph",
+        "id": "9dbeebaa4065991f",
+        "text": "Visited Tippet on Monday night to see old friends. THen again this morning picked up a friend to show around the valley. Was a good day. I really do not love the battle of being a litigator - at least not yet. It is very sterssful, and with no wins under my belt, I am anxious to "
+      },
+      "date": 1499892270324
+    },
+    {
+      "type": "edit",
+      "id": "9dbeebaa4065991f",
+      "item": {
+        "type": "paragraph",
+        "id": "9dbeebaa4065991f",
+        "text": "Visited Tippet on Monday night to see old friends. THen again this morning picked up a friend to show around the valley. Was a good day. I really do not love the battle of being a litigator - at least not yet. It is very stressful, and with no wins under my belt, I am anxious to see the fruits of my labor."
+      },
+      "date": 1499892283985
+    }
+  ]
+}
