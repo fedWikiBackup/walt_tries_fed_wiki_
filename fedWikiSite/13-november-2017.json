@@ -1,0 +1,39 @@
+{
+  "title": "13 November 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "63f33d62a61d505e",
+      "text": "I wrecked Tess last Thursday. Ice plus lack of signage and not enough caution equals ditch and barbed wire fence. Shooting star reminds me to slow down, work hard, and find the joy in play. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 November 2017",
+        "story": []
+      },
+      "date": 1510589284058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63f33d62a61d505e"
+      },
+      "id": "63f33d62a61d505e",
+      "type": "add",
+      "date": 1510589285073
+    },
+    {
+      "type": "edit",
+      "id": "63f33d62a61d505e",
+      "item": {
+        "type": "paragraph",
+        "id": "63f33d62a61d505e",
+        "text": "I wrecked Tess last Thursday. Ice plus lack of signage and not enough caution equals ditch and barbed wire fence. Shooting star reminds me to slow down, work hard, and find the joy in play. "
+      },
+      "date": 1510589374499
+    }
+  ]
+}
