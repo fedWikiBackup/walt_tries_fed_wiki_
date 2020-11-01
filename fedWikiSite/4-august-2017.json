@@ -1,0 +1,71 @@
+{
+  "title": "4 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6fa5326d3fa5d110",
+      "text": "I got an early start today and was able to meditate. A rewarding experience. My throat still has a tickle and I should probably visit a doctor - but I am not going to. "
+    },
+    {
+      "type": "paragraph",
+      "id": "700815ab81f90cd8",
+      "text": "I am watching Adelaide and Alexandra for the first time solo tonight. Very exciting. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3b7508cd1ef15f82",
+      "text": "Listening to more of Scale - I think the book may be as important as Huxley or Darwin's work on evolution. Fundamental scaling laws in nature will come to define the future, I think."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "4 August 2017",
+        "story": []
+      },
+      "date": 1501858009056
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fa5326d3fa5d110"
+      },
+      "id": "6fa5326d3fa5d110",
+      "type": "add",
+      "date": 1501858010002
+    },
+    {
+      "type": "edit",
+      "id": "6fa5326d3fa5d110",
+      "item": {
+        "type": "paragraph",
+        "id": "6fa5326d3fa5d110",
+        "text": "I got an early start today and was able to meditate. A rewarding experience. My throat still has a tickle and I should probably visit a doctor - but I am not going to. "
+      },
+      "date": 1501858053836
+    },
+    {
+      "type": "add",
+      "id": "700815ab81f90cd8",
+      "item": {
+        "type": "paragraph",
+        "id": "700815ab81f90cd8",
+        "text": "I am watching Adelaide and Alexandra for the first time solo tonight. Very exciting. "
+      },
+      "after": "6fa5326d3fa5d110",
+      "date": 1501858077917
+    },
+    {
+      "type": "add",
+      "id": "3b7508cd1ef15f82",
+      "item": {
+        "type": "paragraph",
+        "id": "3b7508cd1ef15f82",
+        "text": "Listening to more of Scale - I think the book may be as important as Huxley or Darwin's work on evolution. Fundamental scaling laws in nature will come to define the future, I think."
+      },
+      "after": "700815ab81f90cd8",
+      "date": 1501858123169
+    }
+  ]
+}
