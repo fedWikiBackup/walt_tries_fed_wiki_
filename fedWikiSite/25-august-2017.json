@@ -1,0 +1,39 @@
+{
+  "title": "25 August 2017",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8d20fd0ad48e4ee7",
+      "text": "Writing a 10,000 word brief instead of a document that could change the future of our world. Hopefully, the pressure helps me. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "25 August 2017",
+        "story": []
+      },
+      "date": 1503701762416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d20fd0ad48e4ee7"
+      },
+      "id": "8d20fd0ad48e4ee7",
+      "type": "add",
+      "date": 1503701763541
+    },
+    {
+      "type": "edit",
+      "id": "8d20fd0ad48e4ee7",
+      "item": {
+        "type": "paragraph",
+        "id": "8d20fd0ad48e4ee7",
+        "text": "Writing a 10,000 word brief instead of a document that could change the future of our world. Hopefully, the pressure helps me. "
+      },
+      "date": 1503701798474
+    }
+  ]
+}
