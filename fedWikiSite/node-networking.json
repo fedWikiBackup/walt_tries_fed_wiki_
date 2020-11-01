@@ -1,0 +1,69 @@
+{
+  "title": "Node (networking)",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Node (networking)"
+      },
+      "date": 1502090271685,
+      "source": {
+        "pageTitle": "Node (networking)",
+        "pageSlug": "Node_(networking)",
+        "url": "https://en.wikipedia.org/wiki/Node_(networking)",
+        "date": 1502090271685,
+        "link_dictionary": {
+          "wiki_links": {
+            "Computer network nodes": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            },
+            "See also": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Telecommunication network nodes": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "References": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "Distributed system nodes": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 791480113,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1502090274723
+    },
+    {
+      "type": "remove",
+      "id": "6165830f-7390-41ed-a193-5b5c7b296544",
+      "date": 1502090282261
+    },
+    {
+      "type": "remove",
+      "id": "bab84a8c-6205-4add-9db2-2f6464cb1e4b",
+      "date": 1502090285334
+    }
+  ],
+  "story": []
+}
