@@ -1,0 +1,372 @@
+{
+  "title": "The Solution",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "026cf0d4f9dc318a",
+      "text": "This is the plan to get from 1000 users to 4 billion."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a88e85b88e1421b",
+      "text": "1) Develop plugin that drains text from any news article and displays it on the selecting users' federated wiki page."
+    },
+    {
+      "type": "paragraph",
+      "id": "c40248a840dcb185",
+      "text": "2) Develop plugin that allows a user to link comments to specific areas of text."
+    },
+    {
+      "type": "paragraph",
+      "id": "1230aa908d5b1d3b",
+      "text": "3) Develop plugin that allows links to fed wiki pages, on comment sections of blogs and news sources, to display the beginnings of commentary summaries."
+    },
+    {
+      "type": "paragraph",
+      "id": "2c62faa53acda659",
+      "text": "4) Make user onboarding sealmess."
+    },
+    {
+      "type": "paragraph",
+      "id": "b26cee2988e5c855",
+      "text": "5) Require disclosure of identity for users."
+    },
+    {
+      "type": "paragraph",
+      "id": "23c26162a9a9a0e8",
+      "text": "6) Require two \"neighbors\" to approve \"public\" posts. {subject to debate}"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee362c9766fdd919",
+      "text": "7) Develop plugin for commenting on comments and more user interaction - fed wiki "
+    },
+    {
+      "type": "paragraph",
+      "id": "4271fa1e8674f45b",
+      "text": "8) Hostile takeover of first corporation using fed wiki."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Solution",
+        "story": []
+      },
+      "date": 1488173672745,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "026cf0d4f9dc318a"
+      },
+      "id": "026cf0d4f9dc318a",
+      "type": "add",
+      "date": 1488173675178,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "026cf0d4f9dc318a",
+      "item": {
+        "type": "paragraph",
+        "id": "026cf0d4f9dc318a",
+        "text": "This is the plan to get from 10 users to 4 billion."
+      },
+      "date": 1488173770201,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "5a88e85b88e1421b",
+      "item": {
+        "type": "paragraph",
+        "id": "5a88e85b88e1421b",
+        "text": "1) Develop plugin that drains text from any news article and displays it on the selecting users' federated wiki page"
+      },
+      "after": "026cf0d4f9dc318a",
+      "date": 1488173818086,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "5a88e85b88e1421b",
+      "item": {
+        "type": "paragraph",
+        "id": "5a88e85b88e1421b",
+        "text": "1) Develop plugin that drains text from any news article and displays it on the selecting users' federated wiki page."
+      },
+      "date": 1488173876225,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "c40248a840dcb185",
+      "item": {
+        "type": "paragraph",
+        "id": "c40248a840dcb185",
+        "text": "2) Develop plugin that allows a user to link comments to specific areas of text."
+      },
+      "after": "5a88e85b88e1421b",
+      "date": 1488173907705,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "1230aa908d5b1d3b",
+      "item": {
+        "type": "paragraph",
+        "id": "1230aa908d5b1d3b",
+        "text": "3) Develop plugin that "
+      },
+      "after": "c40248a840dcb185",
+      "date": 1488173919595,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1230aa908d5b1d3b",
+      "item": {
+        "type": "paragraph",
+        "id": "1230aa908d5b1d3b",
+        "text": "3) Develop plugin that allows links (to fed wiki pages) on comment sections of most major news sources to display beginning of commentary summary."
+      },
+      "date": 1488174087296,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "9a77d36b033c3757",
+      "item": {
+        "type": "paragraph",
+        "id": "9a77d36b033c3757",
+        "text": "4) "
+      },
+      "after": "1230aa908d5b1d3b",
+      "date": 1488174099822,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1230aa908d5b1d3b",
+      "item": {
+        "type": "paragraph",
+        "id": "1230aa908d5b1d3b",
+        "text": "3) Develop plugin that allows links to fed wiki pages, on comment sections of most major news sources, to display the beginnings of commentary summaries."
+      },
+      "date": 1488174128128,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "2c62faa53acda659",
+      "item": {
+        "type": "paragraph",
+        "id": "2c62faa53acda659",
+        "text": "4) Make user onboarding sealmess."
+      },
+      "after": "1230aa908d5b1d3b",
+      "date": 1488174138736,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "b26cee2988e5c855",
+      "item": {
+        "type": "paragraph",
+        "id": "b26cee2988e5c855",
+        "text": "5) Require disclosure of identity for users."
+      },
+      "after": "2c62faa53acda659",
+      "date": 1488174168933,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "23c26162a9a9a0e8",
+      "item": {
+        "type": "paragraph",
+        "id": "23c26162a9a9a0e8",
+        "text": "6) 0"
+      },
+      "after": "b26cee2988e5c855",
+      "date": 1488174189459,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "026cf0d4f9dc318a",
+      "item": {
+        "type": "paragraph",
+        "id": "026cf0d4f9dc318a",
+        "text": "This is the plan to get from 1000 users to 4 billion."
+      },
+      "date": 1488174192662,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "23c26162a9a9a0e8",
+      "item": {
+        "type": "paragraph",
+        "id": "23c26162a9a9a0e8",
+        "text": "6) Require two friends to approve \"public\" posts."
+      },
+      "date": 1488174220237,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "23c26162a9a9a0e8",
+      "item": {
+        "type": "paragraph",
+        "id": "23c26162a9a9a0e8",
+        "text": "6) Require two \"neighbors\" to approve \"public\" posts."
+      },
+      "date": 1488174238482,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "ee362c9766fdd919",
+      "item": {
+        "type": "paragraph",
+        "id": "ee362c9766fdd919",
+        "text": "7) Develop plugin for commenting on comments."
+      },
+      "after": "23c26162a9a9a0e8",
+      "date": 1488174260075,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ee362c9766fdd919",
+      "item": {
+        "type": "paragraph",
+        "id": "ee362c9766fdd919",
+        "text": "7) Develop plugin for commenting on comments and more user interaction - fed wiki "
+      },
+      "date": 1488174286127,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1230aa908d5b1d3b",
+      "item": {
+        "type": "paragraph",
+        "id": "1230aa908d5b1d3b",
+        "text": "3) Develop plugin that allows links to fed wiki pages, on comment sections of blogs and news sources, to display the beginnings of commentary summaries."
+      },
+      "date": 1488263607901,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1488307224009
+    },
+    {
+      "type": "edit",
+      "id": "23c26162a9a9a0e8",
+      "item": {
+        "type": "paragraph",
+        "id": "23c26162a9a9a0e8",
+        "text": "6) Require two \"neighbors\" to approve \"public\" posts. {subject to debate}"
+      },
+      "date": 1488897916377
+    },
+    {
+      "type": "remove",
+      "id": "9a77d36b033c3757",
+      "date": 1488897928258
+    },
+    {
+      "type": "add",
+      "id": "4271fa1e8674f45b",
+      "item": {
+        "type": "paragraph",
+        "id": "4271fa1e8674f45b",
+        "text": "8) Hostile takeover of first corporation using fed wiki."
+      },
+      "after": "ee362c9766fdd919",
+      "date": 1488898856543
+    }
+  ]
+}
